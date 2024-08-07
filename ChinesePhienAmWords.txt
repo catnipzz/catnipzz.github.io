@@ -39,7 +39,7 @@
 向=hướng
 变=biến
 成=thành
-的-đích
+的=
 和=hòa
 黄=hoàng
 脸=kiểm
@@ -74,7 +74,7 @@
 忙=mang
 问=vấn
 为=vi
-了-liễu
+了=
 把=bả
 握=ác
 形=hình
@@ -100,7 +100,7 @@
 命=mệnh
 于=vu
 上=thượng
-著-trứ
+著=
 安=an
 排=bài
 潜=tiềm
