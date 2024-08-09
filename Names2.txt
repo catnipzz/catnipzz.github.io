@@ -7,12 +7,14 @@
 滋=phốc
 扑滋=phốc
 扑滋-bạch bạch
+呢=nha
 
 手掌=bàn tay
 移开=rời ra
 嘴巴=miệng
 移开嘴巴=rời ra khỏi miệng 
-可=thực sự
+可=thực 
+可怜兮兮=vô cùng đáng thương
 吓坏=doạ sợ
 她了=nàng rồi
 不出=không ngoài
