@@ -1,8 +1,33 @@
 前戏=màn dạo đầu
 嗯=ừm
-梦莹=Mộng Oánh
 抽插=cắm rút
-扑滋=bạch bạch
 噼啪=pách pách
 唔=ưm
 呀呀呀=ah ah ah
+滋=phốc
+扑滋=phốc
+扑滋-bạch bạch
+
+手掌=bàn tay
+移开=rời ra
+嘴巴=miệng
+移开嘴巴=rời ra khỏi miệng 
+可=thực sự
+吓坏=doạ sợ
+她了=nàng rồi
+不出=không ngoài
+蚊香=dương cụ
+在家里=ở nhà
+慢慢点=chậm rãi nha
+随着=theo đó
+就=lập tức
+听见=nghe thấy
+紧跟着=ngay sau đó
+正=đang
+以最快的速度=bằng tốc độ nhanh nhất
+
+
+金洁=Kim Khiết
+梦莹=Mộng Oánh
+小莹=Tiểu Oánh
+俊凯=Tuấn Khải
