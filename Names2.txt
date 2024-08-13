@@ -8,6 +8,9 @@
 扑滋=phốc
 扑滋-bạch bạch
 呢=nha
+喂=Uy
+说=nói
+道=nói
 
 手掌=bàn tay
 移开=rời ra
@@ -27,9 +30,13 @@
 紧跟着=ngay sau đó
 正=đang
 以最快的速度=bằng tốc độ nhanh nhất
+将潮未潮=chưa đạt đến cực khoái
 
 
 金洁=Kim Khiết
 梦莹=Mộng Oánh
 小莹=Tiểu Oánh
 俊凯=Tuấn Khải
+楚=Sở
+雨航=Vũ Hàng
+雨熙=Vũ Hi
