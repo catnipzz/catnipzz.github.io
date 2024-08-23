@@ -48,3 +48,4 @@
 
 楚雨瑛=Sở Vũ Anh
 艳艳=Diễm Diễm
+一般=bình thường
