@@ -60,3 +60,5 @@
 金大器=Kim Đại Khí
 白染=Bạch Nhiễm
 白染染=Bạch Nhiễm Nhiễm
+
+过下=thỏa mãn chút
