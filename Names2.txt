@@ -66,3 +66,4 @@
 就=liền
 就=liền/lập tức
 给我放下=buông xuống cho ta
+气乎乎=tức giận
