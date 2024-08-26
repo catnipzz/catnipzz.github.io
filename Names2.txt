@@ -90,3 +90,4 @@
 瞎说什么=nói lung tung cái gì
 收到了=đã thu được 
 发生了=đã phát sinh 
+说到了=đã nói đến
