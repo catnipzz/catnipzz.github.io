@@ -92,3 +92,4 @@
 发生了=đã phát sinh 
 说到了=đã nói đến
 看了=vừa nhìn
+信息过去=tin tức phản hồi
