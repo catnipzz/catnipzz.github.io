@@ -95,3 +95,5 @@
 信息过去=tin tức phản hồi
 回信息=nhanh chóng hồi âm
 信息=tin nhắn
+
+就=liền
