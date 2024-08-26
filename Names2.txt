@@ -26,7 +26,6 @@
 在家里=ở nhà
 慢慢点=chậm rãi nha
 随着=theo đó
-就=lập tức
 听见=nghe thấy
 紧跟着=ngay sau đó
 正=đang
@@ -64,8 +63,7 @@
 过下=thỏa mãn chút
 解少=giảm bớt
 为了=chính vì
-就=liền
-就=liền/lập tức
+
 给我放下=buông xuống cho ta
 气乎乎=giận dỗi
 不用=không cần
