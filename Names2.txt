@@ -72,3 +72,5 @@
 横了=liếc nhìn
 碰鼻子=tự gây rắc rối 
 王丹=Vương Đan
+
+张新达=Trương Tân Đạt
