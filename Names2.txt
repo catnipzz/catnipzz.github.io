@@ -103,3 +103,6 @@
 过了=trải qua
 发信息过去=gửi tin tức qua
 被罩杯=cúp áo vú
+
+
+罩杯里面=trong áo vú
