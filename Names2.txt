@@ -98,3 +98,4 @@
 
 就=liền
 信息过去=gửi tin tức qua
+还回味=dư vị
