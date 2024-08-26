@@ -97,3 +97,4 @@
 信息=tin nhắn
 
 就=liền
+信息过去=gửi tin tức qua
