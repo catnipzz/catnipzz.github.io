@@ -88,3 +88,4 @@
 道破=vạch trần
 
 瞎说什么=nói lung tung cái gì
+收到了=đã thu được 
