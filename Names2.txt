@@ -88,19 +88,22 @@
 发生了=đã phát sinh 
 说到了=đã nói đến
 看了=vừa nhìn
-回信息=trả lời tin nhắn
-信息过去=tin nhắn qua
+信息过去=tin tức phản hồi
+回信息=nhanh chóng hồi âm
 信息=tin nhắn
 
 就=liền
+信息过去=gửi tin tức qua
 还回味=dư vị
 
 过了=trải qua
-发信息过去=phát tin tức qua
+发信息过去=gửi tin tức qua
 被罩杯=cúp áo vú
 
 
 罩杯里面=trong áo vú
 拧出水=vắt ra nước
+道道=tuyến đường/nói nói
+晾乾=phơi khô/phơi càn
 道道=đạo/con đường/nói nói/tuyến đường
 装法=trang pháp/cách lắp đặt
