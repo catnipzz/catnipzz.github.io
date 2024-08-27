@@ -1,3 +1,26 @@
+金洁=Kim Khiết
+梦莹=Mộng Oánh
+小莹=Tiểu Oánh
+俊凯=Tuấn Khải
+楚=Sở
+雨航=Vũ Hàng
+雨熙=Vũ Hi
+小莹=Tiểu Oánh
+赵安=Triệu An
+楚雨瑛=Sở Vũ Anh
+艳艳=Diễm Diễm
+温婷=Ôn Đình
+俊凯=Tuấn Khải
+温岚=Ôn Lam
+染染=Nhiễm Nhiễm
+白律师=Bạch luật sư
+金大器=Kim Đại Khí
+白染=Bạch Nhiễm
+白染染=Bạch Nhiễm Nhiễm
+王丹=Vương Đan
+张新达=Trương Tân Đạt
+
+
 前戏=màn dạo đầu
 嗯=ừm
 抽插=cắm rút
@@ -33,32 +56,10 @@
 将潮未潮=chưa đạt đến cực khoái
 蕾丝=ren hoa
 
-
-金洁=Kim Khiết
-梦莹=Mộng Oánh
-小莹=Tiểu Oánh
-俊凯=Tuấn Khải
-楚=Sở
-雨航=Vũ Hàng
-雨熙=Vũ Hi
-
-小莹=Tiểu Oánh
-赵安=Triệu An
-
-楚雨瑛=Sở Vũ Anh
-艳艳=Diễm Diễm
 一般=bình thường
-温婷=Ôn Đình
-俊凯=Tuấn Khải
-温岚=Ôn Lam
 老脸=mặt già
 俩=hai người
 屁沟=khe mông
-染染=Nhiễm Nhiễm
-白律师=Bạch luật sư
-金大器=Kim Đại Khí
-白染=Bạch Nhiễm
-白染染=Bạch Nhiễm Nhiễm
 
 过下=thỏa mãn chút
 解少=giảm bớt
@@ -69,19 +70,14 @@
 不用=không cần
 横了=liếc nhìn
 碰鼻子=tự gây rắc rối 
-王丹=Vương Đan
-
-张新达=Trương Tân Đạt
 不务正业=không làm việc đàng hoàng
 给你=cho ngươi
-了=rồi
 脸都黑=mặt đều đen
 你知道=ngươi biết
 有点=có chút
 出息=tiền đồ
 份工作=một công việc
 一声不吭=không nói một lời
-过了=trải nghiệm
 考虑了=đã cân nhắc
 有些道理道=có chút đạo lý
 道理=đạo lý
@@ -92,16 +88,15 @@
 发生了=đã phát sinh 
 说到了=đã nói đến
 看了=vừa nhìn
-信息过去=tin tức phản hồi
-回信息=nhanh chóng hồi âm
+回信息=trả lời tin nhắn
+信息过去=tin nhắn qua
 信息=tin nhắn
 
 就=liền
-信息过去=gửi tin tức qua
 还回味=dư vị
 
 过了=trải qua
-发信息过去=gửi tin tức qua
+发信息过去=phát tin tức qua
 被罩杯=cúp áo vú
 
 
