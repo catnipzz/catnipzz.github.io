@@ -33,7 +33,7 @@
 呢=nha
 喂=Uy
 说=nói
-道=nói
+道=đạo
 
 
 手掌=bàn tay
@@ -102,3 +102,5 @@
 
 罩杯里面=trong áo vú
 拧出水=vắt ra nước
+道道=đạo/con đường/nói nói/tuyến đường
+装法=trang pháp/cách lắp đặt
