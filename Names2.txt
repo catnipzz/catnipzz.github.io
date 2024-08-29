@@ -103,8 +103,6 @@
 过了=trải qua
 发信息过去=gửi tin tức qua
 被罩杯=cúp áo vú
-
-
 罩杯里面=trong áo vú
 拧出水=vắt ra nước
 道道=tuyến đường/nói nói
@@ -113,17 +111,11 @@
 装法=trang pháp/cách lắp đặt
 有一声无一声=tiếng có tiếng không
 自笑了一下=từ từ nở nụ cười
-
 就是=chính là/liền là
 校花=hoa khôi trường/giáo hoa
-
 水蛇腰=thân hình như rắn nước/thân hình như thủy xà
-
 但是=tuy nhiên/nhưng là
-
-
 不为所动=không bị lay chuyển/bất vi sở động
-
 在办公室里=ở trong văn phòng
 紧要关=thời khắc then chốt/khẩn yếu quan/thời điểm quan trọng
 时侯=thời điểm/lúc
@@ -133,13 +125,8 @@
 点了=nhấn vào/điểm vào
 搜索=tìm kiếm/lục soát
 做了一次=làm một lần rồi
-
 给给=gửi cho/gửi gửi/cho cho
-
 一会后=sau đó/sau khi
-
-
-
 过去了=đi qua rồi/quá khứ rồi
 拖着=trì hoãn/ kéo dài/kéo lấy
 回过来=phản hồi/trả lời
