@@ -1,3 +1,6 @@
+刘洪海=Lưu Hồng Hải
+刘馨芸=Lưu Hinh Vân
+刘淑柔=Lưu Thục Nhu
 金洁=Kim Khiết
 梦莹=Mộng Oánh
 小莹=Tiểu Oánh
@@ -110,9 +113,8 @@
 装法=trang pháp/cách lắp đặt
 有一声无一声=tiếng có tiếng không
 自笑了一下=từ từ nở nụ cười
-刘洪海=Lưu Hồng Hải
-刘馨芸=Lưu Hinh Vân
-刘淑柔=Lưu Thục Nhu
 
 就是=chính là
 校花=hoa khôi trường/giáo hoa
+
+水蛇腰=thân hình như rắn nước/thân hình như thủy xà
