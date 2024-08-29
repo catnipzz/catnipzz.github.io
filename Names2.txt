@@ -133,3 +133,4 @@
 输入了=nhập vào/thâu nhập
 
 点了=nhấn vào/điểm vào
+搜索=tìm kiếm/lục soát
