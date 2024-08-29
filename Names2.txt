@@ -106,7 +106,7 @@
 拧出水=vắt ra nước
 道道=tuyến đường/nói nói
 晾乾=phơi khô/phơi càn
-道道=đạo/con đường/nói nói/tuyến đường
+道道=con đường/đạo/nói nói/tuyến đường
 装法=trang pháp/cách lắp đặt
 有一声无一声=tiếng có tiếng không
 自笑了一下=từ từ nở nụ cười
