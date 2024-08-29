@@ -135,3 +135,5 @@
 做了一次=làm một lần rồi
 
 给给=gửi cho/gửi gửi/cho cho
+
+一会后=sau đó/sau khi
