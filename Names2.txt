@@ -113,3 +113,6 @@
 刘洪海=Lưu Hồng Hải
 刘馨芸=Lưu Hinh Vân
 刘淑柔=Lưu Thục Nhu
+
+就是=chính là
+校花=hoa khôi trường/giáo hoa
