@@ -129,3 +129,8 @@
 时侯=thời điểm/lúc
 和自己=cùng mình
 做爱情运动=quan hệ/làm chuyện ấy/làm tình yêu vận động
+
+输入了=nhập vào/thâu nhập
+
+点了=nhấn vào/điểm vào
+搜索=tìm kiếm/lục soát
