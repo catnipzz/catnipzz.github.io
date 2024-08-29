@@ -139,3 +139,4 @@
 单位上=ở cơ quan
 父亲的病根=căn nguyên bệnh của phụ thân 
 羞涩涩=ngại ngùng
+一到了=vừa về đến
