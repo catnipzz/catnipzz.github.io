@@ -120,3 +120,6 @@
 水蛇腰=thân hình như rắn nước/thân hình như thủy xà
 
 但是=tuy nhiên/nhưng là
+
+
+不为所动=không bị lay chuyển/bất vi sở động
