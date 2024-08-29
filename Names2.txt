@@ -118,3 +118,5 @@
 校花=hoa khôi trường/giáo hoa
 
 水蛇腰=thân hình như rắn nước/thân hình như thủy xà
+
+但是=tuy nhiên/nhưng là
