@@ -132,3 +132,5 @@
 回过来=phản hồi/trả lời
 说明=nói rõ
 不叫她生气=không khiến nàng sinh khí
+
+哄=dỗ/hống
