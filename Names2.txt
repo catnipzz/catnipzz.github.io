@@ -156,3 +156,5 @@
 转了过去=xoay lại
 扶正=chỉnh/phù chính
 
+扶正=vuốt chỉnh/phù chính
+
