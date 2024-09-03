@@ -158,3 +158,5 @@
 
 扶正=vuốt chỉnh/phù chính
 
+下嘴唇=miệng môi dưới/môi dưới/bờ môi
+
