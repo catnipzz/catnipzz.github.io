@@ -201,3 +201,4 @@ iphone=iphone
 梳理好发=chải vuốt tóc xong
 就象=tựa như
 身体=cơ thể
+性征=tính giới
