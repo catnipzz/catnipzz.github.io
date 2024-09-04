@@ -203,3 +203,4 @@ iphone=iphone
 身体=cơ thể
 性征=tính giới
 禽曽=gia súc
+该女儿=nữ nhi này
