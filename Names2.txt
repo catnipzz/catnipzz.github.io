@@ -182,3 +182,4 @@ iphone=iphone
 丢死人了=xấu hổ chết rồi
 紧=chặt/khít/gấp
 
+杨月玲=Dương Nguyệt Linh
