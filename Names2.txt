@@ -187,3 +187,4 @@ iphone=iphone
 刘伟男=Lưu Vĩ Nam
 紧张=khẩn trương/căng thằng/hồi hộp
 开阳台=mở ban công
+生活过日子=sinh hoạt qua ngày/sống qua ngày
