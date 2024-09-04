@@ -179,3 +179,4 @@ iphone=iphone
 腟=âm đạo
 腔=khoang/hốc
 
+丢死人了=xấu hổ chết rồi
