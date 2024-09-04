@@ -186,3 +186,4 @@ iphone=iphone
 杨雪兰=Dương Tuyết Lan
 刘伟男=Lưu Vĩ Nam
 紧张=khẩn trương/căng thằng/hồi hộp
+开阳台=mở ban công
