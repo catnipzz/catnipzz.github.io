@@ -177,3 +177,5 @@ iphone=iphone
 萧怡婷=Tiêu Di Đình
 腟腔=hốc âm đạo
 腟=âm đạo
+腔=khoang/hốc
+
