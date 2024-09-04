@@ -184,3 +184,4 @@ iphone=iphone
 
 杨月玲=Dương Nguyệt Linh
 杨雪兰=Dương Tuyết Lan
+刘伟男=Lưu Vĩ Nam
