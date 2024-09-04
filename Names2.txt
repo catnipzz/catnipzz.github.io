@@ -204,3 +204,4 @@ iphone=iphone
 性征=tính giới
 禽曽=gia súc
 该女儿=nữ nhi này
+可以=có thể
