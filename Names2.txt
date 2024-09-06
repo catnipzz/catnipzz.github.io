@@ -226,3 +226,5 @@ iphone=iphone
 
 
 上厨房=vào phòng bếp
+瞎说=nói lung tung/nói bậy/nói mò
+
