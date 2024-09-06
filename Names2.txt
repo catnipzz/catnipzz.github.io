@@ -228,3 +228,4 @@ iphone=iphone
 上厨房=vào phòng bếp
 瞎说=nói lung tung/nói bậy/nói mò
 
+发展下去=tiếp tục phát triển
