@@ -225,3 +225,4 @@ iphone=iphone
 不舍得=không nỡ/không bỏ được
 
 
+上厨房=vào phòng bếp
