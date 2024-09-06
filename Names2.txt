@@ -208,3 +208,5 @@ iphone=iphone
 则缂=thêu
 一般般=bình thường
 钟牛=Chung Ngưu
+换下来=thay đổi/thay ra
+
