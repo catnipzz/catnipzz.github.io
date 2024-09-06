@@ -219,3 +219,4 @@ iphone=iphone
 
 凉衣架=giá phơi quần áo
 小被褥=chăn nệm nhỏ
+凉晒=phơi khô
