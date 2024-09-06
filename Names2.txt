@@ -210,3 +210,5 @@ iphone=iphone
 钟牛=Chung Ngưu
 换下来=thay đổi/thay ra
 
+池里面=trong bể/trong hồ
+
