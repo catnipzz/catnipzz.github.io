@@ -229,3 +229,4 @@ iphone=iphone
 瞎说=nói lung tung/nói bậy/nói mò
 
 发展下去=tiếp tục phát triển
+好喝=dễ uống
