@@ -221,3 +221,4 @@ iphone=iphone
 小被褥=chăn nệm nhỏ
 凉晒=phơi khô
 厨房间=phòng bếp 
+里面=bên trong
