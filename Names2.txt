@@ -222,3 +222,6 @@ iphone=iphone
 凉晒=phơi khô
 厨房间=phòng bếp 
 里面=bên trong
+不舍得=không nỡ/không bỏ được
+
+
