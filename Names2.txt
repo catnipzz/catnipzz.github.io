@@ -215,3 +215,5 @@ iphone=iphone
 逃离似=như trốn chạy
 被褥=chăn nệm
 
+应着=đáp lại/ứng với
+
