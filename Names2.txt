@@ -213,3 +213,5 @@ iphone=iphone
 池里面=trong bể/trong hồ
 
 逃离似=như trốn chạy
+被褥=chăn nệm
+
