@@ -252,3 +252,5 @@ iphone=iphone
 乳房=bầu ngực/nhũ phòng
 
 就是了=là được rồi
+转过去=quay đi/quay lại/chuyển qua
+
