@@ -238,3 +238,5 @@ iphone=iphone
 喜吃什么就点什么=thích ăn gì liền gọi món đó
 体贴关心=chu đáo quan tâm 
 这么关心体贴=chu đáo như vậy quan tâm
+小俩口=vợ chồng trẻ/tân phu thê
+
