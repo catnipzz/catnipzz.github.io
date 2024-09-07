@@ -235,3 +235,4 @@ iphone=iphone
 给你们=cho các ngươi
 毛巾=khăn lông
 抱下去=ôm tiếp
+喜吃什么就点什么=thích ăn gì liền gọi món đó
