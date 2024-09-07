@@ -254,3 +254,6 @@ iphone=iphone
 就是了=là được rồi
 转过去=quay đi/quay lại/chuyển qua
 
+正面=mặt trước
+
+
