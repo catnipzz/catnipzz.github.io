@@ -260,3 +260,4 @@ iphone=iphone
 朝着=hướng về
 可怜巴巴=biểu cảm đáng thương
 最羞人=xấu hổ nhất
+身体上=trên cơ thể 
