@@ -257,3 +257,4 @@ iphone=iphone
 正面=mặt trước
 
 
+朝着=hướng về
