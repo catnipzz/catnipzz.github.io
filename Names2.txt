@@ -232,3 +232,4 @@ iphone=iphone
 好喝=dễ uống
 用得着你做呢=cần gì ngươi phải làm nha
 给你做=làm cho ngươi
+给你们=cho các ngươi
