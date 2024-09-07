@@ -245,3 +245,5 @@ iphone=iphone
 丢死人=mất mặt chết/xấu hổ chết
 走到=đi tới/di chuyển
 
+房门边=bên cạnh cửa phòng
+房门=cửa phòng
