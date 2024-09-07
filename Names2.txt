@@ -263,3 +263,4 @@ iphone=iphone
 身体上=trên cơ thể 
 眼鼻子底下=dưới mắt
 隐隐可见=mờ ảo hiện lên/mờ ảo có thể thấy
+缠缠绵绵=quấn quýt triền miên
