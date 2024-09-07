@@ -234,3 +234,4 @@ iphone=iphone
 给你做=làm cho ngươi
 给你们=cho các ngươi
 毛巾=khăn lông
+抱下去=ôm tiếp
