@@ -267,3 +267,4 @@ iphone=iphone
 整垮=sụp đổ
 整垮=hoàn toàn sụp đổ/cả đổ
 点了头= gật đầu
+点了头= gật đầu
