@@ -266,3 +266,4 @@ iphone=iphone
 缠缠绵绵=quấn quýt triền miên
 整垮=sụp đổ
 整垮=hoàn toàn sụp đổ/cả đổ
+点了头= gật đầu
