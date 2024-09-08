@@ -270,3 +270,5 @@ iphone=iphone
 点了头= gật đầu
 杨涛=Dương Đào
 
+杨涛=Dương 
+
