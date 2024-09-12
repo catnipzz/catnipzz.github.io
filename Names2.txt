@@ -267,11 +267,10 @@ iphone=iphone
 整垮=sụp đổ
 整垮=hoàn toàn sụp đổ/cả đổ
 点了头= gật đầu
-点了头= gật đầu
 杨涛=Dương Đào
 
 杨涛=Dương 
 
 狼一般的光=ánh sáng loài sói
 三月某天晚上=một đêm nào đó tháng ba
-老汉推车姿势进=tư thế lão hán đẩy xe bò
+老汉推车姿势=tư thế lão hán đẩy xe bò
