@@ -275,3 +275,5 @@ iphone=iphone
 三月某天晚上=một đêm nào đó tháng ba
 老汉推车姿势=tư thế lão hán đẩy xe bò
 国中读完=học xong trung học
+在地上=trên mặt đất
+
