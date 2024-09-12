@@ -274,3 +274,4 @@ iphone=iphone
 狼一般的光=ánh sáng loài sói
 三月某天晚上=một đêm nào đó tháng ba
 老汉推车姿势=tư thế lão hán đẩy xe bò
+国中读完=học xong trung học
