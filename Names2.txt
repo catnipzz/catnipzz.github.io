@@ -277,3 +277,5 @@ iphone=iphone
 国中读完=học xong trung học
 在地上=trên mặt đất
 
+过去=đi qua/quá khứ
+
