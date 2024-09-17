@@ -288,3 +288,6 @@ iphone=iphone
 沈如玉=Thẩm Như Ngọc
 南彦=Nam Ngạn
 江与同=Giang Vũ Đồng
+李=lý
+佩=đeo
+
