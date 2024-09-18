@@ -310,3 +310,4 @@ iphone=iphone
 秀露出=lộ ra
 张惟风=Trương Duy Phong
 跟我打招呼=chào hỏi ta
+我朝着=ta hướng về
