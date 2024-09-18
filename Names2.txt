@@ -298,3 +298,4 @@ iphone=iphone
 说实话=thực lòng mà nói/nói lời nói thật
 是有道理=là có đạo lý
 
+好了没有?=đã xong chưa?
