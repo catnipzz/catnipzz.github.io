@@ -307,3 +307,4 @@ iphone=iphone
 脸侧在了一边=quay mặt sang một bên
 丰膄=đầy đặn
 用手掌=dùng bàn tay
+秀露出=lộ ra
