@@ -23,6 +23,16 @@
 王丹=Vương Đan
 张新达=Trương Tân Đạt
 白沫=Bạch Mạt/bọt trắng
+叶婵宫=Diệp Huyên Cung
+赵襄儿=Triệu Tương Nhi
+宁长久=Ninh Trường Cửu
+
+
+身鲜艳的=trang phục tươi sáng
+现在的=hiện tại
+的缓步走着=chậm dãi đi tới.
+将潮未潮=chưa thủy triều
+吊着=treo lên
 
 
 前戏=màn dạo đầu
@@ -268,7 +278,6 @@ iphone=iphone
 点了头= gật đầu
 杨涛=Dương Đào
 
-杨涛=Dương 
 
 狼一般的光=ánh sáng loài sói
 三月某天晚上=một đêm nào đó tháng ba
@@ -288,6 +297,5 @@ iphone=iphone
 沈如玉=Thẩm Như Ngọc
 南彦=Nam Ngạn
 江与同=Giang Vũ Đồng
-李=lý
-佩=đeo
+
 
