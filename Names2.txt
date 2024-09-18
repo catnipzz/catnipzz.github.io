@@ -318,3 +318,5 @@ iphone=iphone
 下撸动=chà xát xuống/vuốt xuống
 身体好嘛=cơ thể thật tốt a
 可怜=đáng thương
+蚌口=miệng sò/bạng khẩu
+
