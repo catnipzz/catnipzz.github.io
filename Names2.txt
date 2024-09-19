@@ -329,3 +329,4 @@ iphone=iphone
 我的岳父母=cha mẹ vợ của ta
 吐气如兰=hơi thở tựa hoa lan/thổ khí như lan
 
+不都是=không phải đều là
