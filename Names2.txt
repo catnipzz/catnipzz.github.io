@@ -324,3 +324,4 @@ iphone=iphone
 好胀=thật trướng/tốt trướng
 不得滴=không được đâu/không thể được
 卫生眼=nhìn khinh thường/khinh thường ánh mắt/vệ sinh mắt
+也不断=cũng không ngừng/cũng không đoạn
