@@ -312,13 +312,13 @@ iphone=iphone
 跟我打招呼=chào hỏi ta
 我朝着=ta hướng về
 林时云=Lâm Thời Vân
-作贱=làm nhục/làm tiện
+作贱=làm tiện/làm nhục
 拂弄=vuốt ve
 一下子=bất ngờ
 下撸动=chà xát xuống/vuốt xuống
 身体好嘛=cơ thể thật tốt a
 可怜=đáng thương
-蚌口=miệng sò/bạng khẩu
+蚌口=sò khẩu/bạng khẩu
 
 自己的花蕊=chính mình nhị hoa
 好胀=thật trướng/tốt trướng
