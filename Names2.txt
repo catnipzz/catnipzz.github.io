@@ -326,3 +326,4 @@ iphone=iphone
 卫生眼=nhìn khinh thường/khinh thường ánh mắt/vệ sinh mắt
 也不断=cũng không ngừng/cũng không đoạn
 调和折中=điều hòa và thỏa hiệp
+我的岳父母=cha mẹ vợ của ta
