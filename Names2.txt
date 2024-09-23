@@ -338,3 +338,4 @@ iphone=iphone
 白=Bạch
 白=Bạch
 白皙=trắng nõn
+细长柳眉=lông mày liễu dài mảnh
