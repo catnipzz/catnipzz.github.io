@@ -335,3 +335,5 @@ iphone=iphone
 是不是啊?=có phải không a?
 张昌=Trương Xương
 
+白=Bạch
+白=Bạch
