@@ -337,3 +337,4 @@ iphone=iphone
 
 白=Bạch
 白=Bạch
+白皙=trắng nõn
