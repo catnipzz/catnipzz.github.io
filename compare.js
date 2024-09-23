@@ -58,7 +58,7 @@ function mergeAndFilterDuplicates(dictA, dictB) {
 
 // Bắt đầu
 function main() {
-  const fileAPath = path.join(__dirname, 'Names.txt');
+  const fileAPath = path.join(__dirname, 'VietPhrase.txt');
   const fileBPath = path.join(__dirname, 'N2_fix.txt');
 
   // Đọc dữ liệu từ file a.txt và b.txt
@@ -72,11 +72,11 @@ function main() {
   );
 
   // Ghi vào file a_fix.txt và b_fix.txt (lọc bỏ các từ trùng lặp)
-  writeDictToFile(path.join(__dirname, 'N1_fix.txt'), aFixDict);
-  writeDictToFile(path.join(__dirname, 'N2.1_fix.txt'), bFixDict);
+  writeDictToFile(path.join(__dirname, 'VP_fix.txt'), aFixDict);
+  writeDictToFile(path.join(__dirname, 'N2.2_fix.txt'), bFixDict);
 
   // Ghi các từ có nghĩa khác nhau vào different.txt
-  writeDictToFile(path.join(__dirname, 'different_names.txt'), differentDict);
+  writeDictToFile(path.join(__dirname, 'diff_VP.txt'), differentDict);
 
   console.log('Completed.');
 }
