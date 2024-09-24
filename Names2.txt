@@ -74,3 +74,4 @@ iphone=iphone
 王锦程=Vương Cẩm Trình
 姜=gừng
 姜=gừng
+刘雨=Lưu Vũ
