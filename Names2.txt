@@ -79,3 +79,4 @@ iphone=iphone
 王芊芊=Vương Thiên Thiên
 干=làm
 =
+干=làm
