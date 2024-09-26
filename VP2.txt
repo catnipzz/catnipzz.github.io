@@ -223,3 +223,4 @@
 月容=nguyệt dung
 
 妈妈=ma ma
+不过时不等人=bất quá thời gian không đợi người
