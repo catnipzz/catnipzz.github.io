@@ -225,3 +225,4 @@
 妈妈=ma ma
 不过时不等人=bất quá thời gian không đợi người
 养=nuôi
+养=nuôi
