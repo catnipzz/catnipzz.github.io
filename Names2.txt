@@ -82,3 +82,4 @@ iphone=iphone
 干=làm
 韩易=Hàn Dịch
 =
+裴凌=Bùi Lăng
