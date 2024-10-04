@@ -40,8 +40,8 @@ function removeDuplicateMeanings(dict) {
 
 // Bắt đầu
 function main() {
-  const inputFilePath = path.join(__dirname, 'different_VP.txt');
-  const outputFilePath = path.join(__dirname, 'different_VP_fix.txt');
+  const inputFilePath = path.join(__dirname, './fixfile/diff_VP.txt');
+  const outputFilePath = path.join(__dirname, './fixfile/diff_VP_fix_dup.txt');
 
   // Đọc dữ liệu từ file input.txt
   const dict = readFileToDict(inputFilePath);

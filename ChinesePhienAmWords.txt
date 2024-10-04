@@ -12620,3 +12620,12 @@
 児=nhi
 葎=luật
 柲=bí
+恵=megumi
+嫤=cẩn
+柊=chung
+旳=đích
+嘢=dã
+㐬=lưu
+哴=lang
+唴=thương
+
