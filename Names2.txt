@@ -125,3 +125,4 @@
 有福=Hữu Phúc
 张二=Trương Nhị
 冒险者=Mạo Hiểm Giả
+笑傲江湖=Tiếu Ngạo Giang Hồ
