@@ -126,3 +126,4 @@
 张二=Trương Nhị
 冒险者=Mạo Hiểm Giả
 笑傲江湖=Tiếu Ngạo Giang Hồ
+我=tú an
