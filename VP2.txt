@@ -244,3 +244,4 @@
 巧宁=Xảo Ninh
 我=ta
 一顺百顺=một sự thuận lợi, muôn sự hanh thông/một thuận trăm thuận
+但那时=nhưng lúc này
