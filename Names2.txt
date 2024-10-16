@@ -1,17 +1,3 @@
-
-前戏=màn dạo đầu
-嗯=ừm
-抽插=cắm rút
-噼啪=pách pách
-唔=ưm
-呀呀呀=ah ah ah
-滋=phốc
-扑滋=phốc
-扑滋-bạch bạch
-呢=nha
-喂=Uy
-
-
 杨涛=Dương Đào
 张昌=Trương Xương
 杨月玲=Dương Nguyệt Linh
@@ -25,15 +11,12 @@
 小莹=Tiểu Oánh
 俊凯=Tuấn Khải
 钟牛=Chung Ngưu
-楚=Sở
-雨航=Vũ Hàng
-雨熙=Vũ Hi
-小莹=Tiểu Oánh
-赵安=Triệu An
+楚雨航=Sở Vũ Hàng
+楚雨熙=Sở Vũ Hi
 楚雨瑛=Sở Vũ Anh
 艳艳=Diễm Diễm
+赵安=Triệu An
 温婷=Ôn Đình
-俊凯=Tuấn Khải
 温岚=Ôn Lam
 染染=Nhiễm Nhiễm
 白律师=Bạch luật sư
