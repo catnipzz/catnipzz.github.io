@@ -93,17 +93,14 @@
 王三毛=Vương Tam Mao
 刘婉晴=Lưu Uyển Tình
 张小姇=Trương Tiểu Hào
-阿诺=Hàn Nặc江天逸=Giang Thiên Dật
+阿诺=Hàn Nặc
+江天逸=Giang Thiên Dật
 舒兰=Thư Lan
 舞衣=Vũ Y
 祈玄虎=Kỳ Huyền Hổ
-祈玄虎=Kỳ Huyền Hổ
-祈玄虎=Kỳ Huyền Hổ
 殿九=Điện Cửu
 白雪=Bạch Tuyết
-巧甯=Xảo Nịnh
-巧甯=Xảo Nịnh
-巧甯=Xảo Nịnh
+巧甯=Xảo Ninh
 林傲龙=Lâm Ngạo Long
 夏宜兰=Hạ Nghi Lan
 晓珍=Hiểu Trân
@@ -114,11 +111,8 @@
 振梅=Chấn Mai
 巧巧=Xảo Xảo
 薇竹=Vi Trúc
-薇竹=Vi Trúc
 徐安白=Từ An Bạch
 巧宁=Xảo Ninh
-张二=trương nhị
-张二=trương nhị
 无粮=Lương Tử
 真无粮=Chân Lương Tử
 张二嫂=Trương Nhị Tẩu
@@ -126,15 +120,7 @@
 张二=Trương Nhị
 冒险者=Mạo Hiểm Giả
 笑傲江湖=Tiếu Ngạo Giang Hồ
-我=tú an
 若缄=Như Giam
 公孙馨=Công Tôn Hinh
-公孙馨=Công Tôn Hinh
-我=Tú An
-我=Tú An
-我=ta
-我=ta
-我=ta
-墨一一=mực nhất nhất
-墨一一=mực nhất nhất
-墨一一=mực nhất nhất
+墨一一=Mực Nhất Nhất
+

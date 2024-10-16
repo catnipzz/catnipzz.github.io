@@ -242,14 +242,14 @@
 妈妈=mẹ
 薇竹=Vi Trúc
 巧宁=Xảo Ninh
-我=ta
+
 一顺百顺=một sự thuận lợi, muôn sự hanh thông/một thuận trăm thuận
 但那时=nhưng lúc này
 总要出来添乱=cũng luôn gây thêm rắc rối/cũng nên ra thêm phiền
 委曲极=cực uất ức/uốn lượn cực
 委曲=uất ức/uốn lượn
 我们=chúng ta/ta nhóm
-水亮眸子.=thủy quang con ngươi/nước sáng con ngươi
+水亮眸子=thủy quang con ngươi/nước sáng con ngươi
 耐看=dễ nhìn/ưa nhìn
 骯脏=dơ bẩn/khảng bẩn
 高兴极=vô cùng cao hứng/cao hứng cực
@@ -261,4 +261,3 @@
 痛苦极=vô cùng thống khổ/thống khổ cực
 诱人极=cực độ mê người
 害怕极=cực độ sợ hãi
-蕾丝=ren hoa
