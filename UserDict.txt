@@ -85,3 +85,4 @@
 林疏影=Lâm Sơ Ảnh
 萧晴=Tiêu Tình
 顾含烟=Cố Hàm Yên
+疏影=Sơ Ảnh/Kage
