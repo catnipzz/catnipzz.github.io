@@ -89,3 +89,4 @@
 洛尘勇=Lạc Trần Dũng
 龙京=Long Kinh
 在一根线上.=cùng trên một sợ dây
+在一根线上=cùng trên một sợi dây
