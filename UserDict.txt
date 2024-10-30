@@ -99,3 +99,4 @@
 闽传=Mân Truyền/truyện
 苏以=Tô Dĩ
 廖蓼=Liêu Liệu
+闵传=Mẫn Truyền/truyện
