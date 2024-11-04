@@ -164,3 +164,4 @@
 云上=Vân Thượng
 安卓=An Thường
 安卓=An Vũ Thường
+摩柯兀=Ma Kha Ngạc
