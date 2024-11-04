@@ -180,3 +180,4 @@
 笑施=Thiên Mị
 安笑施=An Thiên Mị
 安弋=An Lạc
+弋=Lạc
