@@ -295,3 +295,4 @@
 米朵=Mễ Đóa/mét/mễ (m)/mễ/thước đóa
 穆奇=Mục Kỳ
 雨霏=Vũ Phi
+韩雨霏=Hàn Vũ Phi
