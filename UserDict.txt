@@ -338,3 +338,4 @@
 宋自成=Tống Tự Thành
 宋天问=Tống Thiên Vấn
 少=thiếu
+天子=Thiên Tử
