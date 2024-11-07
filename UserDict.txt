@@ -352,3 +352,4 @@
 卫露珠=Vệ Lộ Sương
 丁大展=Đinh Đại Triển
 巨龙=Cự Long
+迟总=trì tổng
