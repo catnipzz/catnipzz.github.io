@@ -339,3 +339,4 @@
 宋天问=Tống Thiên Vấn
 少=thiếu
 天子=Thiên Tử
+吴勇=Ngô Dũng
