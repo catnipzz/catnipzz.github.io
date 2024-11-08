@@ -191,7 +191,7 @@
 老汉推车姿势=tư thế lão hán đẩy xe bò
 国中读完=học xong trung học
 在地上=trên mặt đất/Ngồi trên mặt đất
-过去=đi qua/quá khứ/trôi qua/đi qua/đã qua/qua/đi/tới
+过去=quá khứ/trôi qua/đi qua/đã qua/qua/đi/tới
 说实话=thực lòng mà nói/nói lời nói thật/nói thật/nói thật đi
 好了没有?=đã xong chưa?
 湿漉漉=ướt sũng rồi/ướt đẫm rồi/ướt sũng/ướt dề/ướt đầm dề/ướt át/ướt rượt/ướt sườn sượt/ướt nhẹp
@@ -291,3 +291,4 @@
 青春时代=thời thanh xuân
 七美德=bảy mỹ đức
 两线作战=tác chiến hai tuyến
+-吧=a

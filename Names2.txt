@@ -34,6 +34,7 @@
 夜除=Dạ Trừ
 陆嫁嫁=Lục Giá Giá
 嫁嫁=Giá Giá
+重岁=Trọng Tuế
 赵馨蕾=Triệu Hinh Lôi
 李巧华=Lý Xảo Hoa
 张可秦=Trương Khả Tần
