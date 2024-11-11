@@ -446,3 +446,4 @@
 潘莉儿=Phan Lỵ
 闻人=Văn Nhân
 闻人=Văn Nhân
+罗奇=Ducx
