@@ -473,3 +473,4 @@
 友一=Ducc
 你的肉棒=Con cặc của ngươi
 大肉棍=Con cặc
+肉棍=cặc
