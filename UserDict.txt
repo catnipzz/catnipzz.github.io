@@ -475,3 +475,4 @@
 大肉棍=Con cặc
 肉棍=cặc
 张坤=Trương Khôn/tờ/mở/giương khôn
+滢滢=Oánh Oánh
