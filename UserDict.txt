@@ -467,3 +467,4 @@
 覆含=bao hàm/bao gồm
 纤纤细=thon dài tinh tế
 陈友=DUCC
+小穴=lồn
