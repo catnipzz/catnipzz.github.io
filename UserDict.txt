@@ -531,3 +531,4 @@
 雪媛=Tuyết Viện
 卢雪媛=Lư Tuyết Viện
 杜可秀=Đỗ Khả Tú/thanh tú
+可秀=Khả Tú/thanh tú
