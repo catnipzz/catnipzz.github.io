@@ -545,3 +545,4 @@
 候纪=Hậu Kỷ
 关合=Quan Hợp/đóng/nhốt/cửa ải hợp
 关睿=Quan Duệ/đóng/nhốt/cửa ải duệ
+关风月=Quan Phong Nguyệt/đóng/nhốt/cửa ải phong nguyệt/gió trăng/trăng gió/cảnh sắc/phong cảnh/tình yêu nam nữ/tình yêu/tình
