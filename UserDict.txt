@@ -566,3 +566,4 @@
 百合=Bách Hợp
 操我=địt ta
 松=tùng
+染头发=nhuộm tóc
