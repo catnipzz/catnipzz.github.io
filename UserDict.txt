@@ -576,3 +576,4 @@
 青城=Thanh Hàn
 慕容青城=Mộ Dung Thanh Hàn
 柴兴福=Sài hưng phúc
+刚子=Cương Tử
