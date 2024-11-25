@@ -619,3 +619,4 @@
 葛小兰=Cát Tiểu Lan
 魏冉=Ngụy Nhiễm
 林建国=Lâm Kiến Quốc
+厂=xưởng
