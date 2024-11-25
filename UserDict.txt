@@ -617,3 +617,4 @@
 葛小兰=Cát Chỉ Lan
 葛小兰=Cát Thục Lan
 葛小兰=Cát Tiểu Lan
+魏冉=Ngụy Nhiễm
