@@ -621,3 +621,4 @@
 林建国=Lâm Kiến Quốc
 厂=xưởng
 ”我=" Ta
+明明=rõ ràng
