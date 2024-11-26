@@ -620,3 +620,4 @@
 魏冉=Ngụy Nhiễm
 林建国=Lâm Kiến Quốc
 厂=xưởng
+”我=" Ta
