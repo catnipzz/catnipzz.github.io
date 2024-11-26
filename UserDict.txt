@@ -625,3 +625,4 @@
 韩安=Hàn An
 ”我=" Long Sinh
 宏天=Hồng Thiên
+龙生=Long Sinh
