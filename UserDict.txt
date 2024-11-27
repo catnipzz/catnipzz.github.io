@@ -460,17 +460,14 @@
 淫穴=lồn
 操=địt
 天伟=Ducc
-梁=.
 在天伟=Ducc
 宁秋婉=Ninh Thu Uyển
 顾小暖=Cố Tiểu Noãn
 覆含=bao hàm/bao gồm
 纤纤细=thon dài tinh tế
-陈友=DUCC
 小穴=lồn
 阴户=lồn
 阴毛=lông lồn
-友一=Ducc
 你的肉棒=Con cặc của ngươi
 大肉棍=Con cặc
 肉棍=cặc
@@ -566,7 +563,6 @@
 染头发=nhuộm tóc
 王海山=Vương Hải Sơn
 叽咕叽咕叽咕=khíp khíp chít chít chít/òm ọp òm ọp òm ọp/chi gu chi gu chi gu
-嗯嗯嗯=ư.. hưm ư.. ư.. ư /ân ân ân/ừ ừ ừ
 嗯嗯嗯=ưm..ưm.. ư... /ân ân ân/ừ ừ ừ
 沈平=Trầm Bình
 幕容=Mộ Dung
@@ -581,7 +577,6 @@
 张青青=Trương Thanh Thanh
 露晴=Lộ Tình
 杨虹=Dương mị
-虹=mị
 虹=Thải
 杨虹=Dương Thải
 杨洋=Dương Thường
