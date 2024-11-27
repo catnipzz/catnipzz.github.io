@@ -506,8 +506,6 @@
 范溪筝=Phạm Khê Tranh
 李冠雄=Lý Quan Hùng
 天海=Thiên Hải
-天海=Thiên Hải
-天海=Thiên Hải
 许利发=Hứa Lợi Phát/cho phép/tán dương/đính hôn lợi/sắc phát/tóc/
 杜沂槿=Đỗ Nghi Cẩn/cẩn (hoa dâm bụt)
 胡慧芸=Hồ Tuệ Vân
@@ -563,6 +561,5 @@
 汤淼淼=Thang Miểu Miểu/thang/súp miểu miểu
 月见=Nguyệt Kiến
 百合=bách hợp
-百合=Bách Hợp
 操我=địt ta
 松=tùng
