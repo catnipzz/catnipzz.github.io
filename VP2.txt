@@ -292,3 +292,5 @@
 七美德=bảy mỹ đức
 两线作战=tác chiến hai tuyến
 -吧=a
+
+遭不住=không chịu nổi
