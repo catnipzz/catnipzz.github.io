@@ -294,3 +294,16 @@
 -吧=a
 
 遭不住=không chịu nổi
+
+绿头牌=Lục đầu bài-thẻ bài dành cho vua
+紅頭牌=Hồng đầu bài-dành cho hoàng đế sử dụng
+翻牌子=Phiên bài tử/lật thẻ bài-Trên thẻ bài có ghi tên tuổi, tình trạng sức khỏe và đặc điểm của từng thê thiếp. Theo qui định, vào đêm giao thừa, mồng một và mồng hai của tháng giêng, nhà vua sẽ qua đêm ở phòng của hoàng hậu, những ngày còn lại, một trong những cách nhà vua chọn "bạn tình" là xem xét thông tin trên các thẻ bài rồi lật lại thẻ nào mà vua muốn để làm dấu.
+擲骰子=Trịnh đầu tử-gieo xúc xắc. Các phi tần chơi xúc xắc, ai thắng chung cuộc sẽ được vua lâm hạnh.
+與蝶幸=Dư điệp hạnh-dùng con bướm để xác định, bướm đậu ở phòng nào thì phi tần ở phòng đó sẽ vui vẻ qua đêm với hoàng đế. Theo Dã sử (野史), Đường Minh Hoàng (hoàng đế Trung Quốc) có hàng ngàn phi tần, ông đã dùng hai cách chọn phi tần này để lâm hạnh.
+羊拉車=Dương lạp xa-dùng con dê để xác định phi tần nào hoàng đế sẽ lâm hạnh. Cách này rất đơn giản, con dê dừng ở phòng nào thì phi tần ở phòng đó sẽ được vua lâm hạnh. Về sau, rất nhiều thê thiếp nghĩ ra biện pháp trồng trúc trước cửa, vẩy nước muối để tranh sủng, vì họ nghĩ rằng con dê thích lá trúc có vị mặn.
+心底情绪=cảm xúc đáy lòng
+按下心底情绪=đè xuống đáy lòng cảm xúc
+刘征风眼=Lưu Chinh Phong trong mắt
+刘总觉得=Lưu tổng cảm thấy
+也连续=cũng liên tục
+光熘熘=trơn bóng/quang lựu lựu
