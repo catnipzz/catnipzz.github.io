@@ -5,3 +5,7 @@
 丘,=khâu,
 屄=bi/lồn
 ,就是=, chính là
+一般,=Bình thường,
+
+//vietphrase
+地=địa

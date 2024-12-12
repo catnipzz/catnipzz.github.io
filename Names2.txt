@@ -120,3 +120,5 @@
 纮汰=Hoành Thái
 高司=Cao Ty
 连翘=Liên Kiều
+孝司=Hiếu Ty
+友纪=Hữu Kỷ
