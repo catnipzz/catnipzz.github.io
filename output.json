@@ -1,0 +1,239 @@
+{
+  "name": "half round",
+  "variants": [
+    {
+      "name": "standard",
+      "size": {
+        "size": "2mm",
+        "width": 0,
+        "heavy": 0,
+        "light": 0
+      }
+    },
+    {
+      "name": "standard",
+      "size": {
+        "size": "2.5mm",
+        "width": 0.074,
+        "heavy": 0,
+        "light": 0.154
+      }
+    },
+    {
+      "name": "standard",
+      "size": {
+        "size": "3mm",
+        "width": 0.144,
+        "heavy": 0,
+        "light": 0.074
+      }
+    },
+    {
+      "name": "standard",
+      "size": {
+        "size": "4mm",
+        "width": 0.287,
+        "heavy": 0,
+        "light": 0.145
+      }
+    },
+    {
+      "name": "standard",
+      "size": {
+        "size": "5mm",
+        "width": 0.43,
+        "heavy": 0,
+        "light": 0
+      }
+    },
+    {
+      "name": "standard",
+      "size": {
+        "size": "6mm",
+        "width": 0.572,
+        "heavy": 0,
+        "light": 0.07
+      }
+    },
+    {
+      "name": "standard",
+      "size": {
+        "size": "6.5mm",
+        "width": 0.644,
+        "heavy": 0,
+        "light": 0.006
+      }
+    },
+    {
+      "name": "standard",
+      "size": {
+        "size": "7mm",
+        "width": 0.715,
+        "heavy": 0.093,
+        "light": 0
+      }
+    },
+    {
+      "name": "standard",
+      "size": {
+        "size": "8mm",
+        "width": 0.857,
+        "heavy": 0,
+        "light": 0
+      }
+    },
+    {
+      "name": "heavy",
+      "size": {
+        "size": "3mm",
+        "width": 0.102,
+        "heavy": 0.847,
+        "light": 0
+      }
+    },
+    {
+      "name": "heavy",
+      "size": {
+        "size": "4mm",
+        "width": 0.251,
+        "heavy": 0.759,
+        "light": 0
+      }
+    },
+    {
+      "name": "heavy",
+      "size": {
+        "size": "5mm",
+        "width": 0.384,
+        "heavy": 0.946,
+        "light": 0
+      }
+    },
+    {
+      "name": "heavy",
+      "size": {
+        "size": "6mm",
+        "width": 0.526,
+        "heavy": 0.847,
+        "light": 0
+      }
+    },
+    {
+      "name": "heavy",
+      "size": {
+        "size": "6.5mm",
+        "width": 0.597,
+        "heavy": 0.969,
+        "light": 0
+      }
+    },
+    {
+      "name": "heavy",
+      "size": {
+        "size": "7mm",
+        "width": 0.666,
+        "heavy": 1,
+        "light": 0
+      }
+    },
+    {
+      "name": "heavy",
+      "size": {
+        "size": "8mm",
+        "width": 0.814,
+        "heavy": 0.945,
+        "light": 0
+      }
+    },
+    {
+      "name": "heavy",
+      "size": {
+        "size": "9mm",
+        "width": 0.959,
+        "heavy": 0.839,
+        "light": 0
+      }
+    },
+    {
+      "name": "light",
+      "size": {
+        "size": "2mm",
+        "width": 0,
+        "heavy": 0,
+        "light": 0.675
+      }
+    },
+    {
+      "name": "light",
+      "size": {
+        "size": "2.5mm",
+        "width": 0.071,
+        "heavy": 0,
+        "light": 0.789
+      }
+    },
+    {
+      "name": "light",
+      "size": {
+        "size": "3mm",
+        "width": 0.142,
+        "heavy": 0,
+        "light": 0.736
+      }
+    },
+    {
+      "name": "light",
+      "size": {
+        "size": "4mm",
+        "width": 0.287,
+        "heavy": 0,
+        "light": 0.789
+      }
+    },
+    {
+      "name": "light",
+      "size": {
+        "size": "5mm",
+        "width": 0.729,
+        "heavy": 0,
+        "light": 0.858
+      }
+    },
+    {
+      "name": "light",
+      "size": {
+        "size": "6mm",
+        "width": 0.571,
+        "heavy": 0,
+        "light": 0.909
+      }
+    },
+    {
+      "name": "light",
+      "size": {
+        "size": "6.5mm",
+        "width": 0.645,
+        "heavy": 0,
+        "light": 1
+      }
+    },
+    {
+      "name": "light",
+      "size": {
+        "size": "7mm",
+        "width": 0.716,
+        "heavy": 0,
+        "light": 0.968
+      }
+    },
+    {
+      "name": "light",
+      "size": {
+        "size": "8mm",
+        "width": 0.857,
+        "heavy": 0,
+        "light": 1
+      }
+    }
+  ]
+}
