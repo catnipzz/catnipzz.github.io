@@ -16,3 +16,6 @@
 光.=ánh sáng./quang.
 光:=ánh sáng:/quang:
 光?=ánh sáng?
+
+腰,=eo,
+腰.=eo.
