@@ -11,3 +11,8 @@
 地=địa
 弄=làm/làm cho/kiếm/lộng/chuẩn bị/chơi
 滚!=cút!
+光!=ánh sáng!
+光,=ánh sáng,/hết,
+光.=ánh sáng./quang.
+光:=ánh sáng:/quang:
+光?=ánh sáng?
