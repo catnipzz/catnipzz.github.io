@@ -10,3 +10,4 @@
 //vietphrase
 地=địa
 弄=làm/làm cho/kiếm/lộng/chuẩn bị/chơi
+滚!=cút!
