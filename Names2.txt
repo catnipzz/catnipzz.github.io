@@ -32,7 +32,7 @@
 宁小龄=Ninh Tiểu Linh
 宁擒水=Ninh Cầm Thủy
 夜除=Dạ Trừ
-陆嫁嫁=Lục Giá Giá
+陆嫁嫁=Lục Gả Gả
 嫁嫁=Giá Giá
 重岁=Trọng Tuế
 赵馨蕾=Triệu Hinh Lôi
@@ -136,3 +136,9 @@
 顾小暖=Cố Tiểu Noãn
 顾为=Cố Vi
 牧之=Mục Chi
+婉柔=Uyển Nhu
+婉凝=Uyển Ngưng
+苏文钧=Tô Văn Quân
+苏文婧=Tô Văn Tịnh
+林嘉瑜=Lâm Gia Du
+嘉瑜=Gia Du
