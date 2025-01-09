@@ -314,3 +314,5 @@
 黑明=đen sáng/hắc minh
 肥嘟嘟=mập mũm mĩm
 出卖她=bán đứng nàng
+一大早就=trời vừa sáng liền
+率先朝着=dẫn đầu hướng tới

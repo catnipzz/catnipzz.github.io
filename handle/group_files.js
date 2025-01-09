@@ -3,7 +3,7 @@ const path = require('path');
 
 // Đường dẫn tới thư mục root (thư mục gốc chứa các file .txt)
 // const rootFolder = path.join(__dirname, 'a'); // thay 'a' bằng đường dẫn chính xác đến thư mục của bạn
-const rootFolder = 'E:/_TextNovelData/uaa/txt/nz_15';
+const rootFolder = 'E:/_TextNovelData/uaa/txt/nz_16';
 // Đọc tất cả các file trong thư mục root
 fs.readdir(rootFolder, (err, files) => {
   if (err) {
