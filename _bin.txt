@@ -16,6 +16,13 @@
 光.=ánh sáng./quang.
 光:=ánh sáng:/quang:
 光?=ánh sáng?
+当天.=cùng ngày.
+nàng môn=các nàng
+Nhân ni.=Người đâu.
+núi động=sơn động
+Rất làm!=Rất khô!
+Rất làm.=Rất khô.
+VOCALOID=Vocaloid
 
 腰,=eo,
 腰.=eo.
@@ -86,6 +93,21 @@ Vừa đến,=Một là,
 最为低等次的,=cấp thấp nhất,
 最为想听到的,=muốn nghe nhất,
 最为感兴趣的,=cảm thấy hứng thú nhất,
+中后,=về sau,
+后,=về sau,/hậu,
+点,=điểm,/chút,/giờ,
+负她=phụ nàng
+会,=sẽ,/biết,/hội,/chút,
+会.=hội./sẽ./biết.
+数不多=số không nhiều/không nhiều
+3D=3D
+3p=3p
+4k=4K
+4G=4G
+DM=DM
+iT=IT
+jj=jj
+KO=KO
 
 //Names
 腿=chân
