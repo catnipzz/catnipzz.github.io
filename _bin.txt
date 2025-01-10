@@ -19,6 +19,73 @@
 
 腰,=eo,
 腰.=eo.
+Đối với!=Đúng!
+Đối với,=Đúng,
+Đối với.=Đúng.
+chi địa!=chi địa  !
+chi địa,=chi địa  ,
+chi địa.=chi địa  .
+chi địa?=chi địa  ?
+chu xian=xuất hiện/出现
+đại địa!=đại địa  !
+đại địa,=đại địa  ,
+đại địa.=đại địa  .
+đại địa?=đại địa  ?
+đến gia!=đến nhà!
+đến gia,=đến nhà,
+đến gia.=đến nhà.
+Đều lên!=Đều đứng lên!
+Đều lên,=Đều đứng lên.
+Đều lên.=Đều đứng lên.
+biển mây=vân hải
+Ta đẳng!=ta đợi!
+Ta đẳng,=ta đợi,
+Ta đẳng.=ta đợi.
+thổ địa!=thổ địa  !
+thổ địa,=thổ địa  ,
+thổ địa.=thổ địa  .
+thổ địa?=thổ địa  ?
+Tìm đến!=Tìm được rồi!
+trúc mây=Trúc Vân
+
+Vừa đến,=Một là,
+
+上,=bên trên,/lên,/ở trên/trên,/thượng,
+上.=bên trên./lên.
+
+
+这么轻易放弃的,=dễ dàng buông tha như vậy,
+这么英俊潇洒的,=anh tuấn tiêu sái như vậy,
+这么看不起人的,=xem thường người như vậy,
+这么抛上抛下的,=quăng lên quăng xuống như vậy,
+这么容易发财的,=dễ phát tài như vậy,
+这么容易满足的,=dễ thỏa mãn như vậy,
+这样做是不对的,=làm như vậy là không đúng,
+这样相夫教子的,=giúp chồng dạy con như vậy,
+这样管教弟子的,=quản giáo đệ tử như vậy,
+这般送上门来的,=đưa tới cửa như vậy,
+那么容易修炼的,=dễ dàng tu luyện đích như vậy,
+那么年轻漂亮的,=trẻ tuổi xinh đẹp như vậy,
+那么恬不知耻的,=chẳng biết xấu hổ như vậy,
+那么轻松拿下的,=dễ bắt như vậy,
+都是这么认为的,=cũng cho là như vậy,
+‘ 极真界域,="Cực Chân biên giới"
+‘ 森罗魂力,="Sâm La hồn lực"
+‘ 道灵宝鉴,="Đạo Linh Bảo Giám"
+“想上来便上来=muốn lên thì cứ lên đi
+一定是这样的,=nhất định là như vậy,
+一抹凄艳的红,=một vệ đỏ chói buồn bã,
+不能这么算的,=không thể tính như vậy được,
+也是那么想的,=cũng nghĩ là như vậy,
+儿子是母亲的,=nhi tử là của mẫu thân,
+如此近距离的,=khoảng cách gần như vậy,
+最为不合理的,=không hợp lý nhất,
+最为不放心的,=không yên lòng nhất,
+最为不要命的,=liều mạng nhất,
+最为令人愁的,=làm người ta buồn nhất,
+最为低等次的,=cấp thấp nhất,
+最为想听到的,=muốn nghe nhất,
+最为感兴趣的,=cảm thấy hứng thú nhất,
 
 //Names
 腿=chân
