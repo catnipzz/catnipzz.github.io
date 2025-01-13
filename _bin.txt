@@ -8,6 +8,8 @@
 一般,=Bình thường,
 
 //vietphrase
+
+瞎扯=nói mò/mò mẫm/nói lung tung/tán gẫu/tán ma tán mãnh/nói bậy/mò mẫm
 地=địa
 弄=làm/làm cho/kiếm/lộng/chuẩn bị/chơi
 滚!=cút!
