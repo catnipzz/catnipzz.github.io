@@ -113,3 +113,44 @@ KO=KO
 
 //Names
 腿=chân
+
+//từ file cword bị lặp
+
+但那=nhưng này/thế nhưng
+嗦嗦=run lẩy bẩy
+就很=cũng rất
+可这=nhưng này
+躲了=né
+直接说=nói thẳng
+量大=số lượng nhiều/số lượng lớn
+插在=cắm ở
+把话=đem lời
+说完就=nói xong cũng
+后和=xong cùng
+载着=chở/tái trứ/mang theo
+对她=đối nàng/đối với nàng
+可以吗=có thể chứ/có thể không
+不及待
+继续说=nói tiếp
+回了家=trở về nhà
+再让=lại để cho
+来吧=tới đi/đến đây đi
+把着=đem
+随着抽=theo xả
+就已=đã
+轻蔑地=khinh miệt/khinh bỉ
+在里=ở bên trong
+是来=là tới
+怎么又=tại sao lại
+
+一些话=một ít lời/mấy lời
+你等=các ngươi/ngươi chờ
+焉的=ở đó
+为的=để
+
+
+得和=phải cùng
+"不要啊="Đừng a
+没有;=chưa,
+和.=hòa.
+耳"=tai"/mà thôi"
