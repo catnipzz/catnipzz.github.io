@@ -4,6 +4,7 @@
 南华经=Nam Hoa Kinh
 月华殿=Nguyệt Hoa điện
 太子们=Thái tử môn
+中省殿=Trung Tỉnh Điện
 
 
 .-=tên địa danh
@@ -370,3 +371,6 @@ C 国=Trung Quốc
 连月=Liên Nguyệt
 美芸铁粉=Mỹ Vân Thiết Phấn
 云姒=Vân Tự
+容昭仪=Dung Chiêu Nghi
+小融子=Tiểu Dung Tử
+云婕妤=Vân Tiệp dư

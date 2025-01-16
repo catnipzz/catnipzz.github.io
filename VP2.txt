@@ -646,3 +646,4 @@ xiǎo=tiểu
 一般,=một dạng,
 趾=ngón chân
 了起来=...mà bắt đầu
+很快被=rất nhanh bị
