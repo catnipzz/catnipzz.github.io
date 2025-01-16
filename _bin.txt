@@ -9,6 +9,8 @@
 
 //vietphrase
 生地=sinh địa/đất hoang
+
+肆虐=tứ ngược/tàn phá bừa bãi/tàn sát bừa bãi/bừa bãi tàn phá
 瞎扯=nói mò/mò mẫm/nói lung tung/tán gẫu/tán ma tán mãnh/nói bậy/mò mẫm
 地=địa
 弄=làm/làm cho/kiếm/lộng/chuẩn bị/chơi
