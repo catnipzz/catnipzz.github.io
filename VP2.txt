@@ -647,3 +647,7 @@ xiǎo=tiểu
 趾=ngón chân
 了起来=...mà bắt đầu
 很快被=rất nhanh bị
+字词=từ ngữ
+站起来=đứng lên
+顿一下=dừng lại một chứ
+会不会=có hay không

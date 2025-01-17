@@ -5,6 +5,7 @@
 月华殿=Nguyệt Hoa điện
 太子们=Thái tử môn
 中省殿=Trung Tỉnh Điện
+小宫女=tiểu cung nữ
 
 
 .-=tên địa danh
@@ -374,3 +375,4 @@ C 国=Trung Quốc
 容昭仪=Dung Chiêu Nghi
 小融子=Tiểu Dung Tử
 云婕妤=Vân Tiệp dư
+谈垣初=Đàm Viên Sơ
