@@ -651,3 +651,8 @@ xiǎo=tiểu
 站起来=đứng lên
 顿一下=dừng lại một chứ
 会不会=có hay không
+右眼皮=mí mắt bên phải
+特别的=đặc biệt
+揉了揉=nhẹ xoa xoa
+太阳穴=huyệt thái dương
+
