@@ -300,5 +300,7 @@ KO=KO
 因,=nhân,
 因.=nhân.
 因?=nhân?
+死了,=chết rồi,
+死了.=chết rồi.
 
 出息=tiền đồ/triển vọng/viễn cảnh/khả năng thành công/viễn tượng/tiến bộ/khá lên/tiến triển/thu nhập/thu hoạch/lợi/lợi lộc
