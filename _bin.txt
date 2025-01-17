@@ -267,9 +267,29 @@ KO=KO
 三十米=ba mươi mét/30m
 十九层=mười chín tầng
 十九岁=mười chín tuổi
+七岁=bảy tuổi/bảy tuổi
+三岁=ba tuổi
+九岁=chín tuổi
+三十余岁=ba mươi mấy tuổi
+两岁=hai tuổi
+两层=hai tầng
+二十余岁=hai mươi mấy tuổi
+二十岁=hai mươi tuổi
+五岁=năm tuổi
+八岁=tám tuổi
+卅岁=ba mươi tuổi
+十六岁=mười sáu tuổi
+十八岁=mười tám tuổi
+四十八岁=bốn mươi tám tuổi
+十五岁=mười lăm tuổi
+十三岁=mười ba tuổi/mười ba tuổi
+四十岁=bốn mươi tuổi
+
 
 得和=phải cùng
 "不要啊="Đừng a
 没有;=chưa,
 和.=hòa.
 耳"=tai"/mà thôi"
+
+出息=tiền đồ/triển vọng/viễn cảnh/khả năng thành công/viễn tượng/tiến bộ/khá lên/tiến triển/thu nhập/thu hoạch/lợi/lợi lộc

@@ -1,20 +1,18 @@
-.-=tên cung + thời xưa
-
+.-=tên cung đình + thời xưa
 节度史=Tiết Độ sứ
 南华经=Nam Hoa Kinh
 月华殿=Nguyệt Hoa điện
 太子们=Thái tử môn
 中省殿=Trung Tỉnh Điện
 小宫女=tiểu cung nữ
+省殿=Tỉnh Điện  
 
 
 .-=tên địa danh
-
 粤东省=tỉnh đông Quảng Đông
 
 
 .-=tên linh tinh
-
 长州藩=phiên Chōshū/Trường Châu Uyển
 独角狼=Độc Giác Lang
 骨界=Cốt giới
@@ -23,11 +21,28 @@
 C 国=Trung Quốc
 神通帮=Thần Thông bang
 六盲镇=trấn Lục Manh
+五岭=Ngũ Lĩnh
 
 
 .-=tên người
-
+奚泉=Hề Tuyền
+五叔=ngũ thúc
+五原=Ngũ Nguyên
+八女=bát nữ
+八妹=Bát muội
+八姐=Bát tỷ
+八姨=Bát di
+八婆=bà tám
 伤阳=Thương Dương
+五太=ngũ thái
+五妹=Ngũ muội
+五姐=Ngũ tỷ
+五姨=ngũ di/Ngũ di
+五娃=ngũ oa
+五娘=ngũ nương/Ngũ nương
+五婶=ngũ thẩm
+五嫂=Ngũ tẩu
+五子=ngũ tử/năm đứa con/đứa con thứ năm
 龟弟=Quy đệ
 楚舅=Sở cữu
 周舅=Chu cữu
@@ -132,8 +147,22 @@ C 国=Trung Quốc
 础天=Sở Thiên
 陈理=Trần Lý
 蛇厉=Xà Lệ
+薇竹=Vi Trúc
+巧宁=Xảo Ninh
+
+
 
 .-=tên eng
+龙造寺隆信=Ryūzōji Takanobu
+雅罗斯拉夫=Yaroslav
+雷克雅未克=Reykjavík/Reykjavik, thủ đô của Iceland
+格勒诺布尔=Grenoble
+格林纳丁斯=Grenadines
+普莉兹姆利巴=Prismriver
+斯大林格勒=Stalingrad
+斯洛文尼亚=Slovenia
+斯特拉迪瓦里=Stradivarius
+斯科菲尔德=Scofield
 约翰·列侬=John Lennon
 警戒号=Storozhevoy
 石上优=Ishigami Yū
@@ -208,7 +237,7 @@ C 国=Trung Quốc
 多啦a梦=Doraemon
 杰克·成=Jackie Chan
 
-.-=tên tự thêm tay
+.-=tên thêm tay
 杨涛=Dương Đào
 张昌=Trương Xương
 杨月玲=Dương Nguyệt Linh
