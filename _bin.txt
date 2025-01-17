@@ -284,6 +284,12 @@ KO=KO
 十五岁=mười lăm tuổi
 十三岁=mười ba tuổi/mười ba tuổi
 四十岁=bốn mươi tuổi
+十岁=mười tuổi
+
+亲也=hôn cũng
+相和=tương hòa
+道我=đạo ngã
+天也=trời cũng
 
 
 得和=phải cùng
@@ -291,5 +297,8 @@ KO=KO
 没有;=chưa,
 和.=hòa.
 耳"=tai"/mà thôi"
+因,=nhân,
+因.=nhân.
+因?=nhân?
 
 出息=tiền đồ/triển vọng/viễn cảnh/khả năng thành công/viễn tượng/tiến bộ/khá lên/tiến triển/thu nhập/thu hoạch/lợi/lợi lộc
