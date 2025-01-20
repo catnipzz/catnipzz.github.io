@@ -1,6 +1,7 @@
 郑=Trịnh
 蕾=Lôi
 爱小=tham món lợi nhỏ/thích chiếm lợi thế
+酥=xốp giòn/bánh
 
 丘,=khâu,
 屄=bi/lồn
@@ -19,6 +20,9 @@
 光,=ánh sáng,/hết,
 光.=ánh sáng./quang.
 光:=ánh sáng:/quang:
+光!=ánh sáng!
+光,=ánh sáng,/hết,
+光?=ánh sáng?
 光?=ánh sáng?
 当天.=cùng ngày.
 nàng môn=các nàng
@@ -144,7 +148,7 @@ KO=KO
 在里=ở bên trong
 是来=là tới
 怎么又=tại sao lại
-
+受得=nhận được/chịu đựng được/bị
 一些话=một ít lời/mấy lời
 你等=các ngươi/ngươi chờ
 焉的=ở đó
@@ -290,6 +294,7 @@ KO=KO
 相和=tương hòa
 道我=đạo ngã
 天也=trời cũng
+细白=tế bạch
 
 
 得和=phải cùng
@@ -304,3 +309,5 @@ KO=KO
 死了.=chết rồi.
 
 出息=tiền đồ/triển vọng/viễn cảnh/khả năng thành công/viễn tượng/tiến bộ/khá lên/tiến triển/thu nhập/thu hoạch/lợi/lợi lộc
+一刹那=một sát na/trong tích tắc/trong nháy mắt/trong một sát na
+你在=ngươi đang ở

@@ -6,7 +6,13 @@
 中省殿=Trung Tỉnh Điện
 小宫女=tiểu cung nữ
 省殿=Tỉnh Điện  
-
+榴园=Lưu Viên
+广善寺=Quảng Thiện Tự
+大哥儿=đại ca nhi
+二小姐=Nhị tiểu thư
+二妹妹=Nhị muội muội
+蛇床子=Xà Sàng Tử
+雷公藤=Lôi Công Đằng
 
 .-=tên địa danh
 粤东省=tỉnh đông Quảng Đông
@@ -406,3 +412,5 @@ C 国=Trung Quốc
 云婕妤=Vân Tiệp dư
 谈垣初=Đàm Viên Sơ
 甜酿=Điềm Nhưỡng
+施少连=Thi Thiếu Liên
+张圆=Trương Viên
