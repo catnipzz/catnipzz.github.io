@@ -716,3 +716,4 @@ xiǎo=tiểu
 愣一愣=ngây ra một chút
 亲一口=hôn một cái
 秋千上=trên xích đu
+藉由我=thông qua ta
