@@ -307,6 +307,7 @@ KO=KO
 因?=nhân?
 死了,=chết rồi,
 死了.=chết rồi.
+辈,=bối phận,
 
 出息=tiền đồ/triển vọng/viễn cảnh/khả năng thành công/viễn tượng/tiến bộ/khá lên/tiến triển/thu nhập/thu hoạch/lợi/lợi lộc
 一刹那=một sát na/trong tích tắc/trong nháy mắt/trong một sát na
