@@ -28,6 +28,10 @@ C 国=Trung Quốc
 神通帮=Thần Thông bang
 六盲镇=trấn Lục Manh
 五岭=Ngũ Lĩnh
+九龙神音丹=Cửu Long Thần Âm Đan
+墨骨天龙血=Mặc Cốt Thiên Long Huyết
+白珠石萝粉=Bạch Châu Thạch La Phấn
+大衍镇魂诀=đại diễn trấn hồn quyết
 
 
 .-=tên người
@@ -240,6 +244,12 @@ C 国=Trung Quốc
 奈特利=Knightley
 手冢国光=Kunimitsu Tezuka
 维瓦尔=Vivar
+利沃=Olivo
+利克=Riku
+利基=Richie
+利尔=Lier
+利筘=Rico
+利维=Levy
 多啦a梦=Doraemon
 杰克·成=Jackie Chan
 
@@ -417,3 +427,5 @@ C 国=Trung Quốc
 宁烨家=Ninh Diệp
 凌沐雪=Lăng Mộc Tuyết
 顾雨菡=Cố Vũ Hạm
+何梅=Hà Mai
+马文英=Mã Văn Anh

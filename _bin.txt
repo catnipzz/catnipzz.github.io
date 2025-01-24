@@ -11,6 +11,7 @@
 //vietphrase
 生地=sinh địa/đất hoang
 
+· 爽 · 个够=thoải mái một phen
 肆虐=tứ ngược/tàn phá bừa bãi/tàn sát bừa bãi/bừa bãi tàn phá
 瞎扯=nói mò/mò mẫm/nói lung tung/tán gẫu/tán ma tán mãnh/nói bậy/mò mẫm
 地=địa
@@ -32,6 +33,10 @@ Rất làm!=Rất khô!
 Rất làm.=Rất khô.
 VOCALOID=Vocaloid
 
+快,=nhanh,
+和!=hòa!
+和,=cùng,/hòa,
+和.=hòa.
 腰,=eo,
 腰.=eo.
 Đối với!=Đúng!
@@ -293,6 +298,7 @@ KO=KO
 亲也=hôn cũng
 相和=tương hòa
 道我=đạo ngã
+密卷=mật quyển
 天也=trời cũng
 细白=tế bạch
 枫副主任=Phong phó chủ nhiệm
@@ -699,7 +705,34 @@ KO=KO
 死了,=chết rồi,
 死了.=chết rồi.
 辈,=bối phận,
+'地='Địa
+地-=địa
+地!=địa!
+地,=địa,/đất,/,
+地.=địa./địa phương./.
+地?=địa?
+
+道,=nói,/đạo,
+道.=nói./đạo./đường.
+道:=nói:
+道：=nói/nói:
+想!=nghĩ!/muốn!
+想,=nghĩ,/muốn,
+想.=nghĩ./muốn.
+想:=nghĩ:
+
+己被=kỷ bị
+得你=được ngươi/cho ngươi
 
 出息=tiền đồ/triển vọng/viễn cảnh/khả năng thành công/viễn tượng/tiến bộ/khá lên/tiến triển/thu nhập/thu hoạch/lợi/lợi lộc
 一刹那=một sát na/trong tích tắc/trong nháy mắt/trong một sát na
 你在=ngươi đang ở
+女家教=nữ gia giáo
+会给=sẽ cho
+别!=đừng!
+别,=đừng,/biệt,
+别.=đừng./khác.
+利顿=Lợi Đốn
+利郎=lợi lang
+为他=vì hắn/cho hắn/Vì người khác mà làm. Nghĩ tới người khác.
+霍=Hoắc
