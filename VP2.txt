@@ -856,3 +856,6 @@ xiǎo=tiểu
 说罢=dứt lời/nói xong
 驱动了车子=khởi động xe
 一动不动=không cử động/một động cũng không
+还给了=trả lại
+那之后=sau đó
+大人之间的事=chuyện giữa người lớn
