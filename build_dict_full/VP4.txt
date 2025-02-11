@@ -1,0 +1,16 @@
+//câu dài
+
+//số đếm, giờ
+一万亿=một ngàn tỷ/1000 tỉ
+一个周=một vòng/1 cái chu
+一兆=100 tỷ/một ngàn tỷ
+三亿多=hơn ba trăm triệu/hơn ba tỷ
+千顷=trăm ngàn mẫu
+十个亿=một tỷ
+一百亿=một trăm ức/mười tỷ
+万兆=triệu tỷ/một triệu tỷ (*10^14)
+十三亿=mười ba ức/1.3 tỷ
+十亿=một tỷ/mười ức/10 ức/1 tỷ
+七千一百三十四=7,134
+一千八百九十六亿=1896 ức
+四十亿=4 tỷ/bốn mươi tỷ/4 tỉ
