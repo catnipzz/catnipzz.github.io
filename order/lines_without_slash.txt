@@ -30051,23 +30051,21 @@ méng 姐=Mông tỷ
 雨施主=Vũ thí chủ
 这老婆婆=lão bà bà này
 一些家庭=một ít gia đình
-这样一个漂亮的老婆=một lão bà xinh đẹp như vậy
-他的比试=cuộc tỷ thí của hắn
-小冤家=tiểu oan gia
-大人的吩咐=phân phó của đại nhân
-这种强大的异禽=loại chim kì dị mà mạnh mẽ này
-总指挥部里面=trong bộ tổng chỉ huy
-这位年轻公子=vị công tử trẻ tuổi này
-府邸门前=trước cửa phủ đệ
+
+
+
+
+
+
 蒙家庄=Mông gia trang
-那位小哥=vị tiểu ca kia
+
 自己的背景=bối cảnh của chính mình
 鹿大爷=Lộc đại gia
-它们的师妹=sư muội của bọn nó
-这身穿棕袍的老者=ông lão mặc áo bào nâu này
+
+
 这种少爷=loại thiếu gia này
 归老五=Quy lão ngũ
-那疯老人=lão già điên kia
+
 云小姐=Vân tiểu thư
 晏姨太=Yến di thái
 你的天哥哥=Thiên ca ca của ngươi
@@ -30082,46 +30080,45 @@ méng 姐=Mông tỷ
 四家父子=Tứ gia phụ tử
 退伍的老兵=lão binh giải ngũ
 他们的马弟=Mã đệ của bọn họ
-老大地=lão đại mà
-这些主事者=những người chủ trì này
-你们的家长=gia trưởng của các ngươi
+
+
+
 俞大妹子=Du đại muội tử
-不老村长=bất lão thôn trường
-我们姐妹=tỷ muội chúng ta
-三老人中=trong ba lão nhân
-那寨主=người trại chủ kia
+
+
+
+
 这身着紫衣的老者=ông lão mặc áo tím này
-一个十代子弟=một đệ tử đời thứ mười
+
 仇老头=Cừu lão đầu
-那些堂主=những đường chủ kia
+
 皇甫家族少主=thiếu chủ nhà họ Hoàng Phủ
-她表姐=biểu tỷ nàng
+
 那马家=cái kia Mã gia
-老板的房间=phòng của lão bản
+
 龙董事=Long chủ tịch
-它的义妹=nghĩa muội của nó
+
 龙大姐=Long đại tỷ
-主观意识=ý thức chủ quan
-那些老道士=những lão đạo sĩ kia
-这些高官子弟们=Những cao quan tử đệ này
+
+
 言家庄=Ngôn gia trang
-这个穿着黄衣的弟子=đệ tử mặc áo vàng này
-大哥的事儿=chuyện của đại ca
+
+
 龙贤弟=Long hiền đệ
 归师姐=Quy sư tỷ
 熊教主=Hùng giáo chủ
-世界第一=đệ nhất thế giới
-他妹妹=muội muội của hắn
-这老农=người lão nông này
-长久从事=tham gia vào một thời gian dài
+
+
+
+
 翩翩佳公子=phiên phiên giai công tử
 的路家庄=Lộ gia trang
-母亲的翼护=che chở của mẫu thân
+
 慕容副县长=Mộ Dung phó chủ tịch huyện
 宁老先生=Ninh lão tiên sinh
 温大姐=Ôn đại tỷ
 左寨主=Tả trại chủ
-这蓝衣长老=trưởng lão áo lam này
+
 越老弟=Việt lão đệ
 边哥哥=Biên ca ca
 潘乡长=Phan chủ tịch xã
@@ -30131,36 +30128,36 @@ méng 姐=Mông tỷ
 顾师姐=Cố sư tỷ
 焉门主=Yên môn chủ
 钟大妹=Chung đại muội
-那阁主=người Các chủ kia
+
 舞妹妹=Vũ muội muội
 费家的天下=thiên hạ của Phí gia
-有些国家=có vài quốc gia
+
 老力气=lão lực khí
 归师弟=Quy sư đệ
 填师妹=Điền sư muội
-老夫的手心=lòng bàn tay lão phu
+
 第一大臣=đệ nhất đại thần
 司马老=Tư Mã lão
 苗副门主=Miêu phó môn chủ
 大道第三音=đại đạo đệ tam âm
-中央帝国叶家的人=người của Trung Ương Đế Quốc Diệp gia
-更其主=càng kỳ chủ hơn
-第一名不副实=đệ nhất hữu danh vô thực
+
+
+
 边少爷=Biên thiếu gia
-公子不公子=công tử hay không công tử
+
 身穿金衣的老者=ông lão mặc áo vàng
 佐县长=Tá chủ tịch huyện
 海大人=Hải đại nhân
 土老鼠=thổ lão thử
-那样一位师弟=một vị sư đệ như vậy
-能做东=có thể làm chủ
+
+
 填堂主=Điền đường chủ
 闻老太师=Văn lão thái sư
 龙大人=Long đại nhân
 谭副乡长=Đàm phó chủ tịch xã
 自己的家景=gia cảnh của mình
 米老兄=Mễ lão huynh
-他的霸道和柔情=bá đạo và nhu tình của hắn
+
 归老四=Quy lão tứ
 外围 **=ngoại vi đệ tử
 边老四=Biên lão tứ
@@ -30168,7 +30165,7 @@ méng 姐=Mông tỷ
 修炼室的主人=chủ nhân của phòng tu luyện
 宁洞主=Ninh động chủ
 佘家庄=Xà gia trang
-第一炼丹大师=đệ nhất luyện đan đại sư
+
 陶副门主=Đào phó môn chủ
 左大姐=Tả đại tỷ
 祁某人=Kỳ mỗ
@@ -30176,32 +30173,32 @@ méng 姐=Mông tỷ
 更老卫=càng lão Vệ hơn
 人体组织样本=mẫu mô cơ thể người
 公孙县长=Công Tôn chủ tịch huyện
-那元老=người nguyên lão kia
+
 的米弟=Mễ đệ
 黄总裁=tổng giám đốc Hoàng
-那管家道=quản gia kia nói
-这些圣主=những Thánh chủ này
+
+
 股脑儿=cổ não nhi
 霍家族少主=thiếu chủ nhà họ Hoắc
 姓江的大家族=đại gia tộc họ Giang
-大家出身=đại gia xuất thân
-白大公子=Bạch đại công tử
-这个穿黑袍的老者=ông lão mặc áo bào đen này
-更老边=càng lão Biên hơn
-渡着步子=di chuyển bước chân
-这位主将=vị chủ tướng này
-五儿媳=ngũ nhi tức
-更大伯=càng đại bá hơn
-这位妖主=vị yêu chủ này
 
-你们的好少爷=hảo thiếu gia của các ngươi
-此座主峰=toà chủ phong này
-之家法=gia pháp
+白大公子=Bạch đại công tử
+
+
+
+
+
+
+
+
+
+
+
 冷老弟=Lãnh lão đệ
 
 滕大公子=Đằng đại công tử
-它的兄弟们=các huynh đệ của nó
-加入了战场=đã gia nhập chiến trường
+
+
 尊副乡长=Tôn phó chủ tịch xã
 田副主任=Điền phó chủ nhiệm
 候寨主=Hậu trại chủ
