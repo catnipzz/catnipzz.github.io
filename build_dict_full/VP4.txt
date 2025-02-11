@@ -1,7 +1,0 @@
-//số đếm, giờ
-一万亿=một ngàn tỷ/1000 tỉ
-一个周=một vòng/1 cái chu
-一兆=100 tỷ/một ngàn tỷ
-三亿多=hơn ba trăm triệu/hơn ba tỷ
-千顷=trăm ngàn mẫu
-十个亿=một tỷ
