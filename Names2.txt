@@ -434,3 +434,7 @@ C 国=Trung Quốc
 司马=Tư Mã/họ Tư Mã
 司马仲达=Tư Mã Trọng Đạt
 司马光=Tư Mã Quang
+刘远=Lưu Viễn
+刘桢=Lưu Trinh
+刘薪=Lưu Lương
+安正=An Chính

@@ -805,3 +805,4 @@ xiǎo=tiểu
 下播=livestream/phát sóng
 我弟弟是=đệ đệ ta là
 拍女儿的手=vỗ tay của nữ nhi
+没用=vô dụng/không có giá trị/không có tác dụng/không cần

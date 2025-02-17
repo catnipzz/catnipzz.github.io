@@ -28,6 +28,7 @@
 应了=đáp lại
 那也是=đó cũng là
 的产生=sự xuất hiện/sự ra đời
+
 .=//câu hiếm
 看的极重=cực kỳ xem trọng
 性格还行=tính cách vẫn tốt
