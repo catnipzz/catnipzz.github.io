@@ -1,40 +1,12 @@
 
 之家徽=gia huy
-关老=Quan lão
-卫老鬼=Vệ lão quỷ
-向某=Hướng mỗ
-姜副门主=Khương phó môn chủ
-宋大爷=Tống đại gia
-成姨=Thành di
-毛小妹=Mao tiểu muội
-电儿=điện nhi
-老羊=lão Dương
-良主=lương chủ
-解某=Giải mỗ
-赛儿=Tái nhi
-一昧=nhất muội
 
-丁儿=Đinh nhi
-丁副门主=Đinh phó môn chủ
-丁城主=Đinh thành chủ
-丁妹=Đinh muội
-丁嫂=Đinh tẩu
-丁老八=Đinh lão bát
-丁老四=Đinh lão tứ
-丁门主=Đinh môn chủ
-丁阿姨=Đinh a di
-七叔=Thất thúc
-七妹=Thất muội
-七姐=Thất tỷ
-七姨八妈=thất di bát mụ
-七姨太=Thất di thái
-七爷=Thất gia
-七老=Thất lão
-万大哥=Vạn đại ca
-万师弟=Vạn sư đệ
+
+
+
+
 万某=Vạn mỗ
 万老=Vạn lão
-上官大哥=Thượng Quan đại ca
 世叔=thế thúc
 世妹=thế muội
 世界主义=chủ nghĩa thế giới
@@ -54,13 +26,13 @@
 丹姐=Đan tỷ
 为叔=vi thúc
 主审=chủ thẩm
-主审官=chủ thẩm quan
-主抓=chủ trảo
+
+
 主身=chủ thân
 主过=chủ quá
-主道=chủ đạo
+
 主阵眼=chủ trận nhãn
-主音=chủ âm
+
 
 之歌=chi ca
 乐哥=Nhạc ca
@@ -73,7 +45,7 @@
 二猛哥=Nhị Mãnh ca
 云叔=Vân thúc
 云城主=Vân thành chủ
-云妹=Vân muội
+
 云少主=Vân thiếu chủ
 云师叔=Vân sư thúc
 云师祖=Vân sư tổ
@@ -262,7 +234,7 @@
 北家=Bắc gia
 北师叔=Bắc sư thúc
 北老怪=Bắc lão quái
-医学专家=chuyên gia y học
+
 十一弟=Thập Nhất đệ
 十妹=thập muội
 十老=thập lão
@@ -280,7 +252,7 @@
 卓老七=Trác lão thất
 单哥=Đan ca
 单姨=Đan di
-卖主求荣=bán chủ cầu vinh
+
 南加=nam gia
 南某=Nam mỗ
 南老怪=Nam lão quái
@@ -562,23 +534,23 @@
 家小业小=gia tiểu nghiệp tiểu
 家属区=khu gia quyến
 家师=gia sư
-家庭暴力=bạo lực gia đình
+
 家庭观=gia đình quan
 家徒=gia đồ
 家方=gia phương
-家族深=trong gia tộc
+
 家权=gia quyền
 家派=gia phái
 家用电器=đồ điện gia dụng
 家眷=gia quyến
-家眷中=trong gia quyến
+
 家祖=gia tổ
 家纹=gia văn
 家臣=gia thần
 家臣们=các gia thần
-家长制=chế độ gia trưởng
-家门不幸=gia môn bất hạnh
-宾东=khách cùng chủ
+
+
+
 密家=mật gia
 富姐=tỷ phú
 寒家的人=người của Hàn gia
@@ -595,14 +567,12 @@
 将爷=Tướng gia
 尊城主=Tôn thành chủ
 尊家=Tôn gia
-小三哥=Tiểu Tam ca
-小主播=tiểu chủ bá
-小书仙=tiểu thư tiên
 
 
 
 
-小姐儿=tiểu thư nhi
+
+
 
 小杨姐姐=tiểu Dương tỷ tỷ
 小欣姐=tiểu Hân tỷ
@@ -620,7 +590,7 @@
 尧母=Nghiêu mẫu
 
 尹家=Doãn gia
-屁=cái rắm
+
 屋主=chủ nhà
 展叔=Triển thúc
 展哥=Triển ca
@@ -661,8 +631,7 @@
 崔师叔=Thôi sư thúc
 崔弟=Thôi đệ
 崔老六=Thôi lão lục
-工厂主=chủ nhà xưởng
-工坊主=chủ xưởng
+
 左儿=Tả nhi
 左叔=Tả thúc
 左姨=Tả di
@@ -673,13 +642,13 @@
 巴某=Ba mỗ
 
 师城主=Sư thành chủ
-师姐=sư tỷ
 师弟的剑=kiếm của sư đệ
 师祖们=các sư tổ
+
 希家=Hi gia
 希门主=Hi môn chủ
 帝家=Đế gia
-带不动=không di chuyển được
+
 師弟=sư đệ
 席家=Tịch gia
 常哥=Thường ca
@@ -696,7 +665,7 @@
 平姐姐=Bình tỷ tỷ
 平少主=Bình thiếu chủ
 平弟=Bình đệ
-平等主义=bình đẳng chủ nghĩa
+
 年哥=Niên ca
 幻哥=Huyễn ca
 庄主=trang chủ
@@ -713,8 +682,8 @@
 庞姨=Bàng di
 庞少主=Bàng thiếu chủ
 庞师叔=Bàng sư thúc
-座主=toạ chủ
-庵主=am chủ
+
+
 康老=Khang lão
 廖家=Liêu gia
 廖师叔=Liêu sư thúc
@@ -796,13 +765,12 @@
 
 
 
-推动出=thúc đẩy ra
-摊贩主=chủ hàng rong
 
-擂主=đài chủ
+
+
 摩加=ma gia
 
-教务室=phòng giáo vụ
+
 敬家=Kính gia
 
 
@@ -815,7 +783,7 @@
 文爷=Văn gia
 文老=Văn lão
 文老鬼=Văn lão quỷ
-料斗=sọt đựng thức ăn gia súc
+
 
 斯家=Tư gia
 
@@ -1305,12 +1273,8 @@
 秦长老=Tần trưởng lão
 秦阿姨=Tần a di
 
-移师=di chuyển quân đội
-移种=di chủng
-移过去=di chuyển qua
-移门=di môn
-移驾=di giá
-移魂=di hồn
+
+
 程城主=Trình thành chủ
 程大哥=Trình đại ca
 程爷=Trình gia
@@ -1421,9 +1385,9 @@
 
 
 老妹=lão muội
-老妻=lão thê
 老威=lão Uy
-老娘忍=lão nương nhịn
+
+
 老子命=mạng của lão tử
 老子的刀=đao của lão tử
 老子的命=mạng của lão tử
@@ -1446,9 +1410,8 @@
 老祖=lão tổ
 老神=lão thần
 老者的心=trái tim của ông lão
-老者的脸=mặt của lão giả
-老萝莉=lão la lỵ
-老虎不在山=lão hổ bất tại sơn
+
+
 老计=lão Kế
 老豹=lão Báo
 老贺=lão Hạ
@@ -1471,7 +1434,7 @@
 聂妹=Nhiếp muội
 聂姨=Nhiếp di
 聂爷=Nhiếp gia
-肉畜=gia súc lấy thịt
+
 肖叔=Tiếu thúc
 肖大叔=Tiếu đại thúc
 肖少主=Tiếu thiếu chủ
@@ -1624,7 +1587,7 @@
 虚走=hư tẩu
 虞儿=Ngu nhi
 蛇老=Xà lão
-蛙儿=oa nhi
+
 蛮儿=Man nhi
 蜂家=Phong gia
 行哥=Hành ca
@@ -1708,8 +1671,7 @@
 贝总=Bối tổng
 贞儿=Trinh nhi
 贤弟=hiền đệ
-贤臣择主而事=hiền thần chọn chủ mà theo
-贫困家庭=gia đình nghèo khó
+
 贵师叔=quý sư thúc
 费家=Phí gia
 费老鬼=Phí lão quỷ
@@ -1765,7 +1727,7 @@
 路弟=Lộ đệ
 路母=Lộ mẫu
 路长老=Lộ trưởng lão
-身为母亲的她=nàng thân là mẫu thân
+
 车主=chủ xe
 车家=Xa gia
 车模=người mẫu xe hơi
@@ -1786,23 +1748,18 @@
 达爷=Đạt gia
 迁徒=di dời
 过少主=qua thiếu chủ
-这个区=cái khu vực này
+
 这令主=người lệnh chủ này
-这头家=gia đình này
-这家伙的名=tên của gia hỏa này
+
 这峰主=người phong chủ này
 这把铲=cái cây xẻng này
 这皇主=người hoàng chủ này
 这老卫=người lão Vệ này
 这路家=Lộ gia này
 连师伯=Liên sư bá
-连里=thông gia
-适婚=đến lúc lập gia đình
+
 逸门主=Dật môn chủ
-遗传基因=gien di truyền
-遗传工程=công trình di truyền
-遗传病=bệnh di truyền
-遗像中=trong di ảnh
+
 遗命=di mệnh
 遗土=di thổ
 遗学=di học
@@ -1830,7 +1787,7 @@
 邱母=Khâu mẫu
 邱老八=Khâu lão bát
 邱老鬼=Khâu lão quỷ
-邸宅=phủ đệ
+
 邹先生=Trâu tiên sinh
 郑二公子=Trịnh nhị công tử
 郑伯=Trịnh bá
@@ -1855,7 +1812,7 @@
 酒师叔=Tửu sư thúc
 酒老怪=tửu lão quái
 释伯=Thích bá
-重商主义=trọng thương chủ nghĩa
+
 金主=kim chủ
 金副门主=Kim phó môn chủ
 金姨=Kim di
@@ -1893,8 +1850,8 @@
 铁老鬼=Thiết lão quỷ
 铃儿=Linh nhi
 银老=Ngân lão
-长佬=trưởng lão
-长嫂=trưởng tẩu
+
+
 长恨歌=Trường hận ca
 长老们=các trưởng lão
 长老们的心=lòng của các trưởng lão
@@ -1914,7 +1871,7 @@
 阴老=Âm lão
 阴谋家=âm mưu gia
 阴阳家=âm dương gia
-阿伯=a bá
+
 阿弥多婆夜=a di đa bà dạ
 陆城主=Lục thành chủ
 陆妹=Lục muội
@@ -2009,7 +1966,7 @@
 霸王般=như bá vương
 霸王花=bá vương hoa
 霸者=bá giả
-霸道之极=cực kỳ bá đạo
+
 青姐=Thanh tỷ
 青春不老=thanh xuân bất lão
 青老怪=Thanh lão quái
@@ -2063,8 +2020,7 @@
 风老七=Phong lão thất
 风老怪=Phong lão quái
 飞儿=Phi nhi
-馊主=điện chủ
-首歌曲=bài ca khúc
+
 馨姐=Hinh tỷ
 马兄弟=Mã huynh đệ
 马哥=Mã ca
@@ -2323,13 +2279,11 @@
 魏伯=Ngụy bá
 鱼爷=Ngư gia
 鳌家=Ngao gia
-鹰派=phái chủ chiến
+
 麻母=Ma mẫu
 黄老鬼=Hoàng lão quỷ
 二姨子=nhị di tử
-五弟=Ngũ đệ
 任妹=Nhâm muội
-作不了主=không làm chủ được
 俞哥=Du ca
 凡哥=Phàm ca
 劫家=Kiếp gia
@@ -2360,7 +2314,7 @@
 余老鬼=Dư lão quỷ
 候弟=Hậu đệ
 倩姨=Thiến di
-加緊=gia tăng
+
 单主=đơn chủ
 单母=Đan mẫu
 卢姨=Lô di
@@ -2369,12 +2323,12 @@
 古董商=thương gia đồ cổ
 吴老六=Ngô lão lục
 周老怪=Chu lão quái
-国脚=tuyển thủ quốc gia
-堂哥=đường ca
+
+
 墨老=Mặc lão
 士家=Sĩ gia
 大家畜=gia súc lớn
-姊夫=tỷ phu
+
 威哥=Uy ca
 家累=gánh nặng gia đình
 岳老怪=Nhạc lão quái
@@ -2413,54 +2367,45 @@
 锋哥=Phong ca
 阙叔=Khuyết thúc
 陵某=Lăng mỗ
-雕塑家=điêu khắc gia
+
 震少主=Chấn thiếu chủ
 霍弟=Hoắc đệ
 风叔=Phong thúc
 首词=bài ca
 七姨=Thất di
 万家=Vạn gia
-三兆=300 tỷ
+
 三少主=Tam thiếu chủ
 三师嫂=tam sư tẩu
 三班倒=thay phiên ba ca
-世传=gia truyền
+
 严老六=Nghiêm lão lục
-主宾=chủ khách
-主持下=dưới sự chủ trì
-主杀=chủ sát
-主权=chủ quyền
-主蛊=độc chủ
-主题曲=khúc chủ đề
-之家督=gia trưởng
+
 乌城主=Ô thành chủ
-二少主=Nhị thiếu chủ
-二表妹=Nhị biểu muội
+
 云老鬼=Vân lão quỷ
 云门主=Vân môn chủ
 五某=Ngũ mỗ
-人道主义=chủ nghĩa nhân đạo
+
 仔畜=gia súc con
 伙儿=hỏa nhi
-传家之宝=truyền gia chi bảo
-传播下=truyền bá xuống
+
 伯国=bá quốc
 何母=Hà mẫu
 余叔=Dư thúc
 余家村=Dư gia thôn
 佟老鬼=Đông lão quỷ
-你嗯=mẫu thân ngươi
+
 促声=thanh thúc
-修正主义=chủ nghĩa xét lại
+
 候姐=Hậu tỷ
-做不了主=không làm chủ được
+
 傅家庄=Phó gia trang
 儒哥=Nho ca
-儒家思想=tư tưởng nho gia
-兄弟们上=các huynh đệ lên
+
 公子哥=công tử ca
 公孙老儿=Công Tôn lão nhi
-共是=tổng cộng
+
 典哥=Điển ca
 冰姐=Băng tỷ
 加强连=gia cường liên
@@ -2483,32 +2428,28 @@
 周师祖=Chu sư tổ
 唐弟=Đường đệ
 四代目=đệ tứ
-回主上=bẩm chủ thượng
+
 土老怪=Thổ lão quái
-堂嫂=đường tẩu
+
 夏母=Hạ mẫu
-大夥儿=đại khoả nhi
-女公子=tiểu thư
-女弟子=nữ đệ tử
-姊姊=tỷ tỷ
+
 姐妹内=trong tỷ muội
 姑娘家=cô nương gia
 姬师叔=Cơ sư thúc
 姬门主=Cơ môn chủ
-嫩模=người mẫu trẻ
+
 孔儿=Khổng nhi
 孔城主=Khổng thành chủ
-孔家=Khổng gia
+
 孔家庄=Khổng gia trang
 孔老二=Khổng lão nhị
 孙姨=Tôn di
 孙长老=Tôn trưởng lão
 安王爷=An vương gia
-宗派主义=chủ nghĩa bè phái
+
 宝儿=Bảo nhi
-家翻宅乱=gia đình xào xáo
-家谱里=trong gia phả
-家运=gia vận
+
+
 封老七=Phong lão thất
 小公爷=tiểu công gia
 展伯=Triển bá
@@ -2537,14 +2478,12 @@
 影老=Ảnh lão
 徐大哥=Từ đại ca
 徐姨=Từ di
-徒儿们=các đồ nhi
-总集=tổng tập
-恶霸们=bọn ác bá
+
 慕师叔=Mộ sư thúc
 成伯=Thành bá
 成功率是=tỷ lệ thành công là
 成天价=giá trên trời
-我们的主人是=chủ nhân của chúng ta
+
 我们萧家=Tiêu gia chúng ta
 我师伯=sư bá ta
 我师祖=sư tổ ta
@@ -2563,7 +2502,7 @@
 杜家庄=Đỗ gia trang
 松儿=Tùng nhi
 林师叔=Lâm sư thúc
-枢机主教=hồng y giáo chủ
+
 柯姨=Kha di
 柯师叔=Kha sư thúc
 柯老怪=Kha lão quái
@@ -2597,11 +2536,11 @@
 烛儿=chúc nhi
 焦家=Tiêu gia
 焦爷=Tiêu gia
-物归原主=vật quy nguyên chủ
+
 独唱=đơn ca
 玉城主=Ngọc thành chủ
 王老七=Vương lão thất
-理想主义=chủ nghĩa lý tưởng
+
 瑞儿=Thụy nhi
 甄母=Chân mẫu
 田副门主=Điền phó môn chủ
@@ -2611,15 +2550,15 @@
 白老儿=Bạch lão nhi
 白老八=Bạch lão bát
 皮副千总=Bì phó thiên tổng
-瞧来=nhìn tới
+
 石副门主=Thạch phó môn chủ
 禾家=Hòa gia
 秦家庄=Tần gia trang
 秦老七=Tần lão thất
-移动间=vừa di động
+
 章某=Chương mỗ
 童老六=Đồng lão lục
-结义兄弟=huynh đệ kết nghĩa
+
 罗儿=La nhi
 罗家庄=La gia trang
 翟妹=Địch muội
@@ -2712,15 +2651,11 @@
 黄叔=Hoàng thúc
 黄师叔=Hoàng sư thúc
 黄须儿=Hoàng Tu nhi
-齐家治国平天下=tề gia trì quốc bình thiên hạ
+
 龙家的人=người của Long gia
 龙师祖=Long sư tổ
-...等=... các loại
-一主一仆=một chủ một tớ
-一搭一唱=một ca một xướng
-一罩=bao một cái
-一逼=ép một cái
-一霸=một phương bá chủ
+
+
 丁先生=Đinh tiên sinh
 丁叔=Đinh thúc
 丁姐=Đinh tỷ
@@ -2737,21 +2672,17 @@
 万哥=Vạn ca
 万城主=Vạn thành chủ
 万少主=Vạn thiếu chủ
-三代雷影=Raikage đệ tam
-三伯=Tam bá
-三十而立=tam thập nhi lập
-三哥=tam ca
-三姐=tam tỷ
-三姨太=Tam di thái
-三嫂=Tam tẩu
+
+
+
 三昧火=lửa tam muội
-三朝元老=tam triều nguyên lão
-三民主义=chủ nghĩa Tam Dân
+
+
 三老=Tam lão
 上主=thượng chủ
 上千亿=hơn trăm tỷ
 上官帮主=Thượng Quan bang chủ
-下星期日=chủ nhật tuần sau
+
 不儿=Bất nhi
 不和数=không tổng số
 不宁爷=không Trữ gia
@@ -2759,15 +2690,15 @@
 不杀主=không sát chủ
 不爱儿=không ái nhi
 不老藤=không dây leo già
-专垩家=chuyên gia
+
 世人皆叹=người người ca tụng
 世医=thầy thuốc gia truyền
 丘师伯=Khâu sư bá
 东嫂=Đông tẩu
 东瑞太叔=đông thụy thái thúc
 丞相家=Thừa tướng gia
-两兆=200 tỷ
-两姐妹=hai tỷ muội
+
+
 两班倒=hai ca
 严伯=Nghiêm bá
 严先生=Nghiêm tiên sinh
@@ -2779,105 +2710,23 @@
 严老鬼=Nghiêm lão quỷ
 丰哥=Phong ca
 为义妹=vi nghĩa muội
-为徒=làm đồ đệ
-主义=chủ nghĩa
-主事者=người chủ trì
-主们=chủ môn
-主位=chủ vị
-主位上=chủ vị
-主副=chủ phó
-主办人=người làm chủ
-主动内=trong lúc chủ động
-主动来=chủ động tới
-主动脉弓=cung động mạch chủ
-主动进攻=chủ động tấn công
-主受=chủ thụ
-主和=chủ hòa
-主婚=chủ hôn
-主官=chủ quan
-主客=chủ khách
-主导作用=tác dụng chủ đạo
-主导着=chủ đạo
-主帆=cánh buồm chính
-主座=chủ tọa
-主意多=nhiều chủ ý
-主打歌=bài hát chủ đề
-主持上=trên sự chủ trì
-主教堂=chủ giáo đường
-主母=chủ mẫu
-主河道=nhánh sông chủ
-主炮=chủ pháo
-主焰=chủ diễm
-主神们=các chủ thần
-主祭=chủ tế
-主站=chủ trạm
-主簿=chủ bộ
-主考官=quan chủ khảo
-主能=chủ năng
-主脉=chủ mạch
-主舰=chủ hạm
-主薄=chủ bạc
-主观=chủ quan
-主记=chủ ký
-主词=chủ ngữ
-主辱臣死=chủ nhục thần tử
-主阵=chủ trận
-主随客便=chủ tùy khách tiện
-主题词=từ chủ đề
-丽姐=Lệ tỷ
-举而=cử nhi
-义儿=Nghĩa nhi
-义妹=nghĩa muội
-之大主=đại chủ
-乐姐=Nhạc tỷ
-乐观主义=chủ nghĩa lạc quan
-乔大哥=Kiều đại ca
-乔家=Kiều gia
-乔总=Kiều tổng
-乔老=Kiều lão
-九伯=Cửu bá
-九叔=Cửu thúc
-九姐=Cửu tỷ
-九姨=Cửu di
-九师祖=Cửu sư tổ
-习家=Tập gia
-乡亲父老们=các hương thân phụ lão
-书香门第=thư hương môn đệ
-乾儿=Càn nhi
-事务主义=chủ nghĩa sự vụ
-事易时移=sự dịch thời di
-二儿=Nhị nhi
-二城主=nhị thành chủ
-二堂哥=nhị đường ca
-二堂嫂=nhị đường tẩu
-二女儿=nhị nữ nhi
-二姨太=Nhị di thái
-二师伯=Nhị sư bá
-二师祖=Nhị sư tổ
-二弟=nhị đệ
-二当家=Nhị đương gia
-二老板=Nhị lão bản
-二表嫂=nhị biểu tẩu
+
 于家=Vu gia
 于爷=Vu gia
 云姐=Vân tỷ
 云家=Vân gia
 云总=Vân tổng
 云老怪=Vân lão quái
-五伯=Ngũ bá
-五加=cây ngũ gia bì
-五叔=Ngũ thúc
-五师祖=Ngũ sư tổ
-五老=Ngũ lão
+
+
 五霸=ngũ bá
 亦母=Diệc mẫu
 亮哥=Lượng ca
-亲弟=thân đệ
-人主所为=người vì chủ mà làm
-人文主义=chủ nghĩa nhân văn
+
+
 仇家的人=người của Cừu gia
-他姐=tỷ hắn
-他的第八魂技=đệ bát hồn kỹ của hắn
+
+
 付总=Phó tổng
 付某=Phó mỗ
 仙儿=Tiên nhi
@@ -2902,13 +2751,9 @@
 企业主=chủ xí nghiệp
 伊总=Y tổng
 伊贺家=Y Hạ gia
-伍家=Ngũ gia
-伍某=Ngũ mỗ
-伍爷=ngũ gia
-众卿家=chúng khanh gia
-众师叔=các sư thúc
-传功长老=truyền công trưởng lão
-传播开=truyền bá ra
+
+
+
 伪城主=Ngụy thành chủ
 伪少主=Ngụy thiếu chủ
 伯爵家=bá tước gia
@@ -2936,8 +2781,7 @@
 余弟=Dư đệ
 余老六=Dư lão lục
 余老怪=Dư lão quái
-作个主=làm chủ
-作坊主=chủ phân xưởng
+
 佟叔=Đông thúc
 佟妹妹=Đông muội muội
 佟姨=Đông di
@@ -2946,10 +2790,10 @@
 佟爷=Đông gia
 你们宋家=Tống gia các ngươi
 你们蔡家=Thái gia các ngươi
-你的主人是=chủ nhân của ngươi
+
 你老=ngươi lão
 佳儿=Giai nhi
-侄女儿=chất nữ nhi
+
 依依姐=Y Y tỷ
 侠儿=Hiệp nhi
 侯哥=Hầu ca
@@ -2961,13 +2805,13 @@
 侯老怪=Hầu lão quái
 侯老鬼=Hầu lão quỷ
 侯门主=Hầu môn chủ
-保卫国家=bảo vệ quốc gia
+
 保哥=Bảo ca
 俞城主=Du thành chủ
 俞嫂=Du tẩu
 俞家=Du gia
 俞某=Du mỗ
-信仰主义=chủ nghĩa tín ngưỡng
+
 候伯=Hậu bá
 候儿=Hậu nhi
 候叔=Hậu thúc
@@ -2978,26 +2822,17 @@
 候老=Hậu lão
 倩姐=Thiến tỷ
 倪某=Nghê mỗ
-停盘=dừng phiên giao dịch
+
 傅城主=Phó thành chủ
 傅家=Phó gia
 傅师叔=Phó sư thúc
 傅爷=Phó gia
-催促上=trên sự thúc giục
-催命鼓=thúc mệnh cổ
-催热=thúc nhiệt
-催的紧=thúc giục quá
+
 僮儿=Đồng nhi
-儒学家=nho học gia
-儒术=học thuật nho gia
+
 元儿=Nguyên nhi
 元某=Nguyên mỗ
-元老们=các nguyên lão
-兄妹俩=hai huynh muội
-兄弟两=hai huynh đệ
-兄弟伙=các huynh đệ
-兄弟俩=hai huynh đệ
-兄弟门=các huynh đệ
+
 兄终弟及=huynh mất đệ tới
 先进国=quốc gia tiên tiến
 党和国家=đảng cùng quốc gia
@@ -3026,10 +2861,9 @@
 兵中之霸=binh trung chi bá
 兵哥=Binh ca
 其妹=kỳ muội
-养家=nuôi gia đình
-养老院=viện dưỡng lão
+
 内家=nội gia
-写实主义=chủ nghĩa tả thực
+
 军哥=Quân ca
 军爷=quân gia
 冠希哥=Quán Hi ca
@@ -3094,15 +2928,8 @@
 剑儿=Kiếm nhi
 剪秋萝=cây mẫu đơn đất
 副主=Phó chủ
-力主=chủ trương gắng sức thực hiện
-加乘=gia thừa
-加害于=gia hại
-加工场=gia công trường
-加护=gia hộ
-加持我身=gia trì thân thể ta
-加烈=gia liệt
-加盟=gia nhập liên minh
-加速运动=chuyển động gia tốc
+
+
 勾九妹=Câu cửu muội
 包伯=Bao bá
 包儿=Bao nhi
@@ -3157,8 +2984,8 @@
 卫老三=Vệ lão tam
 卫门主=Vệ môn chủ
 卿儿=Khanh nhi
-卿家=khanh gia
-历史唯物主义=chủ nghĩa duy vật lịch sử
+
+
 厉伯=Lệ bá
 厉先生=Lệ tiên sinh
 厉姐=Lệ tỷ
@@ -3169,31 +2996,24 @@
 县主=huyện chủ
 县老爷=Huyện lão gia
 参任家=tham Nhâm gia
-参加会议的人=người tham gia hội nghị
+
 参加呢=tham gia sao
-参展=tham gia triển lãm
-参股=tham gia cổ phần
-参试=tham gia thi
-反客为主后=sau khi đổi khách làm chủ
-发型师=nhà tạo mẫu tóc
-叔伯们=các thúc bá
-叔叔们=các thúc thúc
+
 叔嫂=thúc tẩu
 叔至=thúc chí
 叔舅=thúc cữu
-古典主义=chủ nghĩa cổ điển
+
 古副门主=Cổ phó môn chủ
 古哥=Cổ ca
 古家=Cổ gia
 古师叔=Cổ sư thúc
 古师祖=Cổ sư tổ
 古藤老药=cổ đằng lão dược
-另眼看待=nhìn bằng con mắt khác xưa
+
 叫价声=tiếng gọi giá
-可可粉=bột ca cao
-可可脂=nhựa ca cao
-可萝可御=có thể loli có thể ngự tỷ
-台主=đài chủ
+
+
+
 史儿=Sử nhi
 史哥=Sử ca
 史姐=Sử tỷ
@@ -3234,24 +3054,9 @@
 吴老大=Ngô lão đại
 吴老将军=Ngô lão tướng quân
 吴老爷子=Ngô lão gia tử
-告诉老师去=đi nói cho lão sư
-周七=chủ nhật
-周先生=Chu tiên sinh
-周叔=Chu thúc
-周妹=Chu muội
-周姐=Chu tỷ
-周姨=Chu di
-周嫂=Chu tẩu
-周家的人=người của Chu gia
-周师伯=Chu sư bá
-周师叔=Chu sư thúc
-周总=Chu tổng
-周总的车=xe của Chu tổng
-周母=Chu mẫu
-周老七=Chu lão thất
-周老六=Chu lão lục
-周老爷=Chu lão gia
-周门主=Chu môn chủ
+
+
+
 呼老摩=Hô lão ma
 命主=mệnh chủ
 和婉儿=và Uyển nhi
@@ -3260,8 +3065,7 @@
 哀家=ai gia
 哀老=ai lão
 哑伯=Ách bá
-哥哥的脸=mặt của ca ca
-哥的钱=tiền của ca
+
 唐叔=Đường thúc
 唐城主=Đường thành chủ
 唐妹=Đường muội
@@ -3272,17 +3076,13 @@
 唐爷=Đường gia
 唐老鬼=Đường lão quỷ
 唐门主=Đường môn chủ
-唯我主义=chủ nghĩa duy ngã
-唯物主义者=người chủ nghĩa duy vật
-唱歌时=lúc ca hát
-唱诺声=tiếng ca hát
+
 商老太=Thương lão thái
 嗝儿=Cách nhi
 嘉哥=Gia ca
 嘉士伯=gia sĩ bá
-四姨太=Tứ di thái
-四师祖=Tứ sư tổ
-国家机密的事=chuyện quốc gia cơ mật
+
+
 国度内=trong quốc gia
 国母=quốc mẫu
 图姐=Đồ tỷ
@@ -3294,13 +3094,13 @@
 图门主=Đồ môn chủ
 圆伯=Viên bá
 圆家=Viên gia
-圆满结束=kết thúc mỹ mãn
+
 圆爷=Viên gia
-土地爷=thổ địa gia
-土母=thổ mẫu
+
+
 土母石=thổ mẫu thạch
 土老帽=thổ lão mạo
-在催=đang thúc giục
+
 圭子=chủ nhân
 坚叔=Kiên thúc
 坛主=đàn chủ
@@ -3315,12 +3115,12 @@
 堡主=bảo chủ
 塔主=tháp chủ
 境主=cảnh chủ
-增加一倍=gia tăng gấp đôi
+
 墨师祖=Mặc sư tổ
 墨某=Mặc mỗ
 壁儿=Bích nhi
 复儿=Phục nhi
-复合肥=phân bón tổng hợp
+
 夏儿=Hạ nhi
 夏叔=Hạ thúc
 夏姐=Hạ tỷ
@@ -3335,28 +3135,13 @@
 夜妹=Dạ muội
 夜姐=Dạ tỷ
 夜某=Dạ mỗ
-大书家=đại thư gia
-大人死=đại nhân đã chết
-大仁大义=đại nhân đại nghĩa
-大佬家=đại lão gia
-大佬级=cấp đại lão
-大入=đại nhân
-大包干=khoán đến hộ gia đình
-大叔们=các đại thúc
-大叔叔=Đại thúc thúc
-大哥呢=đại ca đâu
-大大增加=gia tăng thật lớn
-大妹=Đại muội
-大姊=đại tỷ
-大姐大=đại tỷ đại
-大少主=Đại thiếu chủ
+
 大弟=Đại đệ
 大总统=tổng thống
 大比武=tỷ võ
 大玩主=đại ngoạn chủ
 大秧歌=đại ương ca
-大选日=ngày tổng tuyển cử
-大长老的意思是=ý của Đại trưởng lão là
+
 大静脉=tĩnh mạch chủ
 大风歌=Đại Phong ca
 天儿=Thiên nhi
@@ -3364,30 +3149,27 @@
 天姐=Thiên tỷ
 天姨太=Thiên di thái
 天家=Thiên gia
-天秤=cán cân nghiêng
+
 天老=Thiên lão
 天老怪=Thiên lão quái
 天老爷啊=thiên lão gia a
 太叔家=Thái Thúc gia
 太老爷=thái lão gia
-头老=lão đầu
+
 奉家=Phụng gia
-女主持=nữ chủ trì
-女学霸=nữ học bá
-女孩家=nữ hài gia
-女模=người mẫu nữ
-女老师=nữ lão sư
-女老板=nữ lão bản
+
+
+
+
 奴大欺主=nô đại khi chủ
 如人主=như nhân chủ
 如家=như gia
-妇道人家=phụ đạo nhân gia
+
 妙家=Diệu gia
 妹侄=muội chất
 姆娘=mỗ nương
-姐弟=tỷ đệ
-姐弟俩=hai tỷ đệ
-姐控=tỷ khống
+
+
 姑姐=cô tỷ
 姚儿=Diêu nhi
 姚嫂=Diêu tẩu
@@ -3404,7 +3186,7 @@
 姜哥=Khương ca
 姜城主=Khương thành chủ
 姜妹=Khương muội
-姜姐=Khương tỷ
+
 姜姨=Khương di
 姜嫂=Khương tẩu
 姜家的人=người của Khương gia
@@ -6918,13 +6700,13 @@ nv儿=nữ nhi
 打我的手机=gọi điện thoại di động của ta
 自己的表弟=biểu đệ của mình
 兰总裁=tổng giám đốc Lan
-白副县长=Bạch phó chủ tịch huyện
+
 那位主任=vị chủ nhiệm kia
 那位巫主=vị vu chủ kia
 她们的头儿=lão đại của các nàng
 尚董事长=Thượng chủ tịch
 七家村=Thất gia thôn
-唐副县长=Đường phó chủ tịch huyện
+
 卢副乡长=Lư phó chủ tịch xã
 墓容家族少主=thiếu chủ nhà họ Mộ Dung
 这样的老头子=dạng này lão đầu tử
@@ -6932,18 +6714,18 @@ nv儿=nữ nhi
 你的成功几率=tỷ lệ thành công của ngươi
 自己的小兄弟=tiểu huynh đệ của mình
 这三名弟子=ba tên đệ tử
-龟姨太=Quy di thái
+
 那穿着绿袍的老者=ông lão mặc áo bào xanh kia
 这样的弟子=đệ tử như vậy
 小叔儿=tiểu thúc nhi
-冷寨主=Lãnh trại chủ
+
 佐大妹子=Tá đại muội tử
 第一神医=đệ nhất thần y
 这个身穿蓝衣的弟子=đệ tử mặc áo lam này
-麻副县长=Ma phó chủ tịch huyện
-赢副总裁=Doanh phó tổng giám đốc
-陶副盟主=Đào phó minh chủ
-裘老九=Cừu lão cửu
+
+
+
+
 老者的心中=trong lòng ông lão
 老人的手下败将=bại tướng dưới tay ông lão
 承蒙长老=kính xin trưởng lão
@@ -6968,7 +6750,7 @@ nv儿=nữ nhi
 你家老头子=lão đầu tử nhà ngươi
 古家公子=công tử nhà họ Cổ
 张大小=cái to nhỏ
-的路叔叔=Lộ thúc thúc
+
 结拜成兄弟=kết bái làm huynh đệ
 这位门主=vị môn chủ này
 我们的大嫂=đại tẩu của chúng ta
@@ -6983,14 +6765,10 @@ nv儿=nữ nhi
 他们的钱老=Tiền lão của bọn họ
 墓容副乡长=Mộ Dung phó chủ tịch xã
 那些老头=những lão đầu kia
-别人的车家=Xa gia của người khác
-苗伯父=Miêu bá phụ
-米总裁=tổng giám đốc Mễ
-小书生=tiểu thư sinh
 还作不得主=cũng không làm chủ được
-您徒弟=đồ đệ của ngài
-路师姐=Lộ sư tỷ
-独孤副县长=Độc Cô phó chủ tịch huyện
+
+
+
 下面的兄弟=huynh đệ phía dưới
 先祖的遗愿=di nguyện của tổ tiên
 在老人的背后=ở sau lưng của ông lão
@@ -12665,7 +12443,7 @@ chéng 姐=Thành tỷ
 马老师=Mã lão sư
 徐副县长=Từ phó chủ tịch huyện
 这穿灰衣的老者=ông lão mặc áo xám này
-我们家世=gia thế chúng ta
+
 山下家族=Yamshita gia tộc
 兵法大家=binh pháp đại gia
 主持者们=những người chủ trì
@@ -29799,8 +29577,8 @@ méng 姐=Mông tỷ
 别人的家君=gia phụ của người khác
 这么说自己老公=nói lão công mình như vậy
 天洞主=Thiên động chủ
-第一军师=đệ nhất quân sư
-真主动学习=thực chủ động học tập
+
+
 大哥的性格=tính cách của đại ca
 行老五=Hành lão ngũ
 贾大小姐=Giả đại tiểu thư
@@ -29878,7 +29656,7 @@ méng 姐=Mông tỷ
 顾王爷=Cố vương gia
 云洞主=Vân động chủ
 路大爷=Lộ đại gia
-大师母=đại sư mẫu
+
 情报总长=tổng trưởng tình báo
 夏县长=Hạ chủ tịch huyện
 陆总裁=tổng giám đốc Lục
@@ -29913,8 +29691,8 @@ méng 姐=Mông tỷ
 家世清白的人家=gia thế thanh bạch nhân gia
 那样的看老娘=nhìn lão nương như vậy
 任何一个小家族=bất kỳ một cái tiểu gia tộc nào
-小妹的心地=tâm địa của tiểu muội
-更傻冒=ngu muội hơn
+
+
 这个界主=người giới chủ này
 之家财=gia tài
 此人手中家当=gia sản trong tay của người nọ
@@ -29989,10 +29767,10 @@ méng 姐=Mông tỷ
 田总管=Điền tổng quản
 抱着自己的老者=lão giả ôm mình
 大哥的生日=sinh nhật của đại ca
-个老农=lão nông
+
 三万九千亿=ba ngàn chín trăm tỷ
 山爷爷=Sơn gia gia
-不浮动=không di động
+
 孟家族少主=thiếu chủ nhà họ Mạnh
 肖老太=Tiếu lão thái
 副总管之一=một trong Phó tổng quản
@@ -30017,7 +29795,7 @@ méng 姐=Mông tỷ
 范家公子=công tử nhà họ Phạm
 某些人和某些事=mỗ ta nhân cùng mỗ ta sự
 令狐施主=Lệnh Hồ thí chủ
-节能主义=chủ nghĩa tiết kiệm năng lượng
+
 老人的手下=thủ hạ của ông lão
 四姐妹中=trong bốn tỷ muội
 左副主席=Tả phó chủ tịch
@@ -30162,14 +29940,14 @@ méng 姐=Mông tỷ
 外围 **=ngoại vi đệ tử
 边老四=Biên lão tứ
 主殿里面=trong chủ điện
-修炼室的主人=chủ nhân của phòng tu luyện
+
 宁洞主=Ninh động chủ
 佘家庄=Xà gia trang
 
 陶副门主=Đào phó môn chủ
 左大姐=Tả đại tỷ
 祁某人=Kỳ mỗ
-奴隶主们=đám chủ nô
+
 更老卫=càng lão Vệ hơn
 人体组织样本=mẫu mô cơ thể người
 公孙县长=Công Tôn chủ tịch huyện
@@ -30225,7 +30003,7 @@ méng 姐=Mông tỷ
 
 云堂主=Vân đường chủ
 老者的路途=đường xá của ông lão
-过百亿=hơn 10 tỷ
+
 也增加了=đã gia tăng rồi
 公输家=Công Thâu gia
 这些兄弟们=những huynh đệ này
@@ -30235,7 +30013,7 @@ méng 姐=Mông tỷ
 老式住宅=lão thức trụ trạch
 唐县长=Đường chủ tịch huyện
 霸天下=bá thiên hạ
-他们的老朋友=lão bằng hữu của bọn hắn
+
 
 
 大, 大大人=đại, đại đại nhân

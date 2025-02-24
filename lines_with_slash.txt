@@ -3,32 +3,11 @@
 
 
 东=đông/nghĩa vụ chủ nhà
-
-
-
-
-
-
-
-
-
 卖艺=mãi nghệ/làm xiếc/múa võ/ca hát
-
-印玺=ấn tỉ/ấn tỷ
+印玺=ấn tỉ
 厂家=xưởng/công xưởng/nhà máy/chủ nhà máy/chủ hãng
 古灵精怪=cổ linh tinh quái/nhí nha nhí nhảnh/một cách tinh quái
-
-
-
-
-
-
 天母=Thiên mẫu
-
-
-
-
-
 字帖=tự thiếp/bảng chữ mẫu
 字母表=bảng chữ cái/bảng mẫu tự
 存心=có chủ tâm/ý định/mưu đồ/manh tâm/cố tình/rắp tâm/cố ý
@@ -56,11 +35,10 @@
 成家立业=thành gia lập nghiệp/cưới vợ xây dựng cơ nghiệp
 成心=cố tình/cố ý/có chủ tâm
 成群结队=thành quần kết đội/cả đàn cả lũ/kết bè kết đội/cả đàn cả lũ/kết bè kết lũ
-我儿=con ta/hài nhi của ta/con trai của ta
-我姐=tỷ ta/tỷ của ta
-我弟=em ta/ngã đệ/em của ta
+我儿=con ta
+我弟=em ta/ngã đệ
 战例=trận điển hình/trận mẫu/chiến tích
-戚师弟=Thích sư đệ/Thích  sư đệ
+
 户头=tài khoản/người gửi tiết kiệm/chủ sổ tiết kiệm/trương mục/công
 所有=tất cả/sở hữu/hết thảy/vật sở hữu/toàn bộ/sở hữu tất cả
 扁柏=cây trắc bá diệp/cây chamaecyparis obtusa/cây biển bách/cây bách lá tù
@@ -108,7 +86,7 @@
 文牍主义=chủ nghĩa giấy tờ/bệnh quan liêu giấy tờ
 斗拳=đấu quyền/tỷ thí quyền thuật
 斗转星移=đẩu chuyển tinh di/vật đổi sao dời/thời thế thay đổi/bãi biển hoá nương dâu/đấu chuyển tinh di
-新姑爷=cô gia mới/chú rể mới
+新姑爷=cô gia mới
 施加=thực hiện/gây/làm/gia tăng - thi hành/tạo nên
 族主=tộc chủ/chủ họ
 族谱=gia phả/tộc phổ
@@ -139,12 +117,10 @@
 本体论=bản thể luận/hình nhi thượng học
 本少=bản thiếu/thiếu gia ta
 本少主=bổn thiếu chủ/bản thiểu chủ
-
-朵颐=cắn ăn/ăn ngốn/ăn/đóa di
+朵颐=cắn ăn
 机械论=chủ nghĩa duy vật máy móc/cơ giới luận
 杀机=sát cơ/sát khí/ý định giết người/chủ tâm giết người
 杂院儿=sân chung/sân chung của nhiều hộ gia đình
-
 束住=thúc trụ/trói lại
 束腰=đai lưng/thúc yêu
 束身=giữ mình/tự rèn mình/tự trói buộc/thúc thân
@@ -239,7 +215,7 @@
 煤老板=đại gia dầu mỏ/ông chủ than
 煮豆燃萁=củi đậu nấu đậu/nồi da xáo thịt/huynh đệ tương tàn
 爱国如家=yêu nước như nhà/yêu đất nước như yêu gia đình của mình
-父母=phụ mẫu/cha mẹ/ba má
+父母=phụ mẫu/cha mẹ
 父母亲=cha mẹ/phụ mẫu thân
 爷儿=gia nhi/ông cháu/cha con
 爷爷=gia gia/ông nội/ông
@@ -612,7 +588,6 @@
 会众=hội chúng/người dự hội nghị/người dự họp/người tham gia
 促使=thúc đẩy/thúc/giục/giục giã
 共计=tổng cộng/tính gộp/tất cả/cả thảy/cùng bàn tính/cùng bàn chuyện/cùng trao đổi/tổng cộng là
-南儿=Nam nhi
 原主=nguyên chủ/chủ cũ
 参加=tham gia/gia nhập/tham dự/dự/đề xuất/đưa ra/cho/góp
 史迹=sử tích/di tích lịch sử
@@ -662,7 +637,7 @@
 调味=gia vị/điều vị
 逃之夭夭=bỏ trốn mất dạng/trốn chạy/bỏ trốn/tẩu thoát/mất dạng/đào chi yêu yêu/chạy mất dép
 遗体=di thể/di hài/xác
-那管家=Quản gia kia/quản gia kia
+那管家=quản gia kia
 霸道=bá đạo/độc tài/chuyên chế/quân phiệt/dùng sức mạnh để trị/ngang ngược/hỗn xược/Bá Đạo
 高师弟=Cao sư đệ/Cao  sư đệ
 黄口小儿=hoàng khẩu tiểu nhi/trẻ em/trẻ con/con nít/mồm còn hôi sữa/nhóc con miệng còn hôi sữa
@@ -703,14 +678,13 @@
 老头儿=lão đầu nhi/ông già/ông lão
 老妈子=lão mụ tử/mụ già
 老朋友=lão bằng hữu/bằng hữu cũ/bạn cũ
-
 话事人=người nói chuyện/người làm chủ
 轰然而散=ầm vang mà tán/oanh nhiên nhi tán
 迁徙=di chuyển/đổi dời/thiên tỷ
 遁入空门=xuất gia/đi tu
 龙头老大=long đầu lão đại/ông trùm
 万亿=vạn ức/ngàn tỷ/ngàn tỉ
-三爷=Tam gia/tam gia
+三爷=Tam gia
 个案=hồ sơ/vụ án đặc biệt/án đặc biệt/ca/vụ kiện/trường hợp cá biệt
 中军=trung quân/chủ soái
 主业=nghề chính/chủ nghiệp
@@ -809,9 +783,9 @@
 老三样=ba cái thứ kinh điển/lão tam
 老兄=lão huynh/anh bạn/ông anh
 老娘=lão nương/mẹ già/mẹ già này/gái già này/già này/bà đỡ đẻ ngày xưa/bà ngoại
-老曾=Lão Tăng/lão Tằng
+
 老板娘=lão bản nương/bà chủ/bà chủ
-老林=rừng già/lão lâm/rừng hoang/rừng nguyên thuỷ/rừng nguyên sinh
+老林=rừng già/rừng hoang/rừng nguyên thuỷ/rừng nguyên sinh
 老汤=lão Thang/nước luộc/nước dưa cũ
 老泪纵横=nước mắt tuôn đầy mặt/lão lệ tung hoành
 老狐狸=lão hồ ly/cáo già
@@ -1018,7 +992,6 @@
 加封=gia phong/dán niêm phong
 加班=tăng ca/thêm ca/làm thêm giờ
 加紧=gấp rút/gia tăng/khẩn trương/tăng cường/cố gắng
-加老=Gia lão
 加薪=tăng lương/lên lương/gia tân
 加速=gia tốc/tăng tốc/tăng tốc độ/tăng nhanh
 加速器=máy gia tốc/máy tăng tốc/gia tốc khí
@@ -1140,8 +1113,8 @@
 增加=gia tăng/tăng/tăng thêm/tăng lên/tăng cường
 夏威夷果=quả mắc-ca/trái cây Hawaii/Macadamia
 外姑=ngoại cô/Mẹ vợ. Như Nhạc mẫu.
-多亿=nhiều ức/nhiều tỷ/hơn trăm triệu
-夜总会=hộp đêm/dạ tổng hội/câu lạc bộ đêm/hộp đêm
+
+夜总会=hộp đêm/dạ tổng hội/câu lạc bộ đêm
 夜班=ca đêm/ca làm đêm
 大人物=đại nhân vật/nhân vật nổi tiếng/người có danh vọng/người tai to mặt lớn
 大人的事=đại nhân sự việc/chuyện của người lớn
@@ -1222,7 +1195,7 @@
 宅门=cổng lớn/cổng chính/gia đình giàu có/nhà cao cửa rộng/trạch môn
 宇宙国=quốc gia vũ trụ/vũ trụ quốc
 安家立业=an cư lập nghiệp/an gia lập nghiệp/An cư lập nghiệp
-宋氏家族=Tống thị gia tộc/gia tộc họ Tống
+
 完工=hoàn thành/xây xong/xong việc/hoàn công/xong/kết thúc/xong công việc/làm xong
 宗主国=mẫu quốc/chính quốc
 宗旨=tôn chỉ/mục đích/tông chỉ/chủ ý quy về cái gì
@@ -1255,7 +1228,7 @@
 家庭环境=hoàn cảnh gia đình/môi trường gia đình
 家当=gia sản/gia tài/của cải/đồ đạc trong nhà
 家暴=bạo lực gia đình/gia bạo
-家母=gia mẫu/mẹ tôi
+家母=gia mẫu
 家生=cuộc sống gia đình/người ở/người hầu/đầy tớ/đồ dùng trong nhà
 家用=gia dụng/dùng ở nhà/đồ dùng gia đình/chi phí trong nhà
 家私=gia sản/tài sản gia đình/tài sản
@@ -1297,7 +1270,7 @@
 
 展期=kéo dài thời hạn/gia hạn/thời hạn triển lãm/thời gian triển lãm/triển kì/khoan cho thêm hẹn nữa
 展限=kéo dài kỳ hạn/gia hạn
-岳家=Nhạc gia/nhạc gia/nhà bố mẹ vợ/nhạc gia
+岳家=Nhạc gia/nhà bố mẹ vợ
 岳母=nhạc mẫu/mẹ vợ
 崇尚=tôn trọng/tôn kính/chiều ý/chiều theo/biện hộ/bào chữa/chủ trương/tán thành/ủng hộ/phong thánh/giữ gìn/duy trì/tôn sùng/sùng thượng
 川贝=xuyên bối/bối mẫu Tứ Xuyên
@@ -1326,7 +1299,7 @@
 庭长=đình trưởng/chủ tọa phiên tòa/chủ toạ
 建国=kiến quốc/thành lập đất nước/lập quốc/thành lập quốc gia/dựng nước/xây dựng đất nước
 弃儿=khí nhi/bỏ rơi con trai
-张千总=Trương Thiên tổng/Trương thiên tổng
+
 弥天大谎=di thiên đại hoang/lời nói dối trắng trợn/nói dối thấu trời/nói dối như cuội/dóc tổ
 弥留=di lưu/hấp hối/sắp chết
 强求=cưỡng cầu/gò ép/khuôn mẫu/yêu cầu quá đáng
@@ -1334,8 +1307,8 @@
 归赵=quy Triệu/vật trở về chủ cũ/châu về hợp phố
 当家=đương gia/quản lý việc nhà/làm nhà/quản gia
 御姐=ngự tỷ/chân dài
-德哥=Đức ca/Đức Ca
-心儿=trái tim/Tâm nhi
+
+心儿=trái tim
 怡然=vui mừng/sung sướng/di nhiên
 总则=sơ lược tiểu sử/quy tắc chung/điều lệ chung/nguyên tắc chung/tổng quát quy tắc
 总务=tổng vụ/hành chính tổng hợp/quản lý/người quản lý/cán bộ hành chính tổng hợp/người phụ trách hành chính tổng hợp
@@ -1431,10 +1404,8 @@
 断定=kết luận/kết thúc/nhận định
 断机=dừng máy/ngừng máy/dừng động cơ/ngừng dệt dạy con/hiền mẫu giáo tử
 新老=mới cũ/mới lão
-方千总=Phương Thiên tổng/Phương thiên tổng
 方家=Phương gia/bậc thầy/chuyên gia có cỡ/người chuyên sâu/người thành thạo
 族产=gia sản dòng họ/của cải gia tộc/gia sản ông bà
-族弟=tộc đệ/Em họ.
 无意识=vô ý thức/không chủ định/không có ý thức
 无神论=vô thần luận/thuyết vô thần/chủ nghĩa vô thần
 早班=đi làm sớm/ca sáng/Ca sớm
@@ -1596,15 +1567,15 @@
 登第=đăng đệ/đăng khoa/đỗ tiến sĩ/thi đỗ
 白文=chính văn/chủ văn/nội dung chính/bản chính văn/nét chìm/chữ chìm/hoa văn chìm
 白种人=người da trắng/người Cáp-ca/mặt tái
-百亿=chục tỷ/10 tỷ/mười tỉ
-百年偕老=bách niên giai lão/Chúc tụng vợ chồng hòa mục trăm năm cùng già. ◇Nho lâm ngoại sử 儒林外史: Chỉ nguyện nhĩ môn phu thê bách niên giai lão/đa tử đa tôn 只願你們夫妻百年偕老/多子多孫
-百户=Bách hộ/bách hộ/bách gia
+
+
+百户=bách hộ/bách gia
 百货公司=công ty tổng hợp/công ty bách hóa
-皇族=Hoàng tộc/hoàng tộc/hoàng thất/hoàng gia
+皇族=hoàng tộc/hoàng thất/hoàng gia
 皮大衣=áo khoác bằng da/áo khoác gia
 相加=tương gia/tăng theo cấp số cộng/gia tăng/cộng lại/lẫn nhau
 看客=quần chúng/khán giả/cử toạ/khách xem/khán giả
-真叔=Chân thúc/chân thúc
+
 真意=chân ý/ý thật/chân thành/chân thật/chủ ý
 眩晕中=trong mê muội/trong hôn mê
 眷属=thân thuộc/gia quyến/thân thích/người nhà/quyến thuộc
@@ -1683,7 +1654,7 @@
 续签=ký tiếp/gia hạn/gia hạn hợp đồng
 绿树成荫=cây xanh râm mát/lục thụ thành ấm - sống già thành đại ca/cây xanh tạo bóng mát/cây xanh tỏa bóng
 
-罗非鱼=cá rô phi/cá rô phi/Cá rô phi
+罗非鱼=cá rô phi
 美人儿=mỹ nhân nhi/tiểu mỹ nhân/mỹ nhân
 美容师=chuyên gia làm đẹp/mỹ dung sư
 美称=tiếng khen/lời khen/lời ca ngợi
@@ -1702,28 +1673,24 @@
 老天爷=lão thiên gia/ông trời/lão trời già/thượng đế/chúa/trời/ông trời già
 老夫子=lão phu tử/thầy đồ/thầy giáo làng/bạch diện thư sinh/trí thức thụ động
 老奸巨猾=cáo già/xảo quyệt/lão gian cự hoạt
-老妈=lão mụ/mẹ
-老妖=lão yêu/lão Yêu
-老姑娘=lão cô nương/gái lỡ thì/bà cô/con gái út
-老婆=lão bà/vợ
-老婆婆=lão bà bà/bà/mẹ chồng
-老婆子=lão bà tử/mụ già/bà nó/bà ấy
-老子的人=lão tử người/người của lão tử
+老妈=lão mụ/mẹ già
+老妖=lão yêu
+
+
+
+
 老小=lão tiểu/già trẻ/lớn bé/vợ
 老师傅=lão sư phó/sư phụ già/thợ cả
 老幺=lão út/lão yêu
 老店=lão điếm/tiệm cũ
 老怀大慰=tuổi già an lòng/lão hoài đại úy
 老态=vẻ già nua/lão thái
-老态龙钟=tuổi già sức yếu/mắt mờ chân chậm/già yếu lụm cụm/già lụm khụm/lão thái long chung
 老总=tổng giám đốc/thầy cai/thầy đội/ông tổng/lão tổng
 老成=lão thành/từng trải/lão luyện/dày dạn kinh nghiệm/già dặn
 老是=luôn/lão thị
-老板=lão bản/ông chủ/chủ rạp/chủ gánh
 老树=cây già/gốc cây già/lão thụ
 老根=rễ già/lão căn
 老槐树=cây hòe già/lão hòe thụ
-老气横秋=ông cụ non/làm ra vẻ/THU/lên mặt cụ non/già cỗi/không sôi nổi/lão khí hoành thu/lão khí hoành thu (như ông cụ non)
 老汉=lão hán/ông cụ già/ông cụ già/già này/lão đây
 老江湖=lão giang hồ/người từng trải/người biết đối nhân xử thế
 老爷=lão gia/quan lớn/quan to/nhân vật quan trọng/ông chủ/ông ngoại/cũ kỹ
@@ -1759,8 +1726,8 @@
 耕畜=gia súc kéo cày/trâu bò cày
 耙子=cái cào/cái bừa/bá tử
 肉翅=cánh thịt/cánh bằng thịt/cánh
-肋眼=nạc lưng/Rib eye là phần nạc lưng của bò/hay còn gọi là scotch fillet/là phần thịt nạc lưng được xẻ từ xương sườn của con bò nhưng không bao gồm xương. Sở dĩ gọi là rib eye vì nó bao gồm phía trên của phần sườn. Cái tên này bắt nguồn từ việc sau khi cắt ngang một miếng nạc lưng bò sẽ thấy một dải mỡ chạy giữa miếng thịt/nhìn khá giống hình con mắt. Phần mỡ này sẽ giúp miếng thịt bò mềm thơm/béo ngậy khi áp chảo hoặc bỏ lò ở nhiệt độ cao.
-育婴堂=dục anh đường/cô nhi viện/nhà nuôi trẻ em mồ côi
+
+育婴堂=cô nhi viện/dục anh đường
 育幼院=dục ấu viện/bần nhi viện/cô nhi viện
 胎具=mẫu khuôn gốm sứ/hàng mẫu
 胜率=tỷ số thắng/tỷ lệ thắng
@@ -1788,24 +1755,22 @@
 范例=kiểu mẫu/gương mẫu/gương/tấm gương
 范本=bản mẫu/mẫu
 草昧=mông muội/nụ/nguyên thuỷ/chưa khai hoá
-莺歌燕舞=oanh ca yến hót/oanh ca yến vũ
+莺歌燕舞=oanh ca yến vũ
 落槽=mực nước xuống/nếp nhà sa sút/gia đạo suy tàn/an nhàn/nhẹ nhõm/thanh thản
 蒋先生=Tương tiên sinh/Tưởng tiên sinh
 蕉麻=chuối a-ba-ca/chuối abaca
-藏家=Tàng gia/tàng gia
 虔婆=chủ chứa/tú bà
 蜚声=truyền bá tiếng tăm/nêu cao tên tuổi
 行东=chủ phường/nghiệp chủ/chủ hãng
 行行出状元=ngành nghề nào cũng có chuyên gia/nghề nào cũng có trạng nguyên/chuyên gia/người xuất sắc
 行长=hành trưởng/chủ tịch ngân hàng
 补遗=phần bổ sung/phần bổ di/phần bổ sung những thiếu sót/phụ lục/phần thêm vào/người đời sau bổ sung các tài liệu sưu tầm được vào những phần bị thiếu trong các danh tác của tiền nhân
-表兄弟=biểu huynh đệ/anh em bà con/anh em họ
-表哥=biểu ca/anh họ
-表姐=biểu tỷ/chị bà con
+表兄弟=biểu huynh đệ/anh em họ
+表哥=biểu ca
+表姐=biểu tỷ
 表彰=khen ngợi/tuyên dương/ca ngợi/khen/biểu dương
 表扬=khen ngợi/biểu dương/khen/tuyên dương/tán dương/ca ngợi/tôn vinh/ca tụng
-袁某=Viên mỗ/viên mỗ
-袋子=cái túi/túi/cái túi
+袋子=cái túi
 被迫=bị ép/bị bắt buộc/bị thúc ép/bị buộc
 装上=lắp đặt/cài đặt/xếp lên/mặc lên
 装老=giả lão/áo liệm/áo mặc cho người chết
@@ -1828,8 +1793,6 @@
 调料=gia vị/đồ gia vị
 谢我=cám ơn ta/cám tạ ta/cảm ơn ta
 谥号=thuỵ hiệu/số hiệu/tên và chức danh di cảo
-谭千总=Đàm Thiên tổng/Đàm thiên tổng
-豪哥=Hào ca/hào ca
 豪族=gia tộc quyền thế/gia tộc giàu sang quyền thế/thế gia vọng tộc/hào tộc
 负极=cực âm/ca-tốt
 财东=chủ hãng/người đầu tư/người bỏ vốn/tài chủ/người có phần hùn chiếm đa số
@@ -1842,7 +1805,6 @@
 走=đi/chạy/tẩu
 走光=đi hết/lộ hàng/tẩu quang
 走调=sai điệu/tẩu điều
-赵千总=Triệu Thiên tổng/Triệu thiên tổng
 跃跃欲试=kích động/dược dược dục thí/nóng lòng muốn thử/muốn thử xem sao/nóng lòng muốn tỷ thí/nhao nhao muốn thử
 身教=thân giáo/giáo dục con người bằng hành động gương mẫu
 车驾=xa giá/xe ngựa của vua/xe ngựa của hoàng gia/xe ngựa
@@ -1862,8 +1824,8 @@
 造型=tạo hình/tạo dáng/tạo khuôn/khuôn mẫu/hình thù
 造物主=tạo vật chủ/tạo hóa/Tạo hóa/Chúa sáng thế/chúa sáng thế
 逼迫=bức bách/thúc ép/ép
-道家=Đạo gia/đạo gia
-道门=đạo môn/đạo giáo/đạo gia/môn đạo/Đạo môn
+道家=Đạo gia
+道门=đạo môn/đạo giáo/đạo gia/môn đạo
 遗下=di hạ/để lại
 遗像=di ảnh/bức ảnh của người đã chết
 遗失=di thất/đánh rơi/rơi mất/bỏ mất/lưu lạc/mất
@@ -1929,13 +1891,13 @@
 饲料=đồ ăn/thức ăn gia súc/tự liêu
 馊主意=chủ  ý ngu ngốc/chủ ý cùi bắp/ý đồ xấu
 首家=thủ gia/đầu tiên
-香主=hương chủ/Hương chủ
+香主=hương Chủ
 
 驱遣=ép buộc/thúc giục/sai khiến/đuổi đi/xua tan/loại bỏ/gạt bỏ
 驴儿=con lừa/lư nhi
 骨干=cốt cán/thân xương/nòng cốt/nồng cốt/chủ chốt/trụ cột/rường cột
 骨殖=di cốt/hài cốt/xương cốt/xương người chết
-高千总=Cao Thiên tổng/Cao thiên tổng
+
 高档=cấp cao/cao đương/giá cao/sa hoa/hàng tốt/giá cao/hạng sang/xa hoa
 高看=xem trọng/coi trọng/đánh giá cao/đánh giá cao
 鲤鱼旗=cờ cá chép/koinobori, một chiếc tất gió hình cá chép của Nhật Bản tung bay để chúc mừng Ngày thiếu nhi
@@ -1958,7 +1920,7 @@ UP主=uploader/UP Master/UP chủ
 下工=tan tầm/tan ca/cho thôi việc
 不觉=chưa phát giác/không ngờ/chưa phát giác ra/chưa phát hiện/bất giác/bất giác
 业主=chủ xí nghiệp/nghiệp chủ
-两百亿=200 ức/20 tỷ
+
 丧家=tang gia/nhà có tang
 主人翁=nhân vật chính/người chủ/chủ nhân/ông chủ
 主厨=chủ bếp/đầu bếp chính
@@ -2274,7 +2236,6 @@ UP主=uploader/UP Master/UP chủ
 歌咏=ca hát/ca/hát
 歌舞团=đoàn ca múa/ca vũ đoàn/đoàn ca múa nhạc
 歌迷=mê ca nhạc/mê ca hát/fan ca nhạc
-正儿=Chính nhi/chính nhi
 毁家纾难=hiến toàn bộ gia sản/hiến toàn bộ gia tài ra giúp nước
 母巢=mẫu sào/ong chúa
 母球=mẫu cầu/bi cái
@@ -2323,7 +2284,7 @@ UP主=uploader/UP Master/UP chủ
 看家狗=quản gia/chó giữ nhà
 督办=đốc thúc/đôn đốc/người giám sát/người đôn đốc
 
-石斑鱼=cá mú/cá mú/Cá mú, cá song
+石斑鱼=cá mú/Cá mú, cá song
 祖师=tổ sư/ông tổ/sư tổ
 祖母=tổ mẫu/bà nội
 
@@ -2533,33 +2494,32 @@ UP主=uploader/UP Master/UP chủ
 
 第一名将=đệ nhất danh tướng/danh tướng số một
 手机屏幕=màn hình điện thoại di động/màn hình di động/Màn hình điện thoại
-冷县长=Lãnh huyện trưởng/Lãnh chủ tịch huyện
+
 你的家境=gia cảnh của ngươi/gia cảnh của cậu
 孔千总=Khổng Thiên tổng/Khổng thiên tổng
-裘大小姐=Cầu đại tiểu thư/Cừu đại tiểu thư
+
 主引擎=động cơ chính/chủ dẫn kình
 她的娘亲=mẹ ruột của nàng/mẫu thân của nàng
 连长老=liền trưởng lão/Liên trưởng lão
 别人的家庭=gia đình người khác/gia đình của người khác
 张底牌=tấm át chủ bài/lá bài tẩy
-边千总=Biên Thiên tổng/Biên thiên tổng
+
 小老板=tiểu lão bản/cậu chủ nhỏ/ông chủ nhỏ
-张家人=người Trương gia/người nhà họ Trương
+
 老石头=lão thạch đầu/đá cũ
-梅总裁=Mai tổng tài/tổng giám đốc Mai
+
 它的妹妹=muội muội của nó/em gái của nó
-司马千总=Tư Mã Thiên tổng/Tư Mã thiên tổng
+
 是谁家子弟=là đệ tử/con cái nhà ai
 热可可=cà phê nóng/ca-cao nóng/cacao nóng/ca cao nóng
-雷三少爷=Lôi tam thiếu gia/Lôi tam thiểu gia
-陆家人=người Lục gia/người nhà họ Lục
+
+
 我的手机号=số di động của ta/số điện thoại di động của ta/số điện thoại của ta
-本公子=bản công tử/bổn công tử
+本公子=bản công tử
 你的赞美=ca ngợi của ngươi/lời ca ngợi của ngươi
 四大家族之一=một trong tứ đại gia tộc/một trong bốn dòng họ lớn nhất
-石家人=người Thạch gia/người nhà họ Thạch
-肖千总=Tiếu Thiên tổng/Tiếu thiên tổng
-杨家的人=Dương gia người/người của Dương gia
+
+
 高个弟子=người đệ tử cao/đệ tử cao hơn
 新老师=tân lão sư/lão sư mới
 那个老年人=ông lão kia/người lớn tuổi kia
@@ -2584,8 +2544,8 @@ UP主=uploader/UP Master/UP chủ
 咖啡杯子=ly cà phê/ly cà phê
 老者的脸上=trên mặt lão giả/trên mặt của ông lão
 二代弟子=đệ tử đời hai/Nhị đại đệ tử
-镇长大人=trấn trưởng đại nhân/Trấn trưởng đại nhân
-单大哥=Đan đại ca/Thiện đại ca
+镇长大人=trấn trưởng đại nhân
+
 第二重天=đệ nhị trọng thiên/tầng thứ hai
 独门秘方=phương pháp độc quyền/công thức gia truyền độc quyền
 本小姐地大恩=đại ân của bổn tiểu thư/đại ân của bản tiểu thư
@@ -2605,8 +2565,8 @@ UP主=uploader/UP Master/UP chủ
 老秃驴=lão lừa trọc/con lừa hói già
 互望了一眼=liếc mắt nhìn lẫn nhau/hơi liếc mắt nhìn nhau
 大金主=đại gia nhiều tiền/đại kim chủ
-七小王爷=Thất tiểu Vương gia/Thất tiểu vương gia
-蓝发老者=Lam phát lão giả/ông lão tóc lam
+
+
 这是我爹妈=đây là phụ mẫu ta/đây là cha mẹ ta
 素食主义=chủ nghĩa ăn chay/ăn chay
 你家大人=đại nhân nhà ngươi/người lớn nhà ngươi
@@ -2615,10 +2575,9 @@ UP主=uploader/UP Master/UP chủ
 格子衫=áo ca rô/cách tử sam
 在家族内=trong gia tộc/ở trong gia tộc
 委员会主席=chủ tịch uỷ ban/Chủ tịch Ủy ban
-单王爷=Đan vương gia/Thiện vương gia
-疯千总=Phong Thiên tổng/Phong thiên tổng
+
 易主了=đổi chủ/đỗi chủ
-单姐姐=Đan tỷ tỷ/Thiện tỷ tỷ
+
 你的老板=lão bản của ngươi/ông chủ của ngươi
 老者的神情=lão giả thần sắc/vẻ mặt ông lão
 这个老者=lão giả này/ông lão này
@@ -2631,20 +2590,20 @@ UP主=uploader/UP Master/UP chủ
 国家的政策=chính sách của quốc gia/chính sách của quốc gia
 我的小弟弟=tiểu đệ đệ của ta/JJ của ta
 这庄主=trang chủ này/người trang chủ này
-两百多亿=hơn 20 tỷ/hơn hai mươi tỉ
+
 兵家常事=chuyện thường binh gia/phổ biến trong các hoạt động quân sự
 我的好兄弟=hảo huynh đệ của ta/anh em tốt của ta
 你老子=lão tử ngươi/thằng cha ngươi
 老人的身影=lão nhân thân ảnh/thân ảnh của lão nhân
 关门弟子=quan môn đệ tử/đệ tử cuối cùng/đệ tử đóng cửa/đệ tử cuối cùng của sư phụ
 玻璃肥料=phân tổng hợp có bột thủy tinh/phân tổng hợp có bột thuỷ tinh
-单小兄弟=Đan tiểu huynh đệ/Thiện tiểu huynh đệ
+
 这些老头子们=những lão đầu tử này/những ông già này
 他老人家=lão nhân gia ông ta/lão nhân gia người
 晃动了一下=lắc lư một cái/hoảng động liễu nhất hạ/lúc lắc một cái/lay động một chút
 其余弟子=đệ tử còn lại/những đệ tử còn lại
 为主要=làm chủ yếu/là chủ yếu
-江县长=Giang huyện trưởng/Giang chủ tịch huyện
+
 民族区域自治=khu dân tộc tự trị/khu tự trị/tự chủ khu vực dân tộc
 最主要=chính yếu nhất/chính yếu/chủ yếu nhất
 姐姐的师傅=sư phụ của tỷ tỷ/sư phó của tỷ tỷ
@@ -2678,7 +2637,7 @@ UP主=uploader/UP Master/UP chủ
 江主任=Giang chủ nhiệm/chủ nhiệm Giang
 那老家伙=lão gia hỏa kia/lão nhân kia
 回主人=hồi chủ nhân/bẩm chủ nhân
-田阿姨=Điền a di/dì Điền
+
 纨绔子弟们=đám hoàn khố tử đệ/lũ ăn chơi trác tác
 男权主义=chủ nghĩa nam quyền/nam quyền
 古副县长=Cổ phó huyện trưởng/Cổ phó chủ tịch huyện
@@ -2695,13 +2654,13 @@ UP主=uploader/UP Master/UP chủ
 那家人=người nhà kia/gia nhân kia
 父母俱存=phụ mẫu câu tồn/cha mẹ đều còn
 那名师弟=tên sư đệ kia/người sư đệ kia
-大人身上=trên người người lớn/trên người đại nhân
-叶副县长=Diệp phó huyện trưởng/Diệp phó chủ tịch huyện
-熊小王爷=Hùng tiểu Vương gia/Hùng tiểu vương gia
+大人身上=trên người đại nhân
+
+
 家常小菜=món ăn hàng ngày/cơm rau đạm bạc/món ăn gia đình
 看不真切=nhìn không rõ ràng/khán bất chân thiết/nhìn không rõ lắm
-左千总=Tả Thiên tổng/Tả thiên tổng
-我老婆=lão bà của ta/lão bà ta/vợ của ta
+
+我老婆=lão bà ta 
 我的妹妹=muội muội của ta/em gái của ta
 他们的宗主=tông chủ của bọn hắn/tông chủ của bọn họ
 他的老朋友=lão bằng hữu của hắn/bạn cũ của hắn
@@ -2715,18 +2674,18 @@ UP主=uploader/UP Master/UP chủ
 单小哥=Đan tiểu ca/Thiện tiểu ca
 裘小王爷=Cừu tiểu Vương gia/Cừu tiểu vương gia
 主峰之上=chủ phong bên trên/trên chủ phong
-胡乡长=Hồ hương trưởng/Hồ chủ tịch xã
+
 主要力量=lực lượng chủ yếu/sức mạnh chủ yếu
-江小王爷=Giang tiểu Vương gia/Giang tiểu vương gia
+
 落家里=quên ở nhà/trong Lạc gia
 矮人一头=một người lùn/thấp hơn người ta một cái đầu
 总经理室=phòng tổng giám đốc/phòng Tổng kinh lý
 大人才=đại nhân tài/đại nhân mới
 他们的师妹=sư muội của bọn hắn/sư muội của bọn họ
-单大伯=Đan đại bá/Thiện đại bá
+
 它的主子=chủ tử của nó/chủ nhân của nó
 我姐夫=tỷ phu của ta/tỷ phu ta
-单大爷=Đan đại gia/Thiện đại gia
+
 家主和=gia chủ cùng/gia chủ và
 主席台上=trên đài hội nghị/trên chủ tịch đài/trên đài chủ tịch
 金融家=chuyên gia tài chính/nhà tài chính
@@ -2739,9 +2698,9 @@ UP主=uploader/UP Master/UP chủ
 主要领导=lãnh đạo chủ yếu/lãnh đạo chủ chốt
 黄衣老者=áo vàng lão giả/ông lão mặc áo vàng
 哥哥们=các ca ca/các anh em
-裘老大=Cừu lão Đại/Cừu lão đại
-龙家人=người Long gia/người nhà họ Long
-易千总=Dịch Thiên tổng/Dịch thiên tổng
+
+
+
 好霸道的力量=lực lượng thật là bá đạo/sức mạnh thật là bá đạo
 她们的表哥=biểu ca của các nàng /biểu ca của các nàng
 红发老者=lão già tóc đỏ/Hồng phát lão giả/ông lão tóc đỏ
@@ -2759,17 +2718,17 @@ UP主=uploader/UP Master/UP chủ
 十四代弟子=đệ tử đời mười bốn/thập tứ đại đệ tử
 旅店老板=lữ điếm lão bản/chủ khách sạn
 第三境=đệ tam cảnh/cảnh giới thứ ba
-许家人=Hứa gia nhân/người nhà họ Hứa
+
 我的家乡=quê hương của ta/gia hương của ta/quê quán của ta
-单兄弟=Đan huynh đệ/Thiện huynh đệ
+
 他家里=trong nhà hắn/gia đình hắn
 为主导=làm chủ đạo/thành chủ đạo
 小舍人=thiếu gia/tiểu công tử
 爱漂亮=yêu đẹp/chủ nghĩa thẩm mỹ
 马赫主义=tư tưởng Ma-khơ/chủ nghĩa kinh nghiệm phê phán
 好霸道=thật bá đạo/thật là bá đạo
-费家人=người Phí gia/người nhà họ Phí
-戴老师=Đới lão sư/cô Dai
+
+
 你们的全家=cả nhà của các ngươi/toàn gia của các ngươi
 我叔叔婶婶=cô chú ta/thúc thúc thẩm thẩm ta
 杜口裹足=bịt miệng bó chân/quá sợ hãi để di chuyển hoặc nói
@@ -2777,8 +2736,8 @@ UP主=uploader/UP Master/UP chủ
 吸水沙疙瘩=Quái mụn hút thủy cát/{Quái mụn hút thủy cát}
 长老会的敌人=địch nhân của trưởng lão hội/kẻ địch của trưởng lão hội
 那弟子=đệ tử kia/vậy đệ tử
-老女人=lão bà/bà già
-七万亿=bảy ngàn tỷ/7000 tỉ
+老女人=lão nữ nhân/bà già
+
 一个圈套=một cái bẫy/một cái bẫy
 这大家伙=đại gia hỏa này/những người kia
 家常豆腐=đậu phụ chiên sốt tương cay/đậu phụ gia đình/đậu phụ kiểu nhà
@@ -2791,21 +2750,21 @@ UP主=uploader/UP Master/UP chủ
 在家族之中=trong gia tộc/ở trong gia tộc
 数十亿里=mấy tỷ dặm/mấy tỉ dặm
 第七境=đệ thất cảnh/cảnh giới thứ bảy
-行千总=Hành Thiên tổng/Hành thiên tổng
+
 其他国家=quốc gia khác/những quốc gia khác
 你家园=quê hương của ngươi/gia viên của ngươi
-单老兄=Đan lão huynh/Thiện lão huynh
+
 这老头=lão nhân này/lão đầu này/ông lão này
 那老婆子=vậy lão bà tử/lão bà tử kia
 那老头子=này lão đầu tử/lão đầu tử kia/lão già kia
-天千总=Thiên Thiên tổng/Thiên thiên tổng
+
 其他的弟子=những đệ tử khác/các đệ tử khác
 那小家伙=tiểu gia hỏa kia/tiểu tử kia/tiểu từ kia
 我女儿=nữ nhi của ta/con gái của ta
 一百四十亿=mười bốn tỷ/14 tỉ
 三儿子=tam nhi tử/con thứ ba/ba con trai
 胖老头=lão đầu mập/lão mập
-单总管=Đan tổng quản/Thiện tổng quản
+
 这帮老头子=đám lão đầu tử này/đám lão già này
 任副县长=nhậm phó chủ tịch huyện/Nhâm phó chủ tịch huyện
 最为主要=chính yếu nhất/chủ yếu nhất
@@ -2814,27 +2773,26 @@ UP主=uploader/UP Master/UP chủ
 你的学生=học sinh của ngươi/đệ tử của ta
 小侄儿=tiểu chất nhi/cháu nhỏ
 大哲学家=đại triết học gia/nhà triết học lớn
-秦总裁=Tần tổng tài/tổng giám đốc Tần
+
 那些大人们=các đại nhân kia/đám người lớn kia
-大哥哥=đại ca ca/anh Cả
-对姐弟=đôi tỷ đệ/đôi chị em
+大哥哥=đại ca ca
+对姐弟=đôi tỷ đệ
 一个个都是=mỗi một cái đều là/mỗi một người đều là
-叶家的人=Diệp gia người/người của Diệp gia
-武小王爷=Vũ tiểu Vương gia/Vũ tiểu vương gia
-鹿千总=Lộc Thiên tổng/Lộc thiên tổng
-这个老头子=cái lão nhân này/lão đầu tử này/lão già này
-谢谢师姐=tạ tạ sư tỷ/cám ơn sư tỷ
+
+
+
+老头子=lão đầu tử
+
 国家公园=vườn quốc gia/công viên quốc gia/Công viên Quốc gia/Công viên quốc gia, vườn quốc gia
 雪走=tuyết tẩu/Yubashiri
-大人的意思=đại nhân ý tứ/ý của đại nhân
-本门的弟子=đệ tử của bổn môn/đệ tử của bản môn
-马走日象走田=mã tẩu nhật tượng tẩu điền/mã đi chữ Nhật tượng đi chữ Điền
+
+
+
 遗忘之地=di vong chi địa/vùng đất bị lãng quên
 他们的家族=gia tộc của bọn hắn/gia tộc của bọn họ
-萧家人=người Tiêu gia/người nhà họ Tiêu
-乘興而來=thừa hứng nhi lai/nhân hứng mà lại
+
 那只老狐狸=lão hồ ly kia/con cáo già kia
-左小王爷=Tả tiểu Vương gia/Tả tiểu vương gia
+
 老参须=rễ sâm già/rễ sâm/lão tham tu
 老者的眼睛=ánh mắt của lão giả/con mắt của ông lão
 正八儿经=chính bát nhi kinh/chính bát nhi kinh (*)
@@ -2842,13 +2800,13 @@ UP主=uploader/UP Master/UP chủ
 拜把子兄弟=bái làm huynh đệ chết sống/bái làm huynh đệ sống chết có nhau
 心血管专家=chuyên gia tim mạch/chuyên gia về tim mạch/Chuyên gia về tim mạch
 兄弟的性命=tính mạng của huynh đệ/tính mạng của huynh đệ
-第十二幅=bức thứ mười hai/đệ thập nhị phúc
+
 这些公子哥=những công tử ca này/các vị công tử này
 当冤大头=làm coi tiền như rác/làm công tử Bạc Liêu
 老者戒之在得=lão giả giới chi tại đắc/người già phải răn ở sự tham
 你们班主=chủ gánh các ngươi/ban chủ các ngươi
 代弟子=đời đệ tử/đại đệ tử
-金人缄口=ăn nói thận trọng/Hình dung nói năng thận trọng. § ◇Khổng Tử gia ngữ 孔子家語: Khổng Tử quan Chu/toại nhập Thái Tổ Hậu Tắc chi miếu
+
 这个公子=công tử này/người công tử này
 李家人=người Lý gia/người nhà họ Lý
 国家主席=chủ tịch quốc gia/chủ tịch nước
@@ -2859,15 +2817,15 @@ UP主=uploader/UP Master/UP chủ
 第十根=đệ thập cây/cây thứ mười
 她的手机号=số di động của nàng/số điện thoại di động của nàng
 你们大人=đại nhân các ngươi/người lớn các ngươi
-方家的敌人=địch nhân của Phương gia/kẻ địch của Phương gia
+
 苏维埃社会主义共和国联盟=Liên bang Cộng hòa Xã hội chủ nghĩa Xô viết/Liên bang Cộng hòa xã hội chủ nghĩa Xô viết
 社会主义改造=cải tạo xã hội chủ nghĩa/cải cách xã hội chủ nghĩa
 循牆而走=tuần tường nhi tẩu/men tường mà chạy
 第八重=đệ bát trọng/tầng thứ tám
-单先生=Đan tiên sinh/Thiện tiên sinh
+
 他们的老板=lão bản của bọn hắn/ông chủ của bọn họ
-程家人=người Trình gia/người nhà họ Trình
-大妹子=Đại muội tử/em gái lớn
+
+大妹子=Đại muội tử
 她爷爷=gia gia của nàng/gia gia nàng
 孟德尔主义=tư tưởng Men-đen/thuyết di truyền học Men-đen
 水手们=các thủy thủ/bọn/đám thủy thủ/bọn : đám thủy thủ/bọn thuỷ thủ/bọn thủy thủ
@@ -2880,79 +2838,78 @@ UP主=uploader/UP Master/UP chủ
 承上文而言=tiếp theo đoạn văn trên mà nói/thừa thượng văn nhi ngôn
 "那师母="Vậy sư mẫu/”Cái kia sư mẫu
 嫁出去的女儿=gả ra ngoài nữ nhi/nữ nhi đã gả ra ngoài
-鸟大爷=Điểu đại gia/đại gia chim
-越师姐=Việt sư tỷ/Việt sư tỷ
+
+
 用手机=dùng di động/lấy di động
 富家公子=phú gia công tử/công tử nhà giàu
 她们的眼帘=tầm mắt của các nàng/khoé mắt của các nàng
-雨小王爷=Vũ tiểu Vương gia/Vũ tiểu vương gia
-第一代弟子=đệ tử đời thứ nhất/đệ nhất đại đệ tử
-我二叔=Nhị thúc ta/nhị thúc của ta
-谢谢哥哥=cảm ơn ca ca/cám ơn ca ca
-他们的爷爷=gia gia của bọn hắn/gia gia của bọn họ
-抢人家=cướp người ta/đoạt nhân gia
+
+
+我二叔=Nhị thúc ta
+
+
 第一回合=hiệp một/đệ nhất hiệp/hiệp thứ nhất/Lượt đi
 为关门弟子=làm quan môn đệ tử/là quan môn đệ tử
 飘然而落=bồng bềnh hạ xuống/phiêu nhiên nhi lạc
 神之国度=Thần Chi Quốc Độ/quốc gia của thần
-单堂主=Đan đường chủ/Thiện đường chủ
+
 亲爱的儿子=thân ái nhi tử/con trai cưng ơi
 这个帮主=cái bang chủ này/người bang chủ này
 她的女儿=nữ nhi của nàng/con gái của nàng
 别的兄弟=các huynh đệ khác/huynh đệ khác
 这个堂主之位=cái chức đường chủ này/cái chức đường chủ kia
 唱歌跑调=hát lạc nhịp/ca hát và chạy
-小姐的能力=tiểu thư năng lực/năng lực của tiểu thư
-本宗主=Bổn tông chủ/bản tông chủ
-伸手一指=chỉ một ngón tay/chỉ tay một cái
-肖堂主=Tiếu Tiếu chủ/Tiếu đường chủ
-樊大小姐=Phàn [đại tiểu thư/Phàn đại tiểu thư/Phiền đại tiểu thư
-熊老三=Hùng lão Tam/Hùng lão tam
-二儿子=nhị nhi tử/con thứ hai
-七百多亿=hơn bảy mươi tỷ/hơn 70 tỉ
-你们两兄弟=hai huynh đệ các ngươi/hai anh em ngươi
-天小王爷=Thiên tiểu Vương gia/Thiên tiểu vương gia
+
+本宗主=bản tông chủ
+伸手一指=chỉ một ngón tay
+
+
+
+二儿子=nhị nhi tử
+
+
+
 加深印象=gia thêm ấn tượng/làm sâu sắc thêm ấn tượng/để tạo ấn tượng sâu sắc hơn với ai đó
 大人情=đại nhân tình/ân huệ lớn/nhân tình lớn
 不为所动=bất vi sở động/không hề bị lay động/không di chuyển/vẫn không bị lay động
 老乌龟=lão ô quy/con rùa già
-那个国家=quốc gia kia/quốc gia nào
-云宗主=Vân tông chủ/Vân Tông chủ
+那个国家=quốc gia kia
+
 母亲身边=bên người mẫu thân/bên cạnh mẫu thân
 自己地女儿=nữ nhi của mình/nữ nhi của chính mình
 各家学说=các gia học thuyết/học thuyết của mỗi gia đình
-老婆的话=lão bà/lời của lão bà
-我的好妹子=hảo muội tử của ta/em gái ngoan của ta
-雷副县长=Lôi phó huyện trưởng/Lôi phó chủ tịch huyện
-引而伸之=dẫn nhi thân chi/kéo cho duỗi ra
-单老太=Đan lão thái/Thiện lão thái
-行屍走肉=hành thi tẩu nhục/The Walking Dead
-这家伙=gia hỏa này/người này/thằng này/gia hoả này/cái tên này/tên này
+
+
+
+
+
+
+这家伙=gia hỏa này/thằng này/cái tên này/tên này
 软妹子=nhuyễn muội tử/em gái mềm mại
 傾耳而聽=khuynh nhĩ nhi thính/nghiêng tai mà nghe
-路小王爷=Lộ tiểu Vương gia/Lộ tiểu vương gia
+
 那老妇=lão phụ kia/bà lão kia
-老娘的敌人=địch nhân của lão nương/kẻ địch của lão nương
+
 这座府邸里面=trong tòa phủ đệ này/bên trong tòa phủ đệ này
 你手机=điện thoại di động của ngươi/điện thoại di động ngươi
 我的手机号码=số di động của ta/số điện thoại di động của ta
-嫡系子弟=đích hệ tử đệ/con cháu đích tôn
+嫡系子弟=con cháu đích tôn
 十六计，走为上策=ba mươi sáu chước, chuồn là thượng sách/tam thập lục kế, tẩu vi thượng sách, ba mươi sáu chước, chước chuồn là hơn
 这帮老家伙=đám lão gia này/đám lão già này
-梅家人=người Mai gia/người nhà họ Mai
+
 他的兄弟姐妹=huynh đệ tỷ muội của hắn/anh chị em của hắn
-单师爷=Đan sư gia/Thiện sư gia
+
 班主任老师=giáo viên chủ nhiệm/lão sư chủ nhiệm lớp
 你的手机号=số di động của ngươi/số điện thoại di động của ngươi
-跪父母=lạy phụ mẫu/lạy cha mẹ
+跪父母=lạy phụ mẫu
 综合办=phòng làm việc tổng hợp/phòng tổng hợp
 臭老头=Xú lão đầu/lão già thối tha/lão đầu thối/ông già thối
 那个妹妹=cô em gái kia/cô muội muội kia
-钟千总=Chung Thiên tổng/Chung thiên tổng
+
 我的主意=ta chủ ý/chủ ý của ta
 电话交换机=tổng đài điện thoại/chuyển đổi điện thoại/Tổng đài điện thoại
 他们的妹妹=muội muội của bọn hắn/em gái của bọn họ
-马小王爷=Mã tiểu Vương gia/Mã tiểu vương gia
+
 好哥哥=hảo ca ca/Anh trai tốt/Người anh hảo
 谢家人=người Tạ gia/người nhà họ Tạ
 单老弟=Đan lão đệ/Thiện lão đệ
@@ -2961,21 +2918,21 @@ UP主=uploader/UP Master/UP chủ
 师妹的性命=tính mạng của sư muội/tính mạng của sư muội
 长老身上=trưởng lão trên người/trên người trưởng lão
 她的仇家=cừu gia của nàng/kẻ thù của nàng
-鹿师弟=Lộc sư đệ/Lộc  sư đệ
-四阿哥=Tứ a ca/Tứ A Ca
-叶小姐=Diệp tiểu thư/cô Diệp
+
+四阿哥=Tứ a ca
+
 大人的东西=đại nhân đồ vật/đồ vật của người lớn
-这儿子=này nhi tử/con trai này/cái này con trai/đứa con trai này
-单哥哥=Đan ca ca/Thiện ca ca
-黄衣长老=Áo Vàng trưởng lão/trưởng lão áo vàng
-叠加起来=điệp gia lên/chất chồng lên
+这儿子=nhi tử này
+
+
+叠加起来=chất chồng lên
 那人家=vậy nhân gia/nhà kia/kia nhân gia/này nhân gia
 你的妹妹=muội muội của ngươi/em gái của ngươi
 古老的文字=cổ lão văn tự/chữ viết xa xưa
-梦家人=Mộng gia người/người Mộng gia/người nhà họ Mộng
+
 大总管=Đại tổng quản/tổng giám đốc
 小粉红=tiểu phấn hồng/màu hồng nhỏ/những người theo chủ nghĩa dân tộc mạng trẻ tuổi của Trung Quốc
-雨宗主=Vũ tông chủ/Vũ Tông chủ
+
 子事父母=tử sự phụ mẫu/con thờ cha mẹ
 何等的霸道=bực nào bá đạo/bá đạo bực nào
 核心弟子们=các hạch tâm đệ tử/các đệ tử hạch tâm
@@ -2984,87 +2941,85 @@ UP主=uploader/UP Master/UP chủ
 众外门弟子之中=trong những ngoại môn đệ tử/trong những đệ tử ngoại môn
 第三等=đệ tam đẳng/cấp thứ ba
 这样的人家=nhà như vậy/cái dạng này nhân gia
-我的母亲=mẫu thân của ta/mẹ của ta
+我的母亲=mẫu thân của ta
 四朝元老=nguyên lão bốn triều/tứ triều nguyên lão
 领主们=các lãnh chúa/các lĩnh chủ
 眩晕之中=trong mê muội/trong hôn mê
 他的妹妹=muội muội của hắn/em gái của hắn
 母亲的事情=mẫu thân sự tình/chuyện của mẫu thân
 一张底牌=một con át chủ bài/một lá bài tẩy
-单师姐=Đan sư tỷ/Thiện sư tỷ
+
 你的仇家=cừu gia của ngươi/kẻ thù của ngươi
 那化妆师=thợ trang điểm kia/người chuyên gia trang điểm kia
 第四纪地质学=địa chất kỷ đệ tứ/Địa chất đệ tứ
 学家们=đám học giả/các học gia
 那位老板=vị lão bản kia/vị ông chủ kia
-单大小姐=Đan đại tiểu thư/Thiện đại tiểu thư
+
 方副县长=Phương phó huyện trưởng/Phương phó chủ tịch huyện
 文无第一=văn vô đệ nhất/văn không có đệ nhất
 来杀我儿子=tới giết con của ta/tới giết nhi tử của ta/tới giết con ta
-马家人=người Mã gia/người nhà họ Mã
-罗家人=người La gia/người nhà họ La
-陶千总=Đào Thiên tổng/Đào thiên tổng
+
+
 第一对=đôi thứ nhất/thứ nhất đối/đệ nhất đối
-自己的老公=lão công của mình/chồng của mình
+自己的老公=lão công của mình
 强大的人物=nhân vật cường đại/cường đại nhân vật
 最古老=cổ xưa nhất/xưa nhất/cổ lão nhất
-米小王爷=Mễ tiểu Vương gia/Mễ tiểu vương gia
+
 央人作保=ương nhân tác bảo/cầu cạnh người làm bầu chủ
 百乘之家=bách thặng chi gia/nhà có trăm cỗ xe
 人类的国度=quốc gia của nhân loại/quốc độ của nhân loại/quốc gia của con người
 他们的姐姐=tỷ tỷ của bọn hắn/tỷ tỷ của bọn họ
-萧总裁=Tiêu tổng tài/tổng giám đốc Tiêu
+
 霸道的力量=lực lượng bá đạo/sức mạnh bá đạo
-她的屁股眼=lỗ đít nàng/lỗ nhị của nàng
-五小王爷=Ngũ tiểu Vương gia/Ngũ tiểu vương gia
+
+五小王爷=Ngũ tiểu vương gia
 比武台上=đài luận võ bên trên/trên đài tỷ võ
-你的老朋友=lão bằng hữu của ngươi/bạn cũ của ngươi
+你的老朋友=lão bằng hữu của ngươi
 你爷爷=gia gia ngươi/gia gia của ngươi
 本小姐的手掌心=lòng bàn tay của bản tiểu thư/lòng bàn tay của bổn tiểu thư
-谢总裁=Tạ tổng tài/tổng giám đốc Tạ
+
 在唱歌=tại hát/đang hát/đang ca
 这些外门弟子=những ngoại môn đệ tử này/những đệ tử ngoại môn này
 一个多情=một cái đa tình/một kẻ đa tình
-叶老三=DIệp lão tam/Diệp lão tam
-楚家人=Sở gia nhân/người nhà họ Sở
+
+
 老者的意思=ý của lão giả/ý của ông lão
 下第一=dưới đệ nhất/loại kém nhất
 丈人家=trượng nhân gia/nhà bố vợ
 他大哥=đại ca hắn/đại ca của hắn
 传三过四=nói chuyện tầm phào/nói chuyện bá láp
 归公子=thuộc về công tử/Quy công tử
-那名老者=tên lão giả kia/người lão giả kia
-曼德家族=Mạn Đức Gia Tộc/gia tộc Mạn Đức
+那名老者=lão già kia
+
 当亲妹妹一般对待=đối đãi như thân muội muội/đối đãi như em gái ruột
 我们大哥=đại ca của chúng ta/đại ca chúng ta
 其他兄弟=các huynh đệ khác/những huynh đệ khác
 你们的头儿=lão đại của các ngươi/thủ lĩnh của các ngươi
-田小王爷=Điền tiểu Vương gia/Điền tiểu vương gia
+
 拿出手机=lấy điện thoại di động ra/cầm ra di động/lấy di động/lấy điện thoại ra
 还要大上=còn muốn lớn hơn/càng lớn hơn
-莫宗主=Mạc tông chủ/Mạc Tông chủ
-孔小王爷=Khổng tiểu Vương gia/Khổng tiểu vương gia
+
+
 他的家庭=gia đình của hắn/gia đình của hẳn
 这两者=hai cái này/hai người này
 城主府中=trong phủ thành chủ/trong thành chủ phủ
-顾家人=người Cố gia/người nhà họ Cố
-单老二=Đan lão nhị/Thiện lão nhị
+
 十五代弟子=đệ tử đời mười lăm/thập ngũ đại đệ tử
 双糖=di-sa-ca-rít/disacarít
 好妹妹=hảo muội muội/em gái ngoan/em gái tốt
 自己老大=lão đại của mình/lão đại mình
 哪位大人=vị đại nhân kia/vị đại nhân nào
-灰袍老者=Hôi bào lão giả/ông lão áo xám
+
 自忖有些实力的家族=gia tộc tự nghĩ có chút thực lực/gia tộc tự nghĩ có chút  thực lực
 你老人家=lão nhân gia người/lão nhân gia ngươi
 算命老头=lão đầu coi bói/lão đầu xem bói
 这个老妪=lão ẩu này/bà lão này
-长老外=trưởng lão ngoài ra/trường lão ngoài ra
+
 付一个亿=trả một tỷ/trả một trăm triệu
 外门弟子们=các ngoại môn đệ tử/các đệ tử ngoại môn
 一个模特儿=một người mẫu/một model
 我们的老朋友=lão bằng hữu của chúng ta/bạn cũ của chúng ta
-黄家人=người Hoàng gia/người nhà họ Hoàng
+
 这座府邸之中=trong tòa phủ đệ này/bên trong tòa phủ đệ này
 老人的心理=lão nhân tâm lí/tâm lý của ông lão
 她的主子=chủ tử của nàng/chủ nhân của nàng
@@ -3074,8 +3029,8 @@ UP主=uploader/UP Master/UP chủ
 你娘亲=mẫu thân ngươi/mẹ ngươi
 我的老板=lão bản của ta/ông chủ của ta
 那些个=những cái này/những cái này
-谢谢大姐=tạ tạ đại tỷ/cảm ơn đại tỷ
-三小姐=Tam tiểu thư/cô Ba
+
+三小姐=Tam tiểu thư
 教人家=dạy người ta/giáo nhân gia
 那老夫=vậy lão phu/lão phu kia
 国家安全=an toàn quốc gia/an ninh quốc gia
@@ -3090,10 +3045,10 @@ UP主=uploader/UP Master/UP chủ
 教导主任=thầy chủ nhiệm/chủ nhiệm giáo dục/giám đốc giáo dục/giám đốc giảng dạy
 更加入=vừa gia nhập/càng gia nhập hơn
 在家族=ở gia tộc/khi gia tộc
-麻小王爷=Ma tiểu Vương gia/Ma tiểu vương gia
+
 家主的嫡长子=con trai lớn của gia chủ/con trưởng đích tôn của gia chủ
 人民民主专政=chuyên chính dân chủ nhân dân/chế độ độc tài dân chủ nhân dân
-六万亿=sáu ngàn tỷ/6000 tỉ
+
 尽地主之谊=tận tình địa chủ hữu nghị/tận tình địa chủ/đóng vai trò là người dẫn chương trình
 这老妪=lão ẩu này/bà lão này
 十一代弟子=đệ tử đời mười một/thập nhất đại đệ tử
@@ -3110,7 +3065,7 @@ UP主=uploader/UP Master/UP chủ
 掌盘子=thổ phỉ lão đại/trùm ăn cướp/chưởng bàn tử
 好霸气=thật là khí phách/thật bá đạo
 我们的身家=tài sản chúng ta/thân gia chúng ta
-宁公子=Ninh công tử/Ninh công tử
+
 日益增加=gia tăng hàng ngày/tăng hàng ngày
 玩着手机=ngoạn di động/chơi với điện thoại di động
 妾本儒家女=thiếp tôi vốn là con gái nhà học trò/thiếp bản nho gia nữ
@@ -3121,7 +3076,7 @@ UP主=uploader/UP Master/UP chủ
 老人的右手=tay phải của lão nhân/tay phải của ông lão
 这个中年大叔=trung niên đại thúc này/vị đại thúc tuổi trung niên này
 遗弃之地=di khí chi địa/vùng đất bị vứt bỏ/Di Khí Chi Địa
-单弟弟=Đan đệ đệ/Thiện đệ đệ
+
 家族之间=giữa gia tộc/trong gia tộc
 剑走偏锋=kiếm tẩu thiên phong/phá cách/không theo khuôn mẫu/không theo cách thường/không theo lẽ thường/kiếm đi thiên phong/Jian Zoupianfeng, bút danh của tiểu thuyết gia hiện đại sung mãn
 手机铃声=chuông điện thoại di động/chuông điện thoại/nhạc chuông điện thoại di động
@@ -3129,8 +3084,8 @@ UP主=uploader/UP Master/UP chủ
 那个老板娘=bà chủ kia/lão bản nương kia
 单老先生=Đan lão tiên sinh/Thiện lão tiên sinh
 正主任=chính chủ nhiệm/chính chủ nhiệm
-姐姐的威严=uy nghiêm của tỷ tỷ/uy nghiêm của  tỷ tỷ
-攀鲈=cá rô đồng/cá rô/Cá rô
+姐姐的威严=uy nghiêm của tỷ tỷ
+攀鲈=cá rô đồng/cá rô
 斲轮老手=người giàu kinh nghiệm/tay lão luyện
 大爷大妈=đại gia đại mụ/bác trai bác gái/bác gái
 第三代弟子=đệ tử đời thứ ba/đệ tam đại đệ tử
@@ -3138,7 +3093,7 @@ UP主=uploader/UP Master/UP chủ
 主动技能=kỹ năng chủ động/active skill
 终身不娶=cả đời không lập gia đình/cả đời không cưới/không kết hôn suốt đời
 王家人=Vương gia nhân/người Vương gia/người nhà họ Vương
-候小王爷=Hậu tiểu Vương gia/Hậu tiểu vương gia
+
 大伯家=nhà đại bá/nhà bác
 疯老道=lão đạo điên/Phong lão đạo
 胸無主宰=hung vô chủ tể/như sách Sử ký nói/trong lòng không trung thành với ai
@@ -3162,59 +3117,58 @@ UP主=uploader/UP Master/UP chủ
 城主府里面=trong thành chủ phủ/trong phủ thành chủ
 那户人家=gia đình kia/nhà nào
 老人的身体=thân thể của lão nhân/thân thể của ông lão
-边小王爷=Biên tiểu Vương gia/Biên tiểu vương gia
-麻师弟=Ma sư đệ/Ma  sư đệ
+
+
 仲第=trọng đệ/em thứ hai
-钟小王爷=Chung tiểu Vương gia/Chung tiểu vương gia
+
 花大价钱=dùng nhiều tiền/bỏ ra số tiền lớn/dùng giá cao
-小先生=Tiểu tiên sinh/tiểu giáo viên/ông Xiao
+小先生=tiểu tiên sinh/tiểu giáo viên/ông Xiao
 肖家人=người Tiếu gia/người nhà họ Tiếu
 这家长=người gia trưởng này/này gia trưởng
 美女主播=mỹ nữ chủ bá/người dẫn chương trình xinh đẹp
 她母亲=mẫu thân của nàng/mẫu thân nàng
-三十亿=ba tỷ/ba tỉ
+
 那府邸=phủ đệ kia/tòa phủ đệ kia
-九叔公=cửu thúc công/Cửu thúc công
-单老三=Đan lão tam/Thiện lão tam
+九叔公=cửu thúc công
+
 这具身体的主人=chủ nhân của cái thân thể này/chủ nhân thân thể này
 苍老身影=thân ảnh già nua/thương lão thân ảnh
 母胎SOLO=độc thân từ trong trứng/solo mẹ và thai nhi
-单老头=Đan lão đầu/Thiện lão đầu
+
 主要防守力量=lực lượng phòng thủ chủ yếu/sức mạnh phòng thủ chủ yếu
 蔡乡长=Thái hương trưởng/Thái chủ tịch xã
 老师的问题=lão sư vấn đề/vấn đề của lão sư
 卡路里=Ca-lo-ri/ca-lo-ri
-杜家人=người Đỗ gia/người nhà họ Đỗ
-单老板=Đan lão bản/Thiện lão bản
+
 其他家族=gia tộc khác/những gia tộc khác
-青山堂主=Thanh Sơn đường chủ/Thanh sơn đường chủ
-我妹子=muội tử ta/em gái của ta
+
+我妹子=muội tử ta/em gái ta
 倍增加=gia tăng gấp bội/tăng lên gấp bội
 那样的家伙=kẻ như vậy/gia hỏa như vậy
-好姐姐=tỷ tỷ tốt/Hảo tỷ tỷ/chị gái tốt
-易小王爷=Dịch tiểu Vương gia/Dịch tiểu vương gia
+
+
 大帅哥=đại soái ca/đại suất ca/anh chàng đẹp trai
 第一秘书=thư ký thứ nhất/đệ nhất bí thư
-周某人=Chu mỗ nhân/tên Chu nào đó
+
 老司机=lão tài xế/tài xế già/người lái xe cũ/một bàn tay cũ tại cái gì đó
-我师姐=sư tỷ ta/sư tỷ của ta
+我师姐=sư tỷ ta
 我的家人=người nhà của ta/gia nhân của ta
-方主播=chủ kênh họ Phương/streamer họ Phương
-大堂姐=đại đường tỷ/chị Đại Sảnh
+
+大堂姐=đại đường tỷ
 老人的攻击=công kích của lão nhân/sự công kích của lão nhân
-四十多亿=hơn bốn tỷ/hơn bốn tỉ
+
 那些内门弟子=những nội môn đệ tử kia/những đệ tử nội môn kia
 这个主意=cái chủ ý này/ý đồ này
 自己的妹夫=muội phu của mình/em rể của mình
-单老儿=Đan lão nhi/Thiện lão nhi
+
 小学弟=tiểu học đệ/em trai tiểu học
-三谷主=tam cốc chủ/Tam cốc chủ
+三谷主=Tam cốc chủ
 那女孩儿=nữ hài nhi kia/cô bé gái kia
-单小王爷=Đan tiểu Vương gia/Đan tiểu vương gia/Thiện tiểu vương gia
-孩儿他娘=mẹ hài nhi/mẹ bọn nhỏ/hài nhi mẹ nó
+
+孩儿他娘=mẹ hài nhi/mẹ bọn nhỏ
 法网灰灰疏而不漏=pháp võng hôi hôi/sơ nhi bất lậu
-孙副县长=Tôn phó huyện trưởng/Tôn phó chủ tịch huyện
-为老不尊=già mà không kính/già mà không đứng đắn/già mà mất nết/vì lão bất tôn
+
+
 左倾机会主义=chủ nghĩa cơ hội/chủ nghĩa cơ hội 'tả khuynh'
 大兄弟=đại huynh đệ/ông anh/người anh em lớn
 老人的脸色=sắc mặt của lão nhân/sắc mặt của ông lão
@@ -3227,12 +3181,12 @@ UP主=uploader/UP Master/UP chủ
 这果子=cái quả này/trái cây này/trái cây kia
 房间的主人=gian phòng chủ nhân/chủ nhân của gian phòng
 这个纨绔子弟=tên hoàn khố tử đệ này/tên con em nhà giàu này
-方家人=người Phương gia/người nhà họ Phương
-秦家人=người Tần gia/người nhà họ Tần
-三小王爷=Tam tiểu Vương gia/Tam tiểu vương gia
+
+
+三小王爷=Tam tiểu vương gia
 拾級而豋=thiệp cấp nhi đăng/liền bước noi từng bực mà lên
 正式弟子=đệ tử chính thức/đệ tử chính thức
-江叔叔=Giang thúc thúc/chú Giang
+
 大倒苦水=kêu ca kể khổ/đại đảo khổ thủy
 家装设计=gia trang thiết kế/thiết kế trang trí nhà
 如何收场=kết thúc như thế nào/kết cuộc như thế nào
@@ -3240,7 +3194,7 @@ UP主=uploader/UP Master/UP chủ
 那个老师=lão sư kia/người lão sư kia
 慈母多败儿=mẹ chiều con hư/Con hư tại mẹ/từ mẫu dạy hư con
 第一军团=quân đoàn thứ nhất/đệ nhất quân đoàn
-单家族=Đan gia tộc/Thiện gia tộc
+
 大头目=Đại đầu mục/ông chủ
 这位老妪=vị lão ẩu này/vị bà lão này
 第一人=đệ nhất nhân/người thứ nhất/người số một
@@ -3254,16 +3208,16 @@ UP主=uploader/UP Master/UP chủ
 仓廪实而知礼节=kho lương đầy mới biết lễ tiết/thương lẫm thực nhi tri lễ tiết
 第九根=đệ cửu cây/cây thứ chín
 异化系的卡片=card dị hóa/{card dị hóa}
-叶家人=người Diệp gia/người nhà họ Diệp
+
 掏出手机=lấy điện thoại cầm tay ra/lấy điện thoại di động ra/lấy di động ra/lấy điện thoại ra
 矮个弟子=người đệ tử lùn/đệ tử lùn hơn
 大长老的实力=đại trường lão thực lực/thực lực của đại trưởng lão
 飘然而去=phiêu nhiên mà đi/phiêu nhiên nhi khứ/nhẹ nhàng đi
 那个老妪=lão ẩu kia/bà lão kia
 多加注意=gia tăng chú ý/chú ý thêm
-黄副县长=Hoàng phó huyện trưởng/Hoàng phó chủ tịch huyện
+
 那个老道士=lão đạo sĩ kia/cái lão đạo sĩ kia
-好徒弟=hảo đồ đệ/đồ đệ tốt
+好徒弟=hảo đồ đệ
 握着手机=cầm di động/cầm điện thoại di động
 第一阶=đệ nhất giai/cấp thứ nhất/cấp một
 这老僧=lão tăng này/người lão tăng này
@@ -3276,32 +3230,32 @@ UP主=uploader/UP Master/UP chủ
 这个顽固老头=lão đầu ngoan cố này/lão già ngoan cố này
 你们的儿女=con cái của các ngươi/nhi nữ của các ngươi
 大人的事情=đại nhân sự tình/chuyện của người lớn
-姐姐的身份=tỷ tỷ thân phận/thân phận của tỷ tỷ
+
 我父母=cha mẹ ta/phụ mẫu ta
 说些什么=nói cái gì/nói cái gì đó/nói những gì
-七大家=thất đại gia/Thất Đại Gia Tộc
-凤家人=người Phượng gia/người nhà họ Phượng
-十三代弟子=đệ tử đời mười ba/thập tam đại đệ tử
-武千总=Vũ Thiên tổng/Vũ thiên tổng
+
+
+
+
 你的母亲=mẹ của ngươi/mẫu thân của ngươi
-单老哥=Đan lão ca/Thiện lão ca
+
 无理根=căn vô nghĩa/căn vô tỷ
 家累千金坐不垂堂=gia luy thiên kim/tọa bất thùy đường
-单师祖=Đan sư tổ/Thiện sư tổ
+
 想打我的主意=có chủ ý với ta/muốn cua ta/có ý đồ nhằm vào ta
-龟师弟=Quy sư đệ/Quy  sư đệ
-单师妹=Đan sư muội/Thiện sư muội
+
+
 唱作人=ca sĩ sáng tác/hát như một người đàn ông
-铁家人=người Thiết gia/người nhà họ Thiết
+
 连兄弟=liền huynh đệ/Liên huynh đệ
 老少爷们=lão thiếu gia môn/đám già trẻ/các lão thiếu gia
 我们老板=lão bản của chúng ta/lão bản chúng ta
 买家具=mua gia cụ/mua gia cụ/mua đồ nội thất
 其他的外门弟子=những ngoại môn đệ tử khác/những đệ tử ngoại môn khác
 好老师=lão sư tốt/hảo lão sư
-白家人=người Bạch gia/người nhà họ Bạch
+
 我爷爷奶奶=ông bà của ta/gia gia nãi nãi của ta
-单小弟=Đan tiểu đệ/Thiện tiểu đệ
+
 小儿女=tiểu nhi nữ/các con nhỏ
 这样的学员=đệ tử như vậy/học viên như thế
 三十多亿=hơn ba tỷ/hơn ba tỉ
@@ -3311,35 +3265,33 @@ UP主=uploader/UP Master/UP chủ
 府邸里面=trong phủ đệ/bên trong tòa phủ đệ
 这女孩儿=nữ hài nhi này/bé gái này
 你的老婆=lão bà của ngươi/vợ của ngươi
-丐帮的总舵=tổng đà của Cái Bang/tổng đà của Cái bang
-你阿姨=a di ngươi/dì của ngươi
+
+
 咱们家族=gia tộc chúng ta/gia tộc chúng ta
 初中毕业=tốt nghiệp trung học/tốt nghiệp trung học đệ nhất cấp
 一天下来=ngày kế/kết thúc mỗi ngày
-单大姐=Đan đại tỷ/Thiện đại tỷ
+
 我家公子=công tử nhà ta/Công tử nhà tôi
 那狂野霸道的力量=lực lượng cuồng dã bá đạo kia/sức mạnh cuồng dã bá đạo kia
 他的家园=gia viên của hắn/quê hương của hắn
 他们的女儿=nữ nhi của bọn hắn/nữ nhi của bọn bọ/con gái của bọn họ
 霸道无比=vô cùng quyết đoán/vô cùng bá đạo/vô cùng ngang ngược/vô cùng độc tài/vô cùng quân phiệt
 国之大事=đại sự quốc gia/sự kiện quốc gia
-行小王爷=Hành tiểu Vương gia/Hành tiểu vương gia
-两三百亿=20-30 tỷ/20, 30 tỉ
-陈家人=người Trần gia/người nhà họ Trần
+
+
+
 未婚生子=chưa kết hôn đã có con/chưa lập gia đình có con
-单大人=Đan đại nhân/Thiện đại nhân
-他们的家属=người nhà của bọn hắn/gia thuộc của bọn họ
+他们的家属=thân nhân của bọn họ/gia thuộc của bọn họ
 他的家人=người nhà của hắn/gia đình anh ta
-三万亿=ba ngàn tỷ/3000 tỉ
 伏特加=rượu Vodka/phục đặc gia
 唐家人=người Đường gia/người nhà họ Đường
 它的老婆=lão bà của nó/vợ của nó
 这老师=lão sư này/người lão sư này
 自己的姐夫=tỷ phu của mình/anh rể của mình
-单师哥=Đan sư ca/Thiện sư ca
+
 白班儿=ca ngày/kíp ngày
 称兄道弟起来=xưng huynh đạo đệ/xưng huynh gọi đệ
-单老爷=Đan lão gia/Thiện lão gia
+
 那个小家伙=tiểu gia hỏa kia/tên tiểu tử kia
 这家主=gia chủ này/người gia chủ này
 母亲的照顾=chiếu cố của mẫu thân/chăm sóc của mẫu thân
@@ -3365,34 +3317,28 @@ UP主=uploader/UP Master/UP chủ
 这老头子=lão đầu tử này/lão già này
 于姐姐=với tỷ tỷ/Vu tỷ tỷ
 众外门弟子=bọn ngoại môn đệ tử/bọn đệ tử ngoại môn
-玉家人=người Ngọc gia/người nhà họ Ngọc
+
 赤杨=cây dương đỏ/cây tổng quán sủi
 蒙大小姐=được đại tiểu thư/Mông đại tiểu thư
-叶老二=DIệp lão nhị/Diệp lão nhị
+
 本大人=bản đại nhân/bổn đại nhân
 十四弟=thập tứ đệ/Thập tứ đệ/Thập Tứ đệ
 那个老头=lão đầu kia/ông lão kia
 自己的亲兄弟=anh em ruột của mình/huynh đệ ruột thịt của mình
-蒙小王爷=Mông tiểu Vương gia/Mông tiểu vương gia
 我小姨=tiểu di ta/dì ta
-国家杯=cúp quốc gia/cúp quốc
-阎家人=người Diêm gia/người nhà họ Diêm
-离开家庭=rời gia đình/rời khỏi gia đình
-五万亿=năm ngàn tỷ/5000 tỉ
+国家杯=cúp quốc gia
+
+
+
 这个老板=ông chủ này/người lão bản này
-陶小王爷=Đào tiểu Vương gia/Đào tiểu vương gia
+
 我老板=lão bản của ta/lão bản ta
 这些大哥=những người đại ca này/những đại ca này
 他们的老婆=lão bà của bọn hắn/vợ của bọn họ
 你老婆=lão bà ngươi/vợ của ngươi
-冷小王爷=Lãnh tiểu Vương gia/Lãnh tiểu vương gia
+冷小王爷=Lãnh tiểu vương gia
 逃走的机会=cơ hội đào tẩu/cơ hội chạy trốn
-曹家人=người Tào gia/người nhà họ Tào
-叶家的家主=Diệp gia gia chủ/gia chủ của Diệp gia
-第十二重=đệ thập nhị trọng/tầng thứ mười hai
-这老者=lão giả này/người lão giả này
-他们的哥哥=ca ca của bọn hắn/ca ca của bọn họ
-最主要的目的=mục đích chính yếu nhất/mục đích chủ yếu nhất
+最主要的目的=mục đích chính yếu nhất
 国家政策=chính sách quốc gia/chính sách của nhà nước
 我的学生=học sinh của ta/đệ tử của ta/học trò của ta
 一翻白眼=trợn trắng mắt/nguýt một cái
@@ -3413,53 +3359,44 @@ UP主=uploader/UP Master/UP chủ
 城主府之中=trong thành chủ phủ/trong phủ thành chủ
 他的老婆=vợ của hắn/lão bà của hắn/vợ của hắn ta
 它的娘亲=mẹ ruột của nó/mẫu thân của nó
-大处落墨=giải quyết việc quan trọng trước/nắm mấu chốt/tập trung công sức vào khâu chủ yếu
-您的手机=điện thoại của ngài/di động của ngài
-学弟学妹=học đệ học muội/đàn em và em gái
+
+
+学弟学妹=học đệ học muội
 这小师妹=tiểu sư muội này/người tiểu sư muội này
-这鬼天气=cái thời tiết mắc toi này/quỷ thiên khí này
-为首的老者=lão giả dẫn đầu/ông lão dẫn đầu
-他的娘亲=mẹ ruột của hắn/mẫu thân của hắn
-你们的血肉=huyết nhục của các ngươi/máu thịt của các ngươi
-其他弟子=đệ tử khác/những đệ tử khác
-单小姐=Đan tiểu thư/Thiện tiểu thư
-赏光参加=vui lòng mà tham gia/đánh giá cao mà tham gia
-修者们=các tu giả/đám tu giả
-他的手机号=số di động của hắn/số điện thoại di động của hắn
-二万亿=hai ngàn tỷ/2000 tỉ
-你的主子=chủ tử của ngươi/chủ nhân của ngươi
-第一滴血=giọt máu đầu tiên/đệ nhất tích huyết
-我的再生父母=tái sinh phụ mẫu của ta/cha mẹ sống lại của ta
-心者道之主宰=tâm là cái chúa tể của đạo/tâm giả đạo chi chủ tể
-我的好妹妹=hảo muội muội của ta/em gái ngoan của ta
-可望而不可卽=trông thì rõ nhưng khó tới gần/khả vọng nhi bất khả tức/khá trông mà chẳng khá tới gần
-时小姐=Thì tiểu thư/Thời tiểu thư
-因为敌人的主力=nhóm chủ lực của địch nhân/nhóm chủ lực của kẻ địch
-十八代弟子=đệ tử đời mười tám/thập bát đại đệ tử
-这个老头=lão đầu này/ông lão này
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 三大家族之一=một trong tam đại gia tộc/một trong ba gia tộc lớn
 穿着讲究=giải thích cường điệu/đục lỗ/khoan lỗ/giải thích cường điệu/ăn mặc cầu kỳ
 敌人的主力=chủ lực của địch nhân/chủ lực của kẻ địch
-张家的人=Trương gia người/người của Trương gia
-毛千总=Mao Thiên tổng/Mao thiên tổng
-他的父母=cha mẹ của hắn/phụ mẫu hắn/cha mẹ hắn
 前台小姐=nhân viên lễ tân/lễ tân tiểu thư
-六十多亿=hơn sáu tỷ/hơn 6 tỉ
-林家人=người Lâm gia/Lâm gia nhân/người nhà họ Lâm
-在家族里=trong gia tộc/ở trong gia tộc
-对翅膀=đôi cánh/đôi cánh
-海军总部=tổng bộ hải quân/Trụ sở Hải quân
-本盟主=bổn minh chủ/bản minh chủ
-顾副县长=Cố phó huyện trưởng/Cố phó chủ tịch huyện
-叶老太=DIệp lão thái/Diệp lão thái
-在玩儿=đang chơi/đang ngoạn nhi
-温小王爷=Ôn tiểu Vương gia/Ôn tiểu vương gia
-毛小王爷=Mao tiểu Vương gia/Mao tiểu vương gia
-大民族主义=chủ nghĩa đại dân tộc/chủ nghĩa dân tộc lớn
+
+
+
+
+
+
+
+
+
+温小王爷=Ôn tiểu vương gia
+毛小王爷=Mao tiểu vương gia
+
 她们的老板=lão bản của các nàng /lão bản của các nàng
-我姐妹=tỷ muội ta/tỉ muội ta/tỷ muội của ta
-敌人的主要攻击目标=mục tiêu công kích chủ yếu của địch nhân/mục tiêu công kích chủ yếu của kẻ địch
-冷千总=Lãnh Thiên tổng/Lãnh thiên tổng
+
+
 她的老板=lão bản của nàng/ông chủ của nàng
 龙宗主=Long tông chủ/Long Tông chủ
 什么大人物=đại nhân vật gì/đại nhân vật nào
@@ -3920,9 +3857,9 @@ UP主=uploader/UP Master/UP chủ
 您老了=ngài lão/ngài già rồi
 美女老师=mỹ nữ lão sư/cô giáo xinh đẹp
 他的手机号码=số đtdđ của hắn/số điện thoại di động của hắn
-他的弟弟=đệ đệ của hắn/em trai của hắn
+他的弟弟=đệ đệ của hắn
 翻手机=xoay điện thoại di động/phiên di động
-这老家伙=lão gia hỏa này/lão này
+
 
 
 

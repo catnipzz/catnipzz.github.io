@@ -34,3 +34,13 @@
 霍将军=Hoắc tướng quân
 霍兄=Hoắc huynh
 霍卿=Hoắc khanh
+陶小王爷=Đào tiểu vương gia
+单师哥=Đan sư ca
+单老爷=Đan lão gia
+单大人=Đan đại nhân
+叶家的家主=Diệp gia gia chủ
+叶老二=Diệp lão nhị
+顾副县长=Cố phó huyện trưởng
+叶老太=Diệp lão thái
+七小王爷=Thất tiểu vương gia
+田阿姨=Điền a di
