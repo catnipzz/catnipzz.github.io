@@ -3923,7 +3923,7 @@ UP主=uploader/UP Master/UP chủ
 他的弟弟=đệ đệ của hắn/em trai của hắn
 翻手机=xoay điện thoại di động/phiên di động
 这老家伙=lão gia hỏa này/lão này
-他们家长=bọn họ gia trưởng/gia trưởng của bọn họ
+
 
 
 
