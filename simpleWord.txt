@@ -64,7 +64,7 @@
 亨=hừ/hanh
 亮=sáng/lượng/sáng lên/phát sáng/rộng mở/lên giọng/to tiếng/bày ra/hiện ra
 亲=thân/hôn
-亳=Bặc
+亳=bặc
 亵=khinh nhờn/dâm loạn/tiết
 人=người/nhân
 亿=ức/trăm triệu
@@ -186,7 +186,7 @@
 傍=bàng/bên cạnh
 傻=ngốc/sỏa/ngu
 像=giống/tượng/giống như
-僰=Bặc
+僰=bặc
 僱=mướn
 僻=tịch/tích
 允=đồng ý
