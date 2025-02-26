@@ -282,3 +282,6 @@ O 型=hình chữ O
 9月10日=ngày mười tháng chín
 9月20日=ngày hai mươi tháng chín
 9月30日=ngày ba mươi tháng chín
+
+
+应该也=hẳn là cũng/vậy cũng
