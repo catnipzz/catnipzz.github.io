@@ -119,3 +119,4 @@
 乳房上=trên nhũ phòng
 晚上下=Tối đến
 开玩笑道=đùa giỡn nói
+那我=vậy ta
