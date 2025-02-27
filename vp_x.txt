@@ -100,3 +100,4 @@
 刺激不刺激=kích thích hay không
 
 地下车库=hầm để xe
+隐隐记=mơ hồ nhớ
