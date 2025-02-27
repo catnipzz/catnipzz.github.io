@@ -107,3 +107,4 @@
 偷着乐=mừng thầm/vui trộm
 什么时候=lúc nào
 自己=chính mình
+不能人=người không thể
