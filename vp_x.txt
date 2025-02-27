@@ -101,3 +101,4 @@
 地下车库=hầm để xe
 隐隐记=mơ hồ nhớ
 风情万种地=phong tình vạn chủng
+挑着眉角=nhướng mày
