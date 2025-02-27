@@ -108,3 +108,4 @@
 什么时候=lúc nào
 自己=chính mình
 不能人=người không thể
+咯!=rồi!
