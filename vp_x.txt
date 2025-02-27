@@ -109,3 +109,4 @@
 自己=chính mình
 不能人=người không thể
 咯!=rồi!
+一开始=ban đầu
