@@ -106,3 +106,4 @@
 得了便宜=được tiện nghi
 偷着乐=mừng thầm/vui trộm
 什么时候=lúc nào
+自己=chính mình
