@@ -160,3 +160,4 @@
 里面请=mời vào trong/mời vào bên trong
 被称为=được xưng là
 年逾古稀=tuổi quá thất tuần
+穿=mặc/xuyên
