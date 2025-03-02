@@ -182,3 +182,4 @@
 手掌一摊=bàn tay mở ra
 铜币=đồng tiền/đồng tệ/tiền bằng đồng
 过了一会=một lát sau
+抬了抬手=giơ tay lên
