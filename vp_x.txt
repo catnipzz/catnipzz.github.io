@@ -226,3 +226,4 @@
 白姑娘=Bạch cô nương
 小道爷=tiểu Đạo gia
 没有错=không sai
+走岔=đi lạc
