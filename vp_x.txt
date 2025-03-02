@@ -257,3 +257,4 @@
 小路上=trên đường nhỏ
 暖了暖胃=làm ấm dạ dày
 除了=ngoại trừ
+口中的=bên trong miệng
