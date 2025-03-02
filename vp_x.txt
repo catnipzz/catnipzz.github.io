@@ -260,3 +260,4 @@
 口中的=bên trong miệng
 他嘴里的=trong miệng hắn
 他们眼中的=trong mắt bọn họ
+这个世界上=trên thế giới này
