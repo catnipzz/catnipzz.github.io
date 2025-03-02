@@ -242,3 +242,4 @@
 那声音=thanh âm kia
 在靠近=đang tới gần
 二神=Nhị Thần
+什么东西=thứ gì
