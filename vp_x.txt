@@ -202,3 +202,4 @@
 支起身子=nâng người lên
 极远处=nơi cực xa
 缩出来=rút ra
+现成的=có sẵn
