@@ -191,3 +191,4 @@
 要小心=phải cẩn thận
 烟杆子=tẩu thuốc
 要亮=sắp sáng
+自己的脑袋=đầu mình
