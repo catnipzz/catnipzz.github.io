@@ -150,3 +150,4 @@
 皇城里=trong hoàng thành
 三响=ba hồi
 三响=ba tiếng
+裹着=bao lấy/bọc lấy
