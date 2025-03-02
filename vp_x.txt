@@ -194,3 +194,4 @@
 自己的脑袋=đầu mình
 而下一秒=mà một giây sau
 下一秒=một giây sau
+这一天=một ngày này
