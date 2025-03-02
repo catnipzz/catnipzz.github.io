@@ -155,3 +155,4 @@
 纸伞=ô giấy/dù giấy
 两列=hai hàng/hai nhóm
 过门之后=sau khi qua cửa
+他脚步=bước chân hắn
