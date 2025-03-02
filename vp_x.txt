@@ -264,3 +264,4 @@
 其他人=những người khác/người khác
 没有必要=không cần phải
 应该的应该的=nên làm nên làm
+哪里的话=lời nói ở đâu
