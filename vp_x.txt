@@ -156,3 +156,4 @@
 两列=hai hàng/hai nhóm
 过门之后=sau khi qua cửa
 他脚步=bước chân hắn
+高墙间=giữa tường cao
