@@ -144,3 +144,4 @@
 妈妈心理=tâm lý ma ma
 这种情况=tình huống loại này
 这么严重=nghiêm trọng như vậy
+这条路=con đường này
