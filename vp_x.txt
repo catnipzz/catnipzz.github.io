@@ -151,3 +151,4 @@
 三响=ba hồi
 三响=ba tiếng
 裹着=bao lấy/bọc lấy
+下来=hạ xuống/xuống tới/xuống/lại/tiếp/hạ xuống
