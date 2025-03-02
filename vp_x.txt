@@ -231,3 +231,4 @@
 碰头后=sau khi chạm mặt
 这么长时间=thời gian dài như vậy
 倒掉=đổ đi/rửa qua
+这些人=những người này
