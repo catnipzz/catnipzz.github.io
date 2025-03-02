@@ -245,3 +245,4 @@
 什么东西=thứ gì
 看了一眼=nhìn thoáng qua
 把手抽了出来=rút tay ra
+应当没什么=hẳn là không có gì
