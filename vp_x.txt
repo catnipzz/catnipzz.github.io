@@ -184,3 +184,4 @@
 过了一会=một lát sau
 抬了抬手=giơ tay lên
 拱了拱手=chắp tay
+还请=kính xin/còn mời
