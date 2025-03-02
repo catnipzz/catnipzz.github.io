@@ -209,3 +209,4 @@
 没过一会=không lâu sau
 死人的=chết người đấy
 没有毒=không có độc
+洗好的=rửa xong
