@@ -219,3 +219,4 @@
 熟得快=chín nhanh
 野菜面=rau dại mì
 吃了起来=bắt đầu
+吃了起来=bắt đầu ăn
