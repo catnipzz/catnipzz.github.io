@@ -157,3 +157,4 @@
 过门之后=sau khi qua cửa
 他脚步=bước chân hắn
 高墙间=giữa tường cao
+里面请=mời vào trong/mời vào bên trong
