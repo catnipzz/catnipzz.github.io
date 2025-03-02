@@ -188,3 +188,4 @@
 不要=đừng/không muốn
 过去=đi qua/quá khứ
 自己爹=cha mình
+要小心=phải cẩn thận
