@@ -243,3 +243,4 @@
 在靠近=đang tới gần
 二神=Nhị Thần
 什么东西=thứ gì
+看了一眼=nhìn thoáng qua
