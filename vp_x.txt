@@ -225,3 +225,4 @@
 呲溜=Soạt
 白姑娘=Bạch cô nương
 小道爷=tiểu Đạo gia
+没有错=không sai
