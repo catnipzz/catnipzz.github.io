@@ -235,3 +235,4 @@
 会不会=có thể hay không
 当天晚上=buổi tối hôm đó
 你鞋子=giày ngươi
+的,=đâu,
