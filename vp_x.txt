@@ -236,3 +236,4 @@
 当天晚上=buổi tối hôm đó
 你鞋子=giày ngươi
 的,=đâu,
+披着衣服=khoác lên y phục
