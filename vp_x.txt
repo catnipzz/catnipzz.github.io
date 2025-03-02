@@ -233,3 +233,4 @@
 倒掉=đổ đi/rửa qua
 这些人=những người này
 会不会=có thể hay không
+当天晚上=buổi tối hôm đó
