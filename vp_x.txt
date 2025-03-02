@@ -228,3 +228,4 @@
 没有错=không sai
 走岔=đi lạc
 碰上=gặp được/đụng tới
+碰头后=sau khi chạm mặt
