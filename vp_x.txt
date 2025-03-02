@@ -163,3 +163,4 @@
 穿=mặc/xuyên
 他面容=khuôn mặt hắn
 瞳孔深处=sâu trong con ngươi
+炯炯神采=thần thái lấp lánh
