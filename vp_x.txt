@@ -213,3 +213,4 @@
 篝火旁=bên đống lửa
 已经被=đã bị
 懂事的=hiểu chuyện/có hiểu biết
+不断地=không ngừng
