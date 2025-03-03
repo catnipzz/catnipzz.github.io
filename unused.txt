@@ -13,3 +13,4 @@
 人说=người ta nói
 了!=rồi!
 喜欢吃=thích ăn
+出丧=đưa ma
