@@ -305,3 +305,4 @@
 多了=nhiều hơn
 凑了过去=tiến lại gần
 高举手=giơ cao tay
+座无虚座=không có chỗ ngồi
