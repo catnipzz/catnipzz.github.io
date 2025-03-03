@@ -316,3 +316,4 @@
 别的什么人=người nào khác
 啃不动=gặm không nổi
 站了起来,=rồi đứng dậy,
+跟下去=đi theo
