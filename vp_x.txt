@@ -317,3 +317,4 @@
 啃不动=gặm không nổi
 站了起来,=rồi đứng dậy,
 跟下去=đi theo
+褶子=nếp gấp/nếp may/nếp nhăn
