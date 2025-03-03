@@ -311,3 +311,4 @@
 是不要=đừng là
 您里面请=mời ngài vào trong
 这么吃=ăn như vậy
+刚开始的时候=lúc mới bắt đầu
