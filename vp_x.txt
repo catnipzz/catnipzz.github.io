@@ -281,3 +281,4 @@
 一寸土地=một tấc đất
 找到了=đã tìm được
 雪地里=trong đất tuyết
+掠影=lược ảnh
