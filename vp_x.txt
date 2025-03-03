@@ -299,3 +299,4 @@
 之前的模样=bộ dáng trước đó
 山下小镇=tiểu trấn dưới núi
 这山下小镇=tiểu trấn dưới núi này
+赶集日=ngày họp chợ
