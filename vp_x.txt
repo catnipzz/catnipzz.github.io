@@ -102,7 +102,7 @@
 隐隐记=mơ hồ nhớ
 风情万种地=phong tình vạn chủng
 挑着眉角=nhướng mày
-翻了个白眼=liếc mắt/lật rồi cái bạch nhãn
+翻了个白眼=liếc mắt/trợn mắt/lật rồi cái bạch nhãn
 得了便宜=được tiện nghi
 偷着乐=mừng thầm/vui trộm
 什么时候=lúc nào
@@ -148,8 +148,8 @@
 吃了下去=ăn tiếp
 很了解=hiểu rất rõ
 皇城里=trong hoàng thành
-三响=ba hồi
 三响=ba tiếng
+这个小区=cái tiểu khu này
 裹着=bao lấy/bọc lấy
 下来=hạ xuống/xuống tới/xuống/lại/tiếp/hạ xuống
 纸伞=ô giấy/dù giấy
