@@ -308,3 +308,4 @@
 座无虚座=không có chỗ ngồi
 都在=đều đang
 在专心=đang chuyên tâm
+是不要=đừng là
