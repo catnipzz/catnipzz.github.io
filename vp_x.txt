@@ -284,3 +284,4 @@
 掠影=lược ảnh
 掠影=lược ảnh
 掠影=lược ảnh
+直起身体=thẳng người lên
