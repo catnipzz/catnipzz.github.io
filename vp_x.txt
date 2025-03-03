@@ -307,3 +307,4 @@
 高举手=giơ cao tay
 座无虚座=không có chỗ ngồi
 都在=đều đang
+在专心=đang chuyên tâm
