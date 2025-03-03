@@ -301,3 +301,4 @@
 这山下小镇=tiểu trấn dưới núi này
 赶集日=ngày họp chợ
 唯一的区别=khác biệt duy nhất
+那就是=đó chính là
