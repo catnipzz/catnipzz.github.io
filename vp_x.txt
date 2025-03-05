@@ -324,3 +324,4 @@
 最喜欢=thích nhất
 那样子=bộ dạng kia
 丧良心=mất lương tâm
+由你=tuỳ ngươi
