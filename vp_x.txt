@@ -328,3 +328,4 @@
 好热闹=thật náo nhiệt
 冷雨夜=đêm mưa lạnh
 栏杆上=trên lan can
+高台上=trên sân khấu
