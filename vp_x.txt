@@ -329,3 +329,4 @@
 冷雨夜=đêm mưa lạnh
 栏杆上=trên lan can
 高台上=trên sân khấu
+略思忖=thoáng suy nghĩ
