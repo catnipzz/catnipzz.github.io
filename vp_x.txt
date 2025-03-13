@@ -282,8 +282,6 @@
 找到了=đã tìm được
 雪地里=trong đất tuyết
 掠影=lược ảnh
-掠影=lược ảnh
-掠影=lược ảnh
 直起身体=thẳng người lên
 可爱之极=vô cùng đáng yêu
 开水烫=nước đun sôi/bỏng nước sôi
@@ -338,3 +336,4 @@
 什麽=cái gì
 好喜欢你=thật thích ngươi
 後背=sau lưng
+在嘀咕着=đang thầm thì
