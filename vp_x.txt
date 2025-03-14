@@ -371,3 +371,4 @@
 能不能=có thể hay không
 蜜穴中=trong mật huyệt
 好舒服=thật dễ chịu
+不行吗=không được sao
