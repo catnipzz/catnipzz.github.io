@@ -348,3 +348,4 @@
 一见=vừa thấy/vừa thấy
 还没睡=vẫn chưa ngủ
 好会=thật biết
+两只眼睛=hai mắt
