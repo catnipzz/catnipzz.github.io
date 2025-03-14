@@ -345,3 +345,4 @@
 像在=giống như đang
 伴著=theo/kèm theo/cùng
 心跳加速=nhịp tim tăng nhanh
+一见=vừa thấy/vừa thấy
