@@ -19,3 +19,4 @@
 忙用=vội vàng dùng
 活地=quả thực là
 能听的=có thể nghe
+不能听=không thể nghe
