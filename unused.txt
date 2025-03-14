@@ -21,3 +21,4 @@
 能听的=có thể nghe
 不能听=không thể nghe
 白了=trợn nhìn
+慢地=chật đất
