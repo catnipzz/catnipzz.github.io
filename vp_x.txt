@@ -363,3 +363,4 @@
 嘴巴里=trong miệng
 棵大树前=trước gốc cây lớn
 一棵大树前=trước một cái cây lớn
+特别的=đặc biệt
