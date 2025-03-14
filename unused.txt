@@ -18,3 +18,4 @@
 对不起=thật xin lỗi
 忙用=vội vàng dùng
 活地=quả thực là
+能听的=có thể nghe
