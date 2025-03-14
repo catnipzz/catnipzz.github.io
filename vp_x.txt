@@ -344,3 +344,4 @@
 大学新生=tân sinh viên
 像在=giống như đang
 伴著=theo/kèm theo/cùng
+著=lấy

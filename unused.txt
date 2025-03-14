@@ -16,3 +16,4 @@
 出丧=đưa ma
 长的=lớn lên
 对不起=thật xin lỗi
+忙用=vội vàng dùng
