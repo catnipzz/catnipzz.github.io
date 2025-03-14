@@ -15,3 +15,4 @@
 喜欢吃=thích ăn
 出丧=đưa ma
 长的=lớn lên
+对不起=thật xin lỗi
