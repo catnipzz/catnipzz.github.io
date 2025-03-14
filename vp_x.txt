@@ -361,3 +361,4 @@
 重要的=quan trọng
 羞涩涩=xấu hổ
 嘴巴里=trong miệng
+棵大树前=trước gốc cây lớn
