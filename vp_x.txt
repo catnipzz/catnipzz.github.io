@@ -374,3 +374,4 @@
 不行吗=không được sao
 这女人=nữ nhân này
 当一条=làm một
+会装=biết ra vẻ/biết giả bộ/biết trang
