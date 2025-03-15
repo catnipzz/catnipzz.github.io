@@ -373,3 +373,4 @@
 好舒服=thật dễ chịu
 不行吗=không được sao
 这女人=nữ nhân này
+当一条=làm một
