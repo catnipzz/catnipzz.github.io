@@ -381,3 +381,4 @@
 雨幕中=trong màn mưa
 都府内=trong đô phủ
 好一个=hay cho một cái
+还在=vẫn đang/còn tại
