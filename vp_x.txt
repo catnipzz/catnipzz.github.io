@@ -382,3 +382,4 @@
 都府内=trong đô phủ
 好一个=hay cho một cái
 还在=vẫn đang/còn tại
+做不做=làm hay không
