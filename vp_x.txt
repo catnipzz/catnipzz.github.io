@@ -387,3 +387,4 @@
 断魂散=Đoạn hồn tán
 好不热闹=vô cùng náo nhiệt
 正厅中=trong sảnh chính
+房门上=trên cửa phòng
