@@ -420,3 +420,4 @@
 太医院=Thái y viện
 忡怔=sững sờ
 世医之家=thế y chi gia/đời đời hành y
+记住了没有=nhớ rõ chưa
