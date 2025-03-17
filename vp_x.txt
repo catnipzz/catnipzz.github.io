@@ -407,3 +407,4 @@
 我起来=ta dậy
 晕绝=ngất đi
 歪了下去=nghiêng xuống
+倒下去=ngã xuống/đổ xuống
