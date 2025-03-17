@@ -419,3 +419,4 @@
 弯着背=khom lưng
 太医院=Thái y viện
 忡怔=sững sờ
+世医之家=thế y chi gia/đời đời hành y
