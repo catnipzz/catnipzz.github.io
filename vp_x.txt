@@ -416,3 +416,4 @@
 轻笑道=cười nhẹ nói
 小丫鬟=tiểu nha hoàn
 已了.=mà thôi.
+已了.=thôi.
