@@ -426,3 +426,4 @@
 感叹道=cảm thán
 冷静道=lạnh lùng nói
 微波闪过=loé lên tia sáng
+一哀=bi thương/bi ai
