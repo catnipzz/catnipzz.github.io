@@ -425,3 +425,4 @@
 已牵记=đã nhớ kỹ
 感叹道=cảm thán
 冷静道=lạnh lùng nói
+微波闪过=loé lên tia sáng
