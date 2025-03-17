@@ -410,3 +410,4 @@
 倒下去=ngã xuống/đổ xuống
 重生了=trùng sinh
 厉声道=quát khẽ
+有救了=được cứu rồi
