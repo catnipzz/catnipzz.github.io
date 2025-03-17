@@ -390,3 +390,4 @@
 房门上=trên cửa phòng
 刚留头=mới để tóc
 六小姐=Lục tiểu thư
+二奶奶=Nhị nãi nãi
