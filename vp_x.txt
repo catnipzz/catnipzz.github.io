@@ -435,3 +435,4 @@
 小龄=Tiểu Linh
 各位的支持=sự ủng hộ của các vị
 花了=tiêu tốn
+自己的母亲=mẫu thân của mình
