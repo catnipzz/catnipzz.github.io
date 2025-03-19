@@ -433,3 +433,4 @@
 谏死=lấy chết can gián
 最是懂得=hiểu rõ nhất
 小龄=Tiểu Linh
+各位的支持=sự ủng hộ của các vị
