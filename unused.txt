@@ -67,3 +67,4 @@
 腹上=trên bụng
 摆着=bày biện
 日里=trong ngày
+摆着=bày biện
