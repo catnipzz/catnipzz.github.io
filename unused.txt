@@ -42,3 +42,4 @@
 去跟=đi cùng
 肉中=trong thịt
 长.=dài.
+说.=nói.
