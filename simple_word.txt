@@ -175,7 +175,7 @@
 业=nghiệp/nghề
 丛=bụi/tùng/bụi rậm/hợp/bụi rậm
 东=đông/nghĩa vụ chủ nhà
-丝=tia/tơ/ti
+丝=tơ/sợi/ti/tia
 丞=thừa
 両=lạng
 丢=ném/mất
