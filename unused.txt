@@ -68,3 +68,4 @@
 摆着=bày biện
 日里=trong ngày
 摆着=bày biện
+上.=lên.
