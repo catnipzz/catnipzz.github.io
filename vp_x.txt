@@ -470,3 +470,4 @@
 我们=chúng ta/chúng tôi
 乏味=nhàm chán/không thú vị/chán nản/nhạt nhẽo/kém thú vị/vô vị
 扫弄=càn quét
+美字=mỹ tự
