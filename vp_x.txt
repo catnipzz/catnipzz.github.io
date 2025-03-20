@@ -461,3 +461,4 @@
 阵阵=từng cơn/từng trận/trận trận
 源自=xuất xứ từ/bắt nguồn từ/nguồn gốc từ
 香肩上=trên vai thơm
+熟稔=quen thuộc/rất quen
