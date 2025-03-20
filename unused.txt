@@ -49,3 +49,4 @@
 弃了=bỏ quên
 全包=toàn bao
 谷中=trong cốc
+合着=thì ra
