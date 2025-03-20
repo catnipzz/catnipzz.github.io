@@ -444,3 +444,4 @@
 偷进=lén vào
 数几代人=nhiều thế hệ
 上数几代人=qua mấy thế hệ/qua nhiều đời
+年纪最大=lớn tuổi nhất
