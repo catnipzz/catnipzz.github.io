@@ -467,3 +467,4 @@
 房门前=trước cửa phòng
 受不住=chịu không được
 小穴中=trong tiểu huyệt
+我们=chúng ta/chúng tôi
