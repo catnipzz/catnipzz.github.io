@@ -465,3 +465,4 @@
 才对=mới đúng
 见她=thấy nàng/gặp nàng
 房门前=trước cửa phòng
+受不住=chịu không được
