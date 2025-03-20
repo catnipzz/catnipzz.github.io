@@ -441,3 +441,4 @@
 正卖力=đang ra sức
 补了=bổ sung
 忠心为主=trung tâm vì chủ
+偷进=lén vào
