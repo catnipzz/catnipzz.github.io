@@ -47,3 +47,4 @@
 见的=gặp
 似被=giống bị
 弃了=bỏ quên
+全包=toàn bao
