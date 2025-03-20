@@ -46,3 +46,4 @@
 生在=sinh ở
 见的=gặp
 似被=giống bị
+弃了=bỏ quên
