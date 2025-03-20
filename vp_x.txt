@@ -450,3 +450,4 @@
 其他孩子=đứa bé khác
 别人家的孩子=con nhà người ta
 闷蛋=người buồn chán
+缠绵不止=triền miên không ngừng
