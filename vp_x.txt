@@ -448,3 +448,4 @@
 三口之家=gia đình 3 người
 前几年=mấy năm trước
 其他孩子=con nhà người ta
+别人家的孩子=con nhà người ta
