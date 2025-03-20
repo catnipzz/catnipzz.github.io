@@ -50,3 +50,4 @@
 全包=toàn bao
 谷中=trong cốc
 合着=thì ra
+摸着=sờ lấy
