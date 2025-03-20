@@ -66,3 +66,4 @@
 合着=thì ra
 腹上=trên bụng
 摆着=bày biện
+日里=trong ngày
