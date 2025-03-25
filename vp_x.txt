@@ -483,3 +483,4 @@
 明白了=minh bạch rồi/hiểu rồi
 是,=vâng,
 可舍不得=thật không nỡ
+不可赦=không thể tha thứ
