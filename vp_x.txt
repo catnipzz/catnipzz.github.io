@@ -479,3 +479,4 @@
 角色颠倒=vai trò đảo lộn
 凑得=đến gần/tiến gần
 乖徒儿=đồ nhi ngoan
+听明白=nghe rõ
