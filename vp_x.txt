@@ -477,3 +477,4 @@
 撞击着=va đập
 怀了=mang thai
 角色颠倒=vai trò đảo lộn
+凑得=đến gần/tiến gần
