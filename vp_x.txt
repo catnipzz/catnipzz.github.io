@@ -496,3 +496,4 @@
 斟酌了几秒=cân nhắc vài giây
 可否告知=có thể cho hay
 心素=tâm tố
+就这样=chỉ như vậy
