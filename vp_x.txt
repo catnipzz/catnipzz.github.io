@@ -495,3 +495,4 @@
 站在原地=đứng nguyên tại chỗ
 斟酌了几秒=cân nhắc vài giây
 可否告知=có thể cho hay
+心素=tâm tố
