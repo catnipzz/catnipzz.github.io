@@ -500,3 +500,4 @@
 可否告知=có thể chỉ giáo
 别人眼=mắt người khác
 打不过=đánh không được
+就跑=liền chạy/bỏ chạy/chỉ chạy
