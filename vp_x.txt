@@ -502,3 +502,4 @@
 打不过=đánh không được
 就跑=liền chạy/bỏ chạy/chỉ chạy
 可是当=thế nhưng khi
+接下来一路=một đường tiếp theo
