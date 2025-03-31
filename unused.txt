@@ -80,3 +80,4 @@
 进了=vào
 秒后=giây sau
 打不过=đánh không được
+就跑=liền chạy
