@@ -87,3 +87,4 @@
 等会儿=đợi một chút/đợi lát nữa
 长的=lớn lên
 在被=tại bị
+没?=không?
