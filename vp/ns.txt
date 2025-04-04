@@ -1736,7 +1736,6 @@
 娑罗树=cây sa la|ns
 婆罗洲=Borneo|ns
 婆罗门=Bà La Môn|ns
-婺=vụ|ns
 嫩嫩=non nớt|ns
 子京=Tử Kinh|ns
 孚众望=tạo lòng tin cho chúng nhân|ns
@@ -1857,7 +1856,6 @@
 小海=tiểu Hải|ns
 小苏=Tiểu Tô/tiểu Tô|ns
 小黎=Tiểu Lê|ns
-尕=ca|ns
 尖嘴=mỏ nhọn|ns
 尖沙=Tiêm Sa|ns
 尖沙咀=Tiêm Sa Chủy|ns
@@ -2582,7 +2580,6 @@
 杏林=hạnh lâm|ns
 杏花村=Hạnh Hoa thôn/ngôi làng của những cây mơ nở hoa, nơi người ta có thể tìm thấy một tiệm rượu|ns
 杜王町=Moriō-chō|ns
-杞=kỷ|ns
 杞国=nước Kỷ|ns
 杞柳=cây khởi liễu|ns
 条条大路通罗马=mọi con đường đều dẫn đến thành Rome/tận những con đường lớn đi qua Rome/mọi con đường đều dẫn tới Rome|ns
@@ -2936,7 +2933,6 @@
 沧海桑田=thương hải tang điền/cuộc bể dâu/thế sự xoay vần/bãi bể nương dâu/biến đổi lớn lao trong cuộc đời/biển xanh thành nương dâu|ns
 沧源=Thương Nguyên|ns
 沪东=Hỗ Đông|ns
-沱=đà|ns
 沱水=Đà Thủy|ns
 河东=Hà Đông|ns
 河东狮=sư tử Hà Đông|ns
@@ -3152,8 +3148,6 @@
 洪都=Hồng Đô|ns
 洪都拉斯=Honduras/Hondurat|ns
 洪门=Hồng môn|ns
-洮=thao|ns
-洱=nhị|ns
 派翠西亚=Patricia|ns
 流沙河=sông Lưu Sa|ns
 浅海=biển cạn|ns
@@ -3166,7 +3160,6 @@
 济水=Tế Thuỷ/Sông Ji, con sông cũ của đông bắc Trung Quốc đã biến mất sau khi sông Hoàng Hà bị ngập lụt vào năm 1852|ns
 济济=nhiều/đông đúc/sẵn có|ns
 济科=Tể Khoa|ns
-浏=lưu|ns
 浏河=Lưu Hà|ns
 浏海=tóc mái/Biển Luhai/Tóc mái/mái|ns
 浑古=thật thà chất phác|ns
@@ -3236,12 +3229,10 @@
 涑水=Thúc Thủy|ns
 润丽=trơn bóng mỹ lệ/trơn đẹp|ns
 涧溪=khe suối|ns
-涪=phù|ns
 涿县=Trác huyện|ns
 涿州=Trác Châu/thành phố cấp quận Zhuozhou ở Bảo Định 保定 [Bao3 ding4], Hà Bắc|ns
 涿郡=Trác quận|ns
 涿鹿=Trác Lộc|ns
-淄=truy|ns
 淄重=vật tư quân dụng|ns
 淅江=Tích Giang|ns
 淌口水=chảy nước miếng/để nước bọt chảy ra từ miệng|ns
@@ -3314,7 +3305,6 @@
 温得和克=Windhoek/Ôn Đắc Hòa Khắc|ns
 温海=Ôn Hải|ns
 温阳=Ôn Dương|ns
-渭=vị|ns
 渭川=Vị Xuyên|ns
 渭水=Vị Thủy|ns
 渭湖=Vị Hồ|ns
@@ -3356,7 +3346,6 @@
 溧水=Lật Thủy|ns
 溪国=Khê Quốc|ns
 溪沟=khê câu|ns
-滁=trừ|ns
 滇池=Điền Trì/hồ Côn Minh|ns
 滑利=nhẵn/phẳng/bôi trơn/làm trơn|ns
 滑坡=đất lở/sạt núi/lở núi/giảm/hạ/xuống dốc/tuột dốc/đất lở|ns
@@ -3382,7 +3371,6 @@
 滨州市=Tân Châu thị|ns
 滨江=Tân Giang/bờ sông|ns
 滨海=Tân Hải|ns
-滹=hô|ns
 漓儿=Li nhi|ns
 漓江=Ly Giang|ns
 漕河=đường sông vận chuyển lương thực|ns
@@ -3391,12 +3379,10 @@
 漠河=Mạc Hà|ns
 漠漠=mạc mạc/mây mù/dày đặc/vắng vẻ/tĩnh mịch|ns
 漫山=khắp núi|ns
-漯=tháp|ns
 漳州=Chương Châu/thành phố cấp tỉnh Chương Châu ở Phúc Kiến|ns
 漳水=Chương Thủy|ns
 潇湘=Tiêu Tương|ns
 潇湘子=Tiêu Tương Tử|ns
-潍=duy|ns
 潭柘寺=Đàm Chá Tự/Đền Tanzhe|ns
 潭里=trong đầm/trong đàm|ns
 潮州=Triều Châu|ns
@@ -3418,7 +3404,6 @@
 澳大利亚=Australia|ns
 澳洲=Châu Úc|ns
 澳门=Macao|ns
-濑=lại|ns
 濑户内海=biển nội địa Seto/biển nội địa|ns
 濮阳=Bộc Dương|ns
 瀛州=Doanh Châu|ns
@@ -3592,7 +3577,6 @@
 番瓜=bí rợ/bí ngô/bí đỏ|ns
 番禺=Phiên Ngung/Quận Phiên Ngung ở tỉnh Quảng Đông|ns
 番邦=phiên bang/nước ngoài/ngoại tộc|ns
-畹=uyển|ns
 畹凤=Uyển Phượng|ns
 登山=leo núi/lên núi/du sơn|ns
 登山越岭=trèo đèo lội suối|ns
@@ -3643,7 +3627,6 @@
 盘川=lộ phí/chi phí đi đường|ns
 盘根=cuộn rễ|ns
 盛京=Thịnh Kinh|ns
-盱=hu|ns
 盱眙=Hu Dị|ns
 盱衡=giương mày trợn mắt/quan sát phân tích|ns
 直布罗陀=Gibraltar/Gilbratar|ns
@@ -3667,7 +3650,6 @@
 石矶=Thạch Cơ|ns
 石门口=cửa đá|ns
 石马=ngựa đá|ns
-硇=nao|ns
 碧海=biển xanh/bích hải|ns
 磅沱=bàng đà|ns
 磐山=bàn sơn|ns
@@ -3924,7 +3906,6 @@
 翼州=Dực Châu|ns
 老城区=lão thành khu|ns
 老挝=Lào/Laos/Lào (Lão Qua)|ns
-耒=lỗi|ns
 耶利内克=Jellinek|ns
 耶路撒冷=Jerusalem|ns
 联邦德国=Liên bang Đức/Bundesrepublik Deutschland|ns
@@ -4090,7 +4071,6 @@
 荷花池=ao hoa sen|ns
 荷马=Homer|ns
 荷鲁斯=Horus|ns
-莆=phủ|ns
 莎士比亚=Shakespeare|ns
 莎曼珊=Samantha|ns
 莫利=Mạc Lợi|ns
@@ -4501,7 +4481,6 @@
 那头陀=kia đầu đà|ns
 邦国=Bang quốc|ns
 邦联=liên bang/khối liên hiệp|ns
-邯=hàm|ns
 邯郸=Hàm Đan|ns
 郑东=trịnh đông|ns
 郑克=Trịnh Khắc|ns
@@ -4515,8 +4494,6 @@
 郡马=quận mã/chồng quận chúa/Quận mã|ns
 郢州=Dĩnh châu|ns
 郢都=Dĩnh đô|ns
-郫=bì|ns
-郸=đan|ns
 都城=đô thành/thủ đô/thủ phủ|ns
 都市=đô thị/thành phố/thành phố lớn|ns
 都江堰=Đô Giang Yển/thành phố cấp quận Dujiangyan ở Thành Đô 成都 [Cheng2 du1], Tứ Xuyên|ns
@@ -4524,7 +4501,6 @@
 鄂省=Hồ Bắc|ns
 鄂西=Ngạc Tây|ns
 鄂都=Ngạc Đô|ns
-鄱=bà|ns
 鄱阳=Bà Dương|ns
 鄱阳湖=Bà Dương hồ|ns
 酉鸡=Dậu Kê|ns
@@ -4688,8 +4664,6 @@
 闽北=Mân Bắc|ns
 闽南=Mân Nam/Minnan|ns
 闽越=Mân Việt|ns
-阜=phụ|ns
-阪=phản|ns
 阪泉=Phản Tuyền|ns
 防沙林=rừng chắn cát/rừng phòng hộ|ns
 阳关=dương quan|ns
@@ -4992,7 +4966,6 @@
 鲁本=Ruben|ns
 鲁省=Sơn Đông|ns
 鲁西西=Luxixi|ns
-鲅=cá thu|ns
 鳌拜=Ngao Bái|ns
 鸡鸣寺=Kê Minh Tự|ns
 鸣沙山=Minh Sa Sơn|ns

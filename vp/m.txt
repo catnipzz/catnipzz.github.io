@@ -1,4 +1,3 @@
-一=nhất|m
 一一=từng cái/nhất nhất/từng việc|m
 一丁点=một chút xíu|m
 一丁点儿=tí xíu/tí tẹo|m
@@ -780,7 +779,6 @@
 七重=thất trọng/bảy tầng|m
 七门=bảy môn/thất môn|m
 七颗=bảy viên/bảy khỏa|m
-万=vạn|m
 万一=vạn nhất/một phần vạn/ngộ nhỡ/nhỡ ra|m
 万一把=vạn nhất đem|m
 万万=vạn vạn/tuyệt đối/trăm triệu/bất kể như thế nào cũng không/dù sao cũng không/quyết|m
@@ -1203,7 +1201,6 @@
 丝毫=mảy may/chút nào/tí ti|m
 丝米=Đề-xi-mi-li-mét/Đềximilimét|m
 丝缕=ti lũ/sợi tơ|m
-两=lưỡng|m
 两万=hai vạn/20 ngàn|m
 两万三千=hai vạn ba ngàn/23,000|m
 两万两=hai vạn lượng|m
@@ -2070,7 +2067,6 @@
 五首=năm đầu|m
 些个=một ít/một vài/cái ít|m
 些天=vài ngày/ít ngày|m
-亿=ức|m
 亿万=ức vạn/hàng tỉ/tỉ tỉ/số vô cùng lớn/số cực lớn/tỉ tỉ/ngàn tỉ|m
 亿万年=ức vạn năm/trăm triệu năm/ngàn tỉ năm|m
 亿两=trăm triệu lạng|m
@@ -2081,8 +2077,6 @@
 亿载=trăm triệu năm|m
 亿道=trăm triệu đạo|m
 亿里=ức dặm/trăm triệu dặm|m
-仟=thiên|m
-仨=ba|m
 仨月=3 tháng|m
 众个=đám|m
 众多=đông đảo/phần đông/rất nhiều/đông đúc|m
@@ -2103,11 +2097,9 @@
 余米=mét hơn|m
 余角=góc phụ|m
 余里=dặm hơn|m
-佰=bách|m
 便条=ghi chép/giấy nhắn tin/note-stick|m
 便桶=thùng phân/bô|m
 便盆=bình nước tiểu/cái bô|m
-俩=lưỡng|m
 俩个=hai|m
 俩句=hai câu|m
 俩手=hai bàn tay|m
@@ -2272,7 +2264,6 @@
 八重=bát trọng/tám tầng|m
 八颗=tám khỏa/tám viên|m
 八首=tám đầu|m
-六=lục|m
 六七=sáu bảy|m
 六七个=sáu bảy|m
 六七十=sáu bảy mươi/sáu mươi bảy mươi/sáu mươi, bảy mươi|m
@@ -2446,7 +2437,6 @@
 六顿=sáu bữa|m
 六颗=sáu khỏa/sáu viên|m
 六首=lục thủ|m
-几=kỷ|m
 几万=mấy vạn/mấy vạn|m
 几万两=mấy vạn lượng|m
 几万倍=mấy vạn lần|m
@@ -3231,7 +3221,6 @@
 半重=nửa trọng/nửa tầng|m
 半页=nửa tờ|m
 半颗=nửa viên|m
-叁=tam|m
 叁个=ba|m
 叁十=ba mươi|m
 叁天=ba ngày|m
@@ -3475,13 +3464,10 @@
 四重=tứ trọng/bốn tầng|m
 四队=bốn đội/đội bốn|m
 四颗=bốn khỏa/bốn viên|m
-垧=thưởng|m
-壬=nhâm|m
 壬戌=nhâm tuất|m
 壬辰=nhâm thìn|m
 壹佰=một trăm|m
 壹天=một ngày|m
-多=đa|m
 多一些=nhiều một chút/nhiều một ít|m
 多一倍=nhiều gấp đôi|m
 多一分=nhiều một phần/thêm một phần|m
@@ -3687,7 +3673,6 @@
 己亥=Kỷ Hợi|m
 庚午=canh ngọ|m
 庚帖=thiếp canh|m
-廿=nhập|m
 廿八=hai mươi tám|m
 廿六=ngày hai mươi sáu|m
 廿四=hai mươi bốn|m
@@ -3704,7 +3689,6 @@
 戊戌=Mậu Tuất|m
 戊戌年=năm Mậu Tuất|m
 成倍=gấp đôi/trở nên gấp mấy lần/gấp mấy lần|m
-捌=bát|m
 数一=đếm một|m
 数一数=đếm một chút|m
 数一数二=số một số hai/hạng nhất hạng nhì|m
@@ -3897,7 +3881,6 @@
 极少数=cực thiểu số/số rất ít|m
 极左派=cực tả phái|m
 架次=lượt chiếc/lần chiếc|m
-柒=thất|m
 毫分=tí tẹo/tí/một tí/mảy may|m
 毫子=hào|m
 港元=Hồng Kông đô la|m
@@ -3915,7 +3898,6 @@
 片段=đoạn ngắn/mẩu/một đoạn/một nét/mẩu chuyện/phiến đoạn|m
 片片=từng mảnh/từng mãnh/từng mảnh từng mảnh|m
 片缕=sợi vải|m
-玖=cửu|m
 甲卯=Giáp Mão|m
 甲申年=năm Giáp Thân/giáp Thân Niên|m
 百万=trăm vạn/một triệu/cực nhiều/triệu|m
@@ -4829,7 +4811,6 @@
 诸多方面=rất nhiều phương diện|m
 诸天=chư thiên|m
 诸子百家=bách gia chư tử/chư tử bách gia/Trăm trường phái tư tưởng, các trường phái tư tưởng khác nhau và các cơ sở của chúng trong thời Xuân Thu và Chiến Quốc|m
-贰=nhị|m
 贰佰万=hai trăm vạn|m
 辆车=chiếc xe|m
 辛丑年=năm Tân Sửu/tân sửu niên|m

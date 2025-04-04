@@ -486,7 +486,6 @@
 甲级=hạng A/Giáp cấp/ngoại hạng/hạng nhất|b
 盛典=thịnh điển/buổi lễ long trọng/buổi lễ trọng thể|b
 盛大=long trọng/trọng thể|b
-盥=quán|b
 盥洗=rửa mặt/rửa tay|b
 省察=tự kiểm điểm bản thân|b
 省级=cấp tỉnh|b
@@ -529,7 +528,6 @@
 纯一=thuần nhất/đơn nhất/đơn lẻ/riêng rẽ|b
 纯天然=thuần thiên nhiên|b
 纯清=thuần thanh|b
-绛=giáng|b
 绩优=tích ưu|b
 绩效=thành tích hiệu quả/hiệu suất/Đánh giá|b
 育龄=độ tuổi sinh đẻ|b

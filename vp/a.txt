@@ -213,7 +213,6 @@
 丰雅=Phong Nhã|a
 丰韵=thuỳ mị/hấp dẫn/quyến rũ/phong vận|a
 丰饶=phì nhiêu/màu mỡ/phong phú/phong nhiêu|a
-久=cửu|a
 久旱=hạn hán đã lâu|a
 义勇=nghĩa dũng/anh dũng đấu tranh vì chính nghĩa|a
 义结=kết nghĩa|a
@@ -342,7 +341,6 @@
 俱厉=câu lệ/nghiêm túc|a
 倒挺=cũng rất|a
 倒霉=không may/xui xẻo/xui/xúi quẩy/rủi ro|a
-倔=quật|a
 倔傲=kiên cường|a
 倔劲=quật kình|a
 倔巴=gàn/gàn bướng/bộc trực/bướng bỉnh/ngoan cố/khó bảo/dai dẳng/khó trị|a
@@ -383,7 +381,6 @@
 偶出=thỉnh thoảng xuất hiện|a
 偶见=thỉnh thoảng thấy|a
 傑出=kiệt xuất/nói người hay vật gì sinh ra khác hẳn mọi loài|a
-傲=ngạo|a
 傲俗=khinh đời|a
 傲僻=kiêu căng ngang ngạnh|a
 傲劲=ngạo kình|a
@@ -409,7 +406,6 @@
 充耳=từ chối nghe/bịt tai|a
 充裕=dư dả/đầy đủ/sung túc/dồi dào/dư dật|a
 充足=sung túc/đầy đủ/dồi dào/phong phú/dư dật|a
-兇=hung|a
 先严=vong phụ/tiên phụ/người cha đã khuất|a
 先吃=ăn trước|a
 先听=trước hết nghe|a
@@ -759,7 +755,6 @@
 嘴阔=miệng rộng|a
 嘴馋=thèm ăn/chủy sàm/thèm/muốn ăn|a
 嘶哑=khàn giọng/khàn khàn|a
-嘹=liệu|a
 嘹亮=to rõ/lảnh lót/lanh lảnh/liệu lượng|a
 嘹喨=Liệu lượng/véo von|a
 嘹高=liệu cao/trong trẻo/thánh thót|a
@@ -1030,7 +1025,6 @@
 孤苦=cơ khổ/bơ vơ/cô khổ|a
 孤陋=ngu dốt/dốt nát/nông cạn|a
 孤高=cao ngạo/kiêu ngạo/xa rời quần chúng|a
-孱=sàn|a
 孱头=thằng ẻo ọt/đồ bất tài yếu đuối|a
 孱弱=yếu đuối/gầy yếu/yếu đuối bất lực/mỏng yếu/không đầy đủ|a
 宁缺=Ninh Khuyết|a
@@ -1167,7 +1161,6 @@
 尖细=lanh lảnh/chói tai/tiêm tế|a
 尖钻=dùi nhọn|a
 尖锐=bén nhọn/sắc bén/sắc nhọn/bén/sâu sắc/sắc sảo/chói tai/kịch liệt/gay gắt|a
-尴=dam|a
 尴尬=xấu hổ/lúng túng|a
 尷尬=ngượng ngùng/xấu hổ/tôi|a
 峻峭=núi cao dốc đứng/vách núi cheo leo|a
@@ -1328,7 +1321,6 @@
 弛懈=lơi lỏng|a
 弛缓=dịu lại/lắng lại/xẹp xuống|a
 弱弱=yếu ớt|a
-強=cường|a
 强似=hơn/vượt|a
 强健=cường kiện/cường tráng/khoẻ mạnh/lực lưỡng/tráng kiện|a
 强劲=mạnh mẽ/mạnh/mạnh mẽ|a
@@ -1516,7 +1508,6 @@
 快美=khoái mỹ|a
 快进=tiến nhanh/mau vào|a
 忸怩=xấu hổ/bẽn lẽn/ngượng nghịu|a
-忿=phẫn|a
 忿怒=phẫn nộ|a
 忿恨=phẫn hận/căm hận/căm gan|a
 忿然=phẫn nhiên|a
@@ -1634,7 +1625,6 @@
 悲辛=đau xót/chua cay/thống thiết|a
 悲郁=u uất/đau thương|a
 情涩=tình sáp|a
-惆=trù|a
 惆怅=phiền muộn/thương cảm/rầu rĩ/oán hận/buồn phiền/chán nản/thất vọng/trù trướng|a
 惊人=kinh người/làm kinh ngạc/làm ngạc nhiên/khác thường/lạ thường/giật gân/kinh ngạc|a
 惊动=kinh động/quấy rầy/động đến|a
@@ -1664,7 +1654,6 @@
 惊骇=kinh hãi/sợ hãi/hoảng sợ|a
 惊魂=kinh hồn/hoảng hồn/hết hồn|a
 惋惜=tiếc hận/thương tiếc/thương xót/tiếc cho|a
-惡=ác|a
 惨厉=thê lương/thê thảm/thảm lệ|a
 惨烈=thảm liệt/thảm thiết/vô cùng thê thảm/cực kỳ oanh liệt/vô cùng oanh liệt/mãnh liệt/lợi hại/ghê gớm/khốc liệt|a
 惨痛=thê thảm đau đớn/thảm thống/đau đớn/đau thương/đau đớn thê thảm/thê thảm|a
@@ -1760,7 +1749,6 @@
 憋笑=nén cười|a
 憋郁=uất ức|a
 憋闷=bị đè nén/ấm ức/tức anh ách/bực bội/khó chịu/biệt muộn|a
-憔=tiều|a
 憔悴=tiều tụy/tiền tuỵ/hốc hác/võ vàng/Tiều tụy/khốn khổ|a
 憨厚=chất phác/hàm hậu/thật thà phúc hậu/thật thà chất phác/mộc mạc/thật thà/thành thật|a
 憨实=thật thà chất phác/thật thà phúc hậu|a
@@ -1926,7 +1914,6 @@
 晴朗=sáng sủa/nắng ráo sáng sủa/nắng ráo/trời quang/trời trong/quang đãng|a
 晶亮=óng ánh/sáng trong|a
 晶莹=óng ánh/trong suốt/lóng lánh/trong sáng|a
-暖=noãn|a
 暖和=ấm áp/ấm lên/sưởi ấm|a
 暖昧=ám muội|a
 暖活=ấm áp|a
@@ -2305,7 +2292,6 @@
 浮躁=táo bạo/kiêu căng/xốc nổi/nông nổi/nóng nảy/rộn ràng|a
 浮靡=hào nhoáng xa xỉ|a
 消瘦=gầy gò/gầy đi/ốm đi|a
-涩=sáp|a
 淡薄=mờ nhạt/mỏng/thưa/thưa thớt/tan/nhạt/nhạt nhẽo/phai nhạt/lợt phai/lợt lạt/đạm bạc|a
 淫乐=dâm nhạc|a
 淫乱=dâm loạn/tà dâm|a
@@ -2447,7 +2433,6 @@
 湍急=chảy xiết/xiết|a
 溷浊=đục ngầu/vẩn đục/bẩn/nhơ nhớp|a
 溽热=nóng|a
-滂=bàng|a
 滂沱=mưa lớn/giàn giụa/tầm tã/mưa to/bàng đà|a
 滂湃=cuộn trào/nước cuộn trào/nước tuôn trào|a
 滑爽=trơn|a
@@ -2461,7 +2446,6 @@
 漫漫=từ từ/đằng đẵng/dài đằng đẵng/mênh mông|a
 潇明=Tiêu Minh|a
 潇洒=tiêu sái/tự nhiên/phóng khoáng|a
-潦=lạo|a
 潦倒=thất vọng/chán nản/buồn chán/vất vả|a
 潦草=viết ngoáy/viết ẩu/viết tháu/qua loa/qua quýt/lạo thảo|a
 潮湿=ẩm ướt/ươn ướt/sền sệt/ẩm thấp/ướt át|a
@@ -2582,7 +2566,6 @@
 焦躁=nôn nóng/nóng lòng/sốt ruột/nóng nảy|a
 煊赫=lừng lẫy/hiển hách|a
 煦和=hú hòa|a
-煳=hồ|a
 熟稔=rất quen/quen thuộc|a
 熟练=thuần thục/thạo/thông thạo|a
 熟美=thục mỹ|a
@@ -2628,8 +2611,6 @@
 特配=đặc phối|a
 犀利=sắc bén/sắc nhọn|a
 犀眼=mắt tê|a
-犟=cưỡng|a
-犷=quánh|a
 犷悍=thô lỗ/hung hãn|a
 犹大=Judas|a
 犹然=vẫn cứ/giống như cũ|a
@@ -2682,7 +2663,6 @@
 狰狞=dữ tợn/dữ tợn|a
 狰猛=hung mãnh|a
 狼藉=bừa bộn/đống bừa bộn/đống hỗn độn/bừa bãi/lộn xộn/bê bối/hỗn loạn/mất trật tự/tàn tạ|a
-猖=xương|a
 猖狂=càn rỡ/điên cuồng ngang ngược/ngông cuồng|a
 猖獗=hung hăng ngang ngược/đổ/ngã/xương quyết|a
 猛恶=mãnh ác|a
@@ -2749,7 +2729,6 @@
 疲软=mềm nhũn/bủn rủn/sụt giá/rớt giá|a
 疲顿=mệt mỏi/mệt nhọc/mệt lử|a
 病狂=bệnh cuồng|a
-痒=dương|a
 痒死=ngứa chết|a
 痒痒=ngứa/ngứa ngáy|a
 痛切=thống thiết/vô cùng đau đớn/hết sức đau khổ|a
@@ -2771,7 +2750,6 @@
 瘦瘠=gầy gò/ốm yếu/cằn cỗi/xấu|a
 瘦脸=mặt gầy|a
 瘦高=cao gầy|a
-瘪=biết|a
 癫狂=điên cuồng/điên khùng/điên dại/điên rồ/sàm sỡ/không nghiêm túc/không đứng đắn|a
 白暂=trắng trẻo/bạch tạm|a
 皓然=Hạo Nhiên|a
@@ -2820,7 +2798,6 @@
 着慌=hoảng hốt/hoảng loạn/cuống lên|a
 着重=cường điệu/nhấn mạnh/chú trọng/coi trọng|a
 睿智=cơ trí/nhìn xa trông rộng|a
-矍=quắc|a
 矍铄=quắc thước/khỏe mạnh|a
 矜矜=cẩn trọng/thận trọng/cẩn thận/kiên cường/mạnh mẽ|a
 矜贵=tự phụ/kiêu ngạo/tự cao tự đại/cao quý|a
@@ -2860,7 +2837,6 @@
 神秘=thần bí/huyền bí|a
 神足=thần túc|a
 祥细=tường tế|a
-禳=nhương|a
 离奇=ly kỳ/không bình thường/khác thường/lạ lùng|a
 离常=lạ thường|a
 秀丽=tú lệ/thanh tú đẹp đẽ/xinh đẹp|a
@@ -2900,7 +2876,6 @@
 稚嫩=non nớt/non trẻ/trẻ con/trĩ nộn|a
 稚意=tính trẻ con|a
 稚美=trĩ mỹ|a
-稠=trù|a
 稠密=đông đúc/nhiều/dầy đặc/rậm rạp/thân mật/mật thiết/thân tình/thân thiết/riêng tư|a
 稠度=độ đặc/độ chắc|a
 稠稠=đặc/sền sệt|a
@@ -2938,7 +2913,6 @@
 突奇=Đột Kỳ|a
 突显=đột hiển|a
 突盛=đột nhiên nhiều hơn|a
-窄=trách|a
 窄狭=chật hẹp|a
 窈窕=yểu điệu/duyên dáng/sâu thẳm tĩnh mịch|a
 窘促=quẫn bách/túng quẫn|a
@@ -3012,7 +2986,6 @@
 粗鲁=thô lỗ/lỗ mãng/tục tằn/thô bỉ/thô bạo|a
 粘稠=sền sệt/sềnh sệch/sền sệt|a
 粘糊=hồ dính|a
-粲=sán|a
 粲然=tươi sáng/toả sáng/rõ ràng/rõ rệt/minh bạch/cười hở răng/cười toét miệng/cười nhe răng|a
 精壮=cường tráng/tinh tráng/cường tráng/khỏe/tráng kiện/khoẻ|a
 精妙=tinh diệu/đẹp đẽ/kỳ diệu/tuyệt diệu/tuyệt vời/tinh xảo|a
@@ -3072,7 +3045,6 @@
 紧要=khẩn yếu/quan trọng/nguy cấp/nguy ngập|a
 紧贴=kề sát/kế/kề/sát/dán chặt|a
 紧靠=nương tựa/tiếp giáp/nằm sát/giáp với|a
-綺=khỉ|a
 繁丽=phong phú/hoa mỹ|a
 繁乱=bề bộn/lộn xộn|a
 繁体=phồn thể/nguyên thể/chữ phồn thể|a
@@ -3157,7 +3129,6 @@
 缠人=quấn người|a
 缠绵=triền miên/dằng dai/dây dưa/uyển chuyển/du dương|a
 缠足=quấn chân/bó chân|a
-缥=phiếu|a
 缥缈=mờ mịt/lúc ẩn lúc hiện/lúc có lúc không/như có như không/mờ mờ/mù mịt|a
 缱绻=lưu luyến/bịn rịn/quyến luyến|a
 罕有=hãn hữu/hiếm có/ít có|a
@@ -3244,9 +3215,7 @@
 肥胖=mập mạp/mập/béo/béo phì/to béo|a
 肥腻=béo ngậy/béo|a
 肥鲜=tươi rói/tươi ngon|a
-肮=khảng|a
 肮脏=dơ bẩn/dơ đáy/cáu bẩn/bẩn thỉu/bỉ ổi/hèn nhát/hèn hạ/thấp hèn/đê tiện/dơ/bẩn/dơ dáy/thối nát|a
-胀=trướng|a
 胆壮=can đảm/gan dạ/dũng cảm/đảm tráng|a
 胆大=gan lớn|a
 胆寒=sợ hãi/sợ/sợ sệt/khiếp sợ/đảm hàn|a
@@ -3255,7 +3224,6 @@
 胆敢=dám can đảm/cả gan/dám cả gan/liều lĩnh/dám to gan|a
 胆虚=nhút nhát/sợ sệt|a
 背挺=ưỡn lưng|a
-脆=thúy|a
 脆弱=yếu ớt/yếu đuối/mỏng manh/mảnh khảnh/không kiên cường/mảnh dẻ/dễ vỡ|a
 脆快=dứt khoát/ngắn gọn/thẳng thắn/quả quyết/không dây dưa|a
 脆皮=da giòn|a
@@ -3274,10 +3242,8 @@
 腥臭=tanh hôi|a
 腻烦=nhàm chán/ngấy/chán ghét/ghét/nhàm/chán|a
 腻腻=nhơn nhớt|a
-腼=điến|a
 腼腆=ngại ngùng/thẹn thùng/xấu hổ/e lệ/mắc cỡ|a
 臃肿=cồng kềnh/mập mạp/béo phì/béo phệ/cồng kềnh khó điều khiển/sưng vù|a
-臟=tạng|a
 自乐=tự nhạc|a
 自傲=tự ngạo/tự kiêu/kiêu ngạo|a
 自净=lọc/tự tịnh/tự làm sạch/tự thanh lọc|a
@@ -3337,7 +3303,6 @@
 艰辛=gian khổ/vất vả/khó khăn|a
 艰险=gian nguy/nguy nan/khó khăn nguy hiểm/gian hiểm|a
 艰难=gian nan/khó khăn/gian khổ/khốn khổ/chật vật|a
-艳=diễm|a
 艳丽=diễm lệ/tươi đẹp/xinh đẹp|a
 艳俗=diễm tục|a
 艳名=diễm danh/tên đẹp|a
@@ -3534,7 +3499,6 @@
 详情=tường tình/tình hình cụ thể và tỉ mỉ|a
 详明=tỉ mỉ rõ ràng|a
 详详=tường tận|a
-诧=sá|a
 诧事=việc lạ|a
 诧叹=tán thưởng|a
 诧异=kinh ngạc/vô cùng kinh ngạc/rất ngạc nhiên|a
@@ -3611,9 +3575,7 @@
 踏实=an tâm/kiên định/thực tế/chân thật|a
 踏平=san bằng/đạp bằng|a
 踏足=đặt chân|a
-蹊=hề|a
 蹊跷=kỳ quặc/kỳ hoặc/kỳ lạ|a
-蹩=biệt|a
 蹩眉=nhíu mày|a
 蹩脚=sứt sẹo/xấu/tồi/kém chất lượng/kém bản lĩnh|a
 蹭撞=mài va|a
@@ -3749,7 +3711,6 @@
 遥远=xa xôi/rất xa/cách xa|a
 遥遥=xa xa/xa/cách xa|a
 遥阔=xa rộng|a
-遲=trì|a
 邈视=xem thường|a
 邋遢=lôi thôi/lếch thếch/lề mề/nhếch nhác/dơ dáy|a
 邪主=Tà chủ|a
@@ -3802,7 +3763,6 @@
 酸苦=chua xót/đau xót|a
 酸软=bủn rủn/mỏi nhừ|a
 酸辛=đau xót/chua cay|a
-酽=nghiệm|a
 醇厚=thuần hậu/nồng/đậm/đậm đà/thuần phát/thành thật chất phác|a
 醇朴=chân thật/ngay thẳng/chất phác|a
 醇烈=đậm|a
@@ -3879,7 +3839,6 @@
 陡峭=dốc đứng/đẩu tiễu/chót vót/dốc ngược/dốc/cao chót vót|a
 陡峻=cao và dốc|a
 陡盛=đẩu thịnh|a
-险=hiểm|a
 险峻=hiểm trở/nguy hiểm|a
 险恶=hiểm ác/hiểm ác đáng sợ|a
 险要=hiểm yếu|a
@@ -3950,7 +3909,6 @@
 颓靡=mất tinh thần/chán nản/buồn nản|a
 颖异=thông minh hơn người/mới mẻ khác thường|a
 颖颖=Dĩnh Dĩnh|a
-颟=man|a
 颟顸=mù mờ/lơ mơ|a
 颠沛=khốn cùng/nghiêng ngửa/hoạn nạn/nghèo khổ/khốn khó/bị vùi dập/điên phái|a
 颠狂=điên cuồng/điên khùng|a
@@ -3963,8 +3921,6 @@
 飘缈=phiêu miểu|a
 饱和=bão hòa/bão hoà/no/chán ngấy/thoả mãn/đạt đến cực điểm/làm bão hoà|a
 饱富=bão phú|a
-馊=sưu|a
-馋=sàm|a
 香脆=thơm giòn/giòn|a
 驯熟=hiền lành/biết phục tùng/thuần thục|a
 驯良=hiền lương/hiền lành|a
@@ -4049,6 +4005,5 @@
 齐爆=cùng nổ|a
 齐警=Tề Cảnh|a
 齐集=tụ tập đầy đủ/tập hợp đầy đủ/tập trung tất cả|a
-龌=ác|a
 龌蹉=dơ bẩn/bẽo|a
 龌龊=bẩn thỉu/xấu xa/không sạch sẽ/nhơ nhớp/bẩn/đê hèn/bỉ ổi/hẹp hòi/câu nệ tiểu tiết|a

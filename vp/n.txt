@@ -1562,7 +1562,6 @@
 习见=thường thấy/thấy luôn|n
 习语=thành ngữ/câu nói thông thường|n
 习题=bài tập|n
-乡=hương|n
 乡下人=nông dân/người làng quê/hương hạ nhân/người nhà quê|n
 乡井=quê hương|n
 乡亲=hương thân/đồng hương/người cùng quê/bà con|n
@@ -1602,7 +1601,6 @@
 乡长=trưởng làng/hương trưởng/chủ tịch xã|n
 乡间=hồi hương/ở nông thôn/ở quê/nông thôn|n
 乡音=giọng nói quê hương/hương âm|n
-书=thư|n
 书下=dưới sách|n
 书亭=quán sách|n
 书仙=thư tiên|n
@@ -1832,7 +1830,6 @@
 争辉=tranh nhau phát sáng/tranh huy|n
 争雄=tranh hùng/giành thế chủ động|n
 争龙=tranh long|n
-事=sự|n
 事业=sự nghiệp/công cuộc/hành chính sự nghiệp|n
 事业单位=đơn vị sự nghiệp|n
 事业心=sự nghiệp tâm/sự nghiệp/cống hiến cho công việc của một người|n
@@ -2396,7 +2393,6 @@
 亲言=tự mình nói|n
 亲赐=ban cho|n
 亲身=tự mình/bản thân/đích thân|n
-人=nhân|n
 人丁=nhân khẩu/người lớn/người trưởng thành/số dân/nhân số|n
 人上有人=nhân thượng hữu nhân|n
 人下=dưới người|n
@@ -2711,7 +2707,6 @@
 仔肩=bổn phận/trách nhiệm/tử kiên/gánh lấy trách nhiệm|n
 仔鱼=cá con/cá bột|n
 仔鸡=gà con/gà mới nở|n
-仕=sĩ|n
 仕人=sĩ nhân|n
 仕女=sĩ nữ/cung nữ/tranh mỹ nữ|n
 仕女图=tranh mĩ nữ|n
@@ -2987,7 +2982,6 @@
 仲裁员=trọng tài viên|n
 仲裁者=trọng tài|n
 仵作=Ngỗ tác/khám nghiệm tử thi/tên một chức lại để khám xét các người tử thương|n
-价=giới|n
 价位=giá/giá cả/mức giá|n
 价值=giá trị/giá trị tích cực/giá trị cao/tốt|n
 价值千金=đáng giá ngàn vàng|n
@@ -3270,7 +3264,6 @@
 会餐=ăn liên hoan/ăn tiệc/bữa cơm đoàn kết|n
 会馆=hội quán|n
 会首=hội thủ/người sáng lập hội|n
-伞=tán|n
 伞兵=lính dù/lính nhảy dù|n
 伞兵部队=bộ đội nhảy dù/lực lượng lính nhảy dù/Bộ đội nhảy dù|n
 伞子=dù|n
@@ -3357,7 +3350,6 @@
 传音=truyền âm|n
 传音入密=truyền âm nhập mật|n
 传鹰=Truyền Ưng|n
-伢=nha|n
 伢伢=yaya|n
 伢子=Saeko/Nha Tử/trẻ con/hài tử|n
 伢崽=nha tể|n
@@ -3396,7 +3388,6 @@
 伤门=thương môn|n
 伤风=cảm mạo/bị cảm/cảm lạnh|n
 伤食=thương thực/ngộ thực|n
-伥=trành|n
 伥鬼=trành quỷ/ma cọp vồ|n
 伦理观=luân lý quan|n
 伪书=sách giả/nguỵ thư|n
@@ -3786,7 +3777,6 @@
 使节=sứ giả/đặc phái viên/chuyên sứ|n
 使节团=đoàn sứ giả/đoàn đặc phái viên sứ giả|n
 使馆=sứ quán|n
-侄=điệt|n
 侄儿=chất nhi/cháu|n
 侄女=chất nữ/cháu gái|n
 侄女儿=chất nữ nhi|n
@@ -3797,7 +3787,6 @@
 侄子=chất tử/cháu/cháu trai|n
 侄孙=cháu trai|n
 侄孙女=cháu gái|n
-侉=khoa|n
 侉子=người nói pha tiếng/người nói giọng pha tiếng địa phương|n
 例代=lệ đại|n
 例句=câu ví dụ|n
@@ -4277,7 +4266,6 @@
 倭寇=giặc Oa|n
 倭王=Oa Vương|n
 倭瓜=bí đỏ/bí ngô/bí rợ|n
-债=trái|n
 债主=chủ nợ/người cho vay|n
 债券=công trái/phiếu công trái/trái khoản|n
 债务=nợ nần/nợ chưa trả/món nợ|n
@@ -4472,11 +4460,9 @@
 偷窥者=kẻ nhìn trộm|n
 偷腥=ăn vụng/thâu tinh|n
 偿付能力=khả năng chi trả/khả năng thanh toán|n
-傀=khôi|n
 傀儡=khôi lỗi/con rối/hình nộm/hình rơm/hình nhân/kẻ bị giật dây/bù nhìn/bung xung/Khối lỗi/tượng gỗ|n
 傀儡戏=múa rối/múa búp bê|n
 傀儡政权=chính quyền bù nhìn/chính phủ bù nhìn|n
-傧=tấn|n
 傧相=người tiếp tân/người xướng lễ/người tiếp khách/phù dâu/phù rể|n
 储下=tích luỹ/tích lũy|n
 储存=chứa đựng/trữ/dự trữ/để dành/dành dụm/gửi/ký thác|n
@@ -4550,7 +4536,6 @@
 像母=giống mẹ|n
 像章=huy hiệu/kỷ niệm chương|n
 像素=pixel/độ phân giải/phân giải|n
-僚=liêu|n
 僚佐=liêu tá/trợ lý|n
 僚友=liêu hữu/quan đồng liêu/quan đồng chức|n
 僚属=liêu thuộc|n
@@ -4570,7 +4555,6 @@
 僧袍=tăng bào|n
 僧门=tăng môn|n
 僧面=mặt tăng/tăng diện|n
-僮=đồng|n
 僮儿=Đồng nhi|n
 僵仆=cứng đờ và đổ xuống|n
 僵尸=cương thi/quỷ nhập tràng/xác chết cứng/đồ hủ bại|n
@@ -4758,7 +4742,6 @@
 先驱=tiên phong/đi trước/người dẫn đường|n
 先驱者=người mở đường|n
 先验=tiên nghiệm|n
-光=quang|n
 光丝=tia sáng/quang tia/quang ty|n
 光乳=quang nhũ|n
 光人=người ánh sáng/quang nhân|n
@@ -4936,7 +4919,6 @@
 兔皮=da thỏ|n
 兔肉=thịt thỏ|n
 兔腿=đùi thỏ/chân thỏ|n
-党=đảng|n
 党代表=đại biểu Đảng/người đại diện cho Đảng|n
 党刊=tạp chí Đảng|n
 党务=công tác Đảng|n
@@ -5607,7 +5589,6 @@
 兴源=Hưng Nguyên|n
 兴趣=hứng thú/thích thú|n
 兴革=cải cách/cải tạo/cải tổ/xây dựng và phá bỏ|n
-兵=binh|n
 兵丁=binh sĩ/tên lính/thằng lính/binh đinh|n
 兵乓球=quả bi sắt|n
 兵乓球桌=bàn bóng bàn|n
@@ -5988,7 +5969,6 @@
 写本=bản sao/bản chép tay/bản sao chép|n
 写真集=album ảnh|n
 写诗=làm thơ|n
-军=quân|n
 军之帅=nguyên soái quân đoàn|n
 军乐=quân nhạc|n
 军乐队=quân nhạc/ban quân nhạc/ban nhạc quân đội/Đội quân nhạc|n
@@ -6825,7 +6805,6 @@
 出院=xuất viện/ra viện|n
 出面=ra mặt/đứng ra/đại diện|n
 出题=ra đề mục/công bố đề mục/ra đề|n
-函=hàm|n
 函件=thư tín/văn kiện/thư từ/hàm kiện|n
 函儿=Hàm Nhi|n
 函告=báo cáo bằng thư tín|n
@@ -7389,7 +7368,6 @@
 刻痕=vết khắc/dấu ấn|n
 刻间=khắc thời gian|n
 刻骨=khắc cốt/khắc cốt ghi xương/khắc cốt ghi tâm/không bao giờ quên/muôn thuở|n
-刽=quái|n
 刽子手=đao phủ/đao phủ thủ/bọn giết người|n
 刽者=quái giả|n
 剂型=loại/kiểu|n
@@ -7778,7 +7756,6 @@
 办理=làm/tiến hành/công việc/giải quyết/thực hiện|n
 办置=mua sắm/mua/sắm/tậu|n
 办里=xử lý|n
-功=công|n
 功业=công lao sự nghiệp/thành tích/thành tựu|n
 功令=pháp lệnh|n
 功击=công kích|n
@@ -8122,7 +8099,6 @@
 匈姓=họ Hung|n
 匈牙利人=người Hungary|n
 匈部=bộ ngực|n
-匕=chủy|n
 匕尖=đầu dao/đầu muỗng|n
 匕现=chủy hiện|n
 匕首=chủy thủ/dao găm/đoản kiếm|n
@@ -8319,7 +8295,6 @@
 医道=y đạo/tài chữa bệnh|n
 医院=bệnh viện/y viện/nhà thương|n
 医馆=y quán|n
-匾=biển|n
 匾额=tấm biển/bức hoành|n
 匿名举报=tố cáo nặc danh/báo cáo ẩn danh|n
 匿名信=thư nặc danh/thư nặc danh|n
@@ -8782,7 +8757,6 @@
 即时战略=RTS|n
 即景=tức cảnh|n
 即景生情=tức cảnh sinh tình/thấy cảnh sinh tình|n
-卵=noãn|n
 卵击石=trứng chọi đá|n
 卵囊=túi chứa trứng|n
 卵块=chùm trứng|n
@@ -8848,7 +8822,6 @@
 厄境=hoàn cảnh khó khăn|n
 厄运=vận rủi/vận hạn/ách vận|n
 厄难=ách nạn/tai nạn/tai ách|n
-厅=sảnh|n
 厅堂=phòng/phòng lớn/phòng khách|n
 厅室=phòng khách|n
 厅房=phòng/phòng lớn|n
@@ -9122,7 +9095,6 @@
 厨窗=cửa bếp|n
 厨艺=trù nghệ/tài nấu nướng|n
 厨道=trù đạo|n
-厩=cứu|n
 去会=đi gặp|n
 去势=thế đi/khứ thế|n
 去学=đi học|n
@@ -9468,7 +9440,6 @@
 发髻=búi tóc|n
 发鬓=tóc mai|n
 发麻=run lên/tê dại/ngứa ngáy/ngứa ran|n
-叔=thúc|n
 叔伯=thúc bá/chú bác|n
 叔侄=thúc cháu/chú cháu|n
 叔儿=thúc|n
@@ -10502,7 +10473,6 @@
 吞金=nuốt vàng/tự sát/tự tử|n
 吠叫=sủa ầm/sủa|n
 吠陀=Phệ Đà|n
-吡=ti|n
 吡啶=pi-ri-đin/piriđin|n
 吧台=quầy bar/quầy rượu/quầy ba|n
 吨位=trọng tải/tôn/đốn vị|n
@@ -10602,10 +10572,8 @@
 告密者=người mật báo|n
 告示牌=bảng thông báo/cáo kỳ bài|n
 告贷无门=không chỗ vay tiền/không chỗ mượn tiền/bước đường cùng/tuyệt lộ|n
-呋=phu|n
 呋喃=fu-ran/furan|n
 呐呐=ấy ấy/ấp úng/lộp bộp/chậm chập|n
-呓=nghệ|n
 呓语=nói mớ/lời nói mê/mê sảng|n
 员外=viên ngoại|n
 员外郎=Viên Ngoại lang|n
@@ -10749,7 +10717,6 @@
 咨询台=bàn lễ tân/bàn tư vấn|n
 咨询室=phòng cố vấn|n
 咪子=Miiko|n
-咫=chỉ|n
 咫尺=gang tấc/kề bên/bên cạnh/rất gần/chỉ xích|n
 咬着唇=cắn môi|n
 咬空=cắn hụt|n
@@ -10817,7 +10784,6 @@
 哄场=huýt còi/huýt sáo|n
 哄堂=ồ/vang lên/ầm lên/phá lên/hống đường|n
 哈腰=cúi người/khom/khom lưng/cúi/cúi đầu/cúi xuống/nghiêng mình chào/nghiêng mình thi lễ/thi lễ/chào|n
-哌=phái|n
 响儿=tiếng động|n
 响器=nhạc cụ gõ|n
 响声=tiếng vang|n
@@ -10846,7 +10812,6 @@
 哑谜=bí hiểm/ách mê|n
 哑铃=tạ tay|n
 哑门=ách môn|n
-哔=tất|n
 哔叽=vải ga-ba-đin be/vải gabađin be|n
 哔哔=tất tất/yo|n
 哔哩=biri|n
@@ -10922,7 +10887,6 @@
 唐老鸭=vịt Donald/Donald Duck|n
 唐菖蒲=lay ơn/lay dơn/đường xương bồ/Đường Xương Bồ/Hoa glayơn|n
 唐萱=Đường Huyên|n
-唢=tỏa|n
 唢呐=kèn/kèn Xô-na/kèn Xôna|n
 唧筒=máy bơm/máy bơm nước|n
 售价=giá bán/giá|n
@@ -11041,7 +11005,6 @@
 啊呀呀=ấy da da|n
 啊嚏=Ắt xì hơi...|n
 啜泣声=tiếng khóc lóc|n
-啤=ti|n
 啤酒=bia/rượu bia|n
 啤酒屋=quán bia/nhà bia|n
 啤酒瓶=chai bia|n
@@ -11152,12 +11115,10 @@
 喷灯=đèn xì/máy hàn xì|n
 喷粪=phun phân/đầy rác rưởi|n
 喷雾=phun sương|n
-喹=khuê|n
 喽啰=lâu la|n
 喽罗=lâu la|n
 嗅神经=thần kinh khứu giác|n
 嗅觉=khứu giác|n
-嗉=tố|n
 嗉子=diều gà/nậm đựng rượu|n
 嗓声=giọng|n
 嗓子=cuống họng/tiếng nói/cổ họng/giọng|n
@@ -11206,7 +11167,6 @@
 嘴部=phần miệng|n
 嘴长=nhiều chuyện/ngồi lê đôi mách/nói xấu sau lưng|n
 噤声=im lặng/cấm khẩu/chớ có lên tiếng|n
-器=khí|n
 器乐=trình diễn nhạc/biểu diễn nhạc|n
 器件=linh kiện chủ chốt/linh kiện chính|n
 器具=khí cụ/dụng cụ|n
@@ -11262,12 +11222,9 @@
 噬魂体=phệ hồn thể|n
 噬魔=phệ ma|n
 噬龙=phệ long|n
-噱=cược|n
 噱头=mánh lới/chọc cười/gây cười/trò cười/thủ đoạn bịp bợm/mánh khoé/hài hước|n
-噻=tắc|n
 噻唑=thi-a-dôn/thiadôn|n
 嚎叫声=tiếng gào thét/tiếng kêu gào|n
-嚏=đế|n
 嚏喷=hắt hơi/hắt xì|n
 嚼子=hàm thiếc/hàm thiếc ở mồm ngựa|n
 嚼舌=nói láo/xuyên tạc/nói bậy/cãi vã/tranh cãi/cãi vặt|n
@@ -11393,7 +11350,6 @@
 回锅肉=thịt hai lần chín|n
 回阳水=Hồi Dương Thủy|n
 回音=hồi âm/tiếng vọng/tiếng vang/tiếng vọng trở lại/thư hồi âm/thư trả lời/câu trả lời|n
-囟=tín|n
 囟门=cái thóp;mỏ ác/cái thóp/mỏ ác|n
 因何=vì sao/tại sao/sao/bởi vì sao|n
 因佩=Impe|n
@@ -11485,13 +11441,11 @@
 围观=vây xem|n
 围观者=người vây xem|n
 围追堵截=bao vây chặn đánh/vây đuổi chặn đường|n
-囹=linh|n
 囹圄=nhà tù/ngục tù/Linh ngữ|n
 固件=firmware/phần vững/Phần sụn, vi chương trình|n
 固定汇率=hối suất cố định|n
 固态=trạng thái cố định/trạng thái rắn|n
 固辞=kiên quyết từ chối/một mực từ chối|n
-国=quốc|n
 国丈=quốc trượng|n
 国主=quốc chủ|n
 国乐=quốc nhạc/âm nhạc truyền thống|n
@@ -11637,7 +11591,6 @@
 国难=quốc nạn|n
 国音=quốc âm|n
 国魂=quốc hồn/quốc tuý|n
-图=đồ|n
 图书=sách báo/sách/sách vở/con dấu/cái mộc/thư viện|n
 图书室=phòng đọc sách|n
 图书馆=thư viện/đồ thư quán|n
@@ -12044,7 +11997,6 @@
 在野党=đảng đối lập/Đảng đối lập|n
 圩子=bờ bao/đê bao/bờ ngăn nước|n
 圩田=vu điền/ruộng có bờ bao|n
-圪=khất|n
 圪塔=mụn cơm/gò đất nhỏ|n
 圭介=Kesuke|n
 圭姓=họ Khuê|n
@@ -12472,11 +12424,9 @@
 坚韧性=tính cứng cỏi/kiên nhận tính|n
 坛主=đàn chủ|n
 坛子=cái bình/cái vò/cái hũ|n
-坝=bá|n
 坝基=nền đê/đế đập/nền đập|n
 坝堤=đê kè/đê đập|n
 坝子=con đê/đập|n
-坟=phần|n
 坟丘=mồ mả|n
 坟冢=mồ/mả/phần mộ|n
 坟包=nấm mồ/mồ/ngôi mộ|n
@@ -12497,7 +12447,6 @@
 坠机=máy bay rơi|n
 坠楼=té lầu|n
 坠链=dây trang sức|n
-坡=pha|n
 坡地=ruộng dốc/nương rẫy|n
 坡底=đáy dốc/chân dốc|n
 坡度=độ dốc|n
@@ -12520,7 +12469,6 @@
 坦道=thản nhiên nói|n
 坨子=tảng/đống|n
 坩埚=nồi nấu quặng/nồi dót|n
-坯=bôi|n
 坯子=phôi/bán thành phẩm|n
 坯布=vải mộc|n
 坯料=bán thành phẩm/đồ rèn/phôi rèn|n
@@ -12538,7 +12486,6 @@
 垂老=sắp già/gần già|n
 垂花门=cửa thuỳ hoa/cửa núm tua/thùy hoa môn|n
 垂髫=tóc trái đào/tóc để chỏm/trẻ em/con nít/bé thơ|n
-垃=lạp|n
 垃圾=rác rưởi/bụi bặm chồng chất/rác/đồ thải/đồ vứt đi/đồ bỏ đi/đồ thừa/cặn bã/rác rưới|n
 垃圾场=bãi rác/chỗ đổ rác|n
 垃圾堆=đống rác|n
@@ -12619,7 +12566,6 @@
 城间=trong thành|n
 城阙=vọng lâu/lầu canh/cung khuyết/hoàng cung/thủ phủ|n
 城防=thành phòng/phòng thủ thành phố/bảo vệ đô thị|n
-埘=thì|n
 域主=Vực Chủ/vực chủ|n
 域名=domain name/tên miền/Tên miền|n
 域场=Vực Tràng|n
@@ -12736,7 +12682,6 @@
 堆栈=kho tạm/nơi gửi hàng tạm|n
 堆芯=lõi|n
 堆金积玉=tài sản vô số/cực kỳ giàu có|n
-堇=cận|n
 堇色=màu vàng đất/màu tím nhạt|n
 堑壕=giao thông/chiến hào/hào|n
 堡主=bảo chủ|n
@@ -12744,7 +12689,6 @@
 堡子=trấn/hương thôn/thành luỹ/khu vực có hàng rào xung quanh/thôn trang/làng mạc/thôn xóm|n
 堡寨=bảo trại/làng có tường xây quanh|n
 堡楼=bảo lâu|n
-堤=đê|n
 堤围=đê/đê điều|n
 堤坝=đê đập/đê điều/đê bá|n
 堤坡=sườn đê/bờ đê|n
@@ -12793,7 +12737,6 @@
 填料=nguyên liệu bổ sung/vật liệu pha trộn|n
 填腹=lấp bụng|n
 填词=điền từ|n
-塾=thục|n
 境主=cảnh chủ|n
 境况=tình trạng/tình cảnh/hoàn cảnh/tình hình/tình huống|n
 境域=hoàn cảnh/cảnh ngộ/tình trạng/ranh giới/địa giới/phạm vi/vùng|n
@@ -12801,7 +12744,6 @@
 境象=cảnh tượng|n
 境遇=cảnh ngộ/hoàn cảnh/tình cảnh|n
 墒情=độ ẩm của đất|n
-墓=mộ|n
 墓园=mộ viên/nghĩa trang|n
 墓地=mộ địa/bãi tha ma/nghĩa địa|n
 墓场=mộ tràng|n
@@ -13391,7 +13333,6 @@
 夜魔=Dạ Ma|n
 夜鸟=chim đêm|n
 夜鹰=dạ ưng/cú muỗi|n
-夢=mộng|n
 大丈夫=đại trượng phu|n
 大专=trường đại học/trường đại học và cao đẳng chuyên khoa/đại học chuyên ngành/đại học chuyên khoa|n
 大业=đại nghiệp/nghiệp lớn/sự nghiệp vĩ đại|n
@@ -14380,7 +14321,6 @@
 失踪者=người mất tích|n
 失音=mất tiếng/chứng tắt tiếng|n
 失魂=mất hồn/hoảng sợ|n
-头=đầu|n
 头丝=tóc mây|n
 头人=thủ lĩnh/tộc trưởng/người cầm đầu/tù trưởng|n
 头像=ảnh chân dung/hình cái đầu/ảnh bán thân|n
@@ -14567,7 +14507,6 @@
 契纸=văn khế|n
 契骨=Khế Cốt|n
 奔头儿=việc để phấn đấu/lối thoát/lối ra/triển vọng|n
-奖=tưởng|n
 奖券=vé xổ số/xổ số|n
 奖励品=đồ khen thưởng|n
 奖励金=tiền khuyến khích|n
@@ -14960,7 +14899,6 @@
 妇言=phụ ngôn|n
 妇道=phụ đạo/nữ tắc/chuẩn mực đạo đức/phụ nữ/đàn bà/nữ/nữ tắc (chuẩn mực đạo đức phụ nữ)|n
 妇道人家=phụ đạo nhân gia|n
-妈=mụ|n
 妈呀=má ơi|n
 妈咪=Ma Ma|n
 妈地=con mẹ nó|n
@@ -15091,9 +15029,7 @@
 妮儿=Ny Nhi|n
 妮姐=Ny tỷ|n
 妮子=cô nàng/bé gái|n
-妯=trục|n
 妯娌=chị em dâu/Trục lý|n
-妹=muội|n
 妹丝=tơ nhện|n
 妹儿=em gái|n
 妹喜=Muội Hỉ|n
@@ -15122,7 +15058,6 @@
 妻舅=anh trai/em trai|n
 姆妈=mụ mụ|n
 姆指=ngón cái|n
-姊=tỷ|n
 姊夫=tỷ phu|n
 姊妹=tỷ muội/chị em|n
 姊妹篇=tác phẩm hai tập|n
@@ -15138,7 +15073,6 @@
 始皇=Thủy Hoàng|n
 始祖鸟=chim thuỷ tổ|n
 始神=thủy thần|n
-姐=tả|n
 姐丈=anh rể|n
 姐们=tỷ môn/đám tỷ tỷ|n
 姐们儿=tỷ môn nhi|n
@@ -15356,14 +15290,12 @@
 委胆=ủy đảm|n
 委蛇=Uy di/ung dung tự đắc|n
 委身=ủy thân/nương thân|n
-姘=phanh|n
 姘头=nhân tình/tình nhân/nhân ngãi/phanh đầu|n
 姘居=sống chung/ở cùng nhau|n
 姘识=dan díu/tằng tịu|n
 姜片=miếng gừng/lát gừng|n
 姥姥=mỗ mỗ/bà ngoại/bà đỡ/bà mụ|n
 姥爷=ông ngoại/mỗ gia|n
-姨=di|n
 姨丈=dượng/di trượng|n
 姨儿=dì|n
 姨太太=di thái thái/vợ bé/vợ lẽ/Di thái thái|n
@@ -15431,7 +15363,6 @@
 娇靥=kiều yếp/lúm đồng tiền đẹp|n
 娑婆=Sa Bà|n
 娑霓=Sa Nghê|n
-娘=nương|n
 娘亲=mẫu thân|n
 娘们=nương môn/đàn bà|n
 娘俩=hai mẹ con|n
@@ -15485,7 +15416,6 @@
 婉妹=Uyển muội|n
 婉熙=Uyển Hi|n
 婉蓉=Uyển Dung|n
-婊=biểu|n
 婊子=kỹ nữ/gái điếm/đĩ/gái mãi dâm/biểu tử|n
 婊砸=bích chi|n
 婕儿=Tiệp nhi|n
@@ -15524,7 +15454,6 @@
 婚裙=váy cưới|n
 婚车=xe hoa|n
 婚龄=tuổi kết hôn/số năm lấy nhau|n
-婢=tỳ|n
 婢仆=người hầu/đầy tớ|n
 婢女=tỳ nữ/con sen/con ở/nữ tì|n
 婢子=tiểu tỳ/hầu gái/tớ gái/thị nữ/nô tỳ/thị tỳ/tì tử/kẻ hèn mọn này|n
@@ -15538,12 +15467,10 @@
 婴火=Anh hỏa|n
 婴灵=anh linh/Anh Linh|n
 婴雷=Anh Lôi|n
-婵=thiền|n
 婵儿=Thiền nhi|n
 婵娟=thiền quyên/thuyền quyên/xinh đẹp|n
 婵婵=Thiền Thiền|n
 婵玉=Thiền Ngọc|n
-婶=thẩm|n
 婶儿=thẩm nhi|n
 婶娘=thẩm nương/thím|n
 婶婆=bà thím|n
@@ -15581,7 +15508,6 @@
 媚骨=mị cốt|n
 媳妇=nàng dâu/ con dâu/tức phụ/người vợ/con dâu/cháu dâu|n
 媳妇儿=nàng dâu/cô vợ trẻ/vợ/con dâu/thiếu phụ|n
-媽=mụ|n
 嫁人=lấy chồng/lập gia đình/xuất giá|n
 嫁作人妇=gả làm vợ người|n
 嫁夫=gả chồng|n
@@ -15619,7 +15545,6 @@
 嫡派=dòng chính/trực hệ/chi chính/chi trưởng/môn phái chính/dòng chính gốc/chính thống|n
 嫡系=dòng chính/chi chính/chi trưởng/chính thống/chính qui/hệ chính|n
 嫡长子=trưởng tử/con trưởng đích tôn|n
-嫦=thường|n
 嫦娥=Thường Nga/Hằng Nga/hằng nga/như chữ|n
 嫦曦=Thường Hi|n
 嫩乳=vú mềm|n
@@ -15645,7 +15570,6 @@
 嫩颊=gò má|n
 嫩鸟=nộn điểu|n
 嫩黄色=màu vàng nhạt|n
-嬷=ma|n
 嬷嬷=ma ma/mẹ/má/bà lão/cụ bà/nhũ mẫu/vú em|n
 孀妇=quả phụ/goá phụ|n
 子业=tử nghiệp|n
@@ -15707,7 +15631,6 @@
 孕妇=phụ nữ mang thai/người phụ nữ có thai|n
 孕畜=gia súc có chửa/gia súc mang thai|n
 孕育出=dựng dục ra|n
-字=tự|n
 字义=tự nghĩa/nghĩa của chữ|n
 字书=tự thư/từ điển|n
 字体=kiểu chữ/tự thể/thể chữ/kiểu chữ của các nhà thư pháp/hình dạng của chữ|n
@@ -15779,7 +15702,6 @@
 孝衣=đồ tang/tang phục|n
 孝袍=áo tang|n
 孟家=Mạnh gia|n
-孢=bào|n
 孢子=bào tử|n
 孢子植物=thực vật bào tử|n
 季候=mùa/tiết|n
@@ -15928,11 +15850,9 @@
 孪生兄弟=huynh đệ sinh đôi/huynh đệ sinh đôi|n
 孪生姐妹=tỷ muội song sinh|n
 孪生子=song sinh tử|n
-孬=nạo|n
 孬兵=lính dỏm|n
 孬种=nạo chủng/thứ hèn nhát/bọn hèn nhát/loại nhát gan|n
 孬货=hàng lởm|n
-孺=nhụ|n
 孺子=trẻ con/trẻ em|n
 孺子可教=trẻ nhỏ dễ dạy/trẻ con dễ dạy|n
 孺慕=quấn quýt/nhụ mộ/quấn quýt như trẻ con quấn cha mẹ|n
@@ -16076,7 +15996,6 @@
 宗长=tông trưởng|n
 宗间=trong tông|n
 宗魂=Tông Hồn|n
-官=quan|n
 官书=quan thư/sách quan/văn thư/công văn|n
 官事=việc quan/việc nước|n
 官人=quan nhân/người làm quan|n
@@ -17854,7 +17773,6 @@
 尿道炎=niệu đạo viêm/viêm niệu đạo|n
 尿酸=niệu toan/a-xít U-ríc|n
 尿骚=nước tiểu khai|n
-局=cục|n
 局中人=người trong cuộc/một người chơi|n
 局内=trong cục/bên trong cục|n
 局内人=người trong cuộc/Người trong cuộc/người tham dự sự việc. ◎Như: nhĩ thị cá cục nội nhân/giá kiện sự nhĩ bất năng tọa thị bất quản 你是個局內人/這件事你不能坐視不管.|n
@@ -17875,7 +17793,6 @@
 局限于=giới hạn trong/được giới hạn trong|n
 局限性=tính hạn chế/cục hạn tính/sự hạn chế|n
 局面=cục diện/quy mô/kích thước/phạm vi|n
-屁=thí|n
 屁事=thí sự/đánh rắm|n
 屁古=mông|n
 屁孩=thí hài/Rắm Thối/trẻ trâu|n
@@ -17936,7 +17853,6 @@
 屈曲=gập lại/co lại|n
 屈服=khuất phục/chịu khuất phục|n
 屈节=mất tiết tháo/quỳ lạy chui lòn|n
-屉=thế|n
 屉子=ngăn/hộc/giát giường/giát ghế/ngăn kéo/ngăn tủ/hộc tủ|n
 屋主=chủ nhà|n
 屋子=phòng/gian nhà/gian phòng/buồng/nhà|n
@@ -17963,7 +17879,6 @@
 屍身=thi thể|n
 屍首=thi thể|n
 屍骨=thi cốt|n
-屎=thỉ|n
 屎壳郎=bọ hung/bọ phân|n
 屎尿=cứt đái/đồ cứt đái|n
 屎盆子=bô ỉa|n
@@ -18135,7 +18050,6 @@
 岔气=đau sốc hông/đau hai bên sườn khi thở/xóa khí|n
 岔流=nhánh sông đổ ra biển|n
 岔路=lối rẽ/đường rẽ/ngã/ngã ba|n
-岗=cương|n
 岗亭=vọng/trạm gác/vọng gác/gác canh/vọng canh|n
 岗位=cương vị/vị trí công tác/chức vụ|n
 岗哨=trạm gác/vọng gác/người đứng gác/người canh gác/cương tiếu|n
@@ -18143,7 +18057,6 @@
 岗岩=đá núi|n
 岗楼=chòi canh/lô cốt/cương lâu|n
 岗警=cảnh sát đứng gác|n
-岛=đảo|n
 岛主=đảo chủ|n
 岛人=dân đảo|n
 岛原=Shimabara|n
@@ -18227,7 +18140,6 @@
 崖顶=đỉnh núi|n
 崩石=đá lở|n
 崩龙=Băng Long|n
-崽=tể|n
 崽们=đám nam thanh niên|n
 崽子=con non/thằng nhãi con/thằng nhóc con/chết bầm/nhãi con|n
 崽崽=con non/đứa con yêu|n
@@ -18243,7 +18155,6 @@
 川菜=món cay Tứ Xuyên|n
 川资=lộ phí/tiền đi đường/phí tổn/công tác phí|n
 川音=Xuyên âm|n
-州=châu|n
 州国=châu quốc|n
 州官=châu quan|n
 州府=châu phủ|n
@@ -18570,10 +18481,8 @@
 巷角=góc ngõ|n
 巷道=đường tắt/đường hầm/đường rãnh|n
 巾帕=khăn|n
-币=tệ|n
 币值=giá trị tiền/ngoại tệ/ngoại hối/mãi lực/trị giá đồng tiền/sức mua|n
 币制=chế độ tiền tệ|n
-市=thị|n
 市中心=trung tâm thành phố/trung tâm chợ|n
 市丸=Ichimaru|n
 市二院=thị nhị viện/Bệnh viện Thành phố 2|n
@@ -18675,7 +18584,6 @@
 帅气=soái khí/đẹp trai|n
 帅点=đẹp trai một chút|n
 帅者=người làm soái|n
-帆=phàm|n
 帆儿=Phàm nhi|n
 帆哥=Phàm ca|n
 帆子=phàm tử|n
@@ -18719,7 +18627,6 @@
 师长=sư trưởng/bậc thầy|n
 师门=sư môn|n
 师队=sư đoàn|n
-帏=vi|n
 帐上=trên trướng|n
 帐下=dưới trướng|n
 帐内=trong trướng/trong - trướng/màn/lều vải/bên trong trướng/trong lều|n
@@ -18897,7 +18804,6 @@
 帽檐=vành nón/vành mũ|n
 帽舌=lưỡi trai|n
 帽花=huy hiệu trên mũ|n
-幂=mịch|n
 幅员=diện tích lãnh thổ|n
 幅图=phúc đồ/tranh vẽ|n
 幅字=bức chữ|n
@@ -18908,7 +18814,6 @@
 幅面=khổ/phúc diện|n
 幌动=vẫy qua vẫy lại|n
 幌子=ngụy trang/bảng quảng cáo/cờ hiệu/mượn danh nghĩa/danh nghĩa|n
-幔=mạn|n
 幔子=màn|n
 幔布=rèm che/màn vải|n
 幔帐=màn|n
@@ -19323,7 +19228,6 @@
 庆子=khánh tử|n
 庆家=Khánh gia|n
 庇护所=nơi ẩn núp/công sự/chỗ che chở|n
-床=sàng|n
 床上=trên giường|n
 床下=dưới giường|n
 床伴=bạn trên giường/bạn tình|n
@@ -19363,7 +19267,6 @@
 床铺=giường chiếu/đệm/giường đệm/giường|n
 床面=mặt giường|n
 床顶=nóc giường|n
-序=tự|n
 序列=danh sách/xếp theo thứ tự/hàng ngũ|n
 序列号=số ID|n
 序号=số thứ tự|n
@@ -19437,7 +19340,6 @@
 庖丁解牛=đầu bếp róc thịt trâu|n
 庖代=làm hộ/làm giúp|n
 庖厨=nhà bếp/bếp|n
-店=điếm|n
 店东=chủ hiệu/ông chủ|n
 店主=chủ cửa hàng/chủ tiệm/điếm chủ/chủ quán|n
 店主人=chủ cửa hàng|n
@@ -19459,7 +19361,6 @@
 店门口=cửa tiệm/cửa điếm|n
 店间=trong điếm|n
 店面=mặt tiền cửa hàng/phía trước cửa hàng/tiệm mì/cửa hàng|n
-庙=miếu|n
 庙会=hội chùa/hội làng|n
 庙号=miếu hiệu|n
 庙堂=miếu đường/triều đình|n
@@ -19574,7 +19475,6 @@
 庭院=đình viện/sân/sân nhà|n
 庵主=am chủ|n
 庵堂=am ni cô|n
-庶=thứ|n
 庶人=thứ dân|n
 庶出=con thứ/thứ xuất|n
 庶务=công việc vặt/việc vặt/việc cỏn con/người làm việc vặt|n
@@ -19884,7 +19784,6 @@
 引郎=dẫn sói|n
 引领者=người dẫn lĩnh|n
 引颈=vươn cổ/nghển cổ/nghểnh cổ|n
-弟=đệ|n
 弟兄=huynh đệ/anh em/em trai và anh trai|n
 弟兄们=các huynh đệ|n
 弟妇=em dâu|n
@@ -19903,7 +19802,6 @@
 弦月=huyền nguyệt|n
 弦歌=huyền ca|n
 弦音=huyền âm|n
-弧=hồ|n
 弧光=hồ quang/Hồ Quang/cung lửa|n
 弧光灯=đèn hồ quang/đèn cung lửa|n
 弧型=hình cung|n
@@ -20139,7 +20037,6 @@
 录音棚=phòng thu âm/phòng thu âm|n
 录音电话=điện thoại ghi âm|n
 录音笔=bút ghi âm|n
-彗=tuệ|n
 彗尾=đuôi sao chổi|n
 彗星=sao chổi/tuệ tinh|n
 形仪=dáng vẻ/hình nghi|n
@@ -20428,7 +20325,6 @@
 御马监=Ngự Mã Giám|n
 循例=theo lệ/theo lệ cũ|n
 循迹=theo dõi|n
-徭=dao|n
 徭役=lao dịch/phu phen|n
 微侧=hơi nghiêng|n
 微光=ánh sáng nhạt|n
@@ -20639,7 +20535,6 @@
 忌辰=ngày giỗ/ngày kị|n
 忍者=ninja/nhẫn giả|n
 忍者神龟=Ninja rùa|n
-志=chí|n
 志东=Chí Đông|n
 志向=chí hướng|n
 志士=chí sĩ|n
@@ -21110,7 +21005,6 @@
 恤孤=tuất cô/cứu giúp người cô độc, không nơi nương tựa|n
 恤贫=tuất bần/giúp đỡ người nghèo/tế bần|n
 恤金=tiền trợ cấp/tiền tuất|n
-恥=sỉ|n
 恨事=việc đáng tiếc/chỉ tiếc/chỉ hận một điều/hận sự/việc đáng giận|n
 恩义=ân nghĩa|n
 恩准=ân chuẩn|n
@@ -21234,7 +21128,6 @@
 悼念=tưởng niệm/thương tiếc/thương nhớ|n
 悼文=điếu văn|n
 悼词=điếu văn/lời điếu|n
-情=tình|n
 情丝=tơ tình/tơ ngọc|n
 情义=tình nghĩa|n
 情书=thư tình|n
@@ -21527,7 +21420,6 @@
 戍边=trấn thủ biên cương/thú biên|n
 戎机=nhung cơ/cơ hội cho một cuộc chiến|n
 戎装=nhung trang/quân trang/quân phục|n
-戏=hí|n
 戏中戏=kịch trong kịch/vở kịch|n
 戏份=phần diễn|n
 戏剧=hí kịch/kịch vui/kịch/tuồng/kịch bản sân khấu|n
@@ -21975,7 +21867,6 @@
 扇风=quạt gió|n
 扇骨=nan quạt|n
 扈从=tùy tùng/hỗ trợ/hộ tống/đi theo|n
-扉=phi|n
 扉页=trang bìa trong/trang tên sách|n
 手下人=bọn thủ hạ|n
 手下留情=thủ hạ lưu tình|n
@@ -22664,7 +22555,6 @@
 拆机=tháo máy|n
 拆白党=bọn lừa đảo/băng lừa đảo/tên lừa đảo|n
 拆线=cắt chỉ|n
-拇=mẫu|n
 拇战=trò chơi đố số|n
 拇指=ngón cái/ngón tay cái/ngón chân cái|n
 拉交情=chắp nối/hàn gắn/kết thân/làm thân|n
@@ -23285,7 +23175,6 @@
 措置=sắp xếp/lo liệu/đối xử/đối đãi/xử lý/sắp đặt/sửa soạn|n
 措词=chắp từ/từ ngữ/sự thay đổi|n
 措辞=tìm từ/chọn lọc từ ngữ/diễn đạt/cách diễn tả/cách chọn lời/cách chọn từ/chọn lọc từ ngữ/thố từ|n
-掮=kiên|n
 掮客=lái buôn/người mối lái|n
 掷地=trịch địa|n
 掷弹=quăng đạn|n
@@ -23480,7 +23369,6 @@
 撮子=chòm/chùm/nhúm/nắm|n
 撮箕=ki hốt rác/dụng cụ hốt rác|n
 撰文=soạn văn/viết/bài báo|n
-撸=lỗ|n
 撸一管=xóc lọ|n
 撸一管儿=xóc lọ|n
 撸串=ăn xiên nướng/xuyên qua|n
@@ -24387,7 +24275,6 @@
 斋舍=trai xá/Trai Xá|n
 斋菜=thức ăn chay/ăn chay|n
 斋食=cơm chay|n
-斑=ban|n
 斑块=lốm đốm|n
 斑斑点点=lốm đốm lấm tấm|n
 斑机=cò súng|n
@@ -24875,7 +24762,6 @@
 旋钮=nút xoay|n
 旋风=gió lốc/gió xoáy/toàn phong|n
 旋风腿=toàn phong thối|n
-旌=tinh|n
 旌旗=tinh kỳ/cờ quạt/cờ xí|n
 旌表=treo biển|n
 族主=tộc chủ/chủ họ|n
@@ -24911,7 +24797,6 @@
 族门=tộc môn|n
 族间=trong tộc|n
 族领=Tộc trưởng|n
-旗=kỳ|n
 旗下=dưới cờ|n
 旗主=kỳ chủ|n
 旗人=kỳ nhân/người Bát Kỳ/người Mãn|n
@@ -25184,7 +25069,6 @@
 旬刊=tuần san/tuần báo|n
 旬日=mười ngày|n
 旭天=Húc Thiên|n
-旮=ca|n
 旮旯=góc/xó|n
 旮沓=xó xỉnh|n
 旱井=giếng cạn/giếng chứa nước mưa/giếng không nước|n
@@ -25817,7 +25701,6 @@
 暴风圈=vòng gió bão|n
 暴食=bạo thực/ăn uống quá độ|n
 暴龙女=Bạo Long Nữ|n
-曙=thự|n
 曙色=ánh ban mai/ánh bình minh/nắng sớm/ánh sáng lúc rạng đông|n
 曲剧=khúc kịch/khúc kịch Bắc Kinh|n
 曲卷=cong vòng|n
@@ -25863,7 +25746,6 @@
 更衣间=gian thay đồ|n
 更让人=càng khiến người ta|n
 更识簪=Sarashiki Kanzashi|n
-書=thư|n
 曼荼罗=Mạn Đồ La|n
 曼陀铃=mandolin/Mạn Đà Linh|n
 替人=thay người|n
@@ -26729,7 +26611,6 @@
 杂食=ăn tạp/ăn quà vặt/ăn vặt|n
 杂鱼=tạp ngư|n
 杂龙=tạp long|n
-权=quyền|n
 权争=quyền tranh|n
 权位=quyền vị|n
 权作=quyền tác|n
@@ -26777,7 +26658,6 @@
 杆枪=khẩu súng/cây thương|n
 杆秤=cân đòn|n
 杆菌=khuẩn que/khuẩn hình que/trực khuẩn|n
-杈=xoa|n
 杉树=cây sam/cây linh sam|n
 杉菜=Sam Thái|n
 杌子=ghế con/ghế nhỏ|n
@@ -27063,7 +26943,6 @@
 构词=cấu tạo từ/tạo từ|n
 构词法=phép cấu tạo từ/sự cấu tạo từ/cách ghép từ|n
 构象=cấu tượng|n
-枇=tỳ|n
 枇杷=sơn trà/quả sơn trà/cây sơn trà|n
 枇杷树=cây sơn trà|n
 枇杷膏=tỳ bà cao|n
@@ -27151,20 +27030,17 @@
 枝茎=cành cây|n
 枝蔓=vụn vặt/lộn xộn/rắc rối lộn xộn|n
 枝藤=nhánh cây mây|n
-枢=xu|n
 枢密=Xu Mật|n
 枢密使=Xu Mật Sứ|n
 枢密院=Xu Mật Viện|n
 枢机=đầu mối/chức vụ trọng yếu/cơ quan chủ quản/then chốt/mấu chốt|n
 枢纽=đầu mối/đầu mối then chốt/đầu mối trọng yếu/chỗ then chốt|n
 枢要=xu yếu/cơ quan hành chính trung ương|n
-枣=tảo|n
 枣子=quả táo/trái táo/táo ta/tảo tử|n
 枣树=cây táo|n
 枣核=hạt táo|n
 枣泥=mứt táo/nhân táo|n
 枣红色=màu đỏ thẫm/màu đỏ chà là/Màu táo đỏ|n
-枪=thương|n
 枪下=thương hạ/dưới súng|n
 枪乌贼=cá mực ống/mực ống|n
 枪伤=vết thương đạn bắn/vết thương do thương|n
@@ -27271,10 +27147,8 @@
 架桥=bắc cầu/hình cầu/dạng cầu|n
 架海金梁=giá hải kim lương|n
 架飞机=khung máy bay|n
-枷=gia|n
 枷铐=gông cùm|n
 枷锁=gông xiềng/gông cùm/xiềng xích|n
-枸=cẩu|n
 枸杞=cẩu kỷ/kiêu cữ/Cây kỷ tử|n
 柄政=nắm quyền/chấp chính|n
 柏油=hắc ín/nhựa đường/dầu hắc|n
@@ -27450,7 +27324,6 @@
 栋梁=lương đống/trụ cột của quốc gia/trụ cột/rường cột/đống lương|n
 栋楼=tòa nhà|n
 栋粱=trụ cột giống tốt|n
-栏=lan|n
 栏位=lan vị/cột/Vị trí cột trên excel|n
 栏外=bên ngoài lan can|n
 栏杆=lan can/tay vịn|n
@@ -27596,7 +27469,6 @@
 株树=cây|n
 株株=cây cây|n
 株距=khoảng cách giữa các cây với nhau/khoảng cách|n
-栲=khảo|n
 栲栳=sọt liễu|n
 样儿=hình dáng/hình thức/dáng vẻ/loại/kiểu/dạng nhi|n
 样刊=tạp chí mẫu/mẫu tạp chí|n
@@ -27758,7 +27630,6 @@
 桃花雪=tuyết muà xuân/tuyết rơi khi hoa đào nở|n
 桃运=đào vận|n
 桃金娘=Myrtle/hoa hồng myrtle|n
-桄=quáng|n
 桄榔=cây báng|n
 桅子=Ngôi Tử|n
 桅杆=cột buồm/cột đèn tín hiệu/cần ăng-ten/cột đài quan trắc trên tàu biển/cột buồm|n
@@ -27790,7 +27661,6 @@
 案由=tóm tắt nội dung vụ án|n
 案组=án tổ|n
 案酒=thức nhắm|n
-桉=án|n
 桉树=bạch đàn/cây bạch đàn/khuynh diệp/Cây bạch đàn hay cây khuynh diệp|n
 桌位=bàn|n
 桌几=trác kỷ|n
@@ -27812,7 +27682,6 @@
 桌面=mặt bàn|n
 桌面上=trên mặt bàn|n
 桌面儿上=trên mặt bàn/công khai|n
-桎=chất|n
 桎梏=ràng buộc/gông cùm xiềng xích/gông cùm xiềng xiếc/những cái ràng buộc/chất cốc/|n
 桐儿=Đồng nhi|n
 桐油=dầu cây trẩu|n
@@ -27824,9 +27693,7 @@
 桔梗=Kikyou|n
 桔梗花=kết cành hoa/hoa cam/Hoa cát tường|n
 桔皮=vỏ cam quýt/vỏ quýt/vỏ cam/Vỏ quýt|n
-桠=nha|n
 桠杈=cái chẽ/cái chạng/phân nhánh/phân chẽ|n
-桡=nạo|n
 桡动脉=động mạch cổ tay/động mạch quay|n
 桡骨=xương cổ tay/xương quay|n
 档事=đương sự|n
@@ -27843,7 +27710,6 @@
 档案袋=hồ sơ/túi hồ sơ/Túi hồ sơ|n
 档次=đẳng cấp/cấp bậc/cấp/bậc|n
 桤木=gỗ cây khởi|n
-桥=kiều|n
 桥儿=Kiều nhi|n
 桥哥=Kiều ca|n
 桥墩=trụ cầu/mố cầu|n
@@ -27859,13 +27725,11 @@
 桥粱=cầu nối|n
 桥面=mặt cầu|n
 桧木=gỗ bách/gỗ hạch|n
-桨=tưởng|n
 桨手=người chèo/tay chèo/Người bơi chèo|n
 桩子=cọc/cột/cừ|n
 桩机=thung cơ|n
 桩法=thung pháp|n
 桫椤=Alsophila|n
-梃=đĩnh|n
 梅利号=tàu Merry|n
 梅因=Maine|n
 梅字=chữ mai|n
@@ -27909,7 +27773,6 @@
 梧桐=ngô đồng/cây ngô đồng|n
 梧桐叶=lá ngô đồng|n
 梧桐树=cây ngô đồng/cây ngô đồng|n
-梨=lê|n
 梨园=vườn lê/lê viên|n
 梨园子弟=diễn viên hí khúc|n
 梨园戏=tuồng Lê Viên|n
@@ -28009,7 +27872,6 @@
 棉铃虫=sâu bông/rầy bông|n
 棉鞋=giày bông|n
 棉麻=bông vải sợi đay|n
-棋=kỳ|n
 棋具=bàn cờ|n
 棋力=tài đánh cờ/lực chơi cờ|n
 棋友=bạn đánh cờ|n
@@ -28088,7 +27950,6 @@
 棘突=gồ lên/nhô lên/gai cột sống|n
 棘轮=bánh xe răng cưa/bánh cóc|n
 棘阳=Cức Dương|n
-棚=bằng|n
 棚圈=chuồng/chuồng trại|n
 棚子=lều/lán/chuồng/bằng tử|n
 棚屋=nhà lều|n
@@ -28156,14 +28017,12 @@
 植系=hệ thực vật|n
 植苗=trồng cây/gây rừng|n
 植被=thảm thực vật/cây cối|n
-椎=chuy|n
 椎体=thân đốt|n
 椎名=Shiina/Seena|n
 椎心泣血=đau đớn tận cùng/đứt ruột nát gan/xé lòng nát dạ/đấm ngực khóc chảy máu mắt|n
 椎间盘=sụn đệm cột sống|n
 椎骨=xương sống/cột sống|n
 椒盐=muối tiêu|n
-椭=thỏa|n
 椭圆=hình bầu dục/hình/khối - bầu dục/elíp/hình ê-líp/khối bầu dục/khối ê-líp/thỏa viên|n
 椭圆体=khối bầu dục/khối ê-líp|n
 椭圆型=hình tròn dài|n
@@ -28183,14 +28042,12 @@
 椰油=dầu dừa|n
 椰羊=dê dừa|n
 椰肉=cơm dừa/cùi dừa/dừa/Cơm dừa|n
-椴=đoạn|n
 椽子=cái rui/xà/thanh rui|n
 椿萱=xuân huyên/phụ mẫu/cha mẹ|n
 楔子=phần đệm/cái chêm/vật chêm/đinh gỗ hoặc đinh tre/đoạn đệm|n
 楔形=hình cây đinh|n
 楚囚=người bị giam cầm/người bị tù/người rơi vào tình huống khó xử/tù nhân|n
 楚面=Sở A|n
-楝=luyện|n
 楞严经=Lăng Nghiêm Kinh|n
 楞了楞=ngây cả người|n
 楞住=thất thần/ngẩn ra|n
@@ -28207,7 +28064,6 @@
 楷体字=giai thể tự|n
 楷模=mẫu mực/mẫu/gương/tấm gương/bản/giai mô|n
 楹联=câu đối/câu đối treo cột nhà|n
-楼=lâu|n
 楼上楼下=lầu trên lầu dưới|n
 楼主=lâu chủ/chủ topic|n
 楼体=lâu thể|n
@@ -28253,13 +28109,11 @@
 榆钱=quả du/trái du|n
 榉木=gỗ sồi/cây sồi|n
 榉树=cây cử/cây sồi|n
-榔=lang|n
 榔头=búa|n
 榔槺=cồng kềnh|n
 榕树=cây dong|n
 榕树下=dưới cây đa/dưới gốc cây sồi|n
 榛子=quả phỉ/cây phỉ|n
-榜=bảng|n
 榜单=bảng danh sách|n
 榜尾=chót bảng|n
 榜文=bảng cáo thị|n
@@ -28273,7 +28127,6 @@
 榨油机=máy ép dầu|n
 榨色=trá sắc|n
 榨菜=cải bẹ/rau cải muối ớt|n
-榫=chuẩn|n
 榫卯=chuẩn mão/này|n
 榫头=cái mộng|n
 榫子=cái mộng|n
@@ -28284,20 +28137,16 @@
 榴花=hoa lựu/hoa sầu riêng|n
 榴莲=sầu riêng/cây sầu riêng/trái sầu riêng/quả sầu riêng|n
 榴霰弹=bom bi/đạn ria/đạn ghém|n
-榻=tháp|n
 榻榻米=Tatami/thảm nền Tatami/thảm nền|n
 榻边=bên giường|n
 槁木=cây khô/cành khô|n
-槍=thương|n
 槐城=Hòe Thành|n
 槐木=gỗ hoè/gỗ hòa|n
 槐树=cây hòe/cây hoè|n
 槐树下=dưới tàng cây hoè|n
 槓杆=cái đòn bẩy|n
-槟=tân|n
 槟子=táo chua/trái táo chua|n
 槟榔=cây cau/quả cau/trái cau|n
-槲=hộc|n
 槽头=máng ăn của gia súc|n
 槽子=cái máng/lòng máng|n
 槽沟=mương rãnh|n
@@ -28396,7 +28245,6 @@
 樵夫=tiều phu/người đốn củi/người lấy củi|n
 樵歌=bài ca đốn củi|n
 樽俎=mâm/cái mâm|n
-橄=cảm|n
 橄榄=bầu dục/cây ô-liu/cây trám/quả ô-liu/quả trám/dầu ô-liu/ô liu|n
 橄榄枝=cành ô liu/cành ô-liu|n
 橄榄树=cây ô liu/cây ôliu|n
@@ -28405,7 +28253,6 @@
 橄榄石=ngọc lục bảo, đá ô liu/peridot/cảm lãm thạch/olives/ô liu/olivin|n
 橄榄绿=màu ô-liu/lục vàng|n
 橄榄绿色=màu ô-liu/màu lục vàng|n
-橘=quất|n
 橘光=ánh sáng cam|n
 橘味=quýt vị|n
 橘园=vườn quýt|n
@@ -28428,9 +28275,7 @@
 橙色=màu cam|n
 橙阶=màu Cam đẳng cấp|n
 橙黄色=màu da cam|n
-橛=quyết|n
 橛子=cọc gỗ ngắn|n
-橡=tượng|n
 橡叶=Tượng Diệp|n
 橡实=quả cây lịch/quả đầu|n
 橡木=tượng mộc/sồi|n
@@ -28462,7 +28307,6 @@
 檑木=lôi mộc/khúc cây/tảng đá|n
 檩子=đòn tay/xà ngang|n
 檩条=đòn tay/xà ngang|n
-權=quyền|n
 欠债人=con nợ|n
 欠扁=vô sỉ/khiếm biển/muốn ăn đòn|n
 欠条=phiếu nợ/giấy nợ|n
@@ -29285,11 +29129,8 @@
 毯下=dưới nệm|n
 毯子=tấm thảm/thảm/thảm tử|n
 毯式=trải thảm|n
-毽=kiến|n
 毽子=quả cầu/quả kiện/trái cầu|n
-氆=phổ|n
 氆氇=hàng dệt lông cừu|n
-氍=cù|n
 氍毹=thảm len/thảm|n
 氏族=thị tộc|n
 民主=dân chủ|n
@@ -29365,7 +29206,6 @@
 民间艺术=nghệ thuật dân gian|n
 民风=dân phong|n
 民食=đồ ăn thức uống của dân chúng|n
-气=khí|n
 气丹=khí đan|n
 气亡=khí mất|n
 气体=khí thể/thể khí/thể hơi/chất khí|n
@@ -29495,23 +29335,18 @@
 气韵=ý vị/cấu tứ/khí vận|n
 气风=khí phong|n
 气魄=khí phách/hăng say/hăng hái/khí thế/quang cảnh|n
-氖=nãi|n
 氖灯=đèn Nê-ông/đèn tuýp/đèn Nêông|n
 氙气=khí xenon|n
 氙氩=tiên khí|n
-氛=phân|n
 氛围=không khí/bầu không khí/phân vi|n
 氟化物=florua|n
-氢=khinh|n
 氢原子=nguyên tử hy-đrô/nguyên tử hydro|n
 氢同位素=đồng vị Hidro|n
 氢弹=bom khinh khí|n
 氢气=khí hydro|n
 氢气球=khinh khí cầu|n
 氢氧=hiđrôxít/hydroxit|n
-氤=nhân|n
 氤氲=mờ mịt/dày/hòa hợp/mịt mờ|n
-氦=hợi|n
 氦气=khí heli|n
 氧化物=dưỡng hoá vật/oxit|n
 氧化钙=canxi oxit/oxit canxi|n
@@ -29519,18 +29354,13 @@
 氧气=dưỡng khí/khí ô-xy|n
 氧气瓶=bình dưỡng khí|n
 氧气罐=bình dưỡng khí|n
-氨=an|n
 氨基=gốc a-min/gốc a-mi-nô/NH2/gốc amin|n
 氨水=dung dịch amoniac|n
 氨纶=spandex|n
-氩=á|n
-氮=đạm|n
 氮气=khí nitơ/khí nén|n
 氮肥=phân đạm/đạm phì|n
-氯=lục|n
 氯气=khí Clo|n
 氰化物=xyanua/cyanide|n
-水=thủy|n
 水上警察=thủy cảnh/lực lượng tuần duyên/cảnh sát đường thủy|n
 水乡=vùng sông nước|n
 水乳=thủy nhũ|n
@@ -29936,7 +29766,6 @@
 汉民=Hán dân/người Hán/Hán tộc|n
 汉话=tiếng Hán|n
 汉调=Hán kịch/kịch Hán/hí khúc|n
-汊=xá|n
 汊港=dòng/nhánh|n
 汗位=Hãn vị|n
 汗味=mùi mồ hôi|n
@@ -29967,7 +29796,6 @@
 汗青=hoàn thành tác phẩm/viết xong/sử sách/sử xanh|n
 汗颜=xấu hổ/thẹn thùng/thẹn mướt mồ hôi/xấu hổ toát mồ hôi|n
 汗马=hãn mã/công lao/cống hiến|n
-汞=hống|n
 江字=chữ Giang/giang tự|n
 江导=Giang Đạo|n
 江年=Giang niên|n
@@ -30034,7 +29862,6 @@
 汤饭=món canh|n
 汤饼=bánh canh|n
 汪身=uông thân|n
-汽=khí|n
 汽化=khí hoá/sự bay hơi/khí hóa|n
 汽化器=bộ chế hoà khí|n
 汽机=máy hơi nước/máy tua-bin|n
@@ -30161,7 +29988,6 @@
 沥青路=đường nhựa|n
 沦陷区=luân hãm khu|n
 沪剧=Hỗ kịch|n
-沫=mạt|n
 沫儿=Mạt nhi|n
 沫子=bọt|n
 沫水=nước miếng|n
@@ -30212,7 +30038,6 @@
 沸水=nước sôi|n
 沸泉=suối nước nóng|n
 沸点=điểm sôi/độ sôi|n
-油=du|n
 油乳=vú mềm|n
 油井=giếng dầu|n
 油亮=bóng loáng/bóng nhẫy|n
@@ -30347,7 +30172,6 @@
 泊松=Poisson|n
 泊泊=dạt dào|n
 泊车=bãi đậu xe/nơi đỗ xe|n
-泔=cam|n
 泔水=nước rửa chén/nước rửa chén vo gạo/nước vo gạo|n
 泔水桶=thùng nước rửa chén|n
 泔脚=nước cặn|n
@@ -30722,7 +30546,6 @@
 洗髓经=Tẩy Tủy Kinh|n
 洗魂=tẩy hồn|n
 洛落=Lạc Lạc|n
-洞=động|n
 洞口=cửa hang/cửa động/cái động khẩu|n
 洞壁=vách động/thành động|n
 洞天=động thiên|n
@@ -31334,7 +31157,6 @@
 涛涛=dậy sóng/ào ào|n
 涝灾=nạn úng|n
 涟漪=gợn sóng/rung động/sóng lăn tăn/sóng gợn/gợn sóng|n
-涡=qua|n
 涡之国=Qua chi quốc|n
 涡旋=lốc xoáy/vòng xoáy|n
 涡流=dòng xoáy/vận động xoáy/dòng cảm ứng điện từ|n
@@ -31659,7 +31481,6 @@
 渗沟=cống/rãnh|n
 渗碳=tôi cac-bon/cementit/tôi cacbon|n
 渗透压=áp lực thẩm thấu|n
-渠=cừ|n
 渠道=con đường/kênh dẫn nước/mương máng/đường đi/cửa ngõ/đường dây|n
 渡假=nghỉ ngơi/độ giả|n
 渡口=bến đò/độ khẩu/bến phà|n
@@ -31879,7 +31700,6 @@
 溶解度=độ hoà tan|n
 溶质=chất hoà tan/dung chất|n
 溺水者=người chết chìm|n
-溽=nhục|n
 溽暑=nóng ẩm|n
 滂沱大雨=mưa to/mưa lớn/cơn mưa xối xả|n
 滇剧=điền kịch|n
@@ -32027,7 +31847,6 @@
 漕粮=lương thực vận chuyển bằng đường thuỷ/hàng tàu|n
 漠视=coi thường/coi khinh/rẻ rúng/không thèm chú ý đến/mạc thị|n
 漠铁=Mạc Thiết|n
-漩=tuyền|n
 漩涡=vòng xoáy/suối chảy/nước xoáy|n
 漪澜=sóng lăn tăn/gợn sóng|n
 漫儿=mặt sấp/mặt trơn|n
@@ -32073,7 +31892,6 @@
 潜质=tiềm chất|n
 潜邸=tiềm để|n
 潜龙=Tiềm Long/tiềm long|n
-潭=đàm|n
 潭底=đáy đầm/đáy đàm|n
 潭府=vực sâu/quý phủ|n
 潭水=đầm nước/đàm thủy|n
@@ -32455,7 +32273,6 @@
 灭火器=bình chữa lửa/bình chữa cháy/diệt hỏa khí|n
 灭绝师太=Diệt Tuyệt sư thái|n
 灭蚊器=máy diệt muỗi/bình diệt muỗi|n
-灯=đăng|n
 灯下=dưới đèn|n
 灯丝=dây tóc/dây vôn-phram|n
 灯亮=đèn sáng|n
@@ -32691,7 +32508,6 @@
 灵魂=linh hồn/tâm linh/tư tưởng/tâm hồn/nhân cách/lương tâm|n
 灵魅=Linh Mị|n
 灵鱼=linh ngư|n
-灶=táo|n
 灶台=bếp lò/lò bếp/kệ bếp|n
 灶君=Táo quân|n
 灶头=bếp/lò|n
@@ -32710,7 +32526,6 @@
 灼痛=bỏng/phỏng|n
 灼目=bỏng mắt|n
 灼阳=Chước Dương|n
-灾=tai|n
 灾云=Tai Vân|n
 灾劫=tai kiếp|n
 灾区=tai khu/khu vực thảm họa/khu vực thiên tai|n
@@ -32800,8 +32615,6 @@
 炒豆子=rang đậu|n
 炒面=mì xào/miến xào/bột chiên/bột mì rang|n
 炒鸡蛋=trứng tráng|n
-炔=khuyết|n
-炕=kháng|n
 炕头=đầu giường đặt gần lò sưởi|n
 炕席=giường chiếu|n
 炕桌儿=bàn lò/bàn nhỏ đặt trên giường lò|n
@@ -32811,7 +32624,6 @@
 炖锅=nồi hầm cách thủy|n
 炖鱼=cá hầm|n
 炫耀着=huyền diệu|n
-炭=thán|n
 炭化=than hoá/các-bon hoá|n
 炭场=bãi than|n
 炭峰=đỉnh phong|n
@@ -32971,7 +32783,6 @@
 烂货=hàng nát/lạn hóa|n
 烂铁=sắt vụn|n
 烂陀寺=Lạn Đà Tự|n
-烃=hĩnh|n
 烈云=Liệt Vân|n
 烈儿=Liệt nhi|n
 烈光=liệt quang|n
@@ -33023,7 +32834,6 @@
 烛花=hoa nến/bông nến|n
 烛阴=Chúc Âm|n
 烛龙=Chúc Long|n
-烟=yên|n
 烟丝=làn khói/thuốc lá sợi|n
 烟云=mây khói|n
 烟儿=Yên nhi|n
@@ -33262,7 +33072,6 @@
 热饮=thức uống nóng/đồ uống nóng|n
 热龙=nhiệt long|n
 烯烃=alkene|n
-烷=hoàn|n
 烹油=nấu dầu/phanh du|n
 烽尘=phong trần|n
 烽火=phong hỏa/gió lửa/khói lửa/phóng hoả/đốt lửa hiệu/chiến tranh|n
@@ -33335,7 +33144,6 @@
 煞费=sát phí|n
 煞车=sắp xếp gọn gàng/cột chặt các thứ trên xe lại/phanh xe/thắng xe/hãm máy/bộ thắng xe/bộ phận phanh xe|n
 煞面=sát diện|n
-煤=môi|n
 煤业=ngành than đá/ngành công nghiệp than đá|n
 煤场=bãi than/than đá/Bãi than|n
 煤坑=hố than/Hố than, hầm than|n
@@ -33474,7 +33282,6 @@
 燕窝=tổ yến|n
 燕贼=Yến tặc|n
 燕雀=yến tước/chim yến tước|n
-燧=toại|n
 燧人氏=Toại Nhân thị/toại nhân thị|n
 燧发枪=súng kíp|n
 燧皇=Toại Hoàng|n
@@ -33633,10 +33440,8 @@
 爷孙=ông cháu|n
 爷爷=gia gia/ông nội/ông|n
 爷爷奶奶=gia gia nãi nãi/ông nội bà nội|n
-爸=ba|n
 爸妈=cha mẹ/ba mẹ|n
 爸爸=ba ba/cha|n
-爹=đa|n
 爹地=cha|n
 爹妈=cha mẹ/ba mẹ/ba má|n
 爹娘=cha mẹ/thầy u/thầy me/ba mẹ|n
@@ -33657,7 +33462,6 @@
 片长=phim trường|n
 片间=trong phim|n
 片面=phiến diện/một mặt/một chiều|n
-版=bản|n
 版主=moderator/admin/bản chủ|n
 版刻=khắc gỗ/chạm|n
 版图=bản đồ/đất đai/lãnh thổ/bờ cõi|n
@@ -33673,7 +33477,6 @@
 版筑=vách đất|n
 版籍=hộ khẩu/sổ hộ khẩu/lãnh thổ/biên cương/biên giới/sách vở/thư tịch|n
 版面=trang bìa/trang báo/trang sách/ma-két trang in/hình thức sắp xếp của trang báo/sách/bố trí trang in|n
-牌=bài|n
 牌九=bài cửu/thẻ 9/pai gow|n
 牌价=giá quy định/giá niêm yết|n
 牌位=bài vị|n
@@ -33688,7 +33491,6 @@
 牌照=giấy phép/bằng lái xe/bảng số|n
 牌示=cáo thị|n
 牌面=mặt bài|n
-牙=nha|n
 牙人=cò mồi|n
 牙侩=người môi giới|n
 牙关紧闭=ngậm chặt hàm răng/ngậm chặt hàm răng|n
@@ -33791,7 +33593,6 @@
 牛队=Ngưu đội|n
 牛饮=nốc ừng ực/nuốt chửng|n
 牛鲨=cá mập bò|n
-牝=tẫn|n
 牝户=âm hộ|n
 牝犬=chó cái|n
 牝马=ngựa cái|n
@@ -33810,7 +33611,6 @@
 牢记于心=nhớ cho kỹ|n
 牢间=lao gian/trong lao|n
 牢骚=bực tức/tức/giận/oán trách/oán than/oán thán/kêu ca/than phiền/bất bình/lao tao|n
-牦=ly|n
 牦牛=bò Tây Tạng/bò y-ắc|n
 牧业=nghề chăn nuôi/ngành chăn nuôi|n
 牧主=chủ chăn nuôi|n
@@ -33881,7 +33681,6 @@
 物资部=phòng vật tư/Phòng vật tư|n
 物部=Mononobe|n
 物镜=vật kính/mục tiêu|n
-牯=cổ|n
 牯牛=trâu đực/bò đực|n
 牲口=gia súc/sinh khẩu|n
 牲畜=súc vật|n
@@ -33962,7 +33761,6 @@
 犁地=cày đất/cày|n
 犁杖=cái cày|n
 犁铧=lưỡi cày|n
-犄=cơ|n
 犄角=sừng thú/cơ giác/góc/cạnh/góc cạnh/xó/sừng|n
 犄角之势=thế đối chọi|n
 犊子=con bê/con nghé|n
@@ -34071,7 +33869,6 @@
 狂饮=uống ừng ực|n
 狂魄=bổ mạnh|n
 狂鼠=Cuồng Thử|n
-狍=bào|n
 狍子=hươu bào|n
 狍肉=thịt hươu sao|n
 狐人=Hồ nhân/hồ nhân|n
@@ -34098,9 +33895,7 @@
 狐臊=hôi nách/viêm cánh|n
 狐臭=hôi nách/viêm cánh|n
 狐裘=áo lông chồn/hồ cừu|n
-狒=phí|n
 狒狒=khỉ đầu chó|n
-狗=cẩu|n
 狗人=cẩu nhân|n
 狗仔=cẩu tử/paparazi|n
 狗仔队=đội chó săn/paparazzi/đám chó săn/đội săn ảnh|n
@@ -34373,14 +34168,11 @@
 猛震=chấn động mạnh mẽ|n
 猛龙=mãnh long|n
 猛龙过江=mãnh long quá giang|n
-猞=xá|n
 猞猁=linh miêu/mèo rừng/báo xa-li/báo xali|n
-猢=hồ|n
 猢狲=con khỉ|n
 猩族=Tinh Tộc|n
 猩猩=tinh tinh/con tinh tinh/con đười ươi/Tinh Tinh (người vượn)|n
 猩红色=tinh hồng sắc/màu đỏ tươi|n
-猪=trư|n
 猪下水=lòng lợn|n
 猪人=trư nhân|n
 猪仔=lợn con/Lợn Con|n
@@ -34507,7 +34299,6 @@
 獐子=con hoẵng|n
 獐皮=da hoẵng|n
 獐脑=chương não|n
-獠=liêu|n
 獠牙=răng nanh/nanh|n
 獬豸=Giải Trĩ|n
 獭祭=trình bày la liệt điển tích/chất đầy tài liệu sách vở trên bàn để tham khảo khi viết văn làm thơ|n
@@ -34655,7 +34446,6 @@
 玩艺儿=đồ chơi|n
 玩钱=chơi tiền|n
 玩阴=giở trò/ngầm/ngấm ngầm - giở trò/giở thủ đoạn/giở thủ đoạn - sau lưng|n
-玫=mân|n
 玫瑰=hoa hồng/cây hoa hồng|n
 玫瑰园=vườn hoa hồng|n
 玫瑰红=hoa hồng đỏ|n
@@ -34744,7 +34534,6 @@
 现金支票=chi phiếu|n
 现钱=tiền mặt|n
 现饭=cơm thừa|n
-玳=đại|n
 玳瑁=đồi mồi/con đồi mồi|n
 玺印=tỳ ấn/dấu ấn/con dấu|n
 玻片=mảnh kính|n
@@ -34799,7 +34588,6 @@
 珍血=trân huyết|n
 珍闻=tin quý lạ/tin tức quý lạ/tin hay|n
 珍馐=trân tu/sơn hào hải vị/món ăn quý và lạ|n
-珐=pháp|n
 珐琅=men/tráng men|n
 珐琅质=men răng|n
 珠儿=Châu nhi|n
@@ -34838,7 +34626,6 @@
 班辈=vai vế/thứ bậc/vai lứa|n
 班长=ban trưởng/lớp trưởng/trưởng lớp/tiểu đội trưởng/chủ kỹ viện/tú bà|n
 班门=cửa lớp|n
-球=cầu|n
 球体=hình cầu/khối cầu|n
 球儿=quả bóng nhỏ/viên bi/hòn bi|n
 球员=cầu thủ/cầu thủ bóng đá|n
@@ -34933,7 +34720,6 @@
 琳妹=Lâm muội|n
 琳姐=Lâm tỷ|n
 琳琅=ngọc đẹp/lâm lang|n
-琴=cầm|n
 琴书=cầm thư|n
 琴仙=Cầm Tiên|n
 琴会=cầm hội|n
@@ -34984,7 +34770,6 @@
 琴魂=hồn cầm|n
 琴魔=Cầm Ma|n
 琴鸟=chim đàn lia|n
-琵=tỳ|n
 琵卡=Pica|n
 琵琶=tì bà/tỳ bà/đàn tì bà|n
 琵琶行=tỳ bà hành|n
@@ -35015,7 +34800,6 @@
 璇妹=Tuyền muội|n
 璇姐=Tuyền tỷ|n
 璇玑=Tuyền Cơ|n
-璎=anh|n
 璎珞=chuỗi ngọc|n
 璞玉=ngọc thô/ngọc thô chưa mài dũa|n
 瓜代=thay đổi/đổi thay/thay thế|n
@@ -35060,7 +34844,6 @@
 瓦砾=gạch ngói vụn/ngói vụn/gạch vụn|n
 瓦罐=bình ngói/cái hũ|n
 瓦面=mái ngói|n
-瓶=bình|n
 瓶儿=Bình nhi|n
 瓶内=trong bình/bên trong bình|n
 瓶口=miệng bình|n
@@ -35099,7 +34882,6 @@
 瓷碟=đĩa sứ|n
 瓷罐=bình sứ/lọ sứ|n
 甑子=cái chõ|n
-甕=úng|n
 甘之如荠=cam tâm|n
 甘味=mỹ vị/món ăn ngon/ngon miệng|n
 甘地=Gandhi/(Mahatma gandhi|n
@@ -35283,8 +35065,6 @@
 生鱼=cá sống|n
 生鱼片=lát cá sống|n
 生齿=răng sữa/nhân khẩu|n
-產=sản|n
-甥=sanh|n
 甥女=cháu gái|n
 甥舅=cậu cháu|n
 用光=dùng hết/dùng quang|n
@@ -35359,7 +35139,6 @@
 甲鱼=con ba ba|n
 申请者=ứng viên/Thân thỉnh giả|n
 申请表=mẫu đơn|n
-电=điện|n
 电三轮=Điện Tam Luân|n
 电业局=cục điện lực|n
 电丝=tia điện|n
@@ -35817,7 +35596,6 @@
 留点=chừa chút|n
 留题=sổ góp ý/thơ ngẫu hứng/thơ tuỳ hứng|n
 留鸟=chim không di trú/loài chim không di trú|n
-畚=bổn|n
 畚斗=lon/gầu/ki/bay|n
 畚箕=cái ki/cái gầu|n
 畜产=sản phẩm chăn nuôi|n
@@ -35879,8 +35657,6 @@
 疑窦=điểm khả nghi/nghi ngờ/ngờ vực|n
 疑阵=nghi trận/trận thế nghi binh/nghi trang|n
 疑难=nghi nan/nghi vấn khó xử lý|n
-疔=đinh|n
-疖=tiết|n
 疖子=bệnh ghẻ/nhọt|n
 疗伤=chữa thương|n
 疗养=an dưỡng/dưỡng bệnh/điều dưỡng/liệu dưỡng|n
@@ -35890,30 +35666,25 @@
 疗治=trị liệu/điều trị|n
 疗法=liệu pháp/trị liệu|n
 疗程=đợt trị liệu/đợt điều trị|n
-疙=ngật|n
 疙疤=mày/cái mày|n
 疙疸=mụn/mụn cơm|n
 疙瘩=u cục/phiền phức khó chịu/ngật đáp/mụn/mụn cơm/cục/nút/hạt/gút/vướng mắc/mắc mớ/vấn đề/hòn/cái/viên/chiếc/phiền phức/khó chịu/hạt mụn/mụn nhọt|n
 疙瘩汤=bánh canh|n
 疝气=bệnh sa nang/sưng dái|n
-疟=ngược|n
 疟原虫=vi trùng sốt rét|n
 疟子=bệnh sốt rét/lên cơn sốt rét|n
 疟疾=bệnh sốt rét/sốt rét|n
-疤=ba|n
 疤痕=vết sẹo/dấu vết/vết tích/sẹo/thẹo/vết thẹo|n
 疤瘌=sẹo/vết sẹo/cái sẹo/thẹo|n
 疤眼=ba nhãn|n
 疤脸=mặt thẹo|n
 疤面=mặt sẹo|n
-疥=giới|n
 疥疮=mụn ghẻ/ghẻ|n
 疥癣=ghẻ|n
 疥虫=ký sinh trùng gây bệnh ghẻ/con ghẻ/cái ghẻ|n
 疫情=tình hình bệnh dịch|n
 疫病=dịch bệnh/bệnh dịch|n
 疫苗=vắc xin|n
-疮=sang|n
 疮口=miệng vết thương/vết thương|n
 疮疤=vết sẹo/sẹo/thẹo/vết thương lòng/nỗi đau khổ/vết nhơ|n
 疮痂=vảy vết thương|n
@@ -35942,11 +35713,8 @@
 疯长=sinh trưởng tốt/ra hoa/phong trường/sinh trưởng|n
 疯魔=điên dại/điên/bị điên/dại/mê/hấp dẫn/say mê/say sưa/làm say mê/lôi cuốn/phong ma/điên cuồng|n
 疯鼠=chuột điên|n
-疱=pháo|n
 疱疹=mụn nước/bệnh ecpet/bệnh mụn rộp|n
 疲态=vẻ mệt mỏi/mệt mỏi/vẻ mỏi mệt|n
-疳=cam|n
-疵=tỳ|n
 疵瑕=tì vết|n
 疵着=tỳ|n
 疹人=rợn người|n
@@ -35979,8 +35747,6 @@
 疾风=gió táp/tật phong/gió mạnh/gió to/gió cả|n
 疾风劲草=gió mạnh mới hay cỏ cứng/trong khó khăn gian khổ mới nhận ra phẩm chất từng người/lửa thử vàng, gian nan thử sức|n
 疾首=nhức óc/ôm đầu|n
-痂=già|n
-痄=chá|n
 病人=bệnh nhân/người bệnh/người cần được chữa trị|n
 病例=ca bệnh/ca/trường hợp/vụ bệnh|n
 病假=nghỉ bệnh/nghỉ ốm|n
@@ -36049,9 +35815,7 @@
 症状=triệu chứng/bệnh trạng|n
 症结=mấu chốt/táo bón/bệnh kết báng|n
 症结所在=chỗ mấu chốt|n
-痈=ung|n
 痈疽=ung độc/nhọt độc|n
-痔=trĩ|n
 痔疮=bệnh trĩ/loét đít/trĩ sang|n
 痕印=dấu vết|n
 痕家=Ngân gia|n
@@ -36062,26 +35826,19 @@
 痘痘=nổi mụn/mụn cóc/Mụn/nhọt|n
 痘苗=vắc-xin đậu mùa/vắcxin đậu mùa|n
 痛风=thống phong/bệnh gút/bệnh gout|n
-痞=bĩ|n
 痞块=báng/khối u|n
 痞子=vô lại/côn đồ/lưu manh|n
 痞气=vô lại/bĩ khí|n
 痞痞=bĩ bĩ/tên con giun|n
 痞赖=vô lại|n
-痢=lỵ|n
 痢疾=kiết lỵ|n
-痣=chí|n
-痤=tọa|n
 痤疮=mụn/mụn trứng cá|n
 痦子=nốt ruồi|n
-痨=lao|n
 痨病=bệnh lao/bệnh kết hạch|n
 痨货=đồ hèn|n
-痰=đàm|n
 痰桶=ống nhổ/bô|n
 痰气=bệnh tinh thần/bệnh trúng gió/trúng gió|n
 痰盂=ống nhổ|n
-痱=phi|n
 痱子=rôm/sảy/mẩn|n
 痱子粉=phấn rôm|n
 痴人=si nhân|n
@@ -36093,7 +35850,6 @@
 痴想=ảo tưởng/suy nghĩ hão huyền/ảo ảnh/ảo giác/không tưởng|n
 痴线=điên|n
 痴肥=béo ụt ịt/béo phì/núc ních/ục ịch/múp míp|n
-痼=cố|n
 痼习=thói hư/thói quen khó thay đổi/tật xấu|n
 痼疾=cố tật/bệnh khó chữa/tật khó sửa|n
 瘀伤=vết bầm tím/bầm tím|n
@@ -36107,7 +35863,6 @@
 瘟疹=bệnh sởi/bệnh sốt phát ban|n
 瘟病=bệnh dịch|n
 瘟神=ôn thần/thần ôn dịch|n
-瘢=ban|n
 瘢痕=vết sẹo/sẹo|n
 瘤子=nhọt/u nhọt|n
 瘦子=người gầy|n
@@ -36121,8 +35876,6 @@
 瘪三=ma cà bông/dân lang thang/bụi đời/cà chớn|n
 瘪嘴=bĩu môi/xíp miệng|n
 瘫痪病人=liệt bệnh nhân/bệnh nhân bị liệt|n
-瘰=lỗi|n
-瘴=chướng|n
 瘴毒=độc chướng|n
 瘴气=chướng khí/khí độc|n
 瘴疠=chướng lệ/bệnh chướng khí|n
@@ -36130,22 +35883,18 @@
 瘸子=người thọt/người què/người đi khập khiễng/người thọt|n
 瘸脚=què chân|n
 瘸腿=què chân/què giò/què|n
-瘾=ẩn|n
 瘾君子=kẻ nghiện|n
 瘾头=nghiện/mức độ nghiện|n
 癃闭=bệnh bí đái/bệnh bí tiểu|n
 癌变=nham biến|n
 癌症=ung thư/bệnh ung thư|n
 癌细胞=tế bào ung thư|n
-癔=ý|n
 癖好=đam mê/háo sắc/mê/thích|n
 癖性=tính ham mê/tính đam mê|n
-癞=lại|n
 癞子=bệnh chốc đầu/người chốc đầu/bệnh hủi|n
 癞瓜=mướp đắng/khổ qua|n
 癞痢=bệnh chốc đầu|n
 癞蛤蟆=con cóc/cóc/con cóc ghẻ/cóc ghẻ|n
-癣=tiển|n
 癫子=điên/người điên|n
 癫疯=điên dại/điên rồ|n
 癫痫=chứng động kinh/bệnh động kinh|n
@@ -36517,7 +36266,6 @@
 皓腕=cổ tay trắng/cổ tay trắng ngần|n
 皓首=đầu bạc/tóc bạc/già|n
 皓齿明眸=mỹ nữ/răng trắng và mắt sáng/người phụ nữ trẻ đáng yêu|n
-皮=bì|n
 皮下=dưới da|n
 皮下组织=mô liên kết|n
 皮东=bì đông|n
@@ -36641,7 +36389,6 @@
 盈野=đầy đồng|n
 盈门=doanh môn|n
 益气=ích khí|n
-盐=diêm|n
 盐井=mỏ muối/giếng muối|n
 盐卤=nước chát|n
 盐商=thương nhân buôn muối|n
@@ -36713,7 +36460,6 @@
 盒粉=hộp phấn|n
 盒里=trong hộp|n
 盒饭=cơm hộp/hộp cơm/cặp lồng đựng cơm|n
-盔=khôi|n
 盔头=mũ mão|n
 盔子=cái vại/chậu sành|n
 盔帽=khôi mạo|n
@@ -36913,7 +36659,6 @@
 盾手=thuẫn thủ|n
 盾牌=tấm thuẫn/tấm chắn/thuẫn bài/cái thuẫn/cái mộc/cái khiên/lá chắn/đồ đỡ/cớ/tấm khiên|n
 盾阵=thuẫn trận|n
-省=tỉnh|n
 省事=bớt việc/giảm bớt thủ tục/tiện lợi/bớt phiền/tỉnh sự|n
 省亲=thăm viếng/tỉnh thân|n
 省份=tỉnh|n
@@ -37266,13 +37011,11 @@
 督率=đốc suất|n
 督脉=Đốc mạch|n
 睦邻=láng giềng hoà thuận/hàng xóm hoà thuận|n
-睫=tiệp|n
 睫毛=lông mi|n
 睫毛夹=kẹp mi/kẹp lông mi/bấm lông mi|n
 睫毛膏=lông mi|n
 睫状体=tiệp trạng thể|n
 睫羽=lông mi/lông vũ|n
-睾=cao|n
 睾丸=cao hoàn|n
 瞌睡虫=truyện dở/tiểu thuyết nhàm chán/truyện tẻ nhạt/sâu ngủ/người hay ngủ gật|n
 瞎了眼睛=mắt bị mù/mù mắt|n
@@ -37355,7 +37098,6 @@
 矩阵=ma trận|n
 矫形=chỉnh hình/thuật chỉnh hình|n
 矫情镇物=cố làm ra vẻ bình tĩnh|n
-矬=tọa|n
 矬子=người lùn/người thấp/chú lùn|n
 短信=tin nhắn/tin nhắn ngắn|n
 短信内容=nội dung tin ngắn|n
@@ -37602,10 +37344,8 @@
 石鼓=thạch cổ|n
 石龛=bàn thờ đá|n
 石龟=thạch quy/rùa đá|n
-矸=canh|n
 矽肺=sỏi phổi/bệnh lao si-líc|n
 矾石=phèn sống/phèn|n
-矿=khoáng|n
 矿业=khai thác mỏ/khoáng nghiệp/ngành mỏ|n
 矿主=quáng chủ|n
 矿井=giếng mỏ/hầm lò/quặng mỏ|n
@@ -37650,7 +37390,6 @@
 码子=ký hiệu/chữ số/số hiệu tượng trưng/bộ tính hình tròn thay tiền/khoản tiền mặt/vốn tiền mặt/kí hiệu|n
 码字=gõ chữ/viết chữ|n
 码数=mã số|n
-砂=sa|n
 砂仁=sa nhân|n
 砂光=Sa Quang|n
 砂土=đất cát/sạn|n
@@ -37695,7 +37434,6 @@
 研究者=nhà nghiên cứu|n
 研究院=viện nghiên cứu|n
 研讨会=nghiên thảo hội|n
-砖=chuyên|n
 砖厂=lò gạch/nhà máy gạch|n
 砖块=tấm gạch|n
 砖坯=gạch mộc|n
@@ -37720,7 +37458,6 @@
 砗磲=xà cừ|n
 砚台=nghiên mực/nghiên đài|n
 砚池=nghiên mực/nghiên đài|n
-砝=kiếp|n
 砝码=quả cân/pháp mã/kiếp mã/pháp mã (*đòn bí mật gia thêm cận nặng cho đàm phán)|n
 砟子=sỏi/sạn|n
 砣子=đá mài|n
@@ -37767,15 +37504,12 @@
 破钞=phí tiền/tốn kém/tốn tiền|n
 破鞋=phá hài/người đàn bà dâm đãng/người đàn bà hư hỏng/giày rách|n
 破题=phá đề|n
-砷=thân|n
 砺石=đá mài/đá thô|n
-砼=đồng|n
 砾石=đá sỏi/đá cuội/cuội|n
 础润而雨=trăng tán thì mưa|n
 硅肺=bệnh phổi bụi/bệnh nhiễm bụi si-lic|n
 硅胶=silicone|n
 硅谷=thung lũng Silicon|n
-硒=tây|n
 硕乳=thạc nhũ/vú lớn|n
 硕儒=đại nho|n
 硕士=thạc sĩ|n
@@ -37784,14 +37518,12 @@
 硕望=thạc vọng/trọng vọng|n
 硕果=quả lớn/quả to/thạc quả|n
 硕鼠=con chuột lớn|n
-硝=tiêu|n
 硝化=ni-trát hoá/nitrát hoá|n
 硝子=Shouko|n
 硝烟=khói lửa/khói thuốc súng|n
 硝盐=muối mỏ|n
 硝石=diêm tiêu/quặng ni-trát ka-li/quặng KNO3|n
 硝酸=a-xít ni-tric/axít nitric|n
-硫=lưu|n
 硫化=lưu hoá|n
 硫化氢=hyđro sunfua/hydrogen sulfide/hydro sunfua H2S|n
 硫化物=muối sulfit/sunfua|n
@@ -37849,11 +37581,9 @@
 硬面=bột mì dẻo|n
 硬顶=đối cứng|n
 硬骨头=xương cứng/xương cốt cứng rắn|n
-硼=bằng|n
 硼砂=bằng sa/bo-rac/phèn chua|n
 硼酸=a-xít bo-rít/phèn chua/axít borít|n
 硼钢=thép bo|n
-碉=điêu|n
 碉堡=lô cốt/lô-cốt/boong-ke/công sự|n
 碉楼=lầu canh/gác canh/chồi canh|n
 碎体=toái thể|n
@@ -37913,7 +37643,6 @@
 碎骨=xương vỡ/xương bể|n
 碎骨块=mẩu xương vỡ|n
 碎魂=toái hồn|n
-碑=bi|n
 碑亭=bia đình/đình dựng bia/nhà tưởng niệm|n
 碑体=thân bia|n
 碑刻=nét khắc trên bia|n
@@ -37938,7 +37667,6 @@
 碗间=trong chén|n
 碗面=bát mì/tô mì/mặt bát:bát mì|n
 碗饭=chén cơm/bát cơm|n
-碘=điển|n
 碘酊=cồn i-ốt/cồn iốt|n
 碘酒=cồn i-ốt/cồn iốt|n
 碘钨灯=đèn i-ốt/đèn tung-sten|n
@@ -38027,7 +37755,6 @@
 磁铁=nam châm/sắt nam châm|n
 磅秤=cân bàn|n
 磐石=bàn thạch/tảng đá|n
-磙=cổn|n
 磙子=trục lăn bằng đá/trục lèn đất/con lăn|n
 磨光=chà sáng/bóng|n
 磨具=dụng cụ để mài|n
@@ -38058,13 +37785,11 @@
 磨菇=ma cô/mài nấm|n
 磨铁=Ma Thiết|n
 磨难=gặp trắc trở/đau khổ/gặp khó khăn/nỗi dằn vặt|n
-磷=lân|n
 磷火=lân hỏa/ma trơi/lửa lân tinh|n
 磷灰石=lân khôi thạch/đá apatite/lân hôi thạch/phốt pho vôi/apatit|n
 磷肥=phân lân|n
 磷脂=mỡ phốt-pho/mỡ phốtpho|n
 磷虾=tôm lân|n
-礁=tiều|n
 礁岩=đá ngầm/đá san hô ngầm|n
 礁石=đá ngầm/Đá Ngầm|n
 示人=gặp người/kỳ nhân|n
@@ -38074,7 +37799,6 @@
 示巴=Sheba|n
 示意图=sơ đồ|n
 示波器=máy hiện sóng/máy hiện dao động|n
-礼=lễ|n
 礼乐=lễ nhạc|n
 礼书=Lễ Thư|n
 礼仪=lễ nghi|n
@@ -38112,7 +37836,6 @@
 礼遇=lễ ngộ/trọng đãi/đối xử trọng hậu/tiếp đãi long trọng/dùng lễ|n
 礼部=Lễ bộ|n
 礼金=tiền biếu/tiền mừng|n
-社=xã|n
 社交=xã giao/giao tiếp xã hội|n
 社交圈=việc xã giao|n
 社交圈子=vòng xã giao|n
@@ -38448,7 +38171,6 @@
 神龟=thần quy/rùa thần|n
 祠堂=từ đường/nhà thờ tổ/nhà thờ họ/nhà thờ tổ/đền thờ|n
 祢衡=Nễ Hành|n
-票=phiếu|n
 票价=giá vé|n
 票友=diễn viên nghiệp dư|n
 票号=hiệu đổi tiền/cửa hàng hối đoái/số vé|n
@@ -38484,7 +38206,6 @@
 祭门=tế môn|n
 祭香=tế hương|n
 祷机=Đảo Ky|n
-祸=họa|n
 祸乱=họa loạn/làm loạn/tai nạn và rắc rối/việc xấu/tai hoạ|n
 祸事=tai họa/tai hoạ/tai nạn/việc xấu|n
 祸因=nguyên nhân tai họa/nguồn gốc tai họa|n
@@ -38831,7 +38552,6 @@
 秒表=đồng hồ bấm giây/đồng hồ báo giây|n
 秒针=kim giây/kim chỉ giây|n
 秒钟=giây|n
-秕=bỉ|n
 秕谷=thóc lép|n
 秘书=thư ký/bí thư/thư ký/công việc thư kí|n
 秘书台=bí thư bàn/bàn thư ký|n
@@ -38913,7 +38633,6 @@
 租费=tiền mướn|n
 租车=thuê xe/taxi|n
 租金=tiền thuê/tiền mướn|n
-秤=xứng|n
 秤星=khía/vạch khắc/hoa đòn cân/chấm khắc trên đòn cân|n
 秤杆=đòn cân/cán cân|n
 秤盘子=đĩa cân|n
@@ -38928,7 +38647,6 @@
 秧苗=mạ/cây giống|n
 秧鸡=gà nước|n
 秩序=trật tự|n
-秫=thuật|n
 秫秫=cao lương|n
 秫秸=thân cây cao lương|n
 秫米=gạo cao lương|n
@@ -38964,7 +38682,6 @@
 称誉=ca ngợi/tán dương/ca tụng|n
 称重量=cân trọng lượng|n
 称雄=xưng hùng/đứng đầu/làm trùm|n
-秸=kiết|n
 秸秆=rơm khô/rạm/Rơm rạ|n
 移位=lệch vị trí|n
 移动电话=điện thoại di động|n
@@ -39025,7 +38742,6 @@
 程老爷子=Trình lão gia tử|n
 程蝶衣=Trình Điệp Y|n
 程铁=trình thiết|n
-税=thuế|n
 税关=thuế quan|n
 税制=chế độ thuế|n
 税务=thuế vụ|n
@@ -39054,7 +38770,6 @@
 稚鸡=chim trĩ|n
 稚鹰=Ưng con|n
 稚龄=tuổi nhỏ|n
-稞=khoa|n
 稠液=Trù Dịch|n
 稳压=ổn áp/áp suất ổn định/điện áp ổn định|n
 稳婆=bà đỡ/bà mụ/bà tắm|n
@@ -39123,7 +38838,6 @@
 穷酸=nghèo kiết hủ lậu/cổ hủ/cùng toan/nghèo túng|n
 穷酸气=vẻ nghèo túng|n
 穷鬼=quỷ nghèo/nghèo kiết xác/cùng quỷ|n
-穹=khung|n
 穹庐=Khung Lư|n
 穹玉=Khung Ngọc|n
 穹苍=bầu trời|n
@@ -39322,7 +39036,6 @@
 窑子=kỹ viện/nhà chứa/lầu xanh|n
 窑村=Diêu Thôn|n
 窑洞=hầm trú ẩn/hầm trú ẫn/nhà hầm/hầm trú ẩn|n
-窖=diếu|n
 窗友=bạn học/bạn cùng lớp|n
 窗台=bệ cửa sổ/ngưỡng cửa/bệ cửa/ngưỡng cửa sổ|n
 窗台上=trên bệ cửa sổ|n
@@ -39385,12 +39098,10 @@
 窟穴=hang động|n
 窟窿=lỗ thủng/lỗ/hố/hang/thiếu hụt/mắc nợ/thua lỗ/kẽ hở/khe hở|n
 窟窿眼儿=hố nhỏ/lỗ nhỏ/kẽ hở|n
-窠=khoa|n
 窠臼=cách cũ/khuôn mẫu cũ/mẫu sẵn/mẫu rập khuôn/rập khuôn|n
 窥探者=bọn rình rập/người thăm dò|n
 窥视镜=kính quan sát|n
 窨井=giếng kiểm tra ống nước ngầm/giếng thông ống nước ngầm|n
-窪=oa|n
 立业=lập nghiệp/xây dựng sự nghiệp/xây dựng sản nghiệp|n
 立井=giếng đứng|n
 立交桥=cầu vượt|n
@@ -39596,11 +39307,9 @@
 竹黄=đồ mây tre/đồ tre trúc/hàng mây tre lá|n
 竹鼠=chuột dúi/chuột tre/Dúi|n
 竿子=gậy tre/sào tre/can tử|n
-笆=ba|n
 笆斗=giỏ/gùi/rổ rá|n
 笆篓=cái gùi/giỏ/rổ rá|n
 笆篱=hàng rào/cái chắn/rào giậu|n
-笊=tráo|n
 笊篱=lưới lọc|n
 笋丝=măng sợi|n
 笋儿=Duẩn Nhi|n
@@ -39698,14 +39407,12 @@
 笔迹=bút tích/nét chữ|n
 笔里=trong bút|n
 笔锋=đầu bút lông/sức mạnh ngòi bút/văn chương sắc sảo/ngòi bút sắc bén/bút phong|n
-笙=sanh|n
 笙儿=Sanh nhi|n
 笙歌=sênh ca|n
 笛声=tiếng địch/tiếng còi|n
 笛子=cây sáo/sáo/ống sáo/sáo trúc|n
 笛膜=lưỡi gà|n
 笛音=tiếng địch/tiếng còi|n
-笤=điều|n
 笤帚=cây chổi/nó/Cây chổi|n
 符书=phù thư|n
 符兵=phù binh|n
@@ -39773,7 +39480,6 @@
 等阶=cấp bậc/đẳng cấp|n
 等额选举=đẳng ngạch tuyển cử|n
 等高线=đường mức|n
-筋=cân|n
 筋挛=co gân/rút gân|n
 筋斗=bổ nhào/lộn nhào/cân đấu|n
 筋斗云=Cân Đẩu Vân|n
@@ -39783,7 +39489,6 @@
 筋膜=da thịt|n
 筋节=gắn bó/như gân với cốt/gần gũi|n
 筋骨=gân cốt|n
-筍=duẩn|n
 筏子=bè/mảng|n
 筐子=sọt/rổ/giỏ/cái giỏ/cái sọt/cái rổ|n
 筒仓=bồn chứa lương thực/Bồn Chứa|n
@@ -39821,9 +39526,7 @@
 策骑=quất ngựa/giục ngựa|n
 筛子=cái sàng/cái giần/cái rây/si tử|n
 筛粉=bột phấn|n
-筝=tranh|n
 筲箕=rổ/rá|n
-筵=diên|n
 筵席=buổi tiệc/tiệc rượu/diên tịch|n
 筷子=đũa/chiếc đũa|n
 筷尖=đầu đũa|n
@@ -39853,7 +39556,6 @@
 简讯=tin nhắn/tin tóm tắt|n
 箍子=nhẫn/chiếc nhẫn|n
 箍桶=bó/buộc|n
-箔=bạc|n
 箔片=kim tuyến/nhũ|n
 算命人=thầy tướng số/đoán vận mạng|n
 算命先生=thầy bói/thầy tướng số/thầy số|n
@@ -39870,7 +39572,6 @@
 算草=tính nháp toán|n
 算题=đề toán|n
 箜篌=đàn Không|n
-箝=kiềm|n
 管严=quản nghiêm|n
 管中窥天=tầm nhìn hạn hẹp|n
 管中窥豹=ếch ngồi đáy giếng/nhìn phiến diện/tầm mắt hẹp hòi/chưa thấy được toàn cục/quản trung khuy báo|n
@@ -39932,10 +39633,8 @@
 箫技=tiêu kỹ|n
 箫管=ống tiêu/ống sương|n
 箫音=tiêu âm|n
-箬=nhược|n
 箬帽=mũ lá|n
 箬竹=cây trúc/cây tre rừng|n
-箭=tiễn|n
 箭伤=trúng tên|n
 箭体=thân mũi tên|n
 箭光=tiễn quang|n
@@ -39995,7 +39694,6 @@
 篇章=thiên chương/văn chương/bài văn/bài và chương|n
 篓子=cái sọt/sọt/lâu tử|n
 篝火=đống lửa/lửa trại/lửa rừng|n
-篦=bề|n
 篦子=lược bí/lược dầy|n
 篮下=dưới rổ/dưới giỏ|n
 篮圈=lưới rổ|n
@@ -40022,11 +39720,9 @@
 篷房=phòng lều|n
 篷篷=bồng bồng|n
 篷车=xe kín mui/mui xe/mui xe ngựa|n
-篾=miệt|n
 篾匠=thợ đan tre nứa/thợ đan lát|n
 篾条=nan|n
 篾片=nan tre/lạt tre/bọn tay sai/kẻ theo đóm ăn tàn|n
-簧=hoàng|n
 簪子=cây trâm/cái trâm|n
 簪缨=trâm anh|n
 簸动=sàng sẩy/lắc bật/xóc nẩy/chòng chành/nghiêng ngả|n
@@ -40081,7 +39777,6 @@
 类固醇=steroid|n
 类型=loại hình/kiểu/loại/thứ|n
 类群=quần xã|n
-籼=tiên|n
 籼米=gạo tẻ/gạo tiên|n
 籽实=hạt/hột|n
 籽油=tự zo/dầu hạt|n
@@ -40175,8 +39870,6 @@
 粘贴=dán/niêm thiếp|n
 粤剧=kịch Quảng Đông|n
 粤菜=món ăn Quảng Đông|n
-粥=chúc|n
-粪=phẩn|n
 粪便=phân và nước tiểu/chất thải|n
 粪叉=xiên phân|n
 粪团=đống phân|n
@@ -40192,7 +39885,6 @@
 粪车=xe chở phân/xe vệ sinh|n
 粪门=hậu môn/lỗ đít|n
 粪青=“Shitty youth”|n
-粮=lương|n
 粮仓=kho lúa/kho thóc/kho lương/vựa lúa/lương thương|n
 粮价=giá lương thực|n
 粮农=lương thực chính|n
@@ -40211,7 +39903,6 @@
 粮队=đội lương thực|n
 粮食=lương thực|n
 粮饷=lương bổng/lương hướng|n
-粳=canh|n
 粳稻=lúa tẻ/lúa canh|n
 粳米=gạo tẻ/gạo canh|n
 粽子=bánh chưng/bánh tét/bánh ú|n
@@ -40303,9 +39994,7 @@
 糊状物=đồ dạng nhão/bột nhão|n
 糊精=dextrin|n
 糊纸=giấy dán|n
-糌=ta|n
 糌粑=tsampa/bánh bao/tsamba, bánh mì lúa mạch Tây Tạng|n
-糍=từ|n
 糍粑=bánh dày|n
 糕点=bánh ngọt/cao điểm/bánh bột lọc/bánh điểm tâm|n
 糕饼=bánh ngọt/bánh ga-tô|n
@@ -40506,7 +40195,6 @@
 紫雾=sương mù tím/khói tím|n
 紫音=Tử Âm|n
 紫驼=Tử Đà|n
-絛=thao|n
 絮棉=bông lót|n
 絮状=dạng bông|n
 絮状物=nhứ trạng vật/một vật thể/một mảnh vật chất kết tủa từ chất lỏng|n
@@ -40815,7 +40503,6 @@
 纱裤=quần lụa|n
 纱锭=cái suốt|n
 纱雾=Sagiri|n
-纲=cương|n
 纲常=cương thường/tam cương ngũ thường|n
 纲手=Tsunade|n
 纲目=đề cương/kế hoạch/đề mục/mục lục/bảng tóm tắt/bảng trích yếu/cương mục|n
@@ -40847,7 +40534,6 @@
 纵骑=tung kỵ|n
 纶巾=khăn chít đầu|n
 纷争=phân tranh/tranh chấp|n
-纸=chỉ|n
 纸上=giấy bên trên/trên giấy|n
 纸上谈兵=đàm binh trên giấy/lý luận suông/nói thiếu cơ sở thực tế|n
 纸人=người giấy|n
@@ -40942,7 +40628,6 @@
 纽扣=cúc áo/nút áo/khuy áo/nút cài|n
 纽结=xoắn lại|n
 纽襻=khuyết áo|n
-线=tuyến|n
 线下=offline|n
 线丝=sợi tơ|n
 线人=tuyến nhân/người liên lạc/gián điệp|n
@@ -41139,7 +40824,6 @@
 终被=cuối cùng cũng bị|n
 终身大事=chung thân đại sự/chuyện đại sự cả đời|n
 终遇=cuối cùng đã gặp|n
-绉=trứu|n
 绉纱=vải thun|n
 绉纹=nếp nhăn của vải/hoa văn của vải|n
 绊儿=gạt ngã/chêm chân|n
@@ -41240,7 +40924,6 @@
 绑架者=người bắt cóc|n
 绑票=bắt cóc tống tiền/bảng phiếu|n
 绑腿=xà cạp|n
-绒=nhung|n
 绒儿=Nhung nhi|n
 绒布=vải nhung/vải lông|n
 绒毛=lông tơ/lông măng/tuyết/lông trên tấm vải nhung/nhung mao|n
@@ -41423,7 +41106,6 @@
 统计数据=số liệu thống kê|n
 统计表=bảng thống kê/thống kê biểu|n
 统货=thống nhất thu mua và bán ra|n
-绢=quyên|n
 绢丝=tơ lụa|n
 绢册=sách lụa|n
 绢子=khăn tay/khăn mùi xoa|n
@@ -41451,7 +41133,6 @@
 绣针=kim thêu|n
 绣锦=tú cẩm|n
 绣鞋=giày thêu|n
-绦=thao|n
 绦子=dải lụa/dải tơ/đăng ten|n
 绦带=thao đái|n
 绦虫=sán/sán dây/sán sơ mít/sán đũa|n
@@ -41747,7 +41428,6 @@
 缫丝=ươm tơ|n
 缬草=cây nữ lang|n
 缰绳=dây cương/dây thừng/giây cương|n
-缸=hang|n
 缸内=trong vạc|n
 缸子=lọ/ca|n
 缸瓦=đất sét|n
@@ -41775,7 +41455,6 @@
 缺货=thiếu hàng|n
 缺门=chỗ trống/chỗ thiếu|n
 缺额=số người còn thiếu|n
-罂=anh|n
 罂粟=anh túc/cây thuốc phiện/cây anh túc|n
 罂粟花=hoa anh túc|n
 罅漏=kẽ hở/khe hở|n
@@ -41916,7 +41595,6 @@
 罹难者=người lâm nạn|n
 羁旅=sống nơi đất khách quê người/ở nơi đất khách quê người|n
 羁绊=ràng buộc/trói buộc/bó buộc/cơ bán|n
-羊=dương|n
 羊倌=người chuyên nghề chăn dê/người chuyên nghề chăn cừu|n
 羊儿=Dương nhi|n
 羊圈=bãi nhốt cừu|n
@@ -42012,7 +41690,6 @@
 羔皮=da dê con/da cừu con|n
 羔羊=cừu non/sơn dương/dê con/cừu con/người ngây thơ/người trong trắng/người yếu đuối/cao dương|n
 羔裘=cao cừu|n
-羚=linh|n
 羚牛=linh ngưu|n
 羚羊=linh dương|n
 羚羊角=sừng linh dương|n
@@ -42022,7 +41699,6 @@
 羞态=trạng thái nghẹn ngùng|n
 羞耻心=lòng xấu hổ/dây thần kinh xấu hổ|n
 羞花闭月=hoa nhường nguyệt thẹn/tu hoa bế nguyệt|n
-羟=thưởng|n
 群主=chủ nhóm|n
 群书=quần thư|n
 群云=cụm mây|n
@@ -42151,7 +41827,6 @@
 翠消红减=tàn phai nhan sắc|n
 翠色=thúy sắc|n
 翠镯=vòng ngọc|n
-翡=phỉ|n
 翡丽=Phỉ Lệ|n
 翡冷翠=Firenze|n
 翡翠=phỉ thúy/chim trả/ngọc bích|n
@@ -42540,7 +42215,6 @@
 耕畜=gia súc kéo cày/trâu bò cày|n
 耕种=trồng trọt/cày cấy/cày ruộng và trồng trọt/công việc đồng áng/cày bừa trồng trọt|n
 耕马=ngựa cày|n
-耖=sao|n
 耗力=tốn lực|n
 耗子=con chuột/chuột|n
 耗子药=thuốc chuột|n
@@ -42713,7 +42387,6 @@
 肇事者=người gây ra họa|n
 肇祸=gây hoạ/gây tai hoạ|n
 肇端=mở đầu/bắt đầu/khởi đầu|n
-肉=nhục|n
 肉丁=thịt cắt khối/thịt đinh/Thịt thái hạt lựu|n
 肉丘=đồi thịt/đống thịt|n
 肉丝=thịt băm|n
@@ -42857,7 +42530,6 @@
 肉鳍=vây thịt|n
 肉鸡=gà thịt|n
 肉麻=buồn nôn/ngứa ngáy/khó chịu/bực mình|n
-肋=lặc|n
 肋下=dưới xương sườn/ba sườn/dưới sườn|n
 肋差=wakizashi|n
 肋排=xương sườn/sườn|n
@@ -42907,7 +42579,6 @@
 肚里=trong bụng|n
 肚量=độ lượng/khoan dung/sức ăn/lượng cơm ăn|n
 肚饿=bụng đói/đói bụng|n
-肛=giang|n
 肛交=giang giao/chơi hậu môn|n
 肛口=lỗ đít|n
 肛塞=bịt mông|n
@@ -42932,7 +42603,6 @@
 肝肠=gan ruột/ruột gan|n
 肝胆=can đảm/gan mật/dũng cảm/chân thành|n
 肝脏=gan/lá gan/can tạng|n
-肠=tràng|n
 肠儿=dồi/lạp xưởng/xúc xích|n
 肠壁=thành ruột|n
 肠套叠=bệnh lồng ruột|n
@@ -43047,7 +42717,6 @@
 肩负=gánh vác/đảm đương/gánh trách nhiệm|n
 肩部=vai/phần vai/bả vai|n
 肩骨=xương vai/xương bả vai|n
-肱=quăng|n
 肱股=quăng cổ|n
 肱骨=xương cánh tay|n
 育儿=nuôi trẻ|n
@@ -43058,7 +42727,6 @@
 育树=trồng cây|n
 育碧=Ubisoft|n
 肴馔=thức ăn thịnh soạn|n
-肺=phế|n
 肺动脉=động mạch phổi|n
 肺叶=lá phổi|n
 肺吸虫=sán là phổi|n
@@ -43097,7 +42765,6 @@
 肿红=sưng đỏ|n
 肿肿=sưng tấy|n
 肿脸=mặt sưng|n
-胃=vị|n
 胃下垂=sa dạ dày|n
 胃口=khẩu vị/ăn uống/sở thích/hứng thú/lòng ham muốn|n
 胃囊=dạ dày|n
@@ -43248,7 +42915,6 @@
 胖鬼=quỷ mập|n
 胖鱼=Bàn Ngư|n
 胖鼠=chuột mập|n
-胚=phôi|n
 胚乳=phôi nhũ|n
 胚子=phôi tử|n
 胚层=tầng phôi/lớp phôi/phôi bì|n
@@ -43256,7 +42922,6 @@
 胚盘=bàn phôi/bì phôi|n
 胚胎=phôi thai/manh nha/lúc mới chớm nở/khi còn trong trứng nước|n
 胚芽=chồi mầm/mầm mống/dấu hiệu|n
-胛=giáp|n
 胛骨=xương bả vai|n
 胜上=thắng được/hơn hẳn|n
 胜仗=thắng trận|n
@@ -43281,7 +42946,6 @@
 胜迹=di tích nổi tiếng/danh lam thắng cảnh|n
 胜遇=Thắng Ngộ|n
 胜面=mặt thắng|n
-胞=bào|n
 胞兄=anh ruột/bào huynh|n
 胞兄弟=bào huynh đệ|n
 胞妹=bào muội/em gái ruột|n
@@ -43302,7 +42966,6 @@
 胡贼=Hồ tặc|n
 胫脉=mạch cơ bắp|n
 胫骨=xương ống chân/xương ống quyển|n
-胭=yên|n
 胭脂=son phấn|n
 胭脂虎=sư tử Hà Đông/son hổ/Con cọp thoa phấn. Tiếng chỉ người đàn bà hung dữ như cọp.|n
 胯下=dưới hông/dưới háng/trong quần/dưới khố|n
@@ -43321,7 +42984,6 @@
 胳膊肘=cùi chỏ|n
 胳膊腕子=cổ tay|n
 胳臂=cánh tay|n
-胴=đỗng|n
 胴体=thân thể/thân/bọng/thân mình/mình|n
 胶印=in ốp-sét/in ốpsét|n
 胶卷=cuộn phim/phim nhựa/phim chụp hình|n
@@ -43380,8 +43042,6 @@
 胸闷=lòng buồn bực|n
 胸骨=xương ngực/xương ức|n
 胸鳍=vây ngực|n
-胺=án|n
-胼=biền|n
 胼胝=chai|n
 能事=sở trường|n
 能人=người tài ba/người tài giỏi/người giỏi/có thể nhân|n
@@ -43496,7 +43156,6 @@
 脐橙=cam Tề/cam tề/rốn cam/Cam mật|n
 脐眼=cái rốn|n
 脐风=bệnh uốn ván|n
-脑=não|n
 脑下垂体=tuyến yên|n
 脑仁=sọ não|n
 脑儿=món óc|n
@@ -43562,7 +43221,6 @@
 脑颅=đầu/đầu lâu|n
 脑骨=xương sọ|n
 脑髓=tuỷ não/não/óc/não tủy|n
-脓=nùng|n
 脓包=bọc mủ/mụn mủ/đồ vô tích sự/đồ ăn hại/đồ bị thịt|n
 脓水=nước mủ/mủ|n
 脓疮=vết thương/mụn mủ|n
@@ -43581,7 +43239,6 @@
 脖颈=cái cổ/cổ|n
 脖颈儿=cái gáy|n
 脖颈子=cái gáy|n
-脚=cước|n
 脚丫=bàn chân/bàn chân/cước nha|n
 脚丫子=chân|n
 脚伤=vết thương ở chân|n
@@ -43660,7 +43317,6 @@
 脚镣=xiềng chân/cùm/xích chân/gông|n
 脚镯=vòng đeo chân/lắc chân|n
 脚门=cửa nách/cửa hông/cửa bên|n
-脩=tu|n
 脯子=thịt ức/ức|n
 脱俗=thoát tục/không dính bụi trần/Thoát Tục|n
 脱兔=thỏ chạy/thỏ chạy trốn|n
@@ -43723,7 +43379,6 @@
 脸青=mặt xanh|n
 脸面=mặt mũi/gương mặt/thể diện/mặt/nể mặt|n
 脸颊=gương mặt/đôi má/đôi má/hai má/gò má|n
-脾=tỳ|n
 脾性=tính nết/tính cách/tính khí/tính tình|n
 脾气=tính tình/tính cách/tính khí/phát cáu/nóng nảy/cáu kỉnh|n
 脾气好=tính tính tốt/dễ tính|n
@@ -43790,17 +43445,13 @@
 腥红=tinh hồng|n
 腥风=gió tanh/tinh phong|n
 腥骚=tanh tưởi|n
-腧=thú|n
 腧穴=huyệt/đường huyệt|n
-腭=ngạc|n
-腮=tai|n
 腮子=gò má|n
 腮帮=quai hàm|n
 腮帮子=quai hàm|n
 腮红=phấn má hồng/phấn má/má hồng/Má hồng, phấn má|n
 腮腺=tuyến nướt bọt|n
 腮颊=má/quai hàm|n
-腰=yêu|n
 腰下=dưới lưng|n
 腰侧=bên eo|n
 腰刀=yêu đao|n
@@ -43849,7 +43500,6 @@
 腰骨=xương lưng|n
 腰鼓=yêu cổ/trống cơm|n
 腰鼓队=đội trống cơm/đội trống thắt lưng|n
-腱=kiện|n
 腱子=bắp chân/thịt bắp|n
 腱鞘=gân/hệ thống gân|n
 腹地=nội địa/bụng/nội địa/vùng trung bộ/thủ phủ/phúc địa|n
@@ -43869,13 +43519,11 @@
 腹间=giữa bụng/trong bụng|n
 腹面=phía bụng|n
 腹鳍=vây cá|n
-腺=tuyến|n
 腺体=tuyến thể/tuyến/ốc lắp cáp|n
 腺细胞=tế bào tuyến|n
 腻子=loại sơn lót|n
 腻脂=nị chi|n
 腽肭脐=dái hải cẩu|n
-腿=chân|n
 腿儿=chân|n
 腿力=lực chân|n
 腿包=bao chân|n
@@ -43907,7 +43555,6 @@
 膀胱经=Bàng Quang Kinh|n
 膀臂=trợ thủ đắc lực/trợ lý đắc lực/cánh tay/tay|n
 膀阔=bàng khoát|n
-膂=lữ|n
 膂力=thể lực/sức vóc/sức khoẻ/sức lực|n
 膏剂=thuốc cao|n
 膏子=thuốc dán|n
@@ -43922,7 +43569,6 @@
 膏血=máu thịt/máu xương|n
 膘情=béo gầy|n
 膛线=rãnh nòng súng/đường xoắn nòng súng|n
-膜=mô|n
 膜状=dạng màng|n
 膝上=trên gối/trên đầu gối|n
 膝下=dưới gối|n
@@ -44112,7 +43758,6 @@
 舆情=ý kiến và thái độ của công chúng|n
 舆服=dư phục|n
 舆论=dư luận|n
-舌=thiệt|n
 舌下=dưới lưỡi|n
 舌下腺=tuyến nước bọt|n
 舌信=thiệt tín/cái lưỡi|n
@@ -44262,7 +43907,6 @@
 舰长=hạm trưởng/hạm dài|n
 舰队=hạm đội/đoàn tàu chiến|n
 舰首=đầu tàu/đầu hạm|n
-舱=thương|n
 舱位=chỗ/ghế/giường|n
 舱室=khoang/buồng|n
 舱房=khoang/khoang phòng/cabin/ca-bin|n
@@ -44271,7 +43915,6 @@
 舱门=cửa khoang/cửa máy|n
 舱间=trong khoang thuyền|n
 舱面=boong tàu/sàn tàu/trên boong|n
-舵=đà|n
 舵主=đà chủ/Đà chủ|n
 舵位=buồng lái|n
 舵工=tài công/lái tàu|n
@@ -44282,7 +43925,6 @@
 舶来品=hàng ngoại nhập/hàng ngoại/hàng tầu/hàng nhập|n
 舷梯=cầu thang mạn/cầu thang bên sườn tàu/huyền thê|n
 舷窗=cửa sổ mạn tàu/cửa sổ thành tàu|n
-船=thuyền|n
 船业=ngành đóng tàu|n
 船东=chủ tàu/chủ thuyền|n
 船主=chủ thuyền/chủ tàu/thuyền trưởng|n
@@ -44343,9 +43985,7 @@
 船首=mũi tàu|n
 船首像=ảnh đầu mũi tàu|n
 船高=thuyền cao|n
-舾=tây|n
 舾装=thiết bị trên tàu/việc lắp đặt thiết bị trên tàu|n
-艄=sao|n
 艄公=người cầm lái/người lái/người lái đò|n
 艨艟=chiến thuyền|n
 良人=lương nhân/phu quân/chàng/dân thường|n
@@ -44547,7 +44187,6 @@
 芋头=khoai sọ/khoai môn/khoai lang|n
 芋泥=khoai môn nghiền/bùn đất/khoai mỡ|n
 芋艿=khoai sọ/khoai môn|n
-芍=thược|n
 芍药=thược dược/hoa thược dược/bông thược dược|n
 芒刃=lưỡi dao|n
 芒刺=gai nhọn/mũi nhọn/mũi nhọn|n
@@ -44572,7 +44211,6 @@
 芝麻糊=tương mè/chè mè đen/chè vừng/bột vừng|n
 芝麻绿豆=hạt vừng/chi ma lục đậu|n
 芝麻酱=tương vừng/tương mè/dầu mè|n
-芡=khiếm|n
 芡实=hạt súng|n
 芡粉=bột súng|n
 芥子=giới tử/hạt cải|n
@@ -44590,9 +44228,7 @@
 芦苇=cỏ lau/lau sậy|n
 芦草=sậy|n
 芦荟=lô hội/nha đam|n
-芨=cập|n
 芨芨草=cỏ lác|n
-芫=nguyên|n
 芫茜=rau mùi/Lá mùi tàu, ngò gai|n
 芫荽=rau thơm/ngò rí|n
 芭乐=ballad/barry/bar nhạc/ổi|n
@@ -44805,7 +44441,6 @@
 芸香=vân hương/cây cửu lý hương|n
 芹泽=Cần Trạch|n
 芹菜=rau cần/cần tây/cần thái|n
-芽=nha|n
 芽体=thể mầm|n
 芽儿=nha nhi|n
 芽孢=nha bào|n
@@ -44822,7 +44457,6 @@
 苇月=Yoshizuki|n
 苇箔=rèm sậy/phên lau|n
 苇苇=Oánh Oánh|n
-苋=hiện|n
 苋菜=rau dền|n
 苍夜=Thương Dạ|n
 苍头=đầy tớ/nô bộc/người làm/binh lính/lính tráng/sĩ binh|n
@@ -44833,7 +44467,6 @@
 苍穹=thương khung/không trung/trời xanh/trời cao/bầu trời/bầu trời|n
 苍蝇=con ruồi/ruồi/ruồi nhặng|n
 苍金=Thương Kim|n
-苎=trữ|n
 苏剧=kịch Giang Tô|n
 苏式=hàng Xô Viết|n
 苏萱=Tô Huyên|n
@@ -44841,19 +44474,16 @@
 苓儿=Linh Nhi|n
 苔丝=Đài Ti|n
 苔藓=cỏ xỉ rêu|n
-苕=điều|n
 苗头=manh mối/đầu mối/miêu đầu|n
 苗女=Miêu nữ|n
 苗家=Miêu gia|n
 苗条=thon thả/lả lướt/yểu điệu/miêu điều|n
 苘麻=cây gai/sợi gai|n
 苛政=nền chính trị hà khắc/chính trị khắc nghiệt/bạo ngược/chuyên chế/chính thể chuyên chế/sự cai trị của kẻ chuyên quyền|n
-苜=mục|n
 苜蓿=cỏ linh lăng|n
 苞片=lá bao/trấu|n
 苞米=bắp/ngô|n
 苞谷=bắp/ngô/bắp Ấn|n
-苤=phiết|n
 苤蓝=cây su hào/củ su hào|n
 苦主=khổ chủ|n
 苦刑=khổ hình/cực hình|n
@@ -44895,7 +44525,6 @@
 苦酒=rượu đắng|n
 苦雨=mưa liên miên/mưa dai|n
 苫布=tấm bạt đậy hàng/vải mưa lớn che hàng|n
-苯=bổn|n
 英冠=ngoại hạng Anh|n
 英制=đơn vị đo lường Anh|n
 英寸=tấc Anh|n
@@ -44952,12 +44581,10 @@
 茅草屋=nhà tranh|n
 茅草房=nhà cỏ tranh/nhà tranh|n
 茅野=Kayano|n
-茉=mạt|n
 茉儿=Mạt Nhi|n
 茉莉=hoa nhài/cây hoa nhài/hoa lài|n
 茉莉花=hoa nhài|n
 茉莉花茶=trà hoa nhài/trà hoa lài|n
-茎=hành|n
 茎干=cành cây/cành khô|n
 茎杆=thân cây|n
 茜丝=Seath|n
@@ -44974,10 +44601,7 @@
 茬儿=tra nhi|n
 茬口=giống cây/cây giống/cây trồng/đất sau khi thu hoạch/thời cơ/cơ hội/dịp|n
 茬子=gốc rạ/gốc cây đậu/tra tử|n
-茭=giao|n
 茭白=giao bạch|n
-茯=phục|n
-茱=thù|n
 茱丽=Thù Lệ|n
 茱丽叶=Juliette|n
 茱莉=Julie/Juli|n
@@ -44985,11 +44609,9 @@
 茱萸=thù du|n
 茱蒂=Jodie|n
 茱迪=Judy|n
-茴=hồi|n
 茴香=Hồi Hương|n
 茵毯=đệm thảm|n
 茵草=nhân thảo|n
-茶=trà|n
 茶亭=quán chè/tiệm trà|n
 茶会=tiệc trà xã giao/tiệc trà/trà hội|n
 茶余酒后=trà dư tửu hậu/sau khi trà dư tửu|n
@@ -45074,10 +44696,8 @@
 茶馆=quán trà/tiệm trà|n
 茶香=hương trà|n
 茶马=trà mã|n
-茼=đồng|n
 茼蒿=tần ô/cải cúc|n
 荆条=cành mận gai|n
-草=thảo|n
 草上=trên cỏ|n
 草丛=bụi cỏ/lùm cỏ/bụi cỏ|n
 草丝=ngọn cỏ|n
@@ -45262,12 +44882,10 @@
 荧光笔=bút dạ quang/bút tô sáng/Bút dạ quang|n
 荧屏=màn huỳnh quang/màn hình tivi|n
 荧幕=màn ảnh|n
-荨=tầm|n
 荨麻=cây gai/dây gai|n
 荨麻疹=bệnh mề đay/nổi mề đay|n
 荫影=ấm ảnh|n
 荫翳=che lấp/che phủ/rậm rạp/sum sê um tùm|n
-药=dược|n
 药丸=dược hoàn/viên thuốc/thuốc viên|n
 药丸子=viên thuốc|n
 药丹=dược đan|n
@@ -45430,7 +45048,6 @@
 荷载=tải trọng/ngoại lực/trọng tải|n
 荷重=trọng tải/tải trọng/tải lượng/phụ tải/khả năng chịu nặng|n
 荸荠=mã thầy/rễ cây mã thầy|n
-莜=du|n
 莜虹=Du Hồng|n
 莜面=mì yến/mì ống/mì hoặc bột yến mạch|n
 莨绸=lụa nâu|n
@@ -45495,16 +45112,13 @@
 菊道=cúc đạo|n
 菊门=cúc môn|n
 菊香=Cúc Hương|n
-菌=khuẩn|n
 菌丝=sợi nấm chân khuẩn/hệ sợi/sợi nấm/tổ chức dạng sợi chân khuẩn|n
 菌伞=đầu nấm|n
 菌子=nấm|n
 菌毯=thảm vi khuẩn|n
 菌类=loài nấm|n
 菌落=quần thể vi sinh vật|n
-菖=xương|n
 菖蒲=xương bồ/Ayame|n
-菜=thái|n
 菜价=giá rau/giá món ăn|n
 菜农=dân trồng rau/thái nông|n
 菜刀=dao phay/thái đao/dao làm thức ăn/dao làm bếp/dao thái thịt thái rau|n
@@ -45565,10 +45179,8 @@
 菜香=mùi đồ ăn/mùi thơm thức ăn|n
 菜鸟=thái điểu/tay mơ/lính mới/newbie|n
 菜鸡=thái kê|n
-菟=thố|n
 菟丝子=dây tơ hồng/tơ tằm/Thỏ ty tử|n
 菟丝花=thố ti hoa/hoa tơ tằm|n
-菠=ba|n
 菠菜=rau cải xôi/rau chân vịt|n
 菠萝=quả dứa/dứa/khóm/thơm/Ba La|n
 菠萝包=bánh dứa/bó dứa khóm thơm/{bó dứa khóm thơm}|n
@@ -45576,7 +45188,6 @@
 菡云芝=Hạm Vân Chi|n
 菡芝仙=Hạm Chi Tiên|n
 菡雪=Hạm Tuyết|n
-菩=bồ|n
 菩提=Bồ Đề|n
 菩提子=hạt bồ đề|n
 菩提树=cây bồ đề|n
@@ -45600,7 +45211,6 @@
 萝莉控=la lỵ khống/yêu thích tiểu loli|n
 萝莉教=loli giáo|n
 萝莉装=trang phục loli|n
-萤=huỳnh|n
 萤光=huỳnh quang|n
 萤幕=màn hình|n
 萤幕上=trên màn hình|n
@@ -45641,7 +45251,6 @@
 营门=cửa doanh|n
 营门口=cửa doanh|n
 营间=trong doanh|n
-萱=Huyên|n
 萱儿=Huyên Nhi|n
 萱堂=huyên đường/nhà huyên|n
 萱妃=Huyên phi|n
@@ -45697,7 +45306,6 @@
 落霞=Lạc Hà|n
 落音=vừa dứt/dứt lời/lạc âm|n
 落魂=lạc hồn|n
-葖=đột|n
 著书立说=lấy thư lập thuyết/viết sách lập luận/để viết một cuốn sách nâng cao lý thuyết của một người|n
 著作权=quyền tác giả/bản quyền|n
 著力=gắng sức/ra sức/dùng sức|n
@@ -45753,7 +45361,6 @@
 蒙学=trường dạy vỡ lòng/học vỡ lòng|n
 蒙眼=che mắt|n
 蒙面=che mặt|n
-蒜=toán|n
 蒜头=củ tỏi|n
 蒜末=tỏi băm/băm nhỏ|n
 蒜泥=tỏi giã|n
@@ -45791,7 +45398,6 @@
 蒸饼=bánh hấp|n
 蒸馏水=nước cất|n
 蒸鱼=cá chưng|n
-蒺=tật|n
 蒺藜=cây củ ấu/củ ấu|n
 蒿子=ngải/cây ngải/cây ngải tây|n
 蒿子秆儿=rau cúc/cải cúc|n
@@ -45806,11 +45412,9 @@
 蓄电池=bình ắc-quy|n
 蓄积=súc tích/dự trữ/tồn trữ/chứa|n
 蓄谋=chủ mưu/có âm mưu|n
-蓑=thoa|n
 蓑草=cỏ râu rồng|n
 蓑衣=áo tơi|n
 蓓蕾=nụ hoa/đầu vú|n
-蓖=tỳ|n
 蓖麻=cây thầu dầu|n
 蓝关=lam quan/Lam Quan|n
 蓝名=lam danh|n
@@ -45862,7 +45466,6 @@
 蔬果=rau quả|n
 蔬菜=rau quả/rau dưa/rau/rau cải|n
 蔬菜基地=thầu đất trồng rau|n
-蔷=sắc|n
 蔷姐=Sắc tỷ|n
 蔷薇=tường vi|n
 蔷薇花=hoa tường vi|n
@@ -45935,7 +45538,6 @@
 薪饷=lương bổng/lương/tiền lương|n
 薯条=cọng khoai tây/khoai lang|n
 薯片=khoai tây chiên/khoai chiên|n
-薹=đài|n
 藏人=giấu người|n
 藏军=tàng quân/giấu quân/ẩn quân|n
 藏刀=tàng đao|n
@@ -45952,7 +45554,6 @@
 藏蓄=tàng trữ|n
 藏蓝色=màu tím/màu xanh Tây Tạng|n
 藏身=ẩn thân/náu mình/náu thân/ẩn náu/an thân|n
-藓=tiển|n
 藕丝=tơ trắng|n
 藕段=ngó sen|n
 藕灰=màu hồng cánh sen|n
@@ -45977,9 +45578,7 @@
 藻井=khung trang trí/hình trang trí ô vuông|n
 藻类=giống tảo/tảo|n
 藻饰=trau chuốt/sửa sang/gọt giũa|n
-藿=hoắc|n
 蘑菇=nấm/cây nấm/lề mề/cái nấm/nấm ăn/lôi thôi/lằng nhằng/cố ý làm khó dễ/rề rà/ma cô|n
-蘘=nhương|n
 虎人=Hổ nhân|n
 虎体熊腰=thân thể cường tráng|n
 虎兄=Hổ huynh|n
@@ -46037,7 +45636,6 @@
 虎鲸=cá voi sát thủ|n
 虔婆=chủ chứa/tú bà|n
 虔诚地=thành kính|n
-處=xử|n
 虚与委蛇=lá mặt lá trái/hư dữ ủy xà|n
 虚侯=Hư Hầu|n
 虚像=hư tượng/giống hư không|n
@@ -46093,7 +45691,6 @@
 虚镜=hư kình|n
 虚阳=hư dương|n
 虚雾=mây mù|n
-虫=trùng|n
 虫人=trùng nhân|n
 虫儿=côn trùng|n
 虫兽=trùng thú|n
@@ -46122,7 +45719,6 @@
 虫蝇=ruồi nhặng|n
 虫豸=sâu bọ/sâu/con sâu/côn trùng|n
 虫鸣=côn trùng kêu vang|n
-虬=cầu|n
 虬扎=nổi cục mạnh mẽ|n
 虬结=từng cục/cầu kết|n
 虬蛟=thuồng luồng có sừng|n
@@ -46130,7 +45726,6 @@
 虬须=râu quai nón|n
 虬髯=râu quai nón/râu hùm|n
 虬龙=Cầu Long|n
-虱=sắt|n
 虱子=con rận/sắt tử|n
 虹儿=Hồng nhi|n
 虹吸现象=sự dẫn nước bằng xi-phông/sự hút bằng ống xiphông|n
@@ -46144,7 +45739,6 @@
 虹芒=cầu vồng|n
 虹萝=Hồng La|n
 虼蚤=bọ chét|n
-虾=hà|n
 虾仁=tôm bóc vỏ/tôm nõn/ruốc khô|n
 虾儿=tép|n
 虾兵=quân tôm|n
@@ -46172,7 +45766,6 @@
 蚁语=ngôn ngữ kiến|n
 蚁酸=axit formic|n
 蚁龙=kiến rồng|n
-蚂=mã|n
 蚂炸=chuồn chuồn|n
 蚂蚁=con kiến/kiến|n
 蚂蚁窝=tổ kiến|n
@@ -46215,27 +45808,19 @@
 蚕蛾=bướm tằm/con ngài|n
 蚕豆=đậu tằm/hạt đậu tằm|n
 蚕食=từng bước xâm chiếm/tằm ăn rỗi/xơi tái/tằm ăn lên/như tằm ăn lên/tàm thực|n
-蚜=nha|n
 蚜虫=nha trùng|n
-蚝=hào|n
 蚝油=dầu hàu|n
 蚩尤=Xi Vưu|n
 蚩蛮=Xi Man|n
-蚯=khâu|n
 蚯蚓=con giun/giun|n
-蚰=du|n
-蚱=trách|n
 蚱蜢=châu chấu|n
 蚱蝉=con ve|n
-蚶=ham|n
 蚶子=sò/con sò/con nghêu|n
 蛀牙=sâu răng|n
 蛀空=đục rỗng|n
 蛀虫=sâu mọt/mọt/con mọt|n
 蛀蚀=đục khoét/cắn phá/đục|n
-蛆=thư|n
 蛆虫=giòi bọ/con dòi/con bọ/thư trùng|n
-蛇=xà|n
 蛇人=xà nhân|n
 蛇体=xà thể|n
 蛇卫=xà vệ|n
@@ -46308,7 +45893,6 @@
 蛇麻=cây hoa bia/cây hublông/hoa hublông|n
 蛇鼠=rắn chuột|n
 蛇齿=răng rắn|n
-蛋=đản|n
 蛋刀=đao hình trứng|n
 蛋包饭=Omurice|n
 蛋卷=cuốn trứng/cuốn chả giò|n
@@ -46340,10 +45924,8 @@
 蛋黄酱=mayonnaise/sốt mayonnaise/mayonaise|n
 蛏子=con trai|n
 蛏干=trai khô|n
-蛐=khúc|n
 蛐蛐=dế|n
 蛐蛐儿=dế/con dế|n
-蛔=hồi|n
 蛔虫=giun đũa/hồi trùng|n
 蛙人=người nhái/người nhái lặn|n
 蛙儿=oa nhi|n
@@ -46426,10 +46008,8 @@
 蛮香=vô cùng thơm|n
 蛮龙=Man Long|n
 蛱蝶=bướm đốm|n
-蛲=nhiêu|n
 蛲虫=giun kim/lãi kim|n
 蛴螬=ấu trùng bọ dừa|n
-蛾=nga|n
 蛾儿=nga nhi|n
 蛾子=thiêu thân/con thiêu thân/bướm thiêu thân|n
 蛾眉=mày ngài/Nga Mi/người đẹp/mỹ nhân|n
@@ -46465,7 +46045,6 @@
 蜂针=ngòi ong|n
 蜂鸟=chim ruồi|n
 蜂鸣器=Buzzer (máy con ve)|n
-蜃=thận|n
 蜃兽=Thận Thú|n
 蜃影=thận ảnh/hình chiếu|n
 蜃景=ảo thị/ảo ảnh|n
@@ -46473,24 +46052,19 @@
 蜃气=thận khí|n
 蜃珠=Thận Châu|n
 蜃龙=Thận Long|n
-蜈=ngô|n
 蜈崖=Ngô Nhai|n
 蜈蚣=con rết/rết/ngô công|n
-蜉=phù|n
 蜉蝣=phù du|n
 蜒蚰=con sên|n
 蜕壳=lột xác|n
-蜗=oa|n
 蜗壳=vỏ ốc sên|n
 蜗居=căn nhà nhỏ bé/nhà vỏ ốc/chỗ ở xoàng/chỗ ở nhỏ hẹp/nhà nhỏ|n
 蜗牛=ốc sên/ốc ma|n
-蜘=tri|n
 蜘丝=tơ nhện|n
 蜘蛛=nhện/con nhện|n
 蜘蛛人=Spider Man|n
 蜘蛛侠=Spider-Man|n
 蜚蠊=con gián|n
-蜜=mật|n
 蜜儿=Mật Nhi|n
 蜜唇=mật thần/môi mật|n
 蜜壶=mật hồ/hũ mật|n
@@ -46526,7 +46100,6 @@
 蜜里调油=trong mật thêm dầu|n
 蜜雪儿=Michelle|n
 蜜饯=mứt hoa quả/mứt kẹo|n
-蜡=chá|n
 蜡丸=lạp hoàn/thuốc sáp/viên thuốc|n
 蜡像=tượng sáp/hình nhân bằng sáp/vật nặn bằng sáp/chá tượng|n
 蜡光=ánh nến|n
@@ -46544,16 +46117,12 @@
 蜡纸=giấy dầu/giấy nến|n
 蜡花=hoa sáp|n
 蜣螂=bọ hung|n
-蜥=tích|n
 蜥蜴=thằn lằn/rắn mối/con thằn lằn/bò sát|n
 蜥龙=tích long|n
-蜻=tinh|n
 蜻蜓=chuồn chuồn|n
-蜾=quả|n
 蜾蠃=con tò vò/có trai|n
 蝇头=cực nhỏ/rất nhỏ/nhỏ tí/li ti|n
 蝇子=con ruồi|n
-蝈=quắc|n
 蝈蝈=Quắc Quắc|n
 蝉儿=Thuyền nhi/thiền nhi/con ve|n
 蝉壳=xác ve|n
@@ -46562,7 +46131,6 @@
 蝉蛹=nhộng/con dế|n
 蝉蜕=xác ve/giải thoát|n
 蝉鸣声=tiếng ve kêu|n
-蝌=khoa|n
 蝌蚪=nòng nọc/khoa đẩu|n
 蝎人=người bọ cạp|n
 蝎头=đầu bò cạp|n
@@ -46586,20 +46154,15 @@
 蝗群=đàn châu chấu|n
 蝗虫=châu chấu/hoàng trùng|n
 蝗蝻=châu chấu con|n
-蝙=biên|n
 蝙翼=cánh dơi|n
 蝙蝠=con dơi/dơi|n
 蝙蝠侠=Batman|n
 蝙蝠洞=động dơi|n
 蝙蝠衫=áo cánh dơi|n
 蝠王=Bức vương|n
-蝮=phúc|n
 蝮蛇=rắn hổ mang|n
-蝰=khuê|n
 蝰蛇=rắn cạp nong|n
-蝲=lạt|n
 蝲蛄=tôm càng|n
-蝴=hồ|n
 蝴碟=hồ điệp|n
 蝴蝶=hồ điệp/bươm bướm/con bướm/bướm|n
 蝴蝶夫人=Hồ Điệp phu nhân|n
@@ -46619,25 +46182,20 @@
 蝶衣=Điệp Y|n
 蝶谷=Điệp cốc|n
 蝶骨=xương bướm|n
-蝻=nam|n
-蝼=lâu|n
 蝼蚁=sâu kiến/con sâu cái kiến/con kiến hôi/dế và kiến/con sâu cái kiến/con ong cái kiến/loài giun dế/giun dế|n
 蝼蛄=dế nhũi|n
 蝾螈=cá cóc/sa giông/kỳ nhông|n
-螃=bàng|n
 螃蚁=cua kiến|n
 螃蟹=con cua|n
 融合度=độ dung hợp/mức độ hòa hợp|n
 融汇=dung hội/dung hợp|n
 融融=hoà thuận vui vẻ/ấm áp/ấm|n
-螟=minh|n
 螟母=Minh Mẫu|n
 螟虫=sâu keo|n
 螟蛉=con tò vò/con nuôi/nghĩa tử|n
 螨虫=bọ ve/ve bét/Mạt bụi là một loài bọ cực nhỏ thuộc họ nhện. Con mạt sống trong bụi nhà và có thể tồn tại ở khắp mọi nơi. Tuy nhiên, con mạt nhà phát triển mạnh nhất trong môi trường nóng ẩm. Việc tiếp xúc lâu dài với con mạt bụi không chỉ gây dị ứng mà còn có thể dẫn đến viêm xoang và hen suyễn.|n
 螫针=vòi độc|n
 螯肢=cái càng/ngao chân tay/chelicera|n
-螳=đường|n
 螳螂=bọ ngựa/đường lang/con bọ ngựa/ngựa trời/Đường lang|n
 螺丝=ốc vít/đinh ốc|n
 螺丝刀=cái vặn vít/tua vít/cái tuột vít (screw driver)|n
@@ -46664,9 +46222,7 @@
 螺钉=đinh ốc/ốc vít|n
 螺钿=khảm trai/khảm ốc/khảm xà cừ|n
 蟊贼=mâu tặc/hại dân hại nước/sâu dân mọt nước|n
-蟋=tất|n
 蟋蟀=dế mèn/con dế mèn/con dế|n
-蟑=chương|n
 蟑螂=con gián|n
 蟒头=đầu trăn|n
 蟒妖=mãng yêu|n
@@ -46697,7 +46253,6 @@
 蟾蜍=con cóc/thiềm thừ/mặt trăng/cóc|n
 蟾酥=thiềm tô|n
 蠍子=bọ cạp|n
-蠓=mông|n
 蠕虫=nhuyễn trùng|n
 蠢事=chuyện ngu xuẩn/chuyện điên rồ/hành động điên rồ/sự điên rồ/việc điên rồ|n
 蠢人=người ngu/tên ngu xuẩn/kẻ ngu dốt/đồ ngu đần|n
@@ -46711,11 +46266,9 @@
 蠢话=lời nói ngu xuẩn/lời ngớ ngẩn|n
 蠢货=ngu xuẩn/đồ ngu/đồ đần độn|n
 蠢驴=con lừa ngốc/đồ con lừa/đồ ngu/đồ đần/con lừa ngu ngốc|n
-蠹=đố|n
 蠹害=làm hại/gây hại|n
 蠹虫=mọt/con mọt/sâu mọt/sâu bọ|n
 蠹鱼=con mọt|n
-血=huyết|n
 血与火=máu và lửa|n
 血丝=tơ máu/tia máu|n
 血丹=huyết đan/Huyết Đan/Huyết đan|n
@@ -47177,7 +46730,6 @@
 街门=cổng/cửa ngoài/cửa quay ra mặt phố|n
 街面=mặt đường|n
 街面儿上=mặt phố/phố xá/phố phường lân cận/phố xá lân cận|n
-衙=nha|n
 衙内=nha nội/(*con cháu quan lại)|n
 衙差=nha sai|n
 衙役=nha dịch|n
@@ -47342,7 +46894,6 @@
 衷情=nỗi lòng/tâm tình/tâm sự|n
 衷曲=tâm sự/tâm tình|n
 衷肠=tâm sự/nỗi lòng/khúc nôi/khúc nhôi|n
-袈=ca|n
 袈纱=cà sa|n
 袈裟=cà sa/áo cà sa/áo thầy tu|n
 袋子=cái túi/túi/cái túi|n
@@ -47525,7 +47076,6 @@
 装饰画=tranh trang trí|n
 装鳖=trang B|n
 装龙血=chứa long huyết|n
-裆=đang|n
 裆上=trên đũng quần|n
 裆下=dưới háng/dưới đũng quần|n
 裆中=trong đũng quần|n
@@ -47595,8 +47145,6 @@
 裤里=trong quần lót|n
 裤钮=nút quần|n
 裤链=khóa quần/khố liên/dây lưng|n
-裥=cán|n
-裨=bì|n
 裨将=phó tướng/tì tướng|n
 裨益=ích lợi/lợi/bì ích|n
 裨补=lợi/lợi ích/bổ khuyết/bổ túc|n
@@ -47618,7 +47166,6 @@
 褐袍=hạt bào|n
 褐黄=hạt hoàng|n
 褒义=ca ngợi/nghĩa tốt/khen ngợi/tán dương/tuyên dương/bao nghĩa|n
-褡=đáp|n
 褡包=thắt lưng vải/thắt lưng|n
 褡裢=hầu bao/cái ruột tượng/áo đô vật/áo vật|n
 褥单=ga trải giường/khăn trải giường|n
@@ -47635,7 +47182,6 @@
 褶裙=lai váy|n
 褶边=viền xếp nếp|n
 襁褓=tã lót/tã bọc/tả|n
-襟=khâm|n
 襟头=đầu - vạt áo/tà áo/đầu  vạt áo|n
 襟子=vạt áo|n
 襟怀=bụng dạ/tâm hồn/tấm lòng|n
@@ -48098,7 +47644,6 @@
 订货=đặt hàng|n
 订金=tiền đặt cọc/tiền cọc|n
 订餐=mua thức ăn|n
-讣=phó|n
 讣告=báo tang/cáo phó/tin buồn/thông báo tin buồn|n
 讣闻=thông báo tin buồn|n
 认哥=nhận đại ca|n
@@ -48314,7 +47859,6 @@
 诊疗所=phòng chẩn trị/Phòng chẩn trị|n
 诊脉=bắt mạch/xem mạch/chẩn mạch|n
 诊金=tiền xem bệnh|n
-词=từ|n
 词义=nghĩa từ/ý nghĩa của từ/nghĩa của một từ|n
 词人=từ nhân|n
 词令=ứng đối/đối đáp|n
@@ -48384,7 +47928,6 @@
 试验机=thí nghiệm cơ|n
 试验田=ruộng thí nghiệm/thí điểm/công việc thí điểm|n
 试骑=cưỡi thử|n
-诗=thi|n
 诗书=thi thư/kinh thi và thư kinh|n
 诗人=thi nhân/nhà thơ/thi sĩ|n
 诗仙=thi tiên/Lý Bạch|n
@@ -48430,7 +47973,6 @@
 诗韵=thi vận/vần thơ/áng thơ/Bình Thuỷ Vận|n
 诗魁=thi khôi/Thi Khôi|n
 诚哥=Makoto ca|n
-话=thoại|n
 话儿=lời/lời nói|n
 话别=nói lời tạm biệt/nói lời chia tay/nói chuyện trước khi chia tay/nói chuyện trước lúc từ biệt/nói lời từ biệt|n
 话剧=kịch bản/kịch nói|n
@@ -48580,7 +48122,6 @@
 读者群=nhóm độc giả|n
 读音=âm đọc/cách đọc|n
 诽谤罪=tội phỉ báng|n
-课=khóa|n
 课上=trên lớp|n
 课业=việc học/bài vở/học hành|n
 课余=sau khi học xong/ngoài giờ học|n
@@ -48653,7 +48194,6 @@
 谋臣=mưu thần/chuyên gia về chiến lược|n
 谋逆案=án mưu nghịch|n
 谋面=gặp mặt/gặp gỡ|n
-谍=điệp|n
 谍中谍=điệp trung điệp|n
 谍子=gián điệp|n
 谍战=chiến tranh tình báo|n
@@ -48685,9 +48225,7 @@
 谗猫=mèo ham ăn|n
 谗臣=sàm thần|n
 谗言=sàm ngôn/lời gièm pha|n
-谚=ngạn|n
 谚语=ngạn ngữ|n
-谜=mê|n
 谜一样=như mê|n
 谜团=bí ẩn/mê đoàn|n
 谜局=mê cục|n
@@ -48707,7 +48245,6 @@
 谬说=nói xằng|n
 谬赞=quá khen/khen nhầm/khen lầm|n
 谯楼=lầu trên thành/vọng lâu/gác treo trống|n
-谰=lan|n
 谰言=lời vu cáo/vu khống/lời nói xấu/bôi nhọ/đặt điều/lời vô căn cứ|n
 谱代=phổ đại|n
 谱儿=phổ nhi|n
@@ -48717,10 +48254,8 @@
 谱牒=gia phả|n
 谱系=hệ thống gia phả/phả hệ|n
 谱表=khuông nhạc|n
-谵=chiêm|n
 谵妄=nói mê/nói sảng/mê sảng|n
 谵语=nói mê/nói nhảm/lời mê sảng/lời nói mê|n
-谶=sấm|n
 谶纬=sấm vĩ/Sấm Vĩ|n
 谶记=sấm ký|n
 谶语=lời tiên tri/lời đoán trước/sự báo trước|n
@@ -48743,7 +48278,6 @@
 豁免权=quyền được miễn|n
 豁口=khe/lỗ thủng/chỗ khuyết/hẽm/vết nứt/chỗ hổng/lỗ đạn/miệng rộng|n
 豁子=lỗ thủng/chỗ khuyết/người sứt môi|n
-豆=đậu|n
 豆乳=sữa đậu nành/chao/đậu phụ nhự|n
 豆兵=Đậu Binh|n
 豆包=bánh nhân đậu|n
@@ -48790,10 +48324,8 @@
 豆面=bột đậu hỗn hợp|n
 豆饼=bã đậu/xác đậu|n
 豇豆=cây đậu đũa/hạt đậu đũa|n
-豌=oản|n
 豌豆=đậu hà lan/đậu phụ/đậu Hoà Lan/hạt đậu Hoà Lan/oản đậu|n
 豌豆苗=mầm đậu hà lan|n
-豚=đồn|n
 豚族=Cá heo tộc|n
 象力=tượng lực/Tượng lực/Tượng Lực|n
 象哥=Tượng ca|n
@@ -48810,7 +48342,6 @@
 象级=tượng cấp|n
 象限=góc vuông|n
 象鼻虫=sâu vòi voi|n
-豨=hi|n
 豪举=cử chỉ hào phóng/hào hiệp/hào hùng/phóng khoáng/rộng rãi lịch sự|n
 豪侠=hào hiệp/người hào hiệp|n
 豪儿=Hào nhi|n
@@ -48856,7 +48387,6 @@
 豹胎=thai báo|n
 豺狗=sài cẩu/chó sói|n
 豺狼=sài lang/lang sói/cầy sói|n
-貂=điêu|n
 貂儿=con chồn/Điêu nhi|n
 貂婵=Điêu Thuyền|n
 貂族=Điêu tộc|n
@@ -48868,10 +48398,8 @@
 貂裘=lông chồn|n
 貉子=chồn/con chồn/con lửng|n
 貉绒=da chồn|n
-貔=tỳ|n
 貔虎=tì hổ|n
 貔貅=Tỳ Hưu|n
-賊=tặc|n
 贝司=Bass|n
 贝壳状=bối xác trạng|n
 贝类=sò hến|n
@@ -48924,7 +48452,6 @@
 贡试=thi cống|n
 贡院=trường thi|n
 贡高=kiêu căng|n
-财=tài|n
 财东=chủ hãng/người đầu tư/người bỏ vốn/tài chủ/người có phần hùn chiếm đa số|n
 财主=tài chủ/nhà giàu/người có của/ông chủ/ông chủ lớn|n
 财产=tài sản/của cải|n
@@ -49027,7 +48554,6 @@
 败血症=ung thư máu/bệnh nhiễm trùng máu/bệnh bại huyết|n
 败酱=rau đắng|n
 败阵=bại trận/thua trận/thua/thất bại|n
-账=trướng|n
 账上=trương mục|n
 账册=sổ sách/sổ kế toán|n
 账单=giấy tờ/hoá đơn/giấy tính tiền|n
@@ -49039,7 +48565,6 @@
 账目=khoản/mục/trương mục|n
 账簿=sổ sách/sổ kế toán|n
 账面=khoản/mục/trong sổ sách|n
-货=hóa|n
 货主=chủ hàng/chủ hàng hoá|n
 货仓=kho hàng|n
 货位=toa hàng/bãi để hàng hoá/nơi để hàng hoá/điểm tập kết hàng|n
@@ -49252,7 +48777,6 @@
 贺岁片=phim Tết/phim chúc mừng năm mới|n
 贺幛=bức trướng mừng/câu đối mừng|n
 贺队=Hạ đội trưởng|n
-贼=tặc|n
 贼亮=lóe sáng/tặc lượng|n
 贼人=tặc nhân/kẻ trộm/kẻ cắp/ăn trộm/ăn cắp/giặc/người chuyên làm việc xấu|n
 贼众=phản loạn|n
@@ -49489,7 +49013,6 @@
 赤魂=xích hồn|n
 赤魔=Xích Ma|n
 赤鱼=Xích Ngư|n
-赭=giả|n
 赭石=đất son/đất đỏ|n
 赭鞭=Giả Tiên|n
 走下台=đi xuống đài|n
@@ -49661,7 +49184,6 @@
 趸船=cầu tàu|n
 趾甲=móng chân|n
 趾骨=xương ngón chân|n
-跆=đài|n
 跆拳道=TaeKwonDo|n
 跌价=giảm giá/hạ giá/sụt giá|n
 跌份=mất mặt/hạ mình|n
@@ -49685,7 +49207,6 @@
 跑题=lạc đề|n
 跑马=phi ngựa/phóng ngựa/đua ngựa|n
 跑马场=trường đua ngựa/quần ngựa|n
-跗=phụ|n
 跗面=phía trước cổ chân|n
 跗骨=xương mu bàn chân/khối xương cổ chân|n
 跛一足=què một chân|n
@@ -49809,7 +49330,6 @@
 踏脚石=đá đặt chân/đá đạp chân|n
 踏雨=đội mưa|n
 踏雪=đạp tuyết/đi dạo trong tuyết|n
-踝=hõa|n
 踝上=trên mắt cá chân|n
 踝下=dưới mắt cá chân|n
 踝子骨=mắt cá chân/xương mắt cá chân|n
@@ -49825,7 +49345,6 @@
 踩油门=nhấn ga/đạp cần ga|n
 踪影=bóng dáng/hình bóng/tung tích|n
 踪迹=tung tích/vết tích/dấu vết/dấu tích|n
-踺=kiện|n
 踺子=động tác lật người|n
 蹄印=dấu móng/đề ấn|n
 蹄声=tiếng chân/tiếng vó ngựa|n
@@ -49838,13 +49357,11 @@
 蹄铁=móng ngựa|n
 蹄音=tiếng chân/tiếng bước chân|n
 蹊径=lối tắt/lối đi/đường ̣đi|n
-蹠=chích|n
 蹬地=giẫm đất/đ đu đất|n
 蹬技=tung hứng|n
 蹬脚=giẫm chân/đạp chân/đá|n
 蹬腿=chết thẳng cẳng/duỗi chân/duỗi chân ra/thẳng cẳng/chết|n
 蹴鞠=bóng đá/đốn giò|n
-蹼=bốc|n
 身世=thân thế/cảnh đời|n
 身中数弹=thân trúng mấy đạn|n
 身价=giá trị bản thân/giá trị con người/giá bán người/giá nô lệ|n
@@ -49907,7 +49424,6 @@
 躯干=thân thể/thân người|n
 躺平=nằm ngửa/nằm ngang|n
 躺椅=ghế nằm/ghế dựa|n
-車=xa|n
 车主=chủ xe|n
 车价=giá xe|n
 车位=chỗ đậu/chỗ trong xe|n
@@ -50149,7 +49665,6 @@
 轰炸机=máy bay ném bom/máy bay oanh tạc/oanh tạc cơ|n
 轰隆声=tiếng ầm ầm|n
 轰顶=oanh đỉnh/đánh xuống đầu|n
-轱=cô|n
 轱轳=bánh xe|n
 轱辘=bánh xe/lốc cốc/bánh xe lăn/lăn|n
 轴子=trục|n
@@ -50157,7 +49672,6 @@
 轴心国=phe Trục/Lực lượng phe trục|n
 轴承=ổ trục/vòng bi|n
 轴线=cuộn chỉ/cuộn tơ/trục tuyến|n
-轶=dật|n
 轶事=dật sự|n
 轶闻=dật văn/lời đồn đại|n
 轻人=người tuổi trẻ|n
@@ -50234,7 +49748,6 @@
 辅机=Phụ Cơ|n
 辅臣=phụ thần|n
 辅音=phụ âm|n
-辈=bối|n
 辈人=bối nhân|n
 辈们=bối môn|n
 辈份=bối phận|n
@@ -50247,9 +49760,7 @@
 辉照=chiếu sáng/tỏa sáng|n
 辉石=huy thạch/pi-rô-xen/au-gít/pirôxen|n
 辉腾=huy đằng|n
-辊=cổn|n
 辊子=trục/cốt|n
-辎=truy|n
 辎重=đồ quân nhu/quân nhu quân dụng/lương thực/truy trọng|n
 辐射源=phúc xạ nguyên|n
 辐射线=phúc xạ tuyến|n
@@ -50279,7 +49790,6 @@
 辖界=hạt giới|n
 辘轳=ròng rọc kéo nước|n
 辘辘=lộc cộc/ục ục|n
-辙=triệt|n
 辞书=sách tra cứu|n
 辞典=từ điển/từ điển chuyên đề|n
 辞官=từ quan|n
@@ -51217,7 +50727,6 @@
 郊野=vùng đồng nội /vùng đồng nội - ngoại ô/ngoại thành|n
 郎将=lang tướng|n
 郎猫=mèo đực|n
-郡=quận|n
 郡丞=quận thừa|n
 郡主=quận chúa/Quận chúa|n
 郡守=quận trưởng|n
@@ -51285,7 +50794,6 @@
 配角=vai phụ/phối hợp diễn/trợ lý/người phụ việc/phối giác|n
 配音=phối âm/lồng tiếng/hòa âm|n
 配额=hạn ngạch|n
-酒=tửu|n
 酒业=tửu nghiệp|n
 酒井=Sakai|n
 酒井法子=Sakai Noriko|n
@@ -51417,11 +50925,9 @@
 酱色=màu tương|n
 酱菜=rau ngâm/dưa góp/dưa muối bằng nước tương|n
 酱豆腐=tào phở/đậu phụ nhự|n
-酵=diếu|n
 酵母=men/con men/diếu mẫu|n
 酵母菌=diếu mẫu khuẩn/nấm men/khuôn|n
 酵素=en-zim/men/enzim|n
-酶=môi|n
 酷刑=cực hình/hình phạt tàn khốc/khốc hình|n
 酷吏=ác quan/quan lại tàn ác|n
 酷寒=rét căm căm|n
@@ -51464,7 +50970,6 @@
 醉话=lời say|n
 醉酒=say rượu/say/say sưa/ngà ngà|n
 醉鬼=con ma men/con sâu rượu/cái hũ chìm/quỷ say|n
-醋=thố|n
 醋劲=sức ghen/chua ngoa|n
 醋劲儿=máu ghen/tính ghen/ghen tuông|n
 醋味=mùi dấm/vị chua/đố kị/|n
@@ -51475,9 +50980,6 @@
 醋溜=xào dấm|n
 醋罐=bình giấm|n
 醋酸=a-xít a-xê-tíc/acetic acid/axít axêtíc|n
-醚=mê|n
-醛=thuyên|n
-醪=lao|n
 醪糟=rượu nếp than/rượu gạo|n
 采区=mỏ/khu vực khai thác quặng|n
 采女=Thải Nữ|n
@@ -51492,7 +50994,6 @@
 采访部=phỏng vấn bộ|n
 采购员=nhân viên mua đồ/người mua/Nhân viên thu mua|n
 采购部=mua hàng|n
-釉=dứu|n
 釉子=men|n
 釉色=màu men/màu sắc của màu nung|n
 釉质=men răng/chất men|n
@@ -51702,7 +51203,6 @@
 野鹿=hươu hoang dã|n
 野麻=cây gai/sợi gai/cây đay|n
 野鼠=chuột đồng|n
-量=lượng|n
 量产=sản xuất hàng loạt|n
 量体裁衣=tuỳ cơ ứng biến/liệu cơm gắp mắm/tuỳ theo vóc dáng mà cắt áo|n
 量具=dụng cụ đo lường/dụng cụ đo|n
@@ -51908,9 +51408,7 @@
 銮铃=chuông/lục lạc|n
 銮驾=loan giá/xa giá|n
 錾子=cái đục|n
-鏊=ngao|n
 鏊子=chảo/chảo rán|n
-鑰=thược|n
 针刺=kim châm|n
 针剂=thuốc chích/thuốc tiêm|n
 针叶=lá kim|n
@@ -51960,7 +51458,6 @@
 钉锤=búa đinh/búa đanh|n
 钉鞋=giày đi mưa/giày đinh/giày thể thao/giày đinh|n
 钎子=cái khoan/dụng cụ khoan đá/khoan đá chạy bằng không khí ép|n
-钒=phàm|n
 钓具=đồ đi câu/dụng cụ câu cá|n
 钓名沽誉=mưu danh cầu lợi/danh tiếng|n
 钓杆=cần câu|n
@@ -51970,9 +51467,7 @@
 钓鱼=câu cá|n
 钓鱼竿=cần câu cá|n
 钗子=cây trâm/cái thoa|n
-钙=cái|n
 钙质=chất vôi/chứa vôi/canxi|n
-钚=bất|n
 钝刀=đao cùn|n
 钝器=độn khí/cùn|n
 钝角=góc tù|n
@@ -51997,8 +51492,6 @@
 钟音=tiếng chuông|n
 钟魂=hồn chuông|n
 钟鼓=chung cổ/chuông trống|n
-钠=nột|n
-钡=bối|n
 钢丝=tơ thép/dây thép/lò xo/cương ty|n
 钢丝刷=bàn chải sợi thép/bàn chải thép|n
 钢丝床=giường lò xo|n
@@ -52096,7 +51589,6 @@
 钦差=khâm sai/Khâm sai|n
 钦点=khâm điểm/bổ nhiệm|n
 钧命=quân lệnh|n
-钨=ô|n
 钨丝=sợi vôn-fram/sợi vônfram|n
 钨砂=quặng vôn-fram/quặng vônfram|n
 钨钢=ô cương/thép vôn-fram/thép vônfram|n
@@ -52128,7 +51620,6 @@
 钵头=chén, bát làm từ gốm sứ/chén/bát làm từ gốm sứ/bát/chén sứ/bát bằng gốm|n
 钵子=chén/bát|n
 钵盂=bình bát/chén ăn của sư/bình bát (chén ăn của sư)|n
-钹=bạt|n
 钻井=giếng khoan/giếng phun|n
 钻具=dụng cụ khoan/thiết bị khoan|n
 钻台=bệ khoan/dàn khoan|n
@@ -52167,9 +51658,7 @@
 钻缝=chui qua kẽ hở|n
 钻营=luồn cúi/dựa dẫm|n
 钻门=Toàn môn|n
-钾=giáp|n
 钾肥=phân ka-li/phân kali|n
-铀=do|n
 铀矿=mỏ quặng Urani|n
 铁东=thiết đông|n
 铁丝=dây kẽm/thanh sắt/dây thép/thiết ty|n
@@ -52416,7 +51905,6 @@
 铁鸟=Thiết Điểu|n
 铁鼓=trống sắt|n
 铁齿=răng sắt|n
-铂=bạc|n
 铂金=bạch kim|n
 铃响=chuông reo/chuông vang|n
 铃声=tiếng chuông|n
@@ -52425,7 +51913,6 @@
 铃瑚=Ringo|n
 铃酱=Rin-chan|n
 铃铛=linh đang/chuông lục lạc/chuông/lục lạc/chuông nhỏ/lục lạc|n
-铅=duyên|n
 铅丝=dây thép mạ kẽm/dây thép|n
 铅中毒=trúng độc chì/ngộ độc chì|n
 铅云=mây đen|n
@@ -52447,8 +51934,6 @@
 铅铁=sắt mạ|n
 铆劲儿=dồn sức/đổ sức/ra sức/gắng sức|n
 铆钉=đinh tán|n
-铈=thị|n
-铜=đồng|n
 铜业=đồng nghiệp|n
 铜丝=sợi đồng|n
 铜像=tượng đồng|n
@@ -52528,13 +52013,10 @@
 铜鸦=Đồng Nha|n
 铜鼎=đỉnh đồng|n
 铜鼓=trống đồng|n
-铝=lữ|n
 铝材=vật liệu nhôm/nhôm|n
 铝板=tấm nhôm|n
 铝粉=bột nhôm|n
 铝锅=nồi nhôm|n
-铟=nhân|n
-铠=khải|n
 铠化=biến thành áo giáp|n
 铠甲=áo giáp/khải giáp/mai/vỏ cứng/áo giáp che ngực/áo chống đạn/khôi giáp|n
 铠装=khải trang/áo giáp|n
@@ -52543,7 +52025,6 @@
 铡草=cắt cỏ|n
 铣刀=dao tiện/lưỡi dao phay|n
 铣床=máy tiện/máy phay|n
-铬=các|n
 铬钢=thép crôm/thép crom|n
 铭儿=Minh nhi|n
 铭刻=khắc họa/chữ khắc vào đồ vật/ghi nhớ/khắc ghi/minh khắc/khắc vào|n
@@ -52799,7 +52280,6 @@
 锄田=cuốc đất|n
 锄禾=gặt lúa|n
 锄草=làm cỏ/giẫy cỏ|n
-锅=oa|n
 锅包肉=thịt ướp mắm chiên|n
 锅台=bệ bếp/bàn bếp|n
 锅子=cái nồi/nồi/cái lẩu/lẩu|n
@@ -52846,7 +52326,6 @@
 锋郎=Phong lang|n
 锋镝=vũ khí/chiến tranh/mũi dao và mũi tên|n
 锋面=phong diện/ranh giới giữa luồng không khí lạnh và luồng không khí nóng|n
-锌=tử|n
 锐器=duệ khí/sắc bén/căn sắc bén|n
 锐士=duệ sĩ|n
 锐气=nhuệ khí/lòng hăng hái|n
@@ -52855,7 +52334,6 @@
 锐金=duệ kim|n
 锒铛=lang đang|n
 锔子=dây đồng/dây thép|n
-锗=giả|n
 错乱=rối loạn/thất thường/thác loạn/mất trí/hỗn loạn/mất trật tự/bừa bãi/lộn xộn/náo loạn|n
 错事=chuyện sai/chuyện sai lầm|n
 错人=lầm người|n
@@ -52889,7 +52367,6 @@
 锡箔=giấy thiếc/dát|n
 锡范=Tích Phạm|n
 锡金=Sikkim/Sikkim, bang của Ấn Độ giáp với Tây Tạng|n
-锣=la|n
 锣响=tiếng chiêng vang|n
 锣声=tiếng chiêng|n
 锣鼓=chiêng trống|n
@@ -52944,7 +52421,6 @@
 锦雉=cẩm trĩ|n
 锦鲤=cá chép|n
 锦鳞=cẩm lân|n
-锨=hân|n
 锭剂=viên thuốc|n
 锭子=con suốt|n
 键槽=rãnh chốt/khe/rãnh|n
@@ -52962,11 +52438,8 @@
 锯轮=vòng cưa|n
 锯齿=răng cưa|n
 锯齿草=cỏ răng cưa|n
-锰=mãnh|n
 锰钢=thép hợp kim mangan|n
 锱铢=một ít tiền/việc cỏn con/việc nhỏ|n
-锸=tráp|n
-锹=thiêu|n
 锻件=vật rèn/đồ rèn|n
 锻器=Đoán Khí|n
 锻模=bàn rèn/dụng cụ rèn|n
@@ -52980,7 +52453,6 @@
 镀金=mạ vàng/lấy tiếng/đi mạ vàng/đánh bóng|n
 镀银=mạ bạc/bịt bạc|n
 镀锌铁=sắt tráng kẽm/sắt mạ kẽm|n
-镁=mỹ|n
 镇会=trấn hội|n
 镇器=trấn khí|n
 镇垩压=trấn áp|n
@@ -53001,16 +52473,11 @@
 镇纸=cái chặn giấy/đồ chặn giấy/trấn chỉ|n
 镇间=trong trấn|n
 镇静剂=thuốc an thần/thuốc ngủ|n
-镉=cách|n
 镊子=cái kẹp/cái nhíp|n
-镍=niết|n
 镍钢=thép ni-ken/thép niken|n
-镏=lưu|n
 镐头=cái cuốc/cuốc chim|n
 镐子=cuốc chim/xà beng|n
-镔=tấn|n
 镔铁=thép ròng/thép tinh luyện/tấn thiết|n
-镖=tiêu|n
 镖头=tiêu đầu|n
 镖客=phiêu khách/tiêu khách/người áp tải|n
 镖局=tiêu cục|n
@@ -53041,18 +52508,12 @@
 镜间=trong gương|n
 镜面=mặt kính/mặt kiếng|n
 镜饼=kagami mochi|n
-镢=quắc|n
-镣=liêu|n
 镣铐=gông cùm/xiềng xích/gông xiềng/cùm|n
-镧=lan|n
-镭=lôi|n
-镯=trạc|n
 镯兄=Trạc huynh|n
 镯子=vòng tay/cái vòng/chiếc vòng/chiếc xuyến|n
 镰仓=Kamakura|n
 镰刀=liêm đao/lưỡi hái/cái liềm/lưỡi liềm|n
 镰鼬=chồn lưỡi hái/kamaitachi|n
-镲=sát|n
 镶金=nạm vàng|n
 长串=chuỗi dài|n
 长乐未央=niềm vui bất tận/Trường Nhạc Vị Ương/hạnh phúc vô tận|n
@@ -53429,7 +52890,6 @@
 闹钟=đồng hồ báo thức|n
 闹铃=chuông báo/chuông báo thức|n
 闹鬼=nháo quỷ/chuyện ma quái/ma quỷ lộng hành/làm chuyện xấu xa/quỷ nhát|n
-闺=khuê|n
 闺名=khuê danh|n
 闺女=khuê nữ/con gái|n
 闺密=khuê phòng mật hữu|n
@@ -53441,7 +52901,6 @@
 闺门=khuê môn/cửa khuê phòng|n
 闺阁=khuê các/khuê phòng|n
 闽剧=Mân kịch|n
-阀=phiệt|n
 阀主=phiệt chủ|n
 阀门=van|n
 阀阅=công huân/công lao to lớn/công trạng/kỳ công/gia đình có công|n
@@ -53461,9 +52920,7 @@
 阅览室=phòng đọc/phòng đọc sách|n
 阅读器=tool đọc|n
 阅读室=phòng đọc|n
-阇=đồ|n
 阇梨=cao tăng/sư|n
-阈=quắc|n
 阈值=ngưỡng giới hạn|n
 阉人=hoạn quan/người bị thiến|n
 阉党=Yêm đảng|n
@@ -53498,7 +52955,6 @@
 阖府=cả nhà|n
 阖眼=nhắm mắt|n
 阖门=đóng cửa|n
-队=đội|n
 队们=đội môn|n
 队伍=đội ngũ/quân đội/hàng ngũ|n
 队内=trong đội|n
@@ -53856,13 +53312,11 @@
 限界=giới hạn/ranh giới|n
 限量=hạn lượng/số lượng có hạn/số lượng/ranh giới hạn định/số lượng hạn chế/hạn chế/limited|n
 限额=hạn ngạch|n
-陛=bệ|n
 陛下=bệ hạ|n
 陛见=vào điện|n
 陡壁=vách đứng/vách núi dựng đứng|n
 陡崖=vách đá dựng đứng|n
 陡然间=trong lúc đó/đột nhiên|n
-院=viện|n
 院主=viện chủ|n
 院令=viện lệnh|n
 院儿=viện nhi|n
@@ -54215,8 +53669,6 @@
 雕虫小艺=tài mọn/tài vặt|n
 雕鞍=yên ngựa chạm trổ hoa văn|n
 雕饰=hoa văn trang sức/hoa văn trang trí/hoa văn chạm trổ/hoa văn điêu khắc/quá chải chuốt/quá trang điểm/chải chuốt/điêu khắc|n
-雙=song|n
-雨=vũ|n
 雨下=trời mưa|n
 雨丝=mưa bụi/hạt mưa|n
 雨伞=dù che mưa/cây dù/dù che mưa/ô che mưa/cây dù đi mưa|n
@@ -54404,7 +53856,6 @@
 雷鱼=lôi ngư|n
 雹子=mưa đá|n
 雹灾=thiên tai do mưa đá|n
-雾=vụ|n
 雾凇=hạt sương|n
 雾化=vụ hóa|n
 雾夜=đêm sương|n
@@ -54441,7 +53892,6 @@
 霉运=vận rủi/môi vận/vận xui|n
 霉雨=mưa dầm|n
 霍姓=họ Hoắc|n
-霓=nghê|n
 霓彩=đèn neon|n
 霓虹=nghê hồng|n
 霓虹灯=đèn nê ông/đèn nê ông đỏ|n
@@ -54449,7 +53899,6 @@
 霓霓=Nghê Nghê|n
 霓龙丝=nghê long tơ|n
 霖雨=mưa dầm/mưa dai dẳng/mưa liên tục|n
-霜=sương|n
 霜冻=sương giá/sương muối|n
 霜国=sương quốc|n
 霜姐=Sương tỷ|n
@@ -54473,7 +53922,6 @@
 霞红=ráng hồng|n
 霞裙=váy hà|n
 霞辉=hà huy|n
-霰=tản|n
 霰弹=đạn ria/đạn ghém/đạn trái phá/lựu pháo/đạn ghém|n
 霰弹枪=shotgun|n
 露一手=bộc lộ tài năng/thể hiện tài năng/bộc lộ năng khiếu|n
@@ -54529,7 +53977,6 @@
 霸雄=Bá Hùng|n
 霸雷=Phách Lôi|n
 霸魔=Phách Ma|n
-霹=phích|n
 霹雳=phích lịch/sét đánh|n
 霹雳弹=Phích Lịch đạn/phích lịch đạn|n
 霹雳火=Phích Lịch Hỏa|n
@@ -54821,7 +54268,6 @@
 靶心=hồng tâm/điểm đen|n
 靶机=máy bay tập bắn không người lái|n
 靶眼=Bullseye|n
-鞋=hài|n
 鞋匠=thợ đóng giày/thợ làm giày|n
 鞋印=dấu giày/hài ấn|n
 鞋商=người bán giày|n
@@ -54879,10 +54325,8 @@
 韩料=ẩm thực Triều Tiên|n
 韬光=thao quang|n
 韬略=thao lược|n
-韭=cửu|n
 韭菜=rau hẹ|n
 韭黄=rau hẹ|n
-音=âm|n
 音义=ý nghĩa và âm đọc của chữ/chú giải âm và nghĩa của văn tự|n
 音乐=âm nhạc|n
 音乐声=tiếng âm nhạc/tiếng nhạc|n
@@ -54951,7 +54395,6 @@
 音频=âm tần|n
 音高=âm cao/độ cao của âm|n
 音魔=âm ma|n
-韵=vận|n
 韵书=từ điển vận thơ|n
 韵事=chuyện văn thơ/chuyện phong nhã|n
 韵会=vận hội|n
@@ -54972,8 +54415,6 @@
 韵语=ngôn ngữ có vần điệu|n
 韵调=âm điệu/vần điệu/tông|n
 韵霞=Vận Hà|n
-頭=đầu|n
-顏=nhan|n
 顏色=nhan sắc/màu|n
 页岩=nham thạch|n
 页心=khuôn chữ|n
@@ -55221,7 +54662,6 @@
 颈骨=cổ/xương gáy|n
 颊囊=nang cơ má|n
 颊骨=xương gò má|n
-颌=cáp|n
 颌上=trên hàm|n
 颌下=dưới hàm|n
 颌下腺=tuyến nước bọt|n
@@ -55267,7 +54707,6 @@
 题诗=đề thơ/đề thi/một bài thơ khắc ghi|n
 题跋=lời bạt/lời tựa/đề tựa|n
 题额=viết bức hoành/viết tấm biển|n
-颚=ngạc|n
 颛顼=Chuyên Húc|n
 颜下=dưới mặt|n
 颜体=Nhan thể/thể chữ Nhan|n
@@ -55299,7 +54738,6 @@
 额际=bên trán|n
 额首=ngạch thủ|n
 额骨=xương trán|n
-颞=nhiếp|n
 颞颥=thái dương|n
 颞骨=xương thái dương|n
 颠仆=ngã/sụp đổ/đổ nhào/té/sụt|n
@@ -55309,7 +54747,6 @@
 颠茄=benladon|n
 颤票=run rẩy|n
 颤音=thanh âm rung động/âm rung/chiến âm/tiếng rung|n
-颧=quyền|n
 颧骨=xương gò má|n
 风三娘=Phong Tam Nương|n
 风与雷=phong cùng lôi|n
@@ -55563,7 +55000,6 @@
 风鹫=phong thứu|n
 风鹰=Phong Ưng|n
 风龙涧=Phong Long khe|n
-飓=cụ|n
 飓风=gió lốc/vòi rồng/cơn lốc/gió lốc lớn/bão|n
 飙车族=dân đua xe|n
 飞丝=tơ bay|n
@@ -55807,8 +55243,6 @@
 饥饿=đói/đói bụng/đói khát/đói quá|n
 饥饿感=cảm giác đói bụng|n
 饥饿线=cảnh đói khát/cảnh đói khổ/cảnh ngộ nghèo đói|n
-饦=thác|n
-饭=phạn|n
 饭勺=môi cơm|n
 饭卡=phiếu ăn/thẻ ăn cơm|n
 饭厅=nhà ăn/phòng ăn|n
@@ -55888,12 +55322,10 @@
 饲料=đồ ăn/thức ăn gia súc/tự liêu|n
 饲料厂=tự liêu hán|n
 饲马=chăn ngựa|n
-饴=di|n
 饴糖=đường mạch nha/mật|n
 饵料=con mồi|n
 饷银=quân tiền/tiền lương|n
 饺子=sủi cảo/giáo tử/bánh chẻo|n
-饼=bính|n
 饼子=bánh bột ngô|n
 饼干=bánh bích quy/bánh bích-quy/bánh khô/bính kiền|n
 饼店=cửa hàng bánh|n
@@ -55901,7 +55333,6 @@
 饼铛=chảo|n
 饼铺=cửa hàng bánh kẹo|n
 饼饵=quà bánh/bánh trái/quà bánh nói chung|n
-饽=bột|n
 饽饽=bánh trái/bánh bột mì/bột ngô/bánh bao/bánh bột ngô|n
 饿殍=người chết đói/xác chết đói|n
 饿汉=đàn ông đói|n
@@ -55909,7 +55340,6 @@
 饿狼=sói đói|n
 饿肚子=đói bụng|n
 饿虎=hổ đói|n
-馄=hồn|n
 馄钝=mì vằn thắn|n
 馄饨=mì hoành thánh/mì vằn thắn|n
 馅儿=nhân bánh/nhân thịt nhồi/hãm nhi|n
@@ -55930,7 +55360,6 @@
 馍馍=mô mô|n
 馎饦=bánh bột/bánh bột (thời xưa)|n
 馏分=chiết xuất/lọc/chế biến|n
-馒=man|n
 馒头=màn thầu/bánh màn thầu/bánh bao|n
 馒首=bánh màn thầu|n
 馓子=bánh cuộn thừng|n
@@ -56159,7 +55588,6 @@
 驳船=sà lan/sà-lan/bác thuyền|n
 驳议=bàn luận tranh luận/bác nghị/bàn luận/tranh luận/ý kiến đưa ra khi tranh luận/ý kiến đưa ra khi tranh cãi|n
 驳面子=không nể mặt|n
-驴=lư|n
 驴儿=con lừa/lư nhi|n
 驴友=Lư Hữu|n
 驴子=con lừa|n
@@ -56172,7 +55600,6 @@
 驴车=xe lừa|n
 驴骡=con la|n
 驷马=xe tứ mã/xe bốn ngựa kéo|n
-驸=phụ|n
 驸马=phò mã/Phò mã/rể vua|n
 驸马爷=phò mã gia/phụ mã gia|n
 驹子=ngựa con/lừa con|n
@@ -56242,7 +55669,6 @@
 骇客帝国=The Matrix|n
 骇浪=sóng biển|n
 骇浪惊涛=sóng to gió lớn|n
-骈=biền|n
 骈体=biền thể/thể văn biền ngẫu|n
 骈俪=biền ngẫu|n
 骈指=biền chỉ|n
@@ -56416,24 +55842,17 @@
 骨魔=cốt ma|n
 骨鲠=xương cá/cương trực/chính trực/ngay thẳng|n
 骨龄=cốt linh|n
-骰=đầu|n
 骰子=xúc xắc/con xúc xắc|n
 骰盅=cốc đựng xúc xắc/xy xoong/cốc xúc xắc|n
-骶=đế|n
 骶椎=xương cùng|n
 骶骨=xương cùng|n
-骷=khô|n
 骷骨=khô cốt|n
 骷髅=khô lâu/bộ xương khô/bộ xương|n
-骸=hài|n
 骸体=di hài|n
 骸骨=hài cốt/xương người|n
-髂=khá|n
 髂骨=xương hông/xương chậu|n
-髋=khoan|n
 髋股=xương chậu|n
 髋骨=xương hông|n
-髌=bận|n
 髌骨=xương bánh chè|n
 高下=cao thấp/trên dưới/tốt xấu|n
 高个子=người cao/cao to|n
@@ -56978,7 +56397,6 @@
 魔龙刃=Ma Long Nhận|n
 魔龙岛=Ma Long đảo|n
 魔龙族=Ma Long Tộc|n
-鱼=ngư|n
 鱼串=xâu cá|n
 鱼丸=cá viên|n
 鱼人=ngư nhân/Ngư Nhân/người cá|n
@@ -57070,14 +56488,11 @@
 鱼鳔=bong bóng cá|n
 鱼鳞=vảy cá/ngư lân|n
 鱼鼓=trống da cá/trống làm bằng da cá/ngư cổ|n
-鱿=vưu|n
 鱿鱼=mực/cá mực/mồi câu mực/vưu ngư|n
 鱿鱼丝=mực xé nhỏ/mực lụa|n
 鲅鱼=cá thu/mực/Cá thu Tây Ban Nha Nhật Bản|n
-鲇=niêm|n
 鲇鱼=cá da trơn/cá nheo/cá rô/Cá nheo|n
 鲈鱼=cá sạo/cá pecca|n
-鲑=khuê|n
 鲑鱼=cá hồi|n
 鲜卑=Tiên Ti|n
 鲜味=vị tươi|n
@@ -57103,11 +56518,8 @@
 鲜货=thực phẩm tươi sống/tiên hóa|n
 鲜鱼=cá tươi|n
 鲟鱼=cá tầm|n
-鲢=liên|n
 鲢子=cá mè|n
 鲢鱼=cá mè|n
-鲣=kiên|n
-鲥=thì|n
 鲥鱼=cá thì|n
 鲨了=ziết chít|n
 鲨人=sa nhân|n
@@ -57117,20 +56529,14 @@
 鲨鱼=cá mập|n
 鲨鱼肉=thịt cá mập|n
 鲨齿=răng cá mập|n
-鲫=tức|n
 鲫鱼=cá trích/cá diếc|n
-鲮=lăng|n
 鲮鱼=cá đác/cá lăng/con tê tê/con trút|n
-鲱=phi|n
 鲱鱼=cá trích/Cá trích|n
-鲲=côn|n
 鲲崙=Côn Luân|n
 鲲灵=Côn Linh|n
 鲲鱼=Côn Ngư|n
 鲲鹏=Côn Bằng|n
-鲳=xương|n
 鲳鱼=cá chim|n
-鲶=niêm|n
 鲶鱼=cá nheo/cá ngát|n
 鲷鱼=điêu ngư|n
 鲸吸牛饮=cá voi hút nước|n
@@ -57139,7 +56545,6 @@
 鲸骨=xương cá voi|n
 鲸鱼=cá voi/cá kình/kình ngư|n
 鲸鲨=cá hổ kình/kình sa|n
-鳃=tai|n
 鳄影=Ngạc Ảnh|n
 鳄皮=da cá sấu|n
 鳄祖=Ngạc Tổ|n
@@ -57149,26 +56554,17 @@
 鳄龙=Ngạc Long|n
 鳄龟=rùa cá sấu/rùa ngoạm/rùa|n
 鳇鱼=cá tầm|n
-鳊=biên|n
 鳊鱼=cá bống trắng/cá vền/cá vên/cá trích/Cá vền trắng|n
 鳌头=ngao đầu|n
-鳍=kỳ|n
 鳏夫=người không vợ/goá vợ|n
-鳔=phiêu|n
 鳔胶=keo bóng cá|n
-鳕=tuyết|n
 鳕鱼=cá tuyết/cá thu /Cá tuyết|n
-鳖=miết|n
 鳖甲=ba ba|n
 鳗鱼=con lươn/cá chình|n
 鳗鲡=cá chình|n
-鳙=dung|n
-鳜=quyết|n
 鳜鱼=cá mè|n
-鳝=thiện|n
 鳝糊=cháo lươn|n
 鳝鱼=lươn/con lươn|n
-鳞=lân|n
 鳞介=động vật sống dưới nước|n
 鳞伤=đầy thương tích/vết thương chi chít/thương tích đầy mình|n
 鳞叶=lân diệp|n
@@ -57182,7 +56578,6 @@
 鳞衣=lân y|n
 鳞角=sừng lân|n
 鳞马=Lân Mã|n
-鳟=tỗn|n
 鳟鱼=cá chày|n
 鸟云=mây đen|n
 鸟人=điểu nhân/người chim|n
@@ -57327,12 +56722,10 @@
 鸦群=đàn quạ|n
 鸦胆子=nha đản tử/quả nha đản tử/hạt nha đản tử|n
 鸦雀=lạnh ngắt|n
-鸨=bảo|n
 鸨子=tú bà|n
 鸨母=chủ chứa/tú bà/chủ kỹ viện|n
 鸩毒=rượu độc/độc tửu|n
 鸩酒=chẫm tửu/rượu độc/độc tửu|n
-鸬=lô|n
 鸬鹚=lô từ/chim ciều/Chim cốc|n
 鸭嘴兽=thú mỏ vịt|n
 鸭嘴笔=bút mỏ vịt|n
@@ -57354,15 +56747,12 @@
 鸭黄=vàng tơ/vàng chanh|n
 鸱吻=Si Vẫn/mỏ diều hâu|n
 鸲鹆=chim sáo|n
-鸳=uyên|n
 鸳鸯=uyên ương/chim uyên ương|n
 鸳鸯刀=Uyên Ương đao|n
 鸳鸯浴=tắm uyên ương/uyên ương dục|n
-鸵=đà|n
 鸵鸟=đà điểu|n
 鸵鸟政策=chính sách đà điểu/chính sách không nhìn vào sự thật|n
 鸷鸟=loài chim dữ|n
-鸸=nhi|n
 鸽卵=trứng bồ câu|n
 鸽子=bồ câu/chim bồ câu|n
 鸽子笼=chuồng bồ câu/chuồng nuôi bồ câu/lồng chim bồ câu|n
@@ -57389,10 +56779,8 @@
 鸿运=vận may/số đỏ/hồng vận|n
 鸿门=hồng môn|n
 鸿门宴=Hồng Môn Yến/Hồng Môn yến|n
-鹁=bột|n
 鹁鸪=chim chàng vịt|n
 鹁鸽=bồ câu nhà/bồ câu nuôi|n
-鹅=nga|n
 鹅卵=trứng ngỗng/trứng thiên nga|n
 鹅卵石=đá cuội/sỏi/cuội|n
 鹅口疮=tưa lưỡi/đẹn/đẹn sữa/viêm mồm ap-tơ|n
@@ -57407,9 +56795,7 @@
 鹅蛋=trứng ngỗng|n
 鹅行鸭步=chậm như rùa/chậm rì|n
 鹅黄色=màu vàng nhạt|n
-鹈=đề|n
 鹈鹕=bồ nông/chim cạc/Bồ nông|n
-鹌=am|n
 鹌鹑=chim cút|n
 鹞子=diều hâu/diều giấy|n
 鹞鹰=diều hâu|n
@@ -57419,20 +56805,16 @@
 鹤氅=áo choàng|n
 鹤童=hạc đồng|n
 鹤笔翁=Hạc Bút Ông|n
-鹦=anh|n
 鹦哥=vẹt/két/chim anh vũ|n
 鹦哥绿=xanh lông két|n
 鹦鹉=vẹt/két/chim anh vũ/anh vũ|n
 鹦鹉学舌=nói như vẹt/vẹt học nói|n
 鹦鹉螺=ốc anh vũ|n
-鹧=chá|n
 鹧鸪=chim chàng vịt|n
-鹪=tiêu|n
 鹪鹩=chim hồng tước|n
 鹬鸵=duật đà|n
 鹭鸟=cò chim|n
 鹭鸶=cò trắng|n
-鹰=ưng|n
 鹰儿=Ưng nhi|n
 鹰兄=Ưng huynh|n
 鹰击堂=Ưng Kích đường|n
@@ -57458,17 +56840,13 @@
 鹰鸣谷=Ưng Minh Cốc|n
 鹰鹫=chim ưng|n
 鹿肉=thịt nai|n
-麂=kỷ|n
 麂子=con hoẵng|n
-麋=mi|n
 麋子=mi tử|n
 麋鹿=con nai|n
-麒=kỳ|n
 麒儿=Kỳ nhi|n
 麒角=sừng lân|n
 麒麟=Kỳ Lân|n
 麒麟座=chòm sao Kỳ Lân/Kỳ Lân Tọa/Monoceros|n
-麝=xạ|n
 麝牛=bò xạ|n
 麝香=xạ hương/cầy hương|n
 麝鼠=chuột nước|n
@@ -57485,7 +56863,6 @@
 麦酒=rượu mạch/bia|n
 麦饼=bánh nếp|n
 麦麸=cám lúa mì|n
-麸=phu|n
 麸子=trấu cám|n
 麸皮=trấu cám|n
 麻兄=Ma huynh|n
@@ -57527,7 +56904,6 @@
 麻雀=chim sẻ/Ma Tước/se sẻ/mạt chược/ma tước|n
 麻鞋=giày sợi đay|n
 麻麻=ma ma/tê tê|n
-麾=huy|n
 麾上=trên trướng|n
 麾下=dưới trướng/bộ hạ/tướng soái/tướng quân/chủ soái/dưới quyền|n
 黄体=hoàng thể/thể vàng|n
@@ -57924,10 +57300,8 @@
 鼠辈=bọn chuột nhắt/tiểu nhân/đồ vô lại|n
 鼠须=ria chuột|n
 鼢鼠=chuột chũi|n
-鼬=dứu|n
 鼬科=lớp chồn sóc|n
 鼬鼠=cầy hương/chồn|n
-鼯=ngô|n
 鼯鼠=sóc bay|n
 鼹鼠=chuột đồng/chuột đồng|n
 鼻中隔=sụn lá mía|n
@@ -57982,7 +57356,6 @@
 鼾声如雷=ngáy như sấm/tiếng ngáy sấm sét|n
 齐胸=ngang ngực/ngực đầy đủ|n
 齑粉=bột mịn/phấn vụn|n
-齿=xỉ|n
 齿冠=mũ răng/mào hình răng|n
 齿冷=cười chê/khinh miệt/khinh rẻ/khinh thường/khinh bỉ chê cười|n
 齿印=dấu răng|n
@@ -57998,9 +57371,7 @@
 齿轮=bánh răng/số/sự truyền động bánh răng/xỉ luân|n
 齿音=âm răng|n
 齿龈=lợi/nướu răng|n
-龃=trở|n
 龃龉=khập khiễng/khấp khểnh/lục đục/lủng củng/nhấp nhô|n
-龅=bao|n
 龅牙=răng hô|n
 龋齿=sâu răng/răng sâu|n
 龙令=long lệnh|n

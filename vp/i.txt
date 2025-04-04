@@ -1694,7 +1694,6 @@
 兔死狐悲=thỏ tử hồ bi|i
 兔死狗烹=qua cầu rút ván/được chim quên ná, đặng cá quên nơm/vắt chanh bỏ vỏ/ăn cháo đá bát/thỏ tử cẩu phanh|i
 兔起鹘落=động tác mau lẹ/động tác nhanh nhẹn/hành động mau lẹ|i
-兢=căng|i
 兢兢=nơm nớp|i
 兢兢业业=cẩn trọng/cẩn thận/cần cù/thận trọng cẩn thận/tận tuỵ|i
 入不敷出=nhập không đủ xuất/nhập bất phu xuất/số vào chẳng bằng số ra/đã vào được thì không ra được|i
@@ -2696,7 +2695,6 @@
 呼风唤雷=hô phong hoán lôi|i
 命在旦夕=tính mạng đang như ngàn cân treo sợi tóc|i
 命该如此=vận mệnh đã như vậy|i
-咄=đốt|i
 咄咄=đốt đốt/ối chao/việc quái gở/việc quái đản/ối chao ! tiếng kinh sợ|i
 咄咄怪事=kỳ quặc quái gở|i
 咄咄逼人=hùng hổ dọa người/người gây sự/hung hăng/hùng hổ doạ người/hùng hổ hăm doạ/hăm doạ|i
@@ -2779,7 +2777,6 @@
 善莫大焉=không gì tốt hơn|i
 善解人意=khéo hiểu lòng người/thiện giải nhân ý/hiểu ý|i
 喊冤叫屈=kêu oan|i
-喋=điệp|i
 喋喋=điệp điệp/líu lo/lập cập/nói liến thoắng/nói huyên thuyên/nói luôn mồm/Ðiệp điệp/nói lem lém|i
 喋喋不休=líu lo không ngừng/lải nhải/lảm nhảm/nói dai/điệp điệp bất hưu|i
 喜上加喜=mừng vui gấp bội|i
@@ -3515,7 +3512,6 @@
 委曲求全=ủy khúc cầu toàn/tạm nhân nhượng vì lợi ích toàn cục/chiều một cách miễn cưỡng/ép dạ cầu toàn|i
 姗姗=khoan thai/lững thững/thong dong|i
 姗姗来迟=khoan thai đến chậm/thong dong đi đến/san san đến muộn/đến chậm|i
-姹=xá|i
 姹女=Xá Nữ|i
 姹女教=Xá Nữ giáo|i
 姹女门=Xá Nữ môn|i
@@ -3826,10 +3822,8 @@
 岁月峥嵘=tuế nguyệt tranh vanh/năm tháng trôi qua/những năm đầy biến cố|i
 岂不=há không/chẳng phải|i
 岂有此理=lẽ nào lại như vậy/buồn cười/lố lăng/lẽ nào có lí đó/đâu có thế được|i
-岌=ngập|i
 岌岌=nguy ngập/nguy cấp/nguy khốn/nguy hiểm/hiểm nghèo/Ngập ngập|i
 岌岌可危=tràn ngập nguy hiểm/tràn đầy nguy cơ/tràn ngập nguy cơ|i
-岿=vị|i
 岿巍=sừng sững/đứng sừng sững|i
 峰回路转=phong hồi lộ chuyển/quanh co/khúc khuỷu/xoay chuyển tình thế|i
 崇洋媚外=sính ngoại/sùng ngoại/sùng dương mị ngoại|i
@@ -4768,7 +4762,6 @@
 扣人心弦=lay động lòng người/khấu nhân tâm huyền/xúc động/gay cấn/lôi cuốn/làm rùng mình/hồi hộp/ly kỳ/kích động/làm người xúc động|i
 执牛耳=người đứng đầu/người cầm đầu/người lãnh đạo|i
 执迷不悟=chấp mê bất ngộ/u mê không tỉnh/khăng khăng một mực/một mực không chịu giác ngộ/u mê không tỉnh ngộ|i
-扪=môn|i
 扪心=để tay lên ngực|i
 扪心自问=tự vấn lương tâm/hãy tự hỏi mình/để tự hỏi bản thân một cách trung thực|i
 扫黄打非=càn quét tệ nạn|i
@@ -5067,7 +5060,6 @@
 插翅难逃=có cánh cũng không thoát/chắp cánh khó thoát|i
 插翅难飞=mọc cánh khó thoát/có chạy đằng trời/chắp thêm cánh cũng không thoát|i
 插翼难飞=mọc cánh khó bay|i
-揠=yết|i
 揠磨=quẹt quẹt|i
 揠苗助长=dục tốc bất đạt/nóng vội hỏng việc|i
 握手言和=bắt tay giảng hòa|i
@@ -5870,7 +5862,6 @@
 树欲静而风不止=cây muốn lặng mà gió chẳng ngừng/cây muốn lặng mà gió chẳng muốn ngừng|i
 树碑立传=dựng bia chép sử/tô son điểm phấn|i
 树高千丈=cây cao nghìn trượng/cây cao ngàn trượng|i
-栩=hủ|i
 栩栩=sinh động|i
 栩栩如生=sinh động như thật/trông rất sống động/sinh động|i
 根本无法=căn bản là không có cách|i
@@ -6495,7 +6486,6 @@
 潜移默化=thay đổi một cách vô tri vô giác/không nhận thức được/biến đổi ngầm/tiềm di mặc hóa/bất tri bất giác|i
 潜踪隐迹=tiềm tung ẩn tích|i
 潜龙勿用=tiềm long vật dụng/Tiềm Long không được dùng|i
-潸=san|i
 潸然泪下=lệ rơi lã chã/nước mắt chảy dài/rơi nước mắt trong im lặng|i
 激忿填膺=vô cùng tức giận/kích thích điền vào|i
 激昂慷慨=sục sôi chí khí/sục sôi nghĩa khí|i
@@ -8093,7 +8083,6 @@
 虽败犹荣=tuy bại nhưng vinh|i
 虾兵蟹将=lính tôm tướng cua/binh tôm tướng tép/binh hèn tướng nhát/binh tôm tướng cá|i
 蚂蚁啃骨头=kiến tha lâu đầy tổ/tích tiểu thành đại/có công mài sắt, có ngày nên kim|i
-蚍=tỳ|i
 蚍蜉撼大树=châu chấu đá xe/kiến càng lay cổ thụ/lấy trứng chọi đá|i
 蚍蜉撼树=kiến càng lay cây/lấy trứng chọi đá|i
 蛊惑人心=mê hoặc nhân tâm|i
@@ -8836,7 +8825,6 @@
 酒酣耳热=rượu vào lời ra/rượu nóng tai/say xỉn và vui vẻ|i
 酒饱饭足=ăn uống no nê|i
 酣畅淋漓=sảng khoái đầm đìa/nhẹ nhàng vui vẻ tràn trề/vui vẻ/nội dung của trái tim một người|i
-酩=mính|i
 酩酊大醉=say mèm/say bí tỉ/say túy lúy|i
 酸酸甜甜=chua chua ngọt ngọt|i
 醉生梦死=sống mơ mơ màng màng/mơ mơ màng màng như người say rượu|i
@@ -8900,7 +8888,6 @@
 铁面无私=thiết diện vô tư/công chính nghiêm minh|i
 铜墙铁壁=tường đồng vách sắt/bền vững chắc chắn/thành đồng|i
 铜筋铁骨=xương đồng da sắt/khoẻ mạnh dẻo dai/mình đồng da sắt|i
-铤=đĩnh|i
 铤而走险=bí quá hoá liều/con giun xéo lắm cũng oằn/chó cùng rứt giậu/đói ăn vụng túng làm càn/đĩnh nhi tẩu hiểm/bí quá hóa liều|i
 铩羽而归=thất bại tan tác mà quay trở về|i
 铭心刻骨=minh tâm khắc cốt|i
@@ -8925,7 +8912,6 @@
 锦心绣口=từ ngữ chau chuốt|i
 锦衣玉食=cẩm y ngọc thực/cơm ngon áo đẹp/|i
 锱铢必较=tính toán chi li/suy hơn quản thiệt/chi li/tri thù tất giác|i
-锲=khiết|i
 锲而不舍=kiên nhẫn/bền bỉ/miệt mài/cặm cụi|i
 镂骨铭心=khắc cốt ghi tâm/ghi lòng tạc dạ/nhớ mãi không quên|i
 镇压住=trấn áp lại/trấn áp|i

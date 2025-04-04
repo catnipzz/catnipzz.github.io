@@ -30,7 +30,6 @@
 且为=lại là/mà là|c
 且当=mà nên|c
 且说=lại nói|c
-並=tịnh|c
 为的是=vì/làm như vậy là để|c
 乃为=chính là|c
 乃是=chính là|c
@@ -72,7 +71,6 @@
 以至=cứ thế/đến nỗi/cho đến/đến mức|c
 以至于=đến mức/thế cho nên/cho tới|c
 以致=cho nên/đến nỗi/khiến|c
-但=đãn|c
 但仅=nhưng chỉ|c
 但因=nhưng bởi|c
 但当=nhưng khi/nhưng làm/nhưng lúc|c
@@ -88,7 +86,6 @@
 何时=khi nào/bao thuở/lúc nào|c
 何至于=làm sao đến mức/hà chí vu|c
 何若=sao/thế nào|c
-倘=thảng|c
 倘使=nếu/nếu như/giả như/thảng sử/ví khiến|c
 倘或=nếu/nếu như/giả sử|c
 倘然=nếu/nếu như/giả sử|c
@@ -101,7 +98,6 @@
 假若=nếu như/giả như/giả sử|c
 假说=giả thuyết|c
 假面=mặt nạ/mặt giả hiệu/mạng che mặt/mặt giả|c
-傥=thảng|c
 其后=phía sau/sau đó|c
 其所言=lời nói|c
 再使=dùng lại|c
@@ -129,7 +125,6 @@
 即而=rồi|c
 即若=cho dù/dù cho|c
 即过=liền qua|c
-及=cập|c
 及其=cùng với/cực kỳ/cập kỳ|c
 及时=kịp thời/đúng lúc/kịp lúc/đúng thời vụ/lập tức/ngay|c
 及此=đến đây/điểm/điều này|c
@@ -164,7 +159,6 @@
 同时=đồng thời/song song/trong khi/cùng lúc/hơn nữa|c
 同時=đồng thời|c
 否则=nếu không/bằng không/nếu không thì|c
-和=hòa|c
 哪一只=con nào/con kia/cái nào|c
 哪一方面=phương diện nào|c
 哪怕=dù là/dù cho/cho dù|c
@@ -201,7 +195,6 @@
 尽致=tới tận cùng/đến mức tận cùng/tẫn trí|c
 尽说=nói hết|c
 岂但=đâu chỉ|c
-并=tịnh|c
 并且=đồng thời/hơn nữa/và/vả/mà còn/còn|c
 并使=cùng làm|c
 并而=ngay cả|c
@@ -219,7 +212,6 @@
 恰如=giống như/đúng là|c
 恰恰相反=hoàn toàn khác biệt/ngược lại/hoàn toàn trái ngược|c
 惟其=vì/bởi vì|c
-或=hoặc|c
 或则=hoặc/hoặc là/hay là|c
 或是=hoặc là/có thể là/hay là|c
 或曰=hoặc nói/có người nói rằng/người ta nói rằng/hoặc viết/hoặc có kẻ nói rằng|c
@@ -294,7 +286,6 @@
 纵论=nói thoải mái/nói tự do|c
 继而=tiếp theo/tiện đà/theo/tiếp đó/nối tiếp|c
 综上所述=từ trên tổng hợp lại/nói tóm lại|c
-而=nhi|c
 而下=xuống/mà xuống|c
 而下至=mà cho tới|c
 而且=mà lại/hơn nữa/mà còn/với lại|c
@@ -356,6 +347,5 @@
 除此之外=trừ cái đó ra/trừ lần đó ra/trừ đó ra/ngoài ra|c
 除此外=trừ đó ra/ngoại trừ|c
 除非=trừ phi/trừ khi/nếu không/chỉ có/chỉ với điều kiện là/ngoài ra/trừ ra/trừ/loại ra/không kể|c
-雖=tuy|c
 非但=không những/nếu không/chẳng những|c
 非惟=không những/không chỉ/chẳng những|c

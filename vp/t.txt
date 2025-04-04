@@ -1098,7 +1098,6 @@
 第二阶段=giai đoạn thứ hai|t
 第四纪=kỷ đệ tứ/kỷ thứ tư|t
 第四阶段=giai đoạn thứ tư|t
-翌=dực|t
 翌年=năm tới|t
 翌日=hôm sau/ngày mai/ngày hôm sau|t
 翌晨=sớm mai/sáng sớm ngày mai/sáng hôm sau|t

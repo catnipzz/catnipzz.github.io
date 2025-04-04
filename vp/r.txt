@@ -59,7 +59,6 @@
 什什什什什=cái cái cái cái cái|r
 什物=các đồ lặt vặt/đồ vặt vãnh/đồ lặt vặt/thập vật|r
 什麼=cái gì/gì|r
-他=tha|r
 他事=việc khác/việc mà hắn/tha sự/chuyện hắn|r
 他人=người khác/kẻ khác/hắn người|r
 他们=bọn hắn/bọn họ/chúng nó/họ|r
@@ -97,7 +96,6 @@
 何样=kiểu gì|r
 何种=loại nào|r
 何等=cỡ nào/hạng gì/hạng/loại/như thế nào/ra sao/vô cùng/rất/biết bao/quá/bực nào|r
-你=nhĩ|r
 你们=các ngươi/các ông/các bà/các anh/các chị|r
 你俩=hai ngươi|r
 你儿=con trai của ngươi|r
@@ -108,9 +106,7 @@
 你的=ngươi/của ngươi|r
 你老=ngươi lão|r
 你身=thân ngươi|r
-俺=yêm|r
 俺们=bọn ta|r
-其=kỳ|r
 其一=một/thứ nhất|r
 其三=thứ ba|r
 其中=trong đó/nó trung|r
@@ -154,8 +150,6 @@
 前次=lần trước|r
 前身=tiền thân/đời trước/vạt trước áo dài/vạt trước|r
 前项=số hạng trước/mục trước|r
-厥=quyết|r
-各=các|r
 各个=các/từng cái/mỗi cái/mỗi/tất cả mọi cái/mỗi cái|r
 各人=mọi người/mỗi người|r
 各位=các vị/mọi người/các ngài|r
@@ -184,7 +178,6 @@
 各项=các hạng|r
 同种=cùng loại|r
 后此=về sau/sau đấy|r
-吾=ngô|r
 吾人=chúng ta/chúng tôi|r
 吾侪=chúng ta/lứa chúng ta/thế hệ chúng ta|r
 吾儿=con ta|r
@@ -192,11 +185,9 @@
 吾身=thân ta|r
 吾辈=chúng ta/lứa chúng ta/thế hệ chúng ta|r
 呒啥=không có gì/không sao/không sao hết|r
-咋=trách|r
 咋们=chúng ta|r
 咋样=kiểu gì/trách dạng|r
 咋种=trách chủng|r
-咱=cha|r
 咱们=chúng ta/chúng mình/tôi/bạn|r
 咱俩=hai ta|r
 咱县=huyện ta|r
@@ -228,7 +219,6 @@
 哪裡=ở đâu/na y/cái nào|r
 哪边=bên nào/bên kia|r
 哪里=nơi nào/chỗ đó/chỗ nào/ở đâu/ở đó/đâu/đâu có/đâu phải|r
-啥=xá|r
 啥事=chuyện gì|r
 啥子=cái gì/thứ gì|r
 啥时=lúc nào|r
@@ -245,7 +235,6 @@
 大中=trung tâm/đại trung|r
 大伙儿=mọi người/tất cả mọi người|r
 大样=bản in cả trang báo/bản vẽ chi tiết công trình|r
-她=tha|r
 她们=các nàng/họ/các chị ấy/các cô ấy/các bà ấy|r
 她俩=hai nàng|r
 她儿=con trai của nàng|r
@@ -257,8 +246,6 @@
 如家=như gia|r
 如次=như sau/như dưới đây|r
 如父=như cha|r
-孰=thục|r
-它=tha|r
 它人=người khác|r
 它们=bọn chúng/bọn nó/bọn hắn/bọn họ/chúng/chúng nó/chúng nó|r
 它儿=con trai của nó|r
@@ -271,7 +258,6 @@
 彼时=lúc đó/khi đó|r
 彼此=lẫn nhau/đây đó/hai bên/bên này với bên kia/cũng vậy/cũng thế/với nhau|r
 彼等=họ/chúng nó|r
-怎=chẩm|r
 怎么=làm sao/thế nào/như thế/như thế nào/thế nấy|r
 怎么样=thế nào/ra làm sao/làm gì/như thế nào|r
 怎么着=làm gì/dù thế nào/thế nào|r
@@ -294,7 +280,6 @@
 我的=ta/của ta|r
 我等=chúng ta/ta đợi|r
 我辈=chúng ta/đời ta|r
-敝=tệ|r
 旁人=người bên ngoài/người ngoài/người khác/người bên cạnh|r
 旁的=bên cạnh/cái khác/cạnh|r
 旁者=kẻ bên cạnh|r
@@ -334,7 +319,6 @@
 本轮=lượt này|r
 本部=bản bộ/phần quan trọng/cốt lõi/phần trung tâm/bổn bộ|r
 本镇=bổn trấn/bản trấn|r
-某=mỗ|r
 某个=cái nào đó/một cái/một cái nào đó|r
 某事=chuyện gì|r
 某些=một ít/một số/có chút|r
@@ -431,7 +415,6 @@
 自身=tự thân/bản thân/mình/tự mình|r
 自里=từ trong|r
 若何=như thế nào/thế nào/ra sao|r
-该=cai|r
 该人=người đó/người trên|r
 该县=cai huyện/quận|r
 该国=nước nọ/Đế Quốc|r
@@ -442,11 +425,9 @@
 诸事=mọi việc/mọi chuyện|r
 诸种=các loại|r
 诸般=các loại/nhiều loại/các loại|r
-谁=thùy|r
 谁个=người nào/đâu|r
 谁家=nhà ai|r
 谁边=chỗ nào/đâu|r
-这=giá|r
 这下=lần này/cái này|r
 这个=cái này/này/việc này/vật này/quá/rất/cái|r
 这么=như thế/như vậy/thế này|r
@@ -528,8 +509,6 @@
 这院=viện này|r
 这项=cái này|r
 这餐=bữa ăn này|r
-這=giá|r
-那=na|r
 那一刻=một khắc này/một khắc kia/một khắc đó|r
 那个=cái kia/cái nào/cái đó/cái ấy/việc ấy/ghê lắm/ấy|r
 那么=như vậy/thế đấy/như thế/như thế nào|r

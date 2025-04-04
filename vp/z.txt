@@ -134,7 +134,6 @@
 勉勉强强=miễn miễn cưỡng cưỡng/miễn miễn cường cường/quá miễn cưỡng|z
 勤勤恳恳=cần cù chăm chỉ/cần cần khẩn khẩn|z
 勾勾搭搭=câu kết làm bậy/câu câu đáp đáp/cấu kết làm bậy|z
-匆=thông|z
 匆匆=vội vàng/vội vã/vội vội vàng vàng/hấp tấp|z
 匆匆忙忙=vội vàng/vội vội vàng vàng|z
 匆忙=vội vàng/vội vội vàng vàng/gấp ga gấp gáp/ba chân bốn cẳng|z
@@ -256,7 +255,6 @@
 如痴=như si/như mê|z
 妥妥当当=thỏa đáng|z
 姌袅=mảnh khảnh/mảnh mai/cao gầy|z
-姣=giảo|z
 姣丽=xinh đẹp|z
 姣好=mỹ lệ/đẹp đẽ|z
 姣姣=Giảo Giảo|z
@@ -392,7 +390,6 @@
 忽高忽低=chợt cao chợt thấp|z
 怃然=buồn vô cớ|z
 怆地呼天=kêu trời kêu đất|z
-怏=ưởng|z
 怏怏=ấm ức/bất mãn/có vẻ/không hài lòng|z
 怏然=không vui/kiêu ngạo/kiêu căng/vênh vang|z
 怒冲冲=hầm hầm/giận dữ/đùng đùng nổi giận|z
@@ -429,7 +426,6 @@
 悄悄=lặng lẽ/nhẹ nhàng/yên ắng|z
 悄悄地=lặng lẽ/lén lút|z
 悄默声=lặng tiếng|z
-悒=ấp|z
 悒悒=lo lắng không yên|z
 悠忽=nhàn rỗi/nhàn nhã/nhàn hạ|z
 悠悠=ung dung/lo lắng/lâu dài/xa tắp/xa vời/dài dằng dặc/nhiều/đông đúc/thong thả/khoan thai/hoang đường/khoa trương/du du/dằng dặc/xa xôi|z
@@ -755,7 +751,6 @@
 潮呼呼=ẩm sì sì|z
 潸潸=lã chã/tuôn rơi/lưng tròng|z
 潸然=lã chã/ròng ròng|z
-潺=sàn|z
 潺弱=yếu kém|z
 潺湲=lững lờ|z
 潺潺=róc rách|z
@@ -834,7 +829,6 @@
 瑟瑟=run rẩy/lạnh run/tiếng lách tách/xào xạc/run lẩy bẩy/run bần bật|z
 瑰丽=mỹ lệ/đẹp đẽ/đẹp hiếm có/tuyệt đẹp/đẹp lạ thường/lộng lẫy/tráng lệ/nguy nga/côi lệ|z
 瑰异=đẹp lạ thường/vô cùng đẹp/hoa lệ/tráng lệ/nguy nga/lộng lẫy|z
-璀=thôi|z
 璀璨=óng ánh/sáng chói/ánh sáng ngọc/lóng lánh/rực rỡ/lộng lẫy|z
 瓜瓞绵绵=con đàn cháu đống/dưa hấu kéo dài|z
 甚平=Jinbe|z
@@ -894,7 +888,6 @@
 皎洁=trong sáng/sáng tỏ/sáng trong/trong trắng|z
 皎白=sáng trong/sáng tỏa/sáng vằng vặc|z
 皎皎=sáng trong/sáng vằng vặc/sáng ngời|z
-皑=ngai|z
 皑皑=trắng ngần/trắng như tuyết/trắng tinh/trắng xoá/trắng xóa|z
 皱巴巴=dúm dó/nhiều nếp nhăn|z
 皱的=nhíu|z
@@ -977,13 +970,11 @@
 笔挺=thẳng/phẳng phiu/thẳng thớm/thẳng đứng/bút đĩnh/thẳng tắp|z
 笔直=thẳng tắp/trực tiếp/không quanh co, úp mở/ngay thẳng/chính trực/thẳng thắn/chân thực|z
 简简单单=vô cùng đơn giản/đơn giản|z
-簌=tốc|z
 簌簌=rì rào/tuôn rơi/vi vu/lã chã|z
 粉嘟嘟=mũm mĩm hồng hồng/mập mạp trắng trẻo|z
 粉嫩=phấn nộn/béo mập/trắng mịn/trắng nõn|z
 粉扑扑=phấn phác phác/nhào phở|z
 粘糊糊=dinh dính|z
-粼=lân|z
 粼粼=lăn tăn/trong trẻo|z
 糊糊涂涂=mơ hồ/hồ đồ/ngớ ngẩn|z
 糊里糊涂=mơ hồ/hồ đồ/hồ lý hồ đồ/ngơ ngơ ngác ngác|z
@@ -1025,7 +1016,6 @@
 缕空=sợi 3D|z
 缕缕=từng sợi/hết sợi này đến sợi khác/lũ lũ|z
 缠缠绵绵=dai dẳng triền miên/triền miên|z
-缤=tân|z
 缤纷=rực rỡ/lả tả/sặc sỡ/rối rắm|z
 缥妓=tìm gái|z
 罗罗嗦嗦=nói dai như giẻ rách|z
@@ -1033,7 +1023,6 @@
 羞的=xấu hổ/thẹn thùng|z
 羞答答=xấu hổ/ngượng ngùng/hổ thẹn|z
 羞红=đỏ bừng|z
-羸=luy|z
 羸弱=suy nhược/gầy yếu|z
 羸得=giằng co|z
 羸顿=gầy tọp/gầy còm/mệt mỏi/mệt lả|z
@@ -1113,12 +1102,10 @@
 血淋淋=đẫm máu/máu chảy đầm đìa/tàn khốc|z
 血糊糊=máu me nhầy nhụa|z
 血里糊拉=máu thịt be bét|z
-袅=niểu|z
 袅娜=thướt tha/dịu dàng/niểu na/lả lướt|z
 袅袅=lượn lờ/vấn vít/phất phơ/tha thướt/du dương/réo rắt/ngân nga|z
 袅袅娜娜=lượn lờ mềm mại/yểu điệu thướt tha|z
 袅袅婷婷=thướt tha/lả lướt|z
-褴=lam|z
 褴褛=lam lũ/rách rưới/tả tơi|z
 规规矩矩=quy củ|z
 触目恸心=nhìn thấy mà đau lòng|z
@@ -1191,7 +1178,6 @@
 远远地=xa xa/xa xa mà|z
 连哄=hống liên tục|z
 连磕=dập đầu liên tiếp/liền dập đầu|z
-迢=điều|z
 迢远=xa xôi/xa xăm|z
 迢迢=xa xôi/vạn dặm/xa xăm|z
 迤逦=dĩ lệ/quanh co khúc khuỷu|z
@@ -1208,7 +1194,6 @@
 通幽=thông u/tĩnh mịch|z
 通红=đỏ bừng/rất đỏ/đỏ rực/đỏ chói/đỏ chót|z
 逛来逛去=đi lang thang/đi vơ vẩn/dạo tới dạo lui|z
-逶=uy|z
 逶迤=uốn lượn/quanh co/uốn khúc/uốn quanh|z
 逼仄=chật chội/chật hẹp|z
 逼的=ép|z
@@ -1229,7 +1214,6 @@
 金光闪闪=kim quang lóng lánh/vàng chói lọi|z
 金闪闪=vàng óng ánh/vàng óng|z
 铁黑=sắt đen|z
-锃=sáng loáng|z
 锃亮=bóng lưỡng/bóng loáng/sáng loáng|z
 错的=sai|z
 错综=rắc rối/đan chéo nhau/phức tạp/rối beng/khó hiểu|z
@@ -1297,7 +1281,6 @@
 鞋底抹油=bôi mỡ đế giày|z
 顶呱呱=đỉnh cao|z
 顺溜=có thứ tự/trôi chảy/thuận lợi/nghe theo/vâng theo/thuận lưu|z
-颀=kỳ|z
 颀长=cao/cao to/cao lớn|z
 颓然=chán nản/cụt hứng/mất hứng|z
 颠簸不破=nghiêng ngả không phá|z
@@ -1307,7 +1290,6 @@
 颤悠悠=run rẩy|z
 颤抖地=run rẩy|z
 颤颤巍巍=run run rẩy rẩy/chiến chiến nguy nguy|z
-飒=táp|z
 飒然=ào ào/táp nhiên|z
 飒爽=hiên ngang/mạnh mẽ|z
 飒飒=ào ào/rào rào/xào xạc/vi vu|z
@@ -1369,11 +1351,9 @@
 黑黢黢=đen sì/đen thui/đen nhẻm/đen như mực/tối như bưng/đen sì sì|z
 默片=phim câm|z
 默默地=yên lặng/lặng lẽ/yên lặng mà|z
-黝=ửu|z
 黝黑=đen nhánh/đen kịt/ngăm đen/đen tuyền/đen/đen thui|z
 黝黯=đen thui/đen|z
 黢黑=tối đen/tối om|z
-黧=lê|z
 黧黑=đen|z
 黯旧=bạc màu cũ kỹ|z
 黯淡=ảm đạm/tối tăm/u ám|z

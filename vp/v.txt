@@ -471,7 +471,6 @@
 丛杂=hỗn tạp/tạp nham/pha tạp|v
 丛谈=tùng đàm/chuyện vặt/chuyện linh tinh|v
 东诓西骗=lừa đông gạt tây|v
-丟=đâu|v
 丟掉=vứt bỏ|v
 丢上去=ném lên|v
 丢下=vứt xuống/vứt bỏ/bỏ lại|v
@@ -712,7 +711,6 @@
 书呆=mọt sách|v
 书着=ghi|v
 书读=đọc sách|v
-买=mãi|v
 买上=mua lấy|v
 买下=mua xuống/mua/mua lại|v
 买下来=mua lại|v
@@ -1176,7 +1174,6 @@
 会诊=hội chẩn/biết chẩn bệnh|v
 会谈=hội đàm/sẽ đàm/hoà đàm/đàm phán|v
 会醒=sẽ tỉnh/hồi tỉnh|v
-伛=ủ|v
 伛偻=gù lưng/còng lưng|v
 伞降=nhảy dù|v
 传上来=truyền lên|v
@@ -1256,7 +1253,6 @@
 估测=đánh giá|v
 估算=tính ra/tính toán/tính toán|v
 估计=đoán chừng/phỏng chừng/đánh giá/đoán/dự tính/nhận định/ước đoán/phỏng đoán/dự đoán|v
-伴=bạn|v
 伴事=bạn sự|v
 伴以=kèm theo|v
 伴同=kèm/đi cùng/cùng|v
@@ -1274,7 +1270,6 @@
 伴随=nương theo/đi đôi với/theo/kèm theo/đi kèm/cùng với|v
 伴飞=bay chung|v
 伴食=bạn thực/ngồi tiếp ăn uống|v
-伸=thân|v
 伸伸=duỗi duỗi|v
 伸像=vươn hướng|v
 伸入=vươn vào/đưa vào|v
@@ -1436,7 +1431,6 @@
 佩戴=đeo|v
 佩服=bội phục/khâm phục/bái phục/phục mãi|v
 佩着=đeo lấy|v
-佯=dương|v
 佯作=ra vẻ/giả vờ/làm ra vẻ|v
 佯做=giả vờ|v
 佯嗔=giả vờ giận/giả vờ giận dữ|v
@@ -1445,7 +1439,6 @@
 佯狂=giả điên/dương cuồng/giả cách rồ|v
 佯装=giả bộ|v
 佯言=nói dối|v
-使=sử|v
 使不出=không sử dụng ra được|v
 使不完=dùng không hết|v
 使不得=không được/thể/không dùng được/không thể|v
@@ -1473,7 +1466,6 @@
 使钱=tiêu tiền/xài tiền/chạy tiền|v
 使鞭=dùng roi|v
 侃价=mặc cả|v
-來=lai|v
 侈谈=nói khoác/thêu dệt/phóng đại/ba hoa/khoác lác|v
 例会=hội nghị thường kỳ/hội nghị thường lệ/lệ hội|v
 例假=nghỉ lễ/chu kỳ kinh nguyệt/kinh nguyệt/có kinh/hành kinh|v
@@ -1598,7 +1590,6 @@
 便道=liền nói/nhân tiện nói/đường tắt/đường thuận/vỉa hè/lề đường/đường dành cho người đi bộ/đường tạm/đường vòng/|v
 便餐=món thường/món đơn giản/bữa ăn gia đình/bữa cơm gia đình|v
 便饭=cơm rau dưa/cơm thường/cơm bữa/cơm xoàng/cơm nhạt|v
-促=xúc|v
 促使=thúc đẩy/thúc/giục/giục giã|v
 促声=thanh thúc|v
 促成=thúc đẩy/xúc tiến/thúc đẩy để đi đến thành công|v
@@ -1663,12 +1654,10 @@
 信望=uy tín và tiếng tăm|v
 信访=tín phóng|v
 信过=tin vào|v
-俨=nghiễm|v
 俨如=giống hệt/y hệt/giống như|v
 俨然=nghiễm nhiên/trang nghiêm/nghiêm chỉnh/ngay ngắn/y hệt/giống nhau|v
 俭省=tiết kiệm/tằn tiện|v
 俭约=tiết kiệm/tằn tiện|v
-修=tu|v
 修不起=sửa không nổi/tu không nổi|v
 修为=tu vi|v
 修习=tu tập|v
@@ -1721,7 +1710,6 @@
 修配=sửa chữa lắp ráp|v
 修长=thon dài|v
 修饰=tân trang/trang sức/chải chuốt trang điểm/sửa chữa/tu sức|v
-俯=phủ|v
 俯下=cúi xuống/che xuống|v
 俯临=phủ lâm|v
 俯仰=cúi đầu ngẩng đầu/cúi đầu và ngẩng đầu/nhất cử nhất động|v
@@ -1755,7 +1743,6 @@
 倍涨=tăng lên gấp bội|v
 倍计=bội kế|v
 倍赏=gấp đôi giải thưởng|v
-倒=đảo|v
 倒上=rót|v
 倒下=đổ xuống/ngã xuống/rồi ngã xuống|v
 倒不如=chẳng bằng/chẳng/chi bằng/chẳng thà|v
@@ -1964,7 +1951,6 @@
 假证=chứng giả|v
 假造=giả tạo/giả/làm giả/bịa đặt/giả mạo|v
 假释=tạm tha|v
-偎=ôi|v
 偎依=ôm|v
 偎倚=ôi ỷ/tựa sát bên mình|v
 偎入=tựa vào|v
@@ -1996,7 +1982,6 @@
 偕同=cùng đi/cùng tất cả|v
 偕老=giai lão/vợ chồng cùng nhau chung sống đến già|v
 偕进=cùng nhau vào|v
-做=tố|v
 做上=làm đến|v
 做下=làm xuống/làm ra|v
 做不来=không làm được|v
@@ -2052,7 +2037,6 @@
 做错=làm sai|v
 做饭=nấu cơm/làm cơm/nấu ăn|v
 做鬼=làm quỷ/thành quỷ/chơi xỏ/chơi khăm/làm ma làm quỷ/làm trò lừa đảo/làm trò quỷ quái chết/mất/từ trần|v
-停=đình|v
 停下=dừng lại|v
 停下来=dừng lại|v
 停不下=dừng không được|v
@@ -2115,7 +2099,6 @@
 健腰=eo khỏe|v
 健谈=hay nói/dẻo miệng/giỏi nói/khéo nói|v
 健身=kiện thân/tập thể hình/tập thể dục|v
-偷=thâu|v
 偷书=trộm sách|v
 偷光=trộm sạch|v
 偷出=trộm ra/lén ra|v
@@ -2160,7 +2143,6 @@
 偿失=đền mất/thường thất|v
 偿还=hoàn lại/bồi hoàn/trả nợ/thường lại/trả lại|v
 傅科摆=lắc Foucault/Phó Khoa Bãi|v
-備=bị|v
 储放=cất trữ/kho/khu vực kho|v
 催下=thúc giục|v
 催促=thúc giục/giục/thúc/đẩy nhanh|v
@@ -2191,7 +2173,6 @@
 傻强=sỏa cường|v
 傻批=ocschos|v
 傻笑=cười ngây ngô/cười khúc khích/cười ngây dại/cười láu lĩnh|v
-像=tượng|v
 像不像=giống hay không|v
 像于=hướng về|v
 像似=giống như|v
@@ -2266,7 +2247,6 @@
 克制不住=khắc chế không được/khắc chế không nổi|v
 克服=vượt qua/khắc phục/chinh phục/chế ngự/giải quyết/khắc chế/chịu đựng/chịu|v
 克食=trợ tiêu/giúp tiêu hoá thức ăn/lợi cho tiêu hoá|v
-免=miễn|v
 免不了=tránh không được/khó tránh khỏi/không tránh khỏi/không tránh được/không thể tránh khỏi|v
 免不得=không tránh khỏi|v
 免为=không làm|v
@@ -2295,7 +2275,6 @@
 免送=khỏi cần tiễn|v
 免遭=tránh khỏi/được bảo vệ khỏi/tha|v
 免除=miễn trừ/xoá bỏ/tránh khỏi/tránh được|v
-兑=đoái|v
 兑付=trả tiền mặt/trả theo chứng từ|v
 兑奖=đổi tặng phẩm|v
 兑宫=Đoài cung|v
@@ -2315,7 +2294,6 @@
 兜翻=xóc/lục lọi/lục tung/khơi ra/bới móc/nhắc đến/gợi lại/lật tẩy/vạch trần/bóc trần|v
 兜肚=cái yếm|v
 兜转=vòng chuyển|v
-入=nhập|v
 入下=nhập xuống|v
 入主=nhập chủ/làm chủ|v
 入仕=nhập sĩ/vào làm quan|v
@@ -2506,7 +2484,6 @@
 养着=nuôi|v
 养血=dưỡng huyết|v
 养身=dưỡng sinh|v
-兼=kiêm|v
 兼任=kiêm nhiệm/tạm thời/kiêm|v
 兼优=giỏi nhiều mặt/đa tài|v
 兼修=kiêm tu|v
@@ -2589,7 +2566,6 @@
 再起=tái khởi/sự hồi sinh/lại nổi lên|v
 再造=tái tạo/làm sống lại/lại tạo|v
 再醮=tái giá/tái tiếu/đàn bà lấy chồng lần thứ hai|v
-冒=mạo|v
 冒充=giả mạo/đội lốt/giả làm|v
 冒冒=lỗ mãng|v
 冒出=toát ra/bốc lên|v
@@ -2614,7 +2590,6 @@
 冒雨=đội mưa/mạo vũ/xông mưa|v
 冒顿=Maodun|v
 冒领=mạo hiểm lĩnh|v
-写=tả|v
 写上=viết lên/viết đến|v
 写上去=viết lên|v
 写下=viết xuống|v
@@ -2776,7 +2751,6 @@
 凌落=Lăng Lạc|v
 凌虐=làm nhục/ngược đãi/lăng nhục|v
 凌选=Lăng Tiêu|v
-减=giảm|v
 减为=giảm thành|v
 减价=giảm giá/hạ giá|v
 减低=giảm xuống/giảm thấp/hạ thấp/giảm|v
@@ -2811,7 +2785,6 @@
 减速=giảm tốc/giảm tốc độ/chậm lại|v
 减除=giảm bớt/làm nhẹ bớt|v
 减震=giảm xóc|v
-凑=thấu|v
 凑上=đụng lên|v
 凑份子=góp tiền/chung tiền/thêm phiền phức/rách việc/mang lại phiền toái thêm|v
 凑出=kiếm ra|v
@@ -2876,7 +2849,6 @@
 凹版=bản in chìm|v
 凹进=lõm vào|v
 凹陷=vết lõm/lõm/ao hãm/lõm xuống/trũng/lõm/tóp/hóp/hũm|v
-出=xuất|v
 出不去=ra không được/không ra được|v
 出不来=ra không được/không ra được|v
 出不起=không ra nổi|v
@@ -3073,7 +3045,6 @@
 击退=đánh lui/đẩy lùi|v
 击飞=đánh bay|v
 击鼓=đánh trống/kích trống|v
-凿=tạc|v
 凿下=đập xuống|v
 凿出=đục ra/tạc ra|v
 凿击=tạc kích|v
@@ -3144,7 +3115,6 @@
 分钱=chia tiền|v
 分隔=ngăn cách/ngăn/ngăn ra|v
 分馏=lọc/cất phân đoạn|v
-切=thiết|v
 切下=cắt xuống/bổ xuống|v
 切不可=nhất định không thể|v
 切中=đánh trúng/nhằm trúng|v
@@ -3187,7 +3157,6 @@
 刊行=phát hành/in và phát hành/ra mắt|v
 刊载=đăng báo/đăng bài|v
 刑诉=truy tố hình sự/hình sự|v
-划=hoa|v
 划上=vẽ lên/hoa lên/tìm tới|v
 划下=lấy xuống/cắt xuống|v
 划不来=tính không ra/không đủ sở hụi/không đáng/không xứng|v
@@ -3291,7 +3260,6 @@
 初选=sơ tuyển/chọn ứng cử viên|v
 初醒=mới tỉnh/mới tỉnh|v
 初露=sơ lộ/vừa lộ ra/vừa xuất hiện|v
-删=san|v
 删减=cắt giảm|v
 删削=lược bỏ/cắt bớt|v
 删去=cắt đi|v
@@ -3353,7 +3321,6 @@
 别逃=đừng trốn|v
 别选=đừng chọn|v
 别集=biệt tập/tập thơ|v
-刮=quát|v
 刮上=thổi lên|v
 刮下=cạo xuống|v
 刮伤=trầy thương/vết thương bị xước|v
@@ -3371,7 +3338,6 @@
 刮过=thổi qua/cạo qua|v
 刮钱=vét tiền|v
 刮除=cạo đi|v
-到=đáo|v
 到任=đến nhận chức|v
 到位=đúng chỗ/đúng lúc/đúng hạn/thích hợp/đúng thời gian đã định/đến nơi|v
 到处跑=chạy khắp nơi|v
@@ -3529,7 +3495,6 @@
 前行=tiến lên/đi trước/đi về phía trước|v
 前足=chân trước|v
 前进=tiến lên/đi tới/tiến lên/tiến tới/tiến bước|v
-剐=quả|v
 剔出=loại bỏ ra|v
 剔掉=lấy ra|v
 剔牙=xỉa răng|v
@@ -3547,9 +3512,6 @@
 剖离=phân cách|v
 剖解=phân tích/phẩu giải/mổ sả|v
 剖进=mổ vào|v
-剜=oan|v
-剡=diệm|v
-剥=bác|v
 剥下=lột bỏ/lột ra|v
 剥光=lột sạch/vạch trần|v
 剥出=lột ra|v
@@ -3584,7 +3546,6 @@
 剪短=cắt ngắn/xén|v
 剪除=gạt bỏ/xoá bỏ/loại trừ/loại bỏ/tiêu diệt/loại trừ|v
 副驾驶=tay lái phụ|v
-割=cát|v
 割下=cắt lấy|v
 割下去=cắt xuống|v
 割下来=cắt bỏ/cắt đi|v
@@ -3617,13 +3578,11 @@
 割除=cắt đứt/bỏ đi/cắt bỏ|v
 剽取=lấy cắp/trộm cắp|v
 剽窃=đạo văn/ăn cắp bản quyền/lấy cắp bản quyền/đạo văn (*ăn cắp bản quyền)|v
-剿=tiễu|v
 剿匪=tiễu phỉ/tiêu diệt/hủy diệt/trừ phiến loạn/diệt cướp|v
 剿杀=tiễu sát|v
 剿灭=tiêu diệt/diệt trừ/huỷ diệt|v
 剿袭=đạo văn/ăn cắp văn/cóp-py/sao chép nguyên xi/máy móc/áp dụng một cách máy móc|v
 剿除=tiễu trừ/tiêu diệt/triệt/huỷ diệt|v
-劁=tiêu|v
 劄记=ghi chú/chú thích|v
 劈入=chém vào|v
 劈到=bổ tới|v
@@ -3651,7 +3610,6 @@
 力推=lực đẩy|v
 力荐=hết lòng/gắng sức|v
 力避=cố tránh|v
-劝=khuyến|v
 劝下=khuyên ngăn|v
 劝不动=không khuyên nổi|v
 劝住=khuyên nhủ|v
@@ -3806,7 +3764,6 @@
 勉力=nỗ lực/cố gắng/ráng/miễn lực|v
 勉励=động viên/cố gắng/khuyến khích/cổ vũ/miễn cưỡng|v
 勉强=miễn cưỡng/gắng gượng/gượng gạo/cố ép/không đầy đủ/tạm thời/cố lắm/chỉ tạm|v
-勒=lặc|v
 勒住=ghìm chặt/ghìm lại|v
 勒断=cắt đứt|v
 勒死=ghìm chết|v
@@ -3851,7 +3808,6 @@
 勾践=Câu Tiễn|v
 勾连=cấu kết/thông đồng/móc ngoặc/liên quan/liên can/dính dáng/câu liên|v
 勾销=thủ tiêu/xoá sạch/xoá đi/xoá bỏ/gạch bỏ/bỏ đi/xóa bỏ|v
-包=bao|v
 包下=bao xuống|v
 包不同=Bao Bất Đồng|v
 包中=trong bọc/trong túi xách|v
@@ -3904,7 +3860,6 @@
 包车=xe tải/xe cho thuê/xe thuê sử dụng/xe bao/bao xe|v
 包销=bao tiêu/ký hợp đồng bao tiêu|v
 包饭=cơm tháng/nấu cơm tháng/đặt cơm tháng|v
-匍=bồ|v
 匍伏=nằm phục|v
 匍匐=phủ phục/nằm rạp xuống/bò lan/nằm sấp/Bồ bặc/bò lổm ngổm/nằm rạp|v
 化为=hóa thành|v
@@ -3926,7 +3881,6 @@
 匡算=ước tính/tính toán sơ lược/dự toán|v
 匮乏=thiếu thốn/thiếu hụt/thiếu/không đủ/bần cùng/nghèo túng/nghèo khổ/cùng khổ|v
 匮缺=thiếu/thiếu hụt/không đủ|v
-匱=quỹ|v
 匹头=chiếc/bộ|v
 匹布=thớt vải|v
 匹敌=địch nổi/tương đương/ngang hàng/xứng đôi|v
@@ -3970,7 +3924,6 @@
 协定=hiệp định/hợp đồng/định ra|v
 协调=cân đối/phối hợp/sắp xếp/nhịp nhàng/hài hoà/hiệp điều|v
 单买=mua một cái|v
-卖=mại|v
 卖上=bán hơn|v
 卖不卖=bán hay không/có bán hay không|v
 卖与=bán cho|v
@@ -4008,7 +3961,6 @@
 博弈=đánh cờ/chơi cờ/đánh cược|v
 博得=chiếm được/giành được chiếm được/thu được/giành được/được/lấy được|v
 卜算=bói toán|v
-占=chiêm|v
 占上=chiếm được|v
 占位=giành chỗ/chiếm|v
 占住=chiếm đóng/chiếm lấy|v
@@ -4078,7 +4030,6 @@
 卷过=cuốn qua/cuốn quá|v
 卷进=cuốn vào|v
 卷逃=cuốn gói chạy trốn/cuốn gói bỏ chạy/cuốn gói trốn đi|v
-卸=tá|v
 卸下=dỡ xuống/bốc dỡ xuống/tháo hạ xuống/tháo dỡ xuống/tháo xuống|v
 卸下来=tháo xuống|v
 卸任=từ nhiệm/từ nhậm/giải nhiệm/cách chức/từ chức|v
@@ -4158,7 +4109,6 @@
 厮打=đánh lẫn nhau/đánh nhau|v
 厮杀=chém giết|v
 厮混=pha trộn/quấn lấy nhau/tư hỗn|v
-去=khứ|v
 去一趟=đi một chuyến/đi xem đi|v
 去不成=đi không được|v
 去办=đi làm|v
@@ -4445,7 +4395,6 @@
 发鸣=phát minh|v
 发黄=ố vàng|v
 发黑=biến đen/biến thành màu đen|v
-取=thủ|v
 取下=gỡ xuống/gở xuống|v
 取不出=không lấy ra|v
 取不取=lấy hay không|v
@@ -4496,7 +4445,6 @@
 取闹=thủ nháo|v
 取食=kiếm ăn|v
 取齐=lấy theo/lấy bằng theo/tụ tập/tụ hợp/hợp lại|v
-受=thụ|v
 受不受=chịu hay không chịu|v
 受不得=chịu không nổi|v
 受不起=không chịu nổi|v
@@ -4637,7 +4585,6 @@
 叛离=bội phản/phản bội/phản bội rời|v
 叛逃=phản bội chạy trốn/trốn tránh|v
 叛逆=phản nghịch/phản bội/kẻ phản bội/kẻ phản nghịch|v
-叠=điệp|v
 叠于=xếp tại|v
 叠加=điệp gia/chồng/chồng lên/chồng chất|v
 叠印=in lồng hình|v
@@ -4745,7 +4692,6 @@
 只配=chỉ xứng|v
 只限=chỉ hạn|v
 只鱼=con cá|v
-叫=khiếu|v
 叫上=kêu lên|v
 叫个不停=réo lên không ngừng|v
 叫价=kêu giá/ra giá|v
@@ -4812,7 +4758,6 @@
 叮当响=leng keng vang/ding dong|v
 叮当声=tiếng leng keng|v
 叮问=truy vấn/hỏi dồn/gạn hỏi|v
-可=khả|v
 可上=có thể lên/nhưng lên|v
 可与=nhưng cùng/có thể cùng|v
 可中=có thể trúng|v
@@ -5022,7 +4967,6 @@
 叱退=quát lui|v
 叱问=thét hỏi|v
 叱骂=mắng chửi/lăng nhục/mắng/khiển trách/mắng mỏ/quở trách|v
-叵=phả|v
 叵测=khó lường/không thể dò được|v
 叵罗=tách uống rượu/bát uống rượu|v
 叵耐=không thể chịu được/không thể nhịn được/không thể kiên nhẫn nổi/phả nại|v
@@ -5052,7 +4996,6 @@
 吁气=thở khí|v
 吁求=lên tiếng yêu cầu|v
 吁请=kêu xin/lên tiếng mời|v
-吃=cật|v
 吃上=ăn được/ăn|v
 吃下=ăn|v
 吃不住=không thể chịu được/không chịu nổi/chịu đựng không nổi|v
@@ -5114,7 +5057,6 @@
 各分部=các phân bộ|v
 各半=nửa này nửa kia/nửa này nửa nọ/mỗi nửa|v
 各施=các thi/thi triển/ai nấy dùng|v
-吆=yêu|v
 吆喝=gào to/thét/thét to|v
 合不拢=không khép lại được/không thể chọn|v
 合不来=không hợp/không hợp nhau/không hoà hợp/không hợp được|v
@@ -5228,7 +5170,6 @@
 向慕=ngưỡng mộ/hâm mộ|v
 向来=từ trước đến nay/luôn luôn/từ trước đến giờ/hướng tới|v
 向背=ủng hộ hay phản đối|v
-吓=hách|v
 吓一跳=giật mình/đã giật mình/dọa cho giật mình|v
 吓了一跳=giật nảy mình/lại càng hoảng sợ/sợ hết hồn|v
 吓人=dọa người/đáng sợ|v
@@ -5272,7 +5213,6 @@
 吞落=nuốt xuống/vào|v
 吞进=nuốt vào|v
 吞食=nuốt/nuốt chững/nuốt chửng/nuốt|v
-吟=ngâm|v
 吟咏=ngâm vịnh/ngâm|v
 吟哦=ngâm nga/ngâm vịnh|v
 吟唱=ngâm xướng|v
@@ -5282,7 +5222,6 @@
 吟起=ngâm lên|v
 吟雪=Ngâm Tuyết|v
 吟风=Ngâm Phong|v
-吣=tẩm|v
 否决=bác bỏ/phủ quyết/bãi bỏ/gạt bỏ|v
 否决权=quyền phủ quyết/quyền bác bỏ|v
 否定=phủ định/không nhận/chối bỏ/phủ nhận/từ bỏ/phản diện/mặt trái/hủy bỏ/không nhận,chối bỏ|v
@@ -5306,7 +5245,6 @@
 含笑=mỉm cười/ngậm cười/cười mỉm chi/cười chúm chím|v
 含藏=bao hàm/hàm ý|v
 含进=ngậm vào|v
-听=thính|v
 听上=nghe tới|v
 听不出=nghe không ra|v
 听不出来=nghe không hiểu|v
@@ -5375,12 +5313,10 @@
 吭吭=hèm hèm/ho, càu nhàu, v.v.|v
 吭声=lên tiếng/hé răng/hé môi|v
 吭气=lên tiếng|v
-吮=duyện|v
 吮乳=duyện nhũ/mút sữa|v
 吮吸=mút vào/mút/hút/nút|v
 吮掉=mút sạch|v
 吮着=mút lấy|v
-启=khải|v
 启事=thông báo/rao vặt/khải sự|v
 启发=dẫn dắt/gợi ý|v
 启善=Khải Thiện|v
@@ -5399,7 +5335,6 @@
 启运=bắt đầu vận chuyển/khởi vận|v
 启齿=mở miệng/nhe răng|v
 吱声=lên tiếng/đánh tiếng/đằng hắng|v
-吵=sảo|v
 吵上=ầm ĩ/ầm ỹ|v
 吵吵=nói nhao nhao/bảy mồm tám mỏ chõ vào|v
 吵吵嚷嚷=ồn ào/sảo sảo nhượng nhượng/sảo sảo nhượng nhượng(bảy mồm tám mỏ chõ vào)|v
@@ -5419,7 +5354,6 @@
 吵闹=ầm ĩ/ồn ào/tranh cãi ầm ĩ/cãi om sòm/làm ồn ào/ầm ĩ/om sòm/kịch liệt|v
 吵闹声=tiềng ồn ào/tiếng ồn ào|v
 吶喊=reo hò|v
-吸=hấp|v
 吸上=hút vào|v
 吸住=hút lại/mút ở|v
 吸允=mút thỏa thích|v
@@ -5457,7 +5391,6 @@
 吸进去=hút đi vào|v
 吸附=hấp thụ/hút/thấm hút/bám vào|v
 吸食=hút/húp|v
-吹=xuy|v
 吹下=thổi xuống|v
 吹倒=thổi ngã|v
 吹出=thổi ra|v
@@ -5504,7 +5437,6 @@
 吹错=thổi sai|v
 吹风=hóng gió/thổi gió/máy sấy tóc/trúng gió/sấy tóc/hong/phơi/tiết lộ/bật mí/để lộ cho biết|v
 吹飞=thổi bay|v
-吻=vẫn|v
 吻上=hôn lên|v
 吻上了=hôn lên|v
 吻下=hôn xuống/hôn một cái|v
@@ -5520,7 +5452,6 @@
 吻着=hôn|v
 吻过=hôn qua|v
 吻遍=hôn khắp|v
-吼=hống|v
 吼出=hô lên|v
 吼叫=gầm rú/gào/gầm lên/thét/kêu to/hống khiếu|v
 吼吼=hống hống/gầm lên/gầm gừ|v
@@ -5534,7 +5465,6 @@
 呃逆=nấc cụt|v
 呆住=ngây người|v
 呆坐=ngồi yên|v
-呈=trình|v
 呈上=trình lên/nộp/trình/dâng|v
 呈交=nộp/giao nộp|v
 呈报=trình báo/báo cáo/trình lên trên/báo cáo|v
@@ -5546,7 +5476,6 @@
 呈请=trình xin ý kiến/thỉnh thị ý kiến cấp trên|v
 呈递=đệ trình/trình/đưa ra để xem xét|v
 呈露=lộ ra/phơi bày/hiện ra/bộc lộ/biểu lộ/tiết lộ/bày tỏ|v
-告=cáo|v
 告不赢=kiện không thắng|v
 告书=cáo thư|v
 告便=xin đi ra ngoài|v
@@ -5599,7 +5528,6 @@
 呕气=ẩu khí|v
 呕舌=lè lưỡi|v
 呕血=nôn ra máu/ói ra máu|v
-呛=sang|v
 呛到=sặc/bị nghẹn|v
 呛咳=ho khan|v
 呛得=sặc đến/sặc|v
@@ -5608,7 +5536,6 @@
 呜啸=ô khiếu|v
 周到=chu đáo/chu toàn|v
 呱噪=ồn ào|v
-呲=thử|v
 呵叱=quát|v
 呵呵=ha ha/ha hả/hề hề/Ha ha/tiếng cười ha hả|v
 呵喝=quát to/quát tháo/quát mắng|v
@@ -5616,8 +5543,6 @@
 呵斥=quát lớn/trách mắng/quát mắng/trách móc/quát tháo/mắng nhiếc/trách cứ/mắng/ha xích/mắng đuổi/rầy|v
 呵欠=ngáp/trách|v
 呵责=trách/trách móc/trách mắng/quát mắng/trách cứ/mắng nhiếc|v
-呷=hạp|v
-呻=thân|v
 呻叫=kêu rên|v
 呻吟=rên rỉ|v
 呻呤=rên rỉ/rên|v
@@ -5645,14 +5570,12 @@
 咀嚼=nhấm nuốt/nhai/nhai kỹ/nghiền ngẫm/suy ngẫm/trớ tước/nhai : nghiền ngẫm|v
 咀角=bất giác|v
 咀里=trong miệng|v
-咂=táp|v
 咂出=nếm|v
 咂吮=nhấm nháp|v
 咂嘴=chậc lưỡi/chép miệng|v
 咂摸=phân biệt rõ/phân biệt kĩ/nếm mùi|v
 咂舌=tắc lưỡi/chắt lưỡi/tắc luỡi/tặc lưỡi|v
 咄嗟=rao/Ðốt tá/giây lát|v
-咆=bào|v
 咆吼=gầm rống|v
 咆哮=gào thét/rít gào/gầm/gầm gừ/rống/gào thét/gầm thét|v
 咆啸=gầm thét|v
@@ -5678,7 +5601,6 @@
 咕的=lẩm bẩm|v
 咕着=thầm thì|v
 咕道=nói thầm/thầm nói|v
-咧=liệt|v
 咧嘴=nhếch miệng/nhếch mép/toét miệng|v
 咧开=toét ra/nứt ra|v
 咧着=cười toe toét|v
@@ -5742,7 +5664,6 @@
 哂笑=mỉm cười/sẩn tiếu|v
 哂纳=xin nhận cho|v
 哂道=mỉm cười nói|v
-哄=hống|v
 哄住=dỗ lại|v
 哄劝=làm dịu/xoa dịu/khuyên bảo|v
 哄哄=dỗ dành/hò hét|v
@@ -5757,7 +5678,6 @@
 哄道=dụ dỗ nói|v
 哄闹=làm ồn/ồn ào/hống nháo|v
 哄骗=lừa gạt/lừa/bịp/lừa dối/lừa đảo|v
-哆=sỉ|v
 哆嗦=run rẩy/run run/lạnh cóng/căm căm/run cầm cập|v
 响动=vang động/động tĩnh/tiếng động|v
 响叫=kêu vang|v
@@ -5779,7 +5699,6 @@
 哗笑=cười ồ/cười rộ|v
 哦哦哦=a a a/ồ ồ ồ|v
 哪吒闹海=Na Tra náo hải/Na Tra náo loạn biển|v
-哭=khốc|v
 哭丧=khóc tang/khóc lóc thảm thiết/than khóc thảm thiết/than khóc thương tiếc/phàn nàn|v
 哭叫=kêu khóc|v
 哭喊=kêu khóc/gào khóc|v
@@ -5842,7 +5761,6 @@
 唱道=hát nói|v
 唾弃=phỉ nhổ/khinh bỉ|v
 唾骂=thóa mạ/thoá mạ/phỉ báng/chửi bới/chửi rủa|v
-啃=khẳng|v
 啃啮=gặm nhấm|v
 啃噬=gặm nuốt/gặm nhắm|v
 啃掉=gặm được|v
@@ -5875,7 +5793,6 @@
 啼笑=khóc không ra nước mắt|v
 啼血=đề huyết|v
 啼鸣=hót vang|v
-喂=uy|v
 喂养=nuôi nấng/nuôi/làm mồi cho|v
 喂到=đút tới|v
 喂喂=uy uy/này này|v
@@ -5917,7 +5834,6 @@
 善财=thiện tài|v
 善辩=giỏi biện/biện minh tốt/hùng biện|v
 善邻=láng giềng thân thiện/láng giềng hữu nghị|v
-喊=hảm|v
 喊上=kêu lên|v
 喊下来=gọi xuống|v
 喊住=gọi lại|v
@@ -5939,7 +5855,6 @@
 喋声=nín tiếng|v
 喋血=đẫm máu/đổ máu|v
 喑哑=mất tiếng/khản|v
-喘=suyễn|v
 喘促=xuyễn xúc/thở gặt|v
 喘声=tiếng thở|v
 喘息=thở dốc/tạm nghỉ/thở gấp/thở hổn hển/thở phì phò/thở phù phù/nghỉ xả hơi|v
@@ -6075,10 +5990,7 @@
 嗅探=tìm tòi|v
 嗅着=ngửi ngửi/ngửi|v
 嗅错=ngửi lầm|v
-嗍=sóc|v
-嗑=hạp|v
 嗑瓜子=gặm hạt dưa/hạp qua tử|v
-嗔=sân|v
 嗔喜=hoan hỉ giận dữ/vừa giận vừa vui|v
 嗔嗲=làm nũng|v
 嗔声=âm thanh trách cứ|v
@@ -6093,7 +6005,6 @@
 嗜好=ham mê/ham thích/sở thích|v
 嗜杀=thị sát/thị sát khát máu/thích giết chóc|v
 嗜睡=thèm ngủ/thích ngủ|v
-嗟=ta|v
 嗟叹=than thở/ta thán|v
 嗟吁=than thở|v
 嗟怨=ta oán/ta thán|v
@@ -6109,7 +6020,6 @@
 嘟囓=cắn môi|v
 嘟着=chu|v
 嘟起=cong lên|v
-嘬=toát|v
 嘱咐=dặn dò/dặn/căn dặn/dặn bảo|v
 嘱托=nhắc nhở/nhờ/giao phó/gửi/dặn dò|v
 嘱附=dặn dò lại|v
@@ -6131,17 +6041,12 @@
 噎嗝=bệnh ung thư thực quản|v
 噎死=nghẹn chết|v
 噗嗤一声=thổi phù một tiếng|v
-噘=quyết|v
 噘嘴=bĩu môi/Mồm/chu môi|v
-噙=cầu|v
-嚇=hách|v
 嚎叫=tru lên/gào thét/la hét/kêu gào|v
 嚎哭=khóc thét/gào khóc/than khóc/than khóc thảm thiết|v
 嚎道=gào to|v
-嚷=nhượng|v
 嚷嚷=ồn ào/cãi nhau/làm ồn/phao tin/rêu rao/kêu la|v
 嚷道=reo lên/la ầm lên|v
-嚼=tước|v
 囊括=bao quát/thâu tóm/bao gồm/gồm có|v
 囊膪=thịt lườn|v
 囔囔=thì thầm/thầm thì/khe khẽ|v
@@ -6154,7 +6059,6 @@
 四溅=văng khắp nơi/tung toé|v
 四溢=bốn phía/phân tán|v
 四进=bốn nhà|v
-回=hồi|v
 回不去=không thể quay về|v
 回不回=có trở về hay không|v
 回不来=về không được/cũng chưa về/không về được|v
@@ -6311,7 +6215,6 @@
 团聚=đoàn tụ/sum họp/sum vầy/đoàn viên/tập hợp/đoàn kết|v
 团花簇锦=đoàn hoa thốc cẩm|v
 团起=cuộn lại|v
-囤=độn|v
 囤积=trữ hàng/tích trữ hàng hoá/độn tích|v
 囤聚=tích trữ/trữ|v
 囤集=tích trữ/tích phòng tập|v
@@ -6444,7 +6347,6 @@
 坏坏=làm xấu/xấu xa|v
 坏掉=hư mất|v
 坏死=hoại tử/thối rữa/chết hoại/hoại thư|v
-坐=tọa|v
 坐上=ngồi lên/tọa thượng/ngồi trên|v
 坐上去=ngồi lên/tới ngồi lên|v
 坐下=tọa hạ/ngồi xuống/tọa hạ : ngồi xuống/dưới trướng|v
@@ -6527,7 +6429,6 @@
 坚牢=kiên cố/chắn chắn|v
 坚甲=giáp chắc|v
 坚称=khăng khăng/quả quyết/kiên quyết/nhất quyết|v
-坠=trụy|v
 坠下=rớt xuống|v
 坠亡=té chết|v
 坠入=rơi vào|v
@@ -6573,7 +6474,6 @@
 垂钩=buông câu|v
 垂首=cúi đầu|v
 垄断=độc quyền/lũng đoạn|v
-垒=lũy|v
 垒砌=lũy thế|v
 垦荒=khai hoang/vỡ hoang/khai khẩn đất hoang|v
 垫上=trên nệm|v
@@ -6587,12 +6487,10 @@
 垫补=ăn lót dạ/giật nóng/vay tạm/ăn điểm tâm/lót lòng|v
 垫话=lời giới thiệu/lời dẫn|v
 垫高=lót/lớp lót|v
-垮=khoa|v
 垮倒=khoa đảo|v
 垮台=suy sụp|v
 垮塌=sụp đổ|v
 垮掉=sụp đổ mất|v
-埋=mai|v
 埋上=trên chôn|v
 埋下=chôn xuống/dưới chôn/mai phục/mai hạ|v
 埋下去=chôn xuống|v
@@ -6624,7 +6522,6 @@
 埋进=vùi vào|v
 埋首=chui/vùi đầu|v
 埋骨=chôn xương|v
-培=bồi|v
 培养=bồi dưỡng/đào tạo/nuôi cấy/gây/gây dựng|v
 培土=bồi thêm đất/vun đất/bồi thổ|v
 培植=bồi dưỡng/nuôi trồng/trồng/bồi dưỡng nhân tài/bồi bổ thể lực/bồi thực|v
@@ -6633,7 +6530,6 @@
 培道=nói thêm|v
 培顿=Baton|v
 堂吉诃德=Don Quixote|v
-堆=đôi|v
 堆上=chồng lên|v
 堆出=tích tụ ra|v
 堆叠=xếp/chồng/chồng chất/chất|v
@@ -6653,7 +6549,6 @@
 堆起来=chất đống/chất lên thành đống|v
 堆集=chồng chất/tích tụ/xếp chồng|v
 堆高=chồng cao|v
-堕=đọa|v
 堕入=rơi vào|v
 堕化=đoạ hoá|v
 堕去=rơi xuống|v
@@ -6677,7 +6572,6 @@
 堪破=kham phá|v
 堪磨=chịu mài|v
 堪称=có thể xưng/có thể nói|v
-堵=đổ|v
 堵不上=ngăn không nổi|v
 堵住=ngăn chặn/lấp kín/chắn/chận lại|v
 堵击=chặn đánh|v
@@ -6694,7 +6588,6 @@
 堵着=chặn lấy/chận/lấp lấy|v
 堵车=kẹt xe/ùn tắc giao thông|v
 堵门=ngăn cửa|v
-塌=tháp|v
 塌上=trên giường|v
 塌下=lún xuống|v
 塌下去=lún xuống dưới|v
@@ -6714,7 +6607,6 @@
 塞到=nhét vào|v
 塞给=đút cho/kín đáo đưa cho|v
 塞责=tắc trách/qua loa/qua quýt/làm qua loa cho xong chuyện|v
-填=điền|v
 填仓=bổ sung vào kho/thêm lương thực vào kho|v
 填充=bổ sung/bỏ thêm vào/bổ khuyết/điền chỗ trống/điền vào chỗ trống/bổ túc|v
 填写=điền/viết/ghi|v
@@ -6736,8 +6628,6 @@
 填装=lắp/gắn vào|v
 填进=điền vào|v
 填饱=lấp đầy|v
-墁=mạn|v
-增=tăng|v
 增为=tăng làm|v
 增产=tăng gia sản xuất/tăng sản lượng/tăng sản|v
 增值=tăng trị/tăng giá trị tài sản|v
@@ -6802,7 +6692,6 @@
 处罪=xử tội|v
 处置=xử trí/xử lý/cư xử/đối xử/giải quyết/trừng trị|v
 处长=trưởng phòng/trưởng ban/xử trưởng|v
-备=bị|v
 备下=chuẩn bị|v
 备不住=có lẽ/chưa biết chừng/không chắc chắn/có thể|v
 备办=chuẩn bị/xếp đặt/đặt nền móng/dọn đường|v
@@ -7063,7 +6952,6 @@
 夹起=kẹp lên/xốc lên/cắp lên|v
 夹过=kẹp|v
 夹道=đường hẻm/rãnh/hẻm/sắp hàng hai bên đường|v
-夺=đoạt|v
 夺下=đoạt lấy/đoạt được|v
 夺下来=cướp lại|v
 夺了=chiếm/đoạt|v
@@ -7104,7 +6992,6 @@
 夺食=đoạt thức ăn/cướp đồ ăn|v
 夺魁=đoạt giải nhất/đoạt giải quán quân|v
 夺魂=đoạt hồn|v
-夾=giáp|v
 奇作=kỳ tác|v
 奇怪=kỳ quái/kỳ lạ/quái lạ/lạ lùng/quái gở/ngoài dự tính/khó hiểu|v
 奇持=kỳ dị|v
@@ -7327,7 +7214,6 @@
 妆新=bày đồ cưới trong phòng tân hôn/đồ cưới|v
 妆束=trang phục|v
 妊娠=có thai/có mang/có chửa/có bầu|v
-妒=đố|v
 妒与=đố kỵ|v
 妒嫉=ghen tỵ với|v
 妒忌=đố kỵ/ghen ghét|v
@@ -7362,7 +7248,6 @@
 娇斥=yêu kiều/nũng nịu|v
 娇生惯养=kiều sinh quán dưỡng/nuông chiều từ bé/cưng chiều từ nhỏ/nâng niu từ bé|v
 娇纵=nuông chiều/thả lỏng|v
-娶=thú|v
 娶亲=kết hôn/đón dâu/lấy vợ|v
 娶到=cưới được/cưới đến|v
 娶妻=cưới vợ/lấy vợ|v
@@ -7374,13 +7259,10 @@
 婉转=uyển chuyển/khéo léo/dịu dàng/du dương/trầm bổng/véo von|v
 婉辞=dịu dàng/nói khéo/uyển ngữ/khéo léo từ chối/từ chối khéo|v
 媒妁之言=môi chước chi ngôn/lời nói của bà con|v
-媲=bễ|v
 媲拟=sánh ngang|v
 媲美=so sánh/sánh ngang/đẹp như nhau/đẹp ngang nhau/so sánh cái nào đẹp hơn/bễ mĩ/đẹp ngang/sánh ngang nhau|v
-媾=cấu|v
 媾合=giao hợp/giao cấu/giao hoan|v
 媾和=giảng hoà/cầu hoà|v
-嫁=giá|v
 嫁与=gả cho|v
 嫁了=gả cho/gả|v
 嫁予=gả cho|v
@@ -7417,7 +7299,6 @@
 孕吐=nôn nghén|v
 孕有=thai nghén|v
 孕育=thai nghén/dựng dục/mang theo|v
-存=tồn|v
 存上=tồn thượng|v
 存下=tích trữ/tồn hạ|v
 存不存=còn hay không/còn tồn tại hay không|v
@@ -7479,7 +7360,6 @@
 孰知=nào ngờ|v
 孳孳=cần mẫn/chăm chỉ/cần cù/siêng năng|v
 孳生=sinh sôi/sinh đẻ/sinh sản|v
-孵=phu|v
 孵不出=không ấp ra|v
 孵出=ấp ra|v
 孵化=ấp trứng/nở/ấp/trứng nở/ấp nở|v
@@ -7623,7 +7503,6 @@
 宠爱=sủng ái/mê như điếu đổ/mê mẩn/say mê/cưng chiều/nuông chiều/thiên vị|v
 宠着=sủng ái/cưng chìu|v
 宠辱=sủng nhục/sủng nhục (*)|v
-审=thẩm|v
 审处=phán xử/xét xử/thẩm tra xử lí|v
 审完=thẩm xong|v
 审定=thẩm định/xem xét quyết định/duyệt y/xét định|v
@@ -7660,7 +7539,6 @@
 宰割=xâu xé/xâm lược/phạm/chiếm/chia cắt/xẻ thịt|v
 宰掉=làm thịt/giết chết|v
 宰杀=giết/mổ/làm thịt|v
-害=hại|v
 害命=hại mệnh/sát hại tính mệnh/phạm tội giết người|v
 害喜=nôn oẹ|v
 害处=chỗ hại/hại/có hại/chỗ có hại/điều hại|v
@@ -7928,7 +7806,6 @@
 尚有=còn có|v
 尚能=còn có thể|v
 尚请=còn thỉnh|v
-尝=thường|v
 尝一尝=nếm thử|v
 尝到=nếm đến/nếm được/nếm trải|v
 尝尝=nếm thử/nếm thử một chút|v
@@ -7940,7 +7817,6 @@
 尝过=hưởng qua|v
 尝还=bồi thường|v
 尝遍=nếm khắp|v
-尥=liệu|v
 尥蹶子=đá hậu|v
 就业=vào nghề/có nghề nghiệp/đi làm/có công ăn việc làm/tựu nghiệp|v
 就义=hy sinh/hy sinh vì đại nghĩa/hy sinh vì việc nghĩa|v
@@ -8067,7 +7943,6 @@
 展露=triển lộ/bày ra/hiện ra/lộ ra|v
 展露出=triển lộ ra|v
 展露出来=triển lộ ra|v
-属=thuộc|v
 属下=thuộc hạ|v
 属于=thuộc về|v
 属从=chúc tòng|v
@@ -8110,7 +7985,6 @@
 崇慕=sùng mộ|v
 崇敬=sùng kính/sùng bái/tôn thờ/suy tôn/kính mến/tôn kính/quý trọng/kính yêu|v
 崛起=quật khởi/gồ lên/nổi lên/vùng dậy/nổi dậy|v
-崩=băng|v
 崩于=sụp ở|v
 崩倒=đổ nát/sụp đổ/sập|v
 崩决=vỡ đê/vỡ bờ|v
@@ -8143,8 +8017,6 @@
 崩裂=băng liệt/nổ tung/văng tung tóe/nổ tung toé/văng tung toé/nứt toác|v
 崩解=vỡ vụn/băng giải/tan vỡ|v
 崩飞=bắn bay/văng tung tóe|v
-崴=uy|v
-嵌=khảm|v
 嵌入=khảm vào/lún vào|v
 嵌有=có khảm|v
 嵌着=khảm/cẩn|v
@@ -8220,7 +8092,6 @@
 希言=Hi Ngôn|v
 希送=hi tống|v
 希露=Sill|v
-带=đái|v
 带上=mang lên/mang cho/mang theo/mang tới|v
 带上来=dẫn tới|v
 带下=mang xuống/bệnh bạch đới/bệnh khí hư/mang đến|v
@@ -8293,7 +8164,6 @@
 带颤=có vẻ run rẩy|v
 带鱼=cá hố|v
 带齐=mang đủ|v
-帮=bang|v
 帮上=giúp đỡ/giúp|v
 帮不上=không thể giúp/không giúp được|v
 帮不上忙=giúp không được gì/không giúp được gì|v
@@ -8323,7 +8193,6 @@
 帮规=bang quy|v
 帮过=đã giúp/giúp qua|v
 帮闲=bang nhàn/tô vẽ/người chuyên viết lách tô vẽ, bợ đỡ cho những người đã mua chuộc mình, phục vụ cho chúng/bồi bút|v
-帶=đái|v
 常住=thường trú/chủ nghĩa vĩnh cửu|v
 常出=thường ra|v
 常谈=nói chuyện bình thường/trò chuyện bình thường|v
@@ -8508,7 +8377,6 @@
 庭中=trong đình|v
 庭除=sân|v
 廓落=trống trải/vắng vẻ|v
-廝=tư|v
 延伸=kéo dài/dọc theo|v
 延到=kéo dài tới|v
 延医=mời y|v
@@ -8551,7 +8419,6 @@
 建醮=lập đàn làm phép|v
 建飞=Kiến Phi|v
 建鸣=kiến minh|v
-开=khai|v
 开上=mở lên/lái lên|v
 开下=mở/lái xuống|v
 开不开=có mở hay không/được hay không/mở hay không mở|v
@@ -8720,7 +8587,6 @@
 弃用=vứt bỏ|v
 弃绝=vứt đi/ném đi/ném bỏ/bỏ đi|v
 弃置=để qua một bên/vứt xó/xếp xó|v
-弄=lộng|v
 弄不好=làm không cẩn thận/gây chuyện không tốt|v
 弄伤=làm bị thương/lộng thương|v
 弄倒=chơi đổ/kiếm được|v
@@ -8762,7 +8628,6 @@
 弑杀=giết/giết chóc|v
 弑父=giết cha|v
 弑神=thí thần/giết thần|v
-引=dẫn|v
 引上=dẫn lên|v
 引乱=gây náo loạn|v
 引产=phá thai/dẫn sản|v
@@ -8915,7 +8780,6 @@
 强辩=cãi chày cãi cối/cãi bừa cãi cối/cường biện/chống chế|v
 强过=mạnh hơn|v
 强逼=cưỡng bức/ép buộc/cưỡng ép/bắt buộc|v
-归=quy|v
 归临=quy lâm|v
 归为=quy về|v
 归乡=trở lại quê hương|v
@@ -9013,7 +8877,6 @@
 彰明较著=hai năm rõ mười/rõ như ban ngày|v
 彰显=hiển lộ rõ ràng/chương hiển/biểu lộ ra|v
 影遁=ảnh độn|v
-彷=bàng|v
 彷似=giống như/hình như/dường như/tựa như|v
 彷佛=phảng phất/Phảng phất/thấy không được rõ ràng|v
 彷如=dường như|v
@@ -9041,7 +8904,6 @@
 往着=hướng|v
 往返=qua lại/đi tới đi lui/khứ hồi/lặp đi lặp lại/đi đi lại lại/chạy đi chạy lại/ngược hướng|v
 往还=đi về/qua lại/tiếp xúc/giao dịch|v
-征=chinh|v
 征令=chinh lệnh|v
 征伐=chinh phạt/thảo phạt/đánh dẹp|v
 征兵=trưng binh/gọi nhập ngũ/động viên lính|v
@@ -9187,10 +9049,8 @@
 得闲=rảnh rỗi/có thời gian rỗi|v
 得陪=phải bồi|v
 得靠=phải dựa vào|v
-徘=bồi|v
 徘徊=bồi hồi/quanh quẩn một chỗ/lưỡng lự/chần chừ/Bồi hồi/quanh co không tiến lên được|v
 徘徊不前=bồi hồi không tiến lên|v
-徜=thảng|v
 徜徉=thong thả/rong chơi/dạo chơi|v
 御驾=ngự giá|v
 徬徨=bàng hoàng|v
@@ -9228,7 +9088,6 @@
 忆及=nhớ tới|v
 忆起=nhớ lại/nhớ tới|v
 忆述=ức thuật|v
-忌=kỵ|v
 忌刻=đố kị/ghen ghét|v
 忌嘴=ăn kiêng|v
 忌妒=đố kị/ghen ghét/ghen tị/đố kỵ|v
@@ -9264,14 +9123,11 @@
 忍辱=nhẫn nhục|v
 忍道=nhẫn đạo|v
 忍野=Oshino|v
-忏=sám|v
 忏悔=sám hối|v
-忖=thốn|v
 忖度=đoán/ước đoán/phỏng đoán/̣đoán chừng/suy xét/thỗn đạc/bàn lường|v
 忖思=suy tính/cân nhắc|v
 忖道=nghĩ ngợi nói|v
 忖量=đoán/suy đoán/phỏng đoán/ước chừng/đắn đo/cân nhắc/tính toán|v
-忘=vong|v
 忘不了=quên không được/không quên được/không thể quên/tôi không thể quên nó|v
 忘不掉=không thể quên được|v
 忘义=vong nghĩa|v
@@ -9294,7 +9150,6 @@
 忘记掉=quên mất sạch|v
 忘返=vong phản|v
 忘食=vong thực|v
-忙=mang|v
 忙于=bề bộn nhiều việc/bận về việc../bận bịu|v
 忙到=bận đến|v
 忙道=vội nói/vội hỏi|v
@@ -9356,7 +9211,6 @@
 怂蛋=sợ trứng|v
 怂货=sợ hàng/túng hóa|v
 怂逼=nhát chết|v
-怄=âu|v
 怄气=bực bội/giận dỗi/âu khí|v
 怒叱=nổi giận quát|v
 怒吼=gầm thét/gào thét/rống giận/gầm lên giận dữ|v
@@ -9371,7 +9225,6 @@
 怔住=ngơ ngẩn/choáng váng|v
 怔怔=kinh ngạc/ngơ ngơ ngẩn ngẩn/ngơ ngẩn/ngơ ngác|v
 怔立=đứng run|v
-怕=phạ|v
 怜儿=Liên nhi|v
 怜怜=Liên Liên|v
 怜恤=thương yêu/thương xót/thương hại|v
@@ -9449,7 +9302,6 @@
 恢复过来=khôi phục lại/khôi phục như cũ|v
 恣态=vẻ phóng túng|v
 恣睢=làm liều/làm bậy/Thư tuy/trợn mắt nhìn người|v
-恨=hận|v
 恩冤=ân oán|v
 恪守=tuân thủ nghiêm ngặt|v
 恭祝=cung chúc/chúc|v
@@ -9578,7 +9430,6 @@
 惜弱=Tích Nhược|v
 惜惜=Tích Tích|v
 惟恐=chỉ e/chỉ lo/chỉ sợ|v
-惦=điếm|v
 惦念=nhớ/nhớ đến/nghĩ đến/nhớ nhung|v
 惦念着=nghĩ tới|v
 惦挂=nhớ/nhớ lại|v
@@ -9586,7 +9437,6 @@
 惦记=nhớ thương/nhớ/nhớ đến/nghĩ đến/nhớ nhung/lo lắng/điếm ký/ghi nhớ|v
 惦记着=nhớ/nhớ kỹ|v
 惦量=cân nhắc|v
-惧=cụ|v
 惧怕=e ngại/sợ hãi/sợ sệt|v
 惧惮=sợ sệt/sợ hãi|v
 惧意=ý sợ hãi/sợ hãi|v
@@ -9612,7 +9462,6 @@
 惯窃=kẻ cướp chuyên nghiệp/kẻ cắp chuyên nghiệp|v
 惯纵=nuông chiều/nuông/chiều/chiều chuộng|v
 惯骗=người dối trá/người lừa gạt|v
-想=tưởng|v
 想上=nghĩ lên/muốn lên|v
 想不出=nghĩ không ra/không nghĩ ra|v
 想不开=nghĩ quẩn/nghĩ không ra/luẩn quẩn trong lòng/nghĩ không thoáng/lởn vởn trong đầu/không thể xua đuổi khỏi ý nghĩ/không nghĩ ra|v
@@ -9737,7 +9586,6 @@
 想随=muốn theo|v
 想靠=muốn dựa vào|v
 想骂=muốn mắng/chửi|v
-惹=nhạ|v
 惹上=chọc/chọc phải|v
 惹下=trêu ra|v
 惹了=chọc|v
@@ -9764,7 +9612,6 @@
 意有=ý có|v
 意淫=ý dâm|v
 愚弄=lường gạt/lừa bịp/lừa dối/lừa gạt/ngu lộng/lừa gạt người|v
-愛=ái|v
 感伤=sầu não/buồn phiền/buồn rầu/buồn bã/thương cảm|v
 感佩=cảm phục/cảm kích khâm phục|v
 感兴=cảm hứng|v
@@ -9797,7 +9644,6 @@
 感谢=cảm tạ/cảm ơn|v
 感问=xin hỏi|v
 愠怒=tức giận/giận dỗi|v
-愣=lăng|v
 愣了=sửng sốt|v
 愣于=ngây ở|v
 愣住=sửng sốt|v
@@ -9819,7 +9665,6 @@
 愧汗=xấu hổ toát mồ hôi/vô cùng mắc cỡ/xấu hổ vô cùng|v
 愧道=thẹn nói|v
 愧领=áy náy/khó xử|v
-愿=nguyện|v
 愿不愿=có nguyện ý không|v
 愿不愿意=có nguyện ý hay không|v
 愿为=nguyện vì/nguyện làm|v
@@ -9851,9 +9696,7 @@
 憎恶=căm hận/ghét/căm ghét/ghê tởm/kinh tởm/tăng ác|v
 憧憬=ước mơ/hướng về/khát khao/thèm muốn/mơ ước/ham muốn mãnh liệt/mong mỏi/ao ước|v
 憨批=khờ phê|v
-憬=cảnh|v
 憬悟=tỉnh ngộ|v
-懂=đổng|v
 懂不懂=biết hay không/hiểu hay không/có hiểu hay không|v
 懂么=hiểu không|v
 懂事=hiểu chuyện/hiểu việc/biết điều/hiểu biết/có óc xét đoán/biết chuyện|v
@@ -9862,7 +9705,6 @@
 懂得=hiểu được/biết được/hiểu/biết|v
 懂点=hiểu chút|v
 懂行=hiểu công việc/thạo nghiệp vụ/thạo nghề/hiểu việc|v
-懊=áo|v
 懊丧=buồn nản/chán ngán/thất vọng/chán nản buồn rầu/nản lòng/ngã lòng/thoái chí/áo tang|v
 懊怨=hờn giận|v
 懊恨=căm hận/căm thù/căm ghét/oán hận|v
@@ -9927,13 +9769,10 @@
 戒饬=khuyên bảo/khuyên răn/nhắc nhở/động viên|v
 戕害=sát hại/giết hại|v
 戕贼=làm tổn thương/làm hại/tổn hại|v
-戗=thương|v
 战得=chiến đến/chiến đấu đến/chiến|v
 战抖=run rẩy/run/phát run/run cầm cập|v
 战起=chiến khởi|v
 戡乱=dẹp loạn/bình định sự nổi loạn|v
-戥=đẳng|v
-截=tiệt|v
 截下=chặn lại|v
 截为=ngăn làm|v
 截住=chặn đứng/ngừng lại/hãm lại/dừng lại/chặn bóng/chặn lại|v
@@ -9960,7 +9799,6 @@
 截道=cướp đường/giữa đường bị cướp|v
 截门=van/bộ chặn/bộ phận đóng mở|v
 截面=mặt cắt/tiết diện|v
-戳=trạc|v
 戳下=đâm xuống|v
 戳中=đâm trúng|v
 戳入=đâm vào|v
@@ -10115,7 +9953,6 @@
 扑进=nhào vào|v
 扑飞=bay nhào|v
 扑鼻=xông vào mũi/nức mũi|v
-扒=bái|v
 扒下=cởi xuống/lột xuống|v
 扒了=bóc/lột/bới|v
 扒入=và vào|v
@@ -10127,7 +9964,6 @@
 扒掉=lột|v
 扒窃=lấy trộm/móc túi/chạy nhanh|v
 扒饭=lùa cơm/bóc cơm|v
-打=đả|v
 打上=đánh lên/đánh tới|v
 打下=đánh xuống/đánh rớt xuống/đánh hạ/bắn rơi/hạ được/đặt/gầy dựng/gây/dựng/đặt xuống|v
 打下手=trợ thủ/người giúp việc/hạ thủ/làm trợ thủ|v
@@ -10385,7 +10221,6 @@
 打黑=càn quét băng đảng/Đả Hắc|v
 打鼓=bồn chồn/hồi hộp/lo lắng/lo ngay ngáy/đánh trống|v
 打鼾=ngáy|v
-扔=nhưng|v
 扔上=ném lên|v
 扔下=ném/đẩy/vứt/quăng - xuống/ném xuống|v
 扔下去=ném xuống|v
@@ -10427,7 +10262,6 @@
 扛起=nâng lên/gánh nổi|v
 扛过=khiêng qua/vượt qua|v
 扞格=hãn cách/chống cự|v
-扣=khấu|v
 扣上=cài lên/cài nút/chụp lên|v
 扣上去=chụp lên tới|v
 扣下=chụp xuống/giữ lại/trừ tiếp/trừ đi|v
@@ -10462,7 +10296,6 @@
 扣门=gõ cửa|v
 扣除=khấu trừ|v
 扦插=trồng/giâm|v
-执=chấp|v
 执书=cầm sách|v
 执事=chấp sự/nghi trượng|v
 执伞=cầm ô|v
@@ -10501,7 +10334,6 @@
 扩编=mở rộng/mở rộng biên chế|v
 扩阔=mở rộng|v
 扩音=khuếch đại âm thanh/phóng thanh|v
-扫=tảo|v
 扫上=quét dọn/quét lên/quét qua|v
 扫下=quét xuống|v
 扫中=quét trúng|v
@@ -10557,7 +10389,6 @@
 扬起=giơ lên/vung lên/nâng lên|v
 扬过=dương qua|v
 扬长=nghênh ngang|v
-扭=nữu|v
 扭伤=bị trật|v
 扭住=vặn lại|v
 扭动=vặn vẹo/giãy dụa|v
@@ -10579,7 +10410,6 @@
 扭腰=vặn eo|v
 扭身=quay thân/uốn người/xoay người|v
 扭转=xoay chuyển/thay đổi/xoay/quay/cải biến|v
-扮=phẫn|v
 扮作=ra vẻ/giả bộ/làm vẻ|v
 扮出=giả làm|v
 扮戏=hoá trang/diễn kịch/giả vờ|v
@@ -10589,7 +10419,6 @@
 扮着=giả trang|v
 扮装=hoá trang/cải trang/trang điểm|v
 扮鬼脸=làm mặt quỷ/làm ngoáo ộp/làm xấu/le lưỡi nhát ma|v
-扯=xả|v
 扯下=giật xuống/gạt/kéo xuống|v
 扯住=kéo lấy|v
 扯入=kéo vào|v
@@ -10675,7 +10504,6 @@
 扼死=bóp chết/siết cổ chết/bóp nghẹt|v
 扼着=giữ|v
 扼腕=bóp cổ tay/nắm cổ tay|v
-找=hoa|v
 找上=tìm tới|v
 找上来=tìm tới|v
 找上门=tìm tới cửa|v
@@ -10796,7 +10624,6 @@
 抑止=ức chế/nén/đè xuống/nén xuống|v
 抒写=miêu tả/mô tả|v
 抒发=biểu đạt/bày tỏ|v
-抓=trảo|v
 抓上=bắt lên/với lên/nắm lên|v
 抓下=vồ xuống/lấy xuống|v
 抓下来=lấy xuống/cào xuống|v
@@ -11011,12 +10838,8 @@
 抛过=ném qua|v
 抛进=ném bỏ vào|v
 抛锚=thả neo/gián đoạn/bỏ neo/hỏng|v
-抟=đoàn|v
-抠=khu|v
 抠入=móc vào|v
 抠唆=ì ạch/ì à ì ạch|v
-抡=luân|v
-抢=thưởng|v
 抢上=xông về phía trước|v
 抢下=giành lại|v
 抢不来=không giành được|v
@@ -11118,10 +10941,8 @@
 报账=hoàn trả|v
 报道=đưa tin/phát tin/bản tin/bài báo/báo cáo|v
 报销=thanh lý/chi trả/thanh toán/thanh lý/tiêu tùng/đi tong/sạch/xoá sạch|v
-抨=phanh|v
 抨击=công kích/đả kích|v
 抨舞=đánh múa|v
-披=phi|v
 披上=phủ thêm|v
 披创=nứt thương|v
 披发=tóc dài|v
@@ -11140,7 +10961,6 @@
 披露=công bố/phát biểu/tuyên bố/nói rõ/biểu lộ/bày tỏ|v
 披靡=tan tác/đỗ/gãy/tán loạn/tơi bời/phi mĩ/rẽ lướt/đổ|v
 披风=áo choàng/áo tơi/áo khoác ngoài/phi phong|v
-抬=sĩ|v
 抬上=đặt lên|v
 抬上去=mang lên|v
 抬上来=mang lên|v
@@ -11180,7 +11000,6 @@
 抬进=mang tới|v
 抬首=ngẩng đầu/ngửng đầu lên|v
 抬高=nâng lên/nâng cao|v
-抱=bão|v
 抱上=ôm vào/ẩm/ôm/ôm lên|v
 抱上去=ôm lên|v
 抱了=bế/ôm|v
@@ -11248,7 +11067,6 @@
 抵足而眠=ngủ chung/ngủ cùng giường|v
 抵达=đến/đến nơi/tới/đạt được|v
 抵还=trả nợ|v
-抹=mạt|v
 抹上=xoa/bôi lên|v
 抹下=vuốt xuống|v
 抹不开=ngượng nghịu/mất mặt/ngại ngùng/nghĩ không ra/nghĩ không thông|v
@@ -11276,7 +11094,6 @@
 抹除=xóa đi/lau đi|v
 抹零=không tính số lẻ/bỏ số lẻ|v
 抹黑=bôi đen/bôi nhọ|v
-抻=thân|v
 押上=áp lên|v
 押下=ấn xuống|v
 押中=áp trúng/trúng tủ|v
@@ -11292,7 +11109,6 @@
 押运=áp vận/áp tải/vận chuyển|v
 押送=áp giải/áp tải|v
 押阵=áp trận|v
-抽=trừu|v
 抽上=đánh lên/rút lên|v
 抽上去=quất lên|v
 抽下=kéo xuống/quất xuống|v
@@ -11369,9 +11185,7 @@
 拂拭=lau/quét/phủi/phất/phất thức/lau quét/lau chùi|v
 拂过=phất qua|v
 拂逆=nghịch/trái/làm trái|v
-拄=trụ|v
 拄着=chống/chỏi|v
-担=đam|v
 担上=gánh vác|v
 担下=đam hạ|v
 担不是=chịu lỗi/chịu trách nhiệm|v
@@ -11397,7 +11211,6 @@
 担负=nhận/chịu/gánh vác/phụ trách|v
 担起=gánh vác|v
 担足=gánh đủ|v
-拆=sách|v
 拆下=dỡ xuống/tháo|v
 拆下来=tháo ra|v
 拆不散=chia rẽ không được|v
@@ -11436,7 +11249,6 @@
 拆解=phá giải/hóa giải|v
 拆迁=phá dỡ/phá bỏ và dời đi nơi khác/sách thiên|v
 拆除=dỡ bỏ/tháo bỏ/phá bỏ|v
-拈=niêm|v
 拈住=vê vê|v
 拈在=kẹp ở|v
 拈来=nhặt ra|v
@@ -11490,7 +11302,6 @@
 拉锯=giằng co/lằng nhằng/cò cưa|v
 拉长=kéo dài|v
 拋开=dẹp/bỏ|v
-拌=phan|v
 拌匀=trộn đều|v
 拌合=trộn lẫn|v
 拌和=pha trộn/khuấy trộn/hoà|v
@@ -11498,7 +11309,6 @@
 拌蒜=chuếnh choáng/chân nam đá chân chiêu/chuệnh choạng/xiêu vẹo/chuếnh choáng vì say/say chếnh choáng|v
 拌面=phan diện/trộn mì/mì ăn kèm với nước tương|v
 拌饭=trộn cơm/bibimbap|v
-拍=phách|v
 拍下=chụp được/đập xuống/vỗ xuống/mua lấy|v
 拍下去=vỗ xuống|v
 拍中=vỗ trúng/đập trúng|v
@@ -11550,7 +11360,6 @@
 拍醒=đánh tỉnh|v
 拍马=thúc ngựa/vỗ ngựa|v
 拍马屁=vuốt mông ngựa/nịnh nọt/tâng bốc/a dua/bợ đít/nịnh hót|v
-拎=linh|v
 拐到=ngoặt đến/lừa gạt đến|v
 拐卖=lừa bán/lừa gạt buôn bán/gạt bán/gạt đem bán|v
 拐来=gạt đến|v
@@ -11569,7 +11378,6 @@
 拓展=phát triển/mở rộng|v
 拓扑=topol/topol (cấu trúc liên kết)|v
 拓荒=khai hoang/khẩn hoang/vỡ hoang|v
-拔=bạt|v
 拔下=rút ra/nhổ xuống/rút xuống|v
 拔下来=rút ra|v
 拔了=rút|v
@@ -11706,7 +11514,6 @@
 招降=chiêu hàng/kêu gọi đầu hàng|v
 招集=chiêu tập/triệu tập|v
 招领=mời nhận|v
-拜=bái|v
 拜下=cong xuống|v
 拜了=đã bái|v
 拜伏=bái phục|v
@@ -11745,7 +11552,6 @@
 拜过=bái qua/đã lạy|v
 拜门=đến thăm đáp lễ/bái sư/nhận sư phụ|v
 拜领=bái lĩnh|v
-拟=nghĩ|v
 拟作=tác phẩm mô phỏng/bài phỏng theo|v
 拟像=mô phỏng|v
 拟制=mô phỏng/được đề xuất/để sao chép|v
@@ -11759,7 +11565,6 @@
 拢岸=cập bến/ghé bến|v
 拢总=tính tổng/tính tổng cộng|v
 拢络=lung lạc|v
-拣=giản|v
 拣到=nhặt được|v
 拣去=lấy đi|v
 拣取=lựa lấy|v
@@ -11767,7 +11572,6 @@
 拣择=lựa chọn/tuyển chọn|v
 拣起=nhặt lên|v
 拣选=tuyển chọn/lựa chọn|v
-拥=ủng|v
 拥住=ôm|v
 拥入=ôm vào|v
 拥兵=ủng binh/cầm binh|v
@@ -11786,7 +11590,6 @@
 拥立=ủng lập|v
 拥簇=bao vây|v
 拥紧=ôm chặt/xiết chặt|v
-拦=lan|v
 拦下=ngăn lại|v
 拦不住=ngăn không được/không ngăn được|v
 拦了=ngăn cản|v
@@ -11807,14 +11610,12 @@
 拦车=đón xe|v
 拦道=ngăn lại nói|v
 拦阻=cản trở/ngăn/cản lại/ngăn trở/gây trở ngại/lấp/làm bế tắc/làm nghẽn/ngăn lại|v
-拧=ninh|v
 拧住=vặn chặt/bóp lấy|v
 拧巴=xoắn xuýt/vặn ba|v
 拧干=vắt khô|v
 拧开=vặn ra/mở đinh ốc|v
 拧断=bẻ gãy/bẻ gảy|v
 拧紧=vặn chặt|v
-拨=bát|v
 拨乱=đẩy loạn|v
 拨付=trích cấp|v
 拨出=thông qua/rút ra|v
@@ -11847,7 +11648,6 @@
 拨通=bấm/gọi thông|v
 拨马=thúc ngựa|v
 拨高=bát cao|v
-择=trạch|v
 择业=chọn nghề nghiệp|v
 择主=chọn chủ/trạch chủ|v
 择交=chọn bạn/chọn bạn mà chơi|v
@@ -11862,7 +11662,6 @@
 拭目=rửa mắt/lau mắt|v
 拮抗=đối kháng|v
 拯救=cứu vớt/cứu/cứu vãn|v
-拱=củng|v
 拱上=đẩy lên|v
 拱入=bọc vào|v
 拱出=mọc ra|v
@@ -11877,7 +11676,6 @@
 拱起=chắp lên|v
 拱进=chui vào|v
 拳击=quyền kích/quyền anh/đánh bốc|v
-拴=thuyên|v
 拴住=buộc lại|v
 拴着=buộc lấy/đổi|v
 拴缚=buộc/trói/cột/hà hiếp/ức hiếp/lấn át|v
@@ -11913,9 +11711,7 @@
 拼装=lắp lên/bính trang|v
 拼起=ghép thành|v
 拼酒=đụng rượu/cụng rượu|v
-拽=duệ|v
 拽了起来=lôi dậy|v
-拾=thập|v
 拾取=nhặt/mót/lượm lặt|v
 拾回=thu hồi|v
 拾头=ngước|v
@@ -11924,7 +11720,6 @@
 拾荒=nhặt ve chai/nhặt mót/mót lúa/thập hoang/nhặt rác|v
 拾起=nhặt lên|v
 拾遗=nhặt của rơi/bổ sung|v
-拿=nã|v
 拿上=cầm lên/nắm lấy|v
 拿上来=mang lên|v
 拿下=cầm xuống/bắt lại/bắt/nắm bắt|v
@@ -11978,7 +11773,6 @@
 持证=cầm chứng nhận/có giấy phép|v
 持身=giữ mình/đòi hỏi bản thân/kềm chế|v
 持重=cẩn thận/cẩn trọng/cầm trọng/trì trọng|v
-挂=quải|v
 挂上=phủ lên/quải thượng/cúp/treo lên|v
 挂上去=treo lên|v
 挂不住=không nhịn được/không nén được giận|v
@@ -12151,7 +11945,6 @@
 挖进=đào vào|v
 挛缩=co quắp/co|v
 挞伐=thảo phạt/đánh dẹp|v
-挟=hiệp|v
 挟住=kẹp lại/hợp với|v
 挟制=dùng thế lực bắt ép/khống chế|v
 挟嫌=ôm mối hận|v
@@ -12160,7 +11953,6 @@
 挟着=ôm theo/kẹp lấy/hiệp|v
 挟裹=cuốn theo/bọc|v
 挟迫=kẹp tới/cặp tới/bức bách tới|v
-挠=nạo|v
 挠下=cào|v
 挠挠=gãi gãi|v
 挠痒=gãi ngứa/cù lét|v
@@ -12182,7 +11974,6 @@
 挡脸=che mặt|v
 挡道=cản đường|v
 挡驾=từ chối khéo/không dám phiền|v
-挣=tránh|v
 挣不来=không kiếm được|v
 挣不脱=giãy dụa mà không thoát/không thoát được|v
 挣了钱=kiếm được tiền|v
@@ -12200,7 +11991,6 @@
 挣破=tránh phá|v
 挣脱=tránh thoát/giãy giụa/giãy/quẫy/vùng/giãy giụa - thoát ra/ra/thoát khỏi/tránh thoát|v
 挣钱=kiếm tiền/1.thu được/giành được/kiếm được|v
-挤=tễ|v
 挤上=chen lên|v
 挤下=dồn xuống|v
 挤住=dồn chặt/chen|v
@@ -12235,7 +12025,6 @@
 挤轧=gạt bỏ nhau/bài trừ nhau|v
 挤进=chen vào/chen lên trước/chui vào|v
 挤进去=chen vào|v
-挥=huy|v
 挥下=vung xuống|v
 挥使=sai|v
 挥兵=xua binh|v
@@ -12267,7 +12056,6 @@
 挥退=vẫy lui/vẫy tay ra hiệu cho lui|v
 挥霍=tiêu xài/tiêu pha/phung phí/hoang phí/tiêu tiền như nước/tự nhiên/phóng khoáng/không gò bó/huy hoắc|v
 挥鞭=vung roi|v
-挨=ai|v
 挨了=đã trúng/bị/chịu/trúng|v
 挨刀=bị chém|v
 挨到=kề đến|v
@@ -12350,7 +12138,6 @@
 挺配=thật xứng/rất xứng|v
 挺长=rất dài/thẳng dài|v
 挼搓=vò/làm nát/vò nát|v
-挽=vãn|v
 挽住=kéo lại/khoác ở|v
 挽具=dụng cụ mắc vào súc vật kéo xe|v
 挽出=kéo ra|v
@@ -12368,7 +12155,6 @@
 挽联=câu đối phúng điếu|v
 挽起=kéo lên/vén lên|v
 挾持=hiệp trì/cậy thế bắt buộc người phải theo mình|v
-捂=ô|v
 捂上=che lên/che|v
 捂住=che|v
 捂嘴=che miệng|v
@@ -12381,7 +12167,6 @@
 捂起=che lên|v
 捂面=che mặt|v
 捂额=che trán|v
-捅=thống|v
 捅入=đâm vào|v
 捅出=chọc ra|v
 捅咕=đụng/va/chọc/kích động/xúi giục/xúi bẩy|v
@@ -12389,7 +12174,6 @@
 捅破=xuyên phá/đâm/chọc/đụng/va - vỡ/đứt/thủng/chọc thủng|v
 捅穿=đâm xuyên|v
 捅进=đâm vào|v
-捆=khổn|v
 捆上=trói lên|v
 捆了=trói/buộc|v
 捆住=trói lại|v
@@ -12404,7 +12188,6 @@
 捆绑=buộc chặt/bondage/trói/buộc/ràng buộc/tóm/bắt/trói gô|v
 捆缚=trói buộc/khổn trói|v
 捆起来=trói lại|v
-捉=tróc|v
 捉上=tóm được|v
 捉住=bắt được|v
 捉刀=làm văn hộ/viết thay người khác|v
@@ -12418,19 +12201,15 @@
 捉议=tróc nghị|v
 捉起=bắt lấy|v
 捉鱼=bắt cá|v
-捋=loát|v
 捋动=vuốt|v
 捋虎须=vuốt râu hùm/mạo hiểm/liều lĩnh/làm càn|v
 捋起=vén lên|v
-捍=hãn|v
 捍卫=bảo vệ/giữ gìn/gìn giữ|v
 捍拒=kháng cự/chống lại|v
 捍格=mâu thuẫn/chống đối/xung đột|v
 捍蔽=che chở/bảo vệ|v
-捎=sao|v
 捎带=tiện thể/mang kèm/mang hộ/sao đái|v
 捎脚=chở kèm/đi nhờ xe|v
-捏=niết|v
 捏一捏=xoa bóp|v
 捏了=nhéo|v
 捏住=nắm/nắm được|v
@@ -12450,7 +12229,6 @@
 捏诀=bấm quyết|v
 捏起=cầm bốc lên/bốc lên|v
 捏造=tạo ra/bịa đặt/đặt điều/đặt chuyện/giả tạo|v
-捐=quyên|v
 捐助=quyên giúp/giúp đỡ/hiến tặng/quyên góp|v
 捐弃=vứt bỏ/bỏ đi|v
 捐掉=quyên điệu|v
@@ -12460,7 +12238,6 @@
 捐资=quyên tiền/quyên góp/đóng góp quỹ|v
 捐赠=quyên tặng/quyên/tặng/biếu|v
 捐输=quyên góp/đóng góp|v
-捕=bộ|v
 捕到=bắt được|v
 捕处=bắt xử/bắt và trừng trị|v
 捕头=bổ đầu|v
@@ -12476,7 +12253,6 @@
 捕获=bắt được/tóm được/vồ trúng/bổ hoạch|v
 捕食=săn mồi/ăn thịt/vồ/bắt mồi|v
 捕鱼=bắt cá|v
-捞=lao|v
 捞下=lấy lại|v
 捞住=vét được|v
 捞光=vét sạch/mò sạch|v
@@ -12495,7 +12271,6 @@
 损失费=tổn thất phí|v
 损害=tổn hại|v
 损毁=tổn hại/hư mất|v
-捡=kiểm|v
 捡回=nhặt về|v
 捡拾=lục tìm/tìm kiếm|v
 捡来=nhặt được|v
@@ -12540,7 +12315,6 @@
 换装=thay đổi trang phục/thay đổi quần áo|v
 换钱=đổi tiền/bán lấy tiền/bán được tiền|v
 换防=thay quân/đổi quân/thay đổi bộ đội dồn trú và canh phòng|v
-捣=đảo|v
 捣乱=quấy rối/phá đám/gây rối/làm loạn/gây phiền phức/gây phiền hà/phiền toái|v
 捣弄=gây rối|v
 捣死=đâm chết|v
@@ -12551,7 +12325,6 @@
 捣蛋=gây sự/phá phách/gây chuyện/càn quấy/đảo đản|v
 捣鬼=giở trò/phá rối/quấy rối/giở trò ma mãnh|v
 捣鼓=chơi đùa/trêu ghẹo/trêu ghẹo mãi/đùa dai/kinh doanh/buôn bán/mua đi bán lại/đảo cổ/mua bán lại|v
-捧=phủng|v
 捧住=bưng lấy/nâng lên|v
 捧出=bưng ra/nâng lên|v
 捧哏=vai phụ|v
@@ -12581,7 +12354,6 @@
 捶腿=đấm chân|v
 捻碎=bóp nát|v
 捻起=vê lên/vê lại|v
-掀=hiên|v
 掀下=nhấc xuống|v
 掀不起=không nổi lên được|v
 掀了=xốc/vén|v
@@ -12596,7 +12368,6 @@
 掀翻=lật tung/ném đi|v
 掀起=nhấc lên/vén/mở/trào dâng/cuộn/dâng lên/dấy lên|v
 掀飞=tung bay/hất bay|v
-掂=điêm|v
 掂对=suy tính/cân nhắc/bàn bạc/thương lượng/đổi/đổi chỗ/thay/đổi cho nhau|v
 掂掇=suy tính/cân nhắc/bàn bạc/thương lượng/tính toán/đánh giá/cho rằng|v
 掂起=nhấc lên|v
@@ -12676,7 +12447,6 @@
 掏空=móc sạch/lấy hết|v
 掏腰包=xuất tiền túi/bỏ tiền túi/móc túi/móc tiền túi|v
 掏钱=bỏ tiền|v
-掐=kháp|v
 掐了=kháp/bóp/bấm véo/bấm|v
 掐住=bóp lấy/véo lấy/nhéo ở|v
 掐动=kết động/bắt|v
@@ -12747,16 +12517,12 @@
 排长=cai/trung đội trưởng|v
 排除=bài trừ/gạt bỏ/loại bỏ|v
 排雷=gỡ mìn/gỡ địa lôi|v
-掖=dịch|v
-掘=quật|v
 掘井=đào giếng|v
 掘去=đào tới|v
 掘土=đào đất/quật thổ|v
 掘墓=đào mộ|v
 掘开=đào ra|v
 掘进=đào hầm lò/khoan sâu|v
-掛=quải|v
-掠=lược|v
 掠上=lướt lên|v
 掠下=lướt xuống|v
 掠入=lướt vào|v
@@ -12829,7 +12595,6 @@
 探长=thám trưởng|v
 探问=hỏi thăm/dò hỏi/thăm hỏi|v
 探马=thám mã/trinh sát kị binh|v
-掣=xế|v
 掣出=rút ra|v
 掣电=chớp/chớp giật/nhá điện|v
 掣肘=cản tay/cản trở/nắm cánh tay kéo lại/bó cánh tay|v
@@ -12915,7 +12680,6 @@
 接驳=tiếp nhận|v
 接驾=tiếp giá/kiến giá|v
 接骨=nối xương/bó xương|v
-控=khống|v
 控制=khống chế/kiểm soát/chế ngự/kiềm chế|v
 控制台=đài điều khiển|v
 控制论=lý thuyết khống chế/lý thuyết kiểm soát/lý thuyết điều khiển|v
@@ -12927,7 +12691,6 @@
 控股=cổ phần khống chế/khống cổ|v
 控能=điều khiển năng lượng|v
 控诉=lên án/khiếu tố/tố cáo|v
-推=thôi|v
 推上=đẩy lên/đẩy tới|v
 推下=đẩy tới/đẩy xuống|v
 推下去=đẩy xuống|v
@@ -13018,7 +12781,6 @@
 推门=đẩy cửa|v
 推问=xét hỏi/tra hỏi|v
 推飞=đẩy bay|v
-掩=yểm|v
 掩上=cài đóng/che lại/che đi|v
 掩不住=không thể che hết/không che giấu được|v
 掩住=che lại|v
@@ -13038,9 +12800,6 @@
 掩门=khép cửa|v
 掩饰=che giấu/che đậy|v
 掩鼻=che/bịt mũi|v
-掬=cúc|v
-掭=thiệm|v
-掰=bài|v
 掰下=bẻ/bẻ xuống|v
 掰住=tách ra|v
 掰开=đẩy ra|v
@@ -13060,11 +12819,8 @@
 掳掠=cướp giật/bắt cóc/bắt người cướp của/bắt cóc cướp giật|v
 掳获=bắt lại|v
 掳走=bắt đi|v
-掴=quặc|v
-掷=trịch|v
 掷入=ném vào|v
 掷骰子=đổ xúc xắc|v
-掸=đạn|v
 掺与=hoà trộn|v
 掺假=giả dối|v
 掺入=trộn lẫn vào/lẫn vào|v
@@ -13073,7 +12829,6 @@
 掺扶=dìu dắt|v
 掺杂=trộn lẫn/sảm tạp/lẫn lộn|v
 掺水=trộn nước/vô ích|v
-揉=nhu|v
 揉乱=vò rối|v
 揉动=vò nặn|v
 揉合=nhu hợp|v
@@ -13089,9 +12844,6 @@
 揉磨=giày vò|v
 揉身=nhào thân|v
 揉面=nhu diện/vò mì|v
-揍=tấu|v
-揎=tuyên|v
-描=miêu|v
 描写=miêu tả/mô tả|v
 描刻=đồ lại|v
 描叙=miêu tả|v
@@ -13103,7 +12855,6 @@
 描绘=miêu tả/mô tả/miêu hội|v
 描边=tô viền|v
 描述=miêu tả|v
-提=đề|v
 提上=nâng lên/đưa lên/nhấc lên|v
 提上去=nâng lên|v
 提上来=đề lên|v
@@ -13233,7 +12984,6 @@
 插遍=xuyên khắp|v
 插销=then cài cửa/chốt cài cửa/đầu cắm/phích cắm|v
 揖让=thi lễ/vái chào và khiêm nhường|v
-握=ác|v
 握上=nắm lấy|v
 握于=giữ|v
 握住=nắm chặt/cầm chặt/cầm|v
@@ -13249,7 +12999,6 @@
 握笔=cầm bút|v
 握紧=nắm chặt|v
 握起=nắm lên|v
-揣=sủy|v
 揣入=cất vào/cuộn vào|v
 揣到=nhét vào|v
 揣度=ước đoán/đo lường được/suy đoán/đoán chừng|v
@@ -13259,12 +13008,10 @@
 揣测=phỏng đoán/ước chừng/đo lường/suy đoán/áng chừng/ước đoán|v
 揣着=cất/suy đoán/áng chừng|v
 揣进=nhét vào/ôm vào|v
-揩=khai|v
 揩去=lau/chùi/cọ/chải - đi|v
 揩拭=phủi/lau sạch/lau chùi/cọ sạch/vét sạch/quét sạch|v
 揩擦=lau sạch|v
 揩油=chấm mút/ăn bớt/cắt xén/cướp/đoạt/khai du|v
-揪=thu|v
 揪下=thu hạ|v
 揪住=nắm chặt/nhéo/níu lấy/tóm chặt|v
 揪出=bắt được|v
@@ -13296,7 +13043,6 @@
 援手=viện thủ/cứu trợ/cứu giúp/giúp đỡ/viện trợ/cứu viện|v
 援救=cứu viện/cứu giúp|v
 揶揄=chế nhạo/cười nhạo|v
-揽=lãm|v
 揽下=ôm lấy|v
 揽住=kéo lại/nắm ở|v
 揽到=nắm vào/vơ tới|v
@@ -13318,7 +13064,6 @@
 搀着=dìu lấy|v
 搀袭=tập kích|v
 搀起=dìu lên|v
-搁=các|v
 搁下=gác lại|v
 搁不住=không chịu đựng nổi/không chịu được|v
 搁倒=đánh gục|v
@@ -13329,7 +13074,6 @@
 搁着=đặt|v
 搁笔=để bút xuống/gác bút/dừng bút|v
 搁置=gác lại/bỏ/xếp lại/để|v
-搂=lâu|v
 搂上=ôm lên/trên lầu/ôm|v
 搂下=dưới lầu|v
 搂住=ôm|v
@@ -13342,7 +13086,6 @@
 搂紧=ôm sát/ôm chặt|v
 搂起=ôm lên|v
 搂进=kéo vào|v
-搅=giảo|v
 搅乱=đảo loạn/phá rối/quấy rối|v
 搅出=khuấy lên|v
 搅动=khuấy động/quấy/trộn/khuấy/quấy rối/quấy nhiễu/quậy/khuấy lên|v
@@ -13357,7 +13100,6 @@
 搅起=quấy lên/khuấy lên|v
 搅闹=quấy rầy/ồn ào/làm ồn/ầm ĩ|v
 搅黄=quấy nhiễu/Giảo Hoàng/quấy tung|v
-搋=trĩ|v
 搏上=bác thượng|v
 搏出=đánh ra|v
 搏击=bác kích/vật lộn/đọ sức quyết liệt|v
@@ -13368,19 +13110,16 @@
 搐动=giật giật/rung rung/rùng/cột/buộc/trói/do dự/ngần ngại/lưỡng lự|v
 搐搦=co giật|v
 搐缩=cơ thể co lại/rút lại/co lại/rút vào|v
-搓=tha|v
 搓合=tác hợp|v
 搓弄=xoa lấy|v
 搓手=xoa tay|v
 搓洗=chà rửa/chà xát/để chà sạch|v
 搓澡=kỳ cọ tắm rửa/tắm kỳ|v
 搓着=xoa xoa|v
-搔=tao|v
 搔动=rung động|v
 搔头=gãi đầu|v
 搔扰=quấy rầy|v
 搔痒=gãi ngứa|v
-搛=kiêm|v
 搜不出=lục soát không ra|v
 搜书=tìm sách|v
 搜出=tìm ra|v
@@ -13402,7 +13141,6 @@
 搜遍=tìm khắp|v
 搜集=sưu tập/sưu tầm/thu thập/thu góp|v
 搜齐=tìm đầy đủ|v
-搞=cảo|v
 搞上=làm lên/nhặt được/cua được/cảo thượng|v
 搞上去=làm lên/làm tiếp|v
 搞不到=không lấy được|v
@@ -13433,10 +13171,7 @@
 搞钱=kiếm tiền|v
 搞错=lầm|v
 搞鬼=giở trò quỷ/giở trò/ngấm ngầm giở trò|v
-搠=sóc|v
-搡=táng|v
 搪塞=qua loa tắc trách/làm lấy lệ/qua loa lấy lệ|v
-搬=bàn|v
 搬上=mang lên|v
 搬下=chuyển xuống|v
 搬不动=mang không nổi/không xê dịch nổi|v
@@ -13471,7 +13206,6 @@
 搬运工=công nhân bốc vác/cửu vạn|v
 搬运费=tiền chuyên chở|v
 搬进=chuyển vào/dọn vào/dời vào|v
-搭=đáp|v
 搭上=dựng vào/khoác/liên lụy/đậu vào|v
 搭上来=phủ tới|v
 搭乘=ngồi/lên tàu|v
@@ -13522,16 +13256,13 @@
 搭送=đáp tống|v
 搭配=phối hợp/kết hợp/kèm theo/tương xứng/trộn lẫn/xứng/hợp|v
 搭钩=liên hệ/liên lạc/tiếp xúc|v
-携=huề|v
 携带=mang theo|v
 携手=dắt tay/tay nắm tay/cặp tay/bắt tay|v
 携款=mang theo khoản tiền|v
 携着=mang theo/dắt|v
 携走=mang theo chạy|v
-搽=trà|v
 搽着=bôi lấy|v
 搽粉=đánh phấn/bột|v
-摁=ân|v
 摄于=chụp ảnh ở|v
 摄住=nhiếp trụ/thu lấy|v
 摄像=quay phim/camera|v
@@ -13547,7 +13278,6 @@
 摄生=giữ sức khoẻ|v
 摄行=thừa hành|v
 摄走=thu đi|v
-摆=bãi|v
 摆上=mang lên|v
 摆下=bày xuống/bày ra|v
 摆不脱=không thoát khỏi|v
@@ -13632,7 +13362,6 @@
 摒息=nín thở/bính tức|v
 摒绝=giải thoát/giũ sạch/tống khứ|v
 摒除=bài trừ|v
-摔=suất|v
 摔下=quẳng xuống/té xuống|v
 摔下去=té xuống|v
 摔下来=ngã xuống/té xuống|v
@@ -13715,13 +13444,11 @@
 摸透=mò thấy|v
 摸遍=sờ khắp|v
 摸错=sờ lộn/lầm|v
-摹=mô|v
 摹仿=mô phỏng/bắt chước|v
 摹写=mô tả/viết phỏng theo/miêu tả|v
 摹拟=mô phỏng/bắt chước|v
 摹绘=miêu tả/khắc hoạ|v
 摺叠=gấp lại|v
-撂=lược|v
 撂下=quẳng xuống|v
 撂倒=quật ngã/gạt ngã|v
 撂出=lược xuất|v
@@ -13742,7 +13469,6 @@
 撇气=cho bớt tức|v
 撇清=rũ sạch/bỏ ngay/phiết thanh|v
 撇脱=nhanh nhẹn/nhanh nhạy/sảng khoái/cởi mở/hào phóng|v
-撑=xanh|v
 撑上=chống đỡ|v
 撑不住=nhịn không được/không chịu được nữa|v
 撑伞=bung dù/mở dù/che dù|v
@@ -13788,7 +13514,6 @@
 撒赖=ăn vạ/vô lại/ngang ngược|v
 撒足=vung chân|v
 撒遍=rải khắp|v
-撕=tê|v
 撕下=kéo xuống/xé xuống|v
 撕了=xé đi/xé/tê/vả/xé ra|v
 撕光=xé sạch|v
@@ -13812,7 +13537,6 @@
 撕票=giết con tin|v
 撕裂=xé rách/tê liệt|v
 撙节=tiết kiệm/dành dụm/dè xẻn/ky cóp|v
-撞=chàng|v
 撞上=đụng vào/đánh lên/va vào|v
 撞下=đập xuống|v
 撞中=đụng trúng/va trúng|v
@@ -13861,7 +13585,6 @@
 撞门=xô cửa|v
 撞飞=đụng bay/đánh bay|v
 撞骗=đánh lừa/lừa dối/lừa lọc/dối trá/lừa bịp/lừa đảo/chàng phiến|v
-撤=triệt|v
 撤下=triệt hạ/lui lại|v
 撤入=lui vào|v
 撤兵=triệt binh/lui quân/rút quân/thoái binh|v
@@ -13888,7 +13611,6 @@
 撤销=huỷ bỏ/bãi bỏ/thủ tiêu/miễn trừ/tha miễn/tha/triệt tiêu|v
 撤防=triệt phòng/tiêu diệt quân đồn trú/phá huỷ công sự|v
 撤除=bỏ/tháo dỡ/thủ tiêu/loại bỏ/phá huỷ/triệt phá/triệt trừ|v
-撩=liêu|v
 撩乱=hỗn loạn/lộn xộn|v
 撩人=chọc người/liêu nhân|v
 撩动=lay động/rung động/lướt nhẹ qua|v
@@ -13933,16 +13655,13 @@
 撵开=đuổi đi|v
 撵走=đuổi đi|v
 撷取=ngắt lấy|v
-撺=thoán|v
 撺弄=khuyến khích/xui/kích/kích thích/khích động/khêu gợi/xúi giục/gây ra|v
 撺掇=khuyến khích/xui/kích/xúi giục/kích động/xúi bẩy/thúc đẩy/giục giã|v
-撼=hám|v
 撼世=hám thế|v
 撼击=hám kích|v
 撼动=rung chuyển/lay động/chấn động/rung động/dao động|v
 撼地=hám địa|v
 撼摇=lắc lư|v
-擂=lôi|v
 擂主=đài chủ|v
 擂动=gióng lên|v
 擂台=lôi đài/võ đài/đấu trường|v
@@ -13963,7 +13682,6 @@
 擅离=tự ý rời/thiện tiện rời|v
 擅长=am hiểu/sở trường/giỏi/khả năng đặc biệt|v
 擅闯=tự tiện xông vào|v
-操=thao|v
 操于=nằm trong|v
 操作=thao tác/kỹ thuật/làm việc/lao động|v
 操刀=cầm đao|v
@@ -13998,10 +13716,8 @@
 操运=thao vận|v
 操进=địt vào|v
 操逼=cưỡng ép/cưỡng bức|v
-擎=kình|v
 擎出=phát ra|v
 擎着=vác lên/nâng lên|v
-擒=cầm|v
 擒下=bắt giữ|v
 擒住=bắt|v
 擒回=bắt về|v
@@ -14014,8 +13730,6 @@
 擘画=sắp xếp tính toán/lập kế hoạch/trù tính dự kiến/sắp xếp/tính toán/trù tính/dự kiến|v
 擢升=thăng chức/đề bạt/cất nhắc|v
 擢用=cất nhắc/thăng chức bổ nhiệm|v
-擤=hanh|v
-擦=sát|v
 擦中=quẹt vào|v
 擦了=lau/chà xát|v
 擦亮=đánh bóng/chà bóng|v
@@ -14045,7 +13759,6 @@
 擦过=sát qua/lau qua|v
 擦除=tẩy|v
 擦黑=gần đen|v
-擬=nghĩ|v
 攀上=trèo lên/đặt lên/leo lên|v
 攀上去=trèo lên phía trên/leo lên|v
 攀下=leo xuống|v
@@ -14069,7 +13782,6 @@
 攀越=vượt qua|v
 攀附=leo lên/bò lên/dựa thế/cậy quyền|v
 攀高=trèo cao|v
-攉=hoắc|v
 攒下=để dành được/tích góp lại|v
 攒刺=toàn đâm|v
 攒动=nhốn nháo|v
@@ -14079,7 +13791,6 @@
 攘夺=cưỡng đoạt/cướp đoạt/cướp|v
 攘攘=nhốn nháo|v
 攘除=bài trừ/loại bỏ/trừ bỏ|v
-攥=toản|v
 攫住=chiếm lấy/vồ lấy|v
 攫到=chiếm được|v
 攫取=cướp lấy/chiếm lấy/chộp lấy|v
@@ -14279,7 +13990,6 @@
 攻防=công thủ/công phòng|v
 攻陷=công hãm/đánh hạ/đánh chiếm|v
 攻难=buộc tội/kết tội/trách móc|v
-放=phóng|v
 放上=để lên|v
 放上去=để lên|v
 放下=buông xuống/buông/để xuống/bỏ xuống/kéo xuống/hạ bệ/thả xuống|v
@@ -14420,7 +14130,6 @@
 救醒=cứu tỉnh|v
 救错=cứu lầm|v
 救驾=cứu giá|v
-敘=tự|v
 教唆=xúi giục/xúi bẩy/xúi bảo|v
 教坏=dạy hư|v
 教完=dạy xong|v
@@ -14437,7 +14146,6 @@
 敛足=dừng chân/dừng bước|v
 敛迹=thu mình lại/che giấu tung tích/uốn nắn bản thân/gò ép bản thân/ráng chịu đựng/từ chức ở ẩn|v
 敛钱=quyên tiền/góp tiền|v
-敞=sưởng|v
 敞亮=rộng thoáng/thoải mái/rộng rãi thoáng mát/rộng rãi sáng sủa/sưởng lượng|v
 敞口=miệng rộng/mở miệng/một cách tự do|v
 敞宽=rộng rãi|v
@@ -14523,7 +14231,6 @@
 数到=đếm tới|v
 数叨=quở trách/kể lể|v
 数完=đếm xong|v
-敲=xao|v
 敲上=gõ lên|v
 敲下=đánh xuống/gõ xuống|v
 敲中=đánh trúng|v
@@ -14562,7 +14269,6 @@
 整除=chia hết/chia chẵn/chia không dư|v
 整集=chỉnh tập|v
 整饬=chỉnh đốn/chấn chỉnh/chỉnh tề/có ngăn nắp/ngay ngắn|v
-敷=phu|v
 敷上=đắp lên|v
 敷在=thoa lên|v
 敷料=bông băng|v
@@ -14602,13 +14308,11 @@
 斜躺=nằm nghiêng|v
 斜靠=dựa vào/nghiêng người|v
 斜高=đường cao nghiêng|v
-斟=châm|v
 斟满=rót đầy|v
 斟茶=châm trà|v
 斟酌=châm chước/cân nhắc/đắn đo|v
 斟酌一下=cân nhắc một chút|v
 斟酒=rót rượu|v
-斡=oát|v
 斡旋=hòa giải/quay vần/hoà giải/trung gian hoà giải/điều đình/oát toàn|v
 斡立=Hàn Lập|v
 斥之为=trách là|v
@@ -14877,7 +14581,6 @@
 易手=thay chủ/đổi chủ/đổi tay|v
 易碎=dễ vỡ/Dễ vỡ|v
 易行=Dịch Hành|v
-映=ánh|v
 映像=hình ảnh|v
 映入=ánh vào/chiếu vào/đập vào/giọi vào|v
 映出=chiếu ra/ánh ra|v
@@ -14894,12 +14597,10 @@
 春光外泄=xuân quang ngoại tiết|v
 春光漏泄=chuyện gian dâm bị phát giác|v
 春困=xuân khốn|v
-昧=muội|v
 昭告=chiêu cáo|v
 昭彰=rõ ràng/rõ rệt|v
 昭示=tỏ rõ/tuyên bố rõ ràng|v
 昭顾=chiếu cố|v
-是=thị|v
 是否=phải chăng/có hay không/phải chăng/hay không|v
 是和=là cùng/là hòa|v
 是坏=là xấu|v
@@ -14914,7 +14615,6 @@
 是迫=cấp tốc/bức bách|v
 是降=là hàng|v
 是非=không phải là/thị phi/là phi/đúng sai/phải trái/chuyện lôi thôi/điều rắc rối|v
-显=hiển|v
 显世=hiển thế|v
 显位=hiển vị|v
 显出=hiện ra|v
@@ -14946,7 +14646,6 @@
 显身=hiện thân|v
 显达=hiển đạt/làm nên|v
 显露=hiển lộ/lộ rõ/hiện rõ/thể hiện rõ|v
-晃=hoảng|v
 晃入=chiếu vào|v
 晃动=lắc lư/hoảng động/lay động/đu đưa/chớp lên/đung đưa|v
 晃动起来=đung đưa|v
@@ -14961,7 +14660,6 @@
 晋到=đi tới|v
 晋剧=tấn kịch|v
 晋身=tấn thân|v
-晒=sái|v
 晒伤=bỏng nắng|v
 晒图=phục chế bản vẽ/in ô-da-lít|v
 晒得=phơi|v
@@ -14970,7 +14668,6 @@
 晒黑=rám đen|v
 晓得=hiểu được/biết/hiểu|v
 晓示=nói rõ cho biết|v
-晕=vựng|v
 晕了=hôn mê|v
 晕倒=té xỉu|v
 晕厥=ngất/hôn mê/xỉu/ngất xỉu|v
@@ -15134,7 +14831,6 @@
 替补=dự bị/thay thế bổ sung|v
 替身=thế thân/người thay thế/người chịu tội thay/tốt đen/chốt đen/Stand|v
 最优化=tối ưu hóa nhất|v
-有=hữu|v
 有为=có vì/có triển vọng/đầy hứa hẹn/có chút/hữu vi/có làm|v
 有事吗=có chuyện gì sao|v
 有伤=có tổn thương/có thương tích|v
@@ -15274,7 +14970,6 @@
 机毁=phi cơ hủy|v
 朽烂=mục nát|v
 朽腐=mục nát|v
-杀=sát|v
 杀上=giết tới/giết đến tận|v
 杀了=giết|v
 杀价=ép giá|v
@@ -15336,7 +15031,6 @@
 束起=buộc lên|v
 束身=giữ mình/tự rèn mình/tự trói buộc/thúc thân|v
 条畅=lưu loát/mạch lạc|v
-来=lai|v
 来不及=không kịp|v
 来不得=không thể có/không nên có/không thể cho phép/cấm|v
 来世=đời sau/kiếp sau/kiếp lai sinh|v
@@ -15551,7 +15245,6 @@
 栽有=có trồng|v
 栽植=trồng/trồng trọt/vun trồng|v
 栽进=ngã vào/trồng vào|v
-梗=ngạnh|v
 梗咽=nghẹn ngào/nghẹn lời/ngạnh ế/nghẹn cổ không nói ra được|v
 梗塞=tắc nghẽn/bế tắc/tắc/nhồi máu/hoại tử bộ phận|v
 梗死=nhồi máu/hoại tử bộ phận|v
@@ -15566,7 +15259,6 @@
 梦醒=mộng tỉnh/tỉnh mộng|v
 梦露=Monroe|v
 械具=dụng cụ tra tấn|v
-梳=sơ|v
 梳化=sofa|v
 梳发=chải tóc|v
 梳头=chải đầu/chải tóc|v
@@ -15589,7 +15281,6 @@
 检阅=kiểm duyệt/duyệt/đọc qua|v
 棒哏=gậy chọc lét|v
 棒喝=công án/koan/đề tài chiêm nghiệm/bổng hát|v
-棰=trùy|v
 概括=khái quát/tổng quát/nhìn chung/tóm tắt/tóm lược|v
 概要=điểm chính/yếu lược/đại cương/cốt yếu/chủ yếu|v
 概述=tường thuật tóm lược/tường thuật tóm tắt/tóm tắt/tổng kết/khái quát|v
@@ -15653,7 +15344,6 @@
 横鞘=vỏ kiếm đặt ngang|v
 横飞=bay tứ tung/bay ngang/tung toé|v
 横驾=kéo ngang|v
-欠=khiếm|v
 欠上=mắc nợ|v
 欠下=thiếu/ghi nợ|v
 欠了=thiếu/thiếu nợ|v
@@ -15723,7 +15413,6 @@
 款洽=thân thiết/hoà hợp|v
 款留=khẩn nài lưu khách|v
 歃血=uống máu|v
-歇=hiết|v
 歇下=ngủ lại/nghỉ lại/nghỉ ngơi|v
 歇乏=nghỉ giải lao|v
 歇伏=nghỉ mùa nóng|v
@@ -15807,7 +15496,6 @@
 武替=thế thân võ thuật|v
 歧出=thiếu nhất quán/trái ngược/mâu thuẫn|v
 歧视=kỳ thị/phân biệt đối xử/phân biệt|v
-歪=oai|v
 歪倒=ngã lệch/oai đảo|v
 歪向=nghiêng về|v
 歪嘴=miệng méo|v
@@ -15894,7 +15582,6 @@
 残虐=tàn ngược/Zangyaku/tàn tật/bắt nạt|v
 残败=tàn bại/đổ nát/suy tàn/điêu tàn|v
 残障=tàn tật/tàn chướng|v
-殒=vẫn|v
 殒命=mất mạng/chết|v
 殒灭=vẫn diệt/chết/mất mạng|v
 殒石=vẫn thạch|v
@@ -15906,7 +15593,6 @@
 殴打=ẩu đả/ấu đả/đánh người/đánh nhau/đánh/đánh đập|v
 殴斗=ẩu đấu|v
 殿试=thi đình/thi điện|v
-毁=hủy|v
 毁不掉=hủy không được|v
 毁了=phá hủy/hủy/bị hủy/phá huỷ/bị hủy hoại|v
 毁于=bị hủy bởi|v
@@ -15955,7 +15641,6 @@
 毕露=lộ ra/lộ|v
 毗连=liên tiếp/tiếp giáp/liền/sát|v
 毗邻=tiếp giáp/liền/sát|v
-毙=tễ|v
 毙于=đánh chết ở/toi ở|v
 毙伤=chết và bị thương|v
 毙命=mất mạng/bị mất mạng/toi mạng|v
@@ -15977,7 +15662,6 @@
 永享=vĩnh hưởng|v
 永逝=biến mất vĩnh viễn/vĩnh viễn mất đi/qua đi vĩnh viễn/chết/tạ thế/qua đời|v
 永驻=vĩnh trú|v
-求=cầu|v
 求上=cầu tới|v
 求不求=cầu hay không|v
 求乞=ăn mày/xin ăn|v
@@ -16032,7 +15716,6 @@
 求雨=cầu mưa|v
 求靠=nhờ vả/tìm nơi nương tựa|v
 求饶=cầu xin tha thứ/xin tha thứ/xin lượng thứ/xin tha|v
-汆=thộn|v
 汇于=hợp ở|v
 汇兑=hối đoái/chuyển tiền/gửi tiền|v
 汇入=chuyển vào/tụ hợp vào|v
@@ -16094,7 +15777,6 @@
 沉雷=sấm rền/sấm động|v
 沉香=trầm hương/cây trầm hương/cây trầm/gỗ trầm hương/gỗ trầm|v
 沉鸣=trầm minh|v
-沏=thế|v
 沏茶=pha trà|v
 沐休=mộc hưu|v
 沐沐=Mộc Mộc|v
@@ -16226,7 +15908,6 @@
 没门=không cửa/không có cửa đâu|v
 没问=không có hỏi/không vấn đề|v
 没马=không ngựa|v
-沤=ẩu|v
 沦丧=không có/tiêu vong/mất hút/luân tang|v
 沦为=biến thành/trở thành/bị trở thành|v
 沦亡=tiêu vong/diệt vong/suy bại/chết chóc/suy đồi|v
@@ -16239,7 +15920,6 @@
 沸沸=sôi trào|v
 沸热=nóng bỏng/nóng như lửa|v
 沸腾=sôi trào/sôi sùng sục/sôi ùng ục/sôi bùng/sôi mạnh/sục sôi/xôn xao/sôi nổi/nhốn nháo/ầm ĩ|v
-治=trị|v
 治下=trì hạ|v
 治不好=trị không hết/không trị hết|v
 治不治=có trị hay không|v
@@ -16301,11 +15981,9 @@
 泄漏=tiết lộ/để lộ|v
 泄身=tiết thân|v
 泄露=tiết lộ/rò rỉ/để lộ|v
-泅=tù|v
 泅水=bơi/lội|v
 泅渡=bơi qua|v
 泌出=tiết ra|v
-泛=phiếm|v
 泛上=hiện lên/ửng lên|v
 泛不起=không nổi lên/không nổi lên được|v
 泛交=sơ giao|v
@@ -16343,7 +16021,6 @@
 泣道=khóc không ra tiếng|v
 泥泞不堪=lầy lội không chịu nổi|v
 泥醉=say mèm/say rượu/say xỉn|v
-注=chú|v
 注入=rót vào/bơm/châm/thổi/hà hơi/truyền sinh khí/ghi nhớ/khắc sâu/in sâu/truyền vào|v
 注册=đăng kí/đăng ký/ghi tên/chú sách|v
 注塑=ép nhựa|v
@@ -16372,7 +16049,6 @@
 泻出=phun ra|v
 泼掉=tràn/rải ra|v
 洄游=hồi du/di chuyển trở lại/di trú|v
-洇=nhân|v
 洋溢=dào dạt/tràn trề/đầy/tràn trê|v
 洒上=vẩy lên|v
 洒下=tung xuống/bỏ ra/rơi xuống|v
@@ -16387,7 +16063,6 @@
 洒泪=lệ rơi/rơi lệ/tuôn lệ/rơi nước mắt/nước mắt tuôn trào|v
 洒脱=thoải mái/tiêu sái/hào hiệp/tự nhiên/cởi mở/không câu chấp|v
 洒落=vẩy xuống/rơi/rụng/thoải mái/chiếu xuống/rơi vãi/rơi ra|v
-洗=tẩy|v
 洗不掉=rửa không sạch|v
 洗不脱=tẩy không thoát|v
 洗个澡=tắm rửa/tắm|v
@@ -16468,7 +16143,6 @@
 活过=sống qua/sống quá|v
 活钱=tiền mặt|v
 洽谈=hiệp đàm|v
-派=phái|v
 派上=cử đi|v
 派了=phái|v
 派出=phái ra|v
@@ -16524,7 +16198,6 @@
 流露=bộc lộ/lưu lộ/thổ lộ/biểu lộ/để lộ/lộ ra|v
 浅尝=lướt qua/đọc qua/xem qua|v
 浅露=thiển lộ/không uyển chuyển/không hàm súc/thô thiển|v
-浇=kiêu|v
 浇上=giội lên|v
 浇下=dội xuống/tưới xuống|v
 浇了=rót/tưới|v
@@ -16559,7 +16232,6 @@
 浓痰=cục đàm|v
 浓睡=ngủ say|v
 浓缩=áp súc/sắc/cô/lọc/chưng/nùng súc/cô đọng|v
-浞=trác|v
 浩劫=hạo kiếp/tai hoạ lớn/tai vạ lớn/đại nạn|v
 浩叹=thở dài/than thở/thở dài thườn thượt/than thở não ruột|v
 浩荡=hạo đãng/cuồn cuộn/mênh mông cuồn cuộn/lồng lộng/hùng dũng/hùng vĩ/oai nghiêm|v
@@ -16583,7 +16255,6 @@
 浮荡=vang dội/bay bổng/lướt nhẹ/bông lông/gặp đâu nói đấy|v
 浮财=của nổi|v
 浮起=hiện lên|v
-浸=tẩm|v
 浸于=tẩm ở|v
 浸住=ngâm ở|v
 浸入=thấm vào/xuyên vào|v
@@ -16643,7 +16314,6 @@
 涉足=tiến vào|v
 涉过=chỗ cạn|v
 涉险=mạo hiểm/thiệp hiểm|v
-涌=dũng|v
 涌上=phun lên/nảy lên/xông lên/dâng lên|v
 涌上心来=dâng lên trái tim|v
 涌上来=xông tới|v
@@ -16672,7 +16342,6 @@
 涎着=trước hết|v
 涓涓细流=tia nước nhỏ/dòng nước nhỏ róc rách|v
 涕零=rơi nước mắt/chảy nước mắt|v
-涣=hoán|v
 涣散=tan rã/tan rã/rời rạc/rã rời/tan tác/lỏng lẻo/làm tiêu tan/làm tan rã|v
 涣然=tiêu tan/hết/mất/hoán nhiên|v
 涤荡=gột rửa/gột sạch/tẩy rửa/rửa sạch/rửa ráy/địch đãng|v
@@ -16703,8 +16372,6 @@
 淋坏=làm hư|v
 淋漓=lâm ly/đầm đìa/tràn trề/nhễ nhại/niềm vui tràn trề|v
 淋着=giội|v
-淌=thảng|v
-淘=đào|v
 淘换=tìm tòi/tìm kiếm|v
 淘气=tinh nghịch/bướng bỉnh/nghịch/trêu tức/chọc giận/đào khí|v
 淘汰=đào thải/đấu loại/loại bỏ/sàng lọc|v
@@ -16774,7 +16441,6 @@
 混起=hỗn khởi|v
 混进=trà trộn vào/chui vào/trộn vào/pha vào/lẫn vào/xâm nhập vào|v
 混饭=kiếm cơm/mưu sinh/tìm việc làm/ăn không phải trả tiền/được đãi ăn|v
-淹=yêm|v
 淹到=ngập đến|v
 淹博=rộng lớn/rộng rãi|v
 淹埋=mai một/chôn vùi|v
@@ -16808,7 +16474,6 @@
 清谈=bàn suông/tán dóc/nói suông|v
 清还=hoàn trả/trả lại|v
 清除=thanh trừ/quét sạch/loại bỏ/đuổi/tẩy trừ/tẩy rửa|v
-渍=tí|v
 渎亵=khinh nhờn|v
 渎犯=mạo phạm/lăng mạ/sỉ nhục|v
 渐入=dần vào/rơi vào|v
@@ -16825,7 +16490,6 @@
 渐缩=tiệm súc|v
 渐进=tiến dần/từng bước/phát triển/tiệm tiến|v
 渐黑=bắt đầu tối|v
-渗=sấm|v
 渗下=rướm xuống|v
 渗入=rót vào/thấm vào/ngấm vào/thâm nhập/xâm nhập|v
 渗出=chảy ra/rỉ ra|v
@@ -16876,7 +16540,6 @@
 游进=bơi vào|v
 游逛=du lịch/đi dạo chơi/đi dạo|v
 游遍=đi khắp|v
-湊=thấu|v
 湮杀=tiêu diệt|v
 湮没=chôn vùi/vùi lấp|v
 湮灭=chôn vùi/mai một/dập tắt/yên diệt|v
@@ -16895,7 +16558,6 @@
 溃败=tan tác/tan vỡ/bị bại|v
 溃退=tháo chạy/tháo lui/đẩy lui|v
 溃逃=chạy tán loạn/tháo chạy|v
-溅=tiên|v
 溅出=tràn ra|v
 溅射=bắn tung tóe/lắp bắp/bắn tung toé|v
 溅开=bắn tung toé/nước bắn|v
@@ -16911,7 +16573,6 @@
 源自=nguồn gốc từ/xuất xứ từ/bắt nguồn từ|v
 源起=nguyên khởi|v
 源道=nguyên đạo|v
-溜=lưu|v
 溜上=đi đến|v
 溜下=trượt xuống|v
 溜出=chuồn ra/chạy ra|v
@@ -16965,7 +16626,6 @@
 滑跤=trượt/tuột|v
 滑进=trượt vào|v
 滑道=khe trượt/đường trượt/dốc/trượt|v
-滗=tiết|v
 滚下=lăn xuống|v
 滚倒=ngã lăn|v
 滚出=lăn ra/cút ra/cổn xuất/cút ra khỏi/cút khỏi|v
@@ -17039,7 +16699,6 @@
 滴着=chảy xuống/nhỏ giọt|v
 滴落=nhỏ xuống/tích lạc/nhỏ|v
 滴进=nhỏ vào|v
-滾=cổn|v
 漂到=trôi đến|v
 漂忽=phiêu hốt|v
 漂染=tẩy và nhuộm|v
@@ -17051,7 +16710,6 @@
 漂着=trôi|v
 漂移=trôi đi/trôi nổi/di chuyển/dời|v
 漂过=trôi qua|v
-漉=lộc|v
 漏下=sót xuống/sót lại|v
 漏出=rò rỉ ra/lộ ra|v
 漏发=phát thiếu|v
@@ -17083,7 +16741,6 @@
 演进=diễn tiến|v
 演道=diễn đạo|v
 漕运=thuỷ vận/chuyên chở/vận tải/vận chuyển/chuyển vận|v
-漤=lãm|v
 漫到=tràn đến|v
 漫布=bày khắp|v
 漫延=tràn ra khắp nơi/tràn ra|v
@@ -17094,7 +16751,6 @@
 漫过=tràn qua|v
 漫道=đừng nói/chớ nói/khoan hãy nói|v
 漫骂=chửi mắng/chửi bới|v
-漱=sấu|v
 漱口=súc miệng|v
 漱洗=rửa ráy|v
 漱漱=sột sột/ròng ròng|v
@@ -17121,7 +16777,6 @@
 潮吹=triều phun|v
 潮成=ướt thành|v
 潮解=tan/chảy nước/chảy rữa/tan chảy|v
-潴=trư|v
 潴留=bệnh ứ đọng dịch thể|v
 澄彻=trong suốt/trong veo/trong vắt|v
 澄明=thanh thản/trong sáng/sáng trong|v
@@ -17177,7 +16832,6 @@
 火烤=dùng lửa đốt|v
 火焚=hỏa phần|v
 火绝=hỏa tuyệt|v
-灭=diệt|v
 灭下=diệt xuống|v
 灭世=diệt thế|v
 灭了=diệt/diệt/đã diệt/diệt đi|v
@@ -17205,7 +16859,6 @@
 灼烤=thiêu đốt|v
 灼烧=thiêu đốt/bỏng/cháy/chước thiêu|v
 灼见=thấy rõ/biết rõ/nhận thức rõ ràng|v
-炒=sao|v
 炒作=lẫn lộn/lăng xê|v
 炒冷饭=hâm lại/xào xáo/rang cơm nguội/hát sáu câu vọng cổ|v
 炒好=xào kỹ|v
@@ -17218,10 +16871,8 @@
 炒锅=chảo|v
 炒饭=cơm chiên/cơm rang|v
 炒鱿鱼=sa thải/cuốn gói/đuổi đi/thải hồi|v
-炖=đôn|v
 炖煮=đun nhừ|v
 炙烤=thiêu đốt/quay nướng|v
-炝=sang|v
 炫目=lóa mắt/đẹp mắt|v
 炫示=khoe khoang/khoe khoang tài cán của mình|v
 炫耀=khoe khoang/huyền diệu/chiếu rọi/lấy le|v
@@ -17324,7 +16975,6 @@
 炼过=luyện qua|v
 炼道=luyện đạo|v
 炽天使=Sí Thiên Sứ/Seraph|v
-烀=hồ|v
 烂成=nát thành|v
 烂掉=mục nát|v
 烂污=phân lỏng/phóng đãng/hư hỏng/phóng túng/bừa bãi/lang chạ|v
@@ -17388,7 +17038,6 @@
 烧陶=đốt đất|v
 烧饭=nấu cơm|v
 烧黑=cháy đen|v
-烫=năng|v
 烫伤=bị phỏng/bị bỏng/phỏng|v
 烫发=uốn tóc|v
 烫头=uốn tóc|v
@@ -17413,7 +17062,6 @@
 热轧=cán nóng|v
 热迎=nhiệt liệt đón|v
 热销=nhiệt tiêu|v
-烹=phanh|v
 烹制=xào nấu/phanh chế/nấu nướng|v
 烹炒=nấu nướng|v
 烹煮=đun nấu|v
@@ -17421,14 +17069,10 @@
 烹茶=pha trà/hãm trà|v
 烹调=chế biến thức ăn/nấu ăn/nấu nướng/kéo sợi mì|v
 烹饪=nấu nướng/nấu/nấu ăn/xào nấu|v
-焊=hạn|v
 焊工=nghề hàn/hàn/thợ hàn|v
 焊接=mối hàn/hàn/hàn nối|v
-焐=ngộ|v
 焕发=toả sáng/phơi phới/rạng rỡ/sáng sủa/phấn chấn/sục sôi/hoán phát|v
 焕彩=hoán thải|v
-焖=muộn|v
-焙=bồi|v
 焙干=rang|v
 焙茶=chè khô/trà sấy khô|v
 焚书=đốt sách/tiêu hủy văn hoá phẩm độc hại|v
@@ -17450,12 +17094,9 @@
 焚香=đốt hương/dâng hương/đốt nhang/thắp hương/thắp/đốt|v
 焦炙=nóng như lửa đốt/như ngồi trên lửa/nóng cháy ruột cháy gan|v
 焦裂=khô nứt/khô nẻ|v
-焯=trác|v
-煅=đoán|v
 煅炼=nung|v
 煅烧=nung khô/nung/đoán thiêu/nung đốt|v
 煅造=đoán tạo/rèn đúc|v
-煎=tiên|v
 煎炒=chiên xào/món xào/đồ xào|v
 煎炸=tiên tạc|v
 煎熬=dày vò/giày vò/hành hạ/dằn vặt/nung nấu/như nung như nấu/đau khổ|v
@@ -17497,8 +17138,6 @@
 照进=chiếu vào|v
 照进来=chiếu vào|v
 照顾=chiếu cố/xem xét/suy nghĩ/chú ý/chăm sóc/săn sóc/trông nom/chú ý đặc biệt/chiều khách/chiều khách hàng|v
-煨=ổi|v
-煮=chử|v
 煮开=đun sôi|v
 煮成=luộc thành|v
 煮死=luộc chết|v
@@ -17511,14 +17150,11 @@
 煮面=nấu bát mì/nấu mì|v
 煮食=đồ nấu ăn/nấu ăn|v
 煮饭=nấu cơm|v
-煺=thoái|v
-煽=phiến|v
 煽动=kích động/xúi giục/xúi bẩy/phiến động|v
 煽情=phiến tình/tuyệt hảo|v
 煽惑=mê hoặc/xúi bẩy/xúi giục|v
 煽烟=quạt khói|v
 煽诱=xúi bẩy/mê hoặc|v
-熄=tức|v
 熄了=tắt|v
 熄火=tắt máy/tắt lửa/làm tắt lửa/tức hỏa|v
 熄灭=dập tắt/tắt/dụi/làm tắt|v
@@ -17533,7 +17169,6 @@
 熔炼=dung luyện/luyện/nung nấu|v
 熔解=nóng chảy|v
 熔铸=đúc nóng/đúc|v
-熘=lựu|v
 熟习=thành thạo/kinh nghiệm|v
 熟了=quen/chín|v
 熟化=đất hoang hoá/đất trồng trọt/đất canh tác/nấu chín|v
@@ -17558,7 +17193,6 @@
 熨抚=vỗ về|v
 熨斗=bàn ủi/bàn là|v
 熨烫=nóng bỏng/ủi/để ủi|v
-熬=ngao|v
 熬下=chịu đựng|v
 熬不住=chịu không được/không chịu đựng được|v
 熬不过=chịu không nổi/nhịn không quá/không chịu đựng nổi nữa/không nhịn được/gắng không nổi|v
@@ -17591,10 +17225,8 @@
 燃烧=thiêu đốt/bốc cháy/cháy/bùng cháy/đốt cháy|v
 燃着=đốt|v
 燃起=dấy lên|v
-燉=đôn|v
 燎泡=vết bỏng rộp/vết bỏng rộp lên|v
 燎解=liệu giải/tháo gỡ/giải thích|v
-爆=bạo|v
 爆上=rơi ra|v
 爆下=bạo rơi|v
 爆仓=nổ kho|v
@@ -17641,7 +17273,6 @@
 爆闪=bùng lên/chợt lóe|v
 爆雷=bạo lôi/sấm sét/để tiết lộ chi tiết cốt truyện|v
 爆鸣=nổ đùng/bạo minh|v
-爬=ba|v
 爬上=bò lên trên/leo lên|v
 爬上去=leo đi lên/leo lên|v
 爬上来=bò lên|v
@@ -17677,7 +17308,6 @@
 牙碜=ê răng/khó nghe/chói tai|v
 牟取=kiếm chác/kiếm lấy/mưu cầu|v
 牢饭=cơm tù|v
-牵=khiên|v
 牵上=dắt lên|v
 牵住=dắt|v
 牵出=dẫn ra/dắt ra|v
@@ -17709,7 +17339,6 @@
 特护=săn sóc đặc biệt/chăm sóc đặc biệt/hộ lý/điều dưỡng/đặc hộ|v
 特摄=đặc hiệu/nhiếp ảnh đặc biệt|v
 特赦=đặc xá|v
-牺=hi|v
 牺牲=hi sinh/hy sinh/vật tế/súc vật làm vật tế|v
 犁出=cày ra|v
 犒劳=khao/đồ khao/đồ ăn thức uống dùng để khao|v
@@ -17891,7 +17520,6 @@
 猥玩=ổi ngoạn|v
 猥陋=bỉ ổi/thấp hèn/đê tiện|v
 猫叫=mèo kêu|v
-献=hiến|v
 献上=dâng lên/dâng tặng/hiến tặng|v
 献与=hiến cho|v
 献丑=bêu xấu/trình bày cái kém cỏi vụng về|v
@@ -17912,7 +17540,6 @@
 献词=lời chúc tụng/văn chúc tụng|v
 献身=hiến thân/dâng mình/hiến dâng cuộc đời|v
 献过=hiến qua|v
-率=suất|v
 率兵=dẫn binh/suất binh|v
 率军=suất quân|v
 率部=suất bộ|v
@@ -17983,7 +17610,6 @@
 理财=quản lý tài sản/quản lý tiền bạc/quản lý tài vụ|v
 理赔=lý bồi/yêu cầu bồi thường/yêu cầu giải quyết|v
 理顺=sắp xếp như ý/làm theo|v
-琢=trác|v
 琢出=tạc ra|v
 琢磨=suy nghĩ/gọt giũa/cân nhắc/đẽo gọt/suy xét|v
 瑟缩=co rúm lại/co ro/co quắp|v
@@ -18064,7 +17690,6 @@
 用起=sử dụng|v
 用过=dùng qua/dùng quá|v
 用问=phải hỏi|v
-甩=súy|v
 甩上=ném lên/đóng sầm/ném phịch/súy thượng|v
 甩下=bỏ rơi|v
 甩不开=thoát không nổi|v
@@ -18095,7 +17720,6 @@
 甩门=vung cửa|v
 甩飞=quăng bay đi|v
 甭想=khỏi phải nghĩ đến|v
-申=thân|v
 申不害=Thân Bất Hại/Shen Buhai|v
 申令=hạ lệnh/mệnh lệnh|v
 申冤=giải oan/minh oan|v
@@ -18139,7 +17763,6 @@
 畏道=sợ hãi nói|v
 畏避=lẩn tránh/sợ hãi trốn tránh/chùn bước/ngần ngại|v
 畏难=sợ khó/ngại khó|v
-留=lưu|v
 留一手=lưu lại thủ đoạn/giấu/giữ nghề/giấu nghề/giữ miếng/giữ lại thủ đoạn|v
 留上=lưu lại|v
 留下=lưu lại|v
@@ -18261,7 +17884,6 @@
 病着=bệnh|v
 病退=khỏi bệnh/bệnh nghỉ|v
 病逝=chết bệnh/bệnh qua đời|v
-痊=thuyên|v
 痊愈=khỏi hẳn/khỏi bệnh/hết bệnh|v
 痊癒=chữa trị|v
 痛下=thống hạ|v
@@ -18294,7 +17916,6 @@
 痴望=si vọng|v
 痴迷=si mê/mê mẩn/si dại|v
 瘪着嘴=méo miệng/biết trứ chủy|v
-瘫=than|v
 瘫倒=tê liệt ngã xuống/ngã quắp|v
 瘫在=ngồi phịch ở|v
 瘫坐=ngồi liệt|v
@@ -18325,7 +17946,6 @@
 登过=leo qua|v
 登陆=đăng lục/đổ bộ/đăng nhập/lên đất liền/lên bờ/đăng ký|v
 登高=lên cao/đăng cao/trèo lên cao/thăng tiến/leo núi/lên núi|v
-發=phát|v
 白了=trợn nhìn/trắng/trắng rồi/không còn chút máu/liếc/nguýt|v
 白住=ở không/ở chùa|v
 白扯=nói lời vô dụng|v
@@ -18333,7 +17953,6 @@
 白瞳=bạch đồng|v
 白给=cho không|v
 白跑一趟=một chuyến tay không|v
-皈=quy|v
 皈依=quy y|v
 皱了=nhíu/cau|v
 皱得=nhăn/cau đến|v
@@ -18342,7 +17961,6 @@
 皱着眉头=cau mày|v
 皱紧=cau chặt/nhíu chặt|v
 皱起=nhăn lại/nhíu lại|v
-皲=quân|v
 皲裂=da bị nẻ/da bị nứt/nứt/nẻ|v
 皴裂=nứt nẻ/chap|v
 盈溢=tràn đầy|v
@@ -18420,7 +18038,6 @@
 目眩=hoa mắt/loá mắt/choáng váng/chóng mặt|v
 目睹=mắt thấy|v
 目送=đưa mắt nhìn/nhìn theo/đưa mắt nhìn theo/tiễn đưa bằng ánh mắt|v
-盯=trành|v
 盯上=để mắt tới/nhìn chằm chằm vào/nhìn chằm chằm|v
 盯了=nhìn chằm chằm/nhìn chòng chọc/nhìn chăm chú|v
 盯住=tiếp cận/nhìn thẳng/đến gần/dán mắt vào/tập trung/nhìn chăm chú vào/nhìn chòng chọc|v
@@ -18662,7 +18279,6 @@
 省去=giảm bớt/bớt đi|v
 省得=tránh khỏi/đỡ phải/tránh/tránh khỏi/để khỏi/cho đỡ/khỏi phải/dè đặt|v
 省掉=tiết kiệm/bớt đi|v
-看=khán|v
 看一看=nhìn một chút/nhìn một cái|v
 看上=coi trọng/xem ra/vừa ý/nhìn lên|v
 看上去=nhìn qua/xem ra/nhìn về phía trên|v
@@ -18775,14 +18391,12 @@
 看门=canh cổng/trông cửa/giữ cửa|v
 看顾=coi chừng/chăm sóc/chiếu cố/chăm nom|v
 看齐=làm chuẩn/gương soi/theo gương/noi gương/noi theo|v
-眍=khu|v
 眨动=chớp động|v
 眨巴=nháy/chớp/nháy mắt|v
 眨眼=chớp mắt/trong nháy mắt/nháy mắt/trong chớp mắt|v
 眩光=huyễn quang|v
 眩晕=mê muội/chóng mặt/bị choáng/hôn mê|v
 眩目=hoa mắt/lóa mắt|v
-眯=mị|v
 眯上=híp lại|v
 眯成=híp thành/híp lại thành|v
 眯眯眼=híp híp mắt|v
@@ -18824,11 +18438,7 @@
 着赏=thưởng cho|v
 着迷=mê muội/say mê/say sưa|v
 着陆=chạm đất/hạ cánh|v
-睁=tĩnh|v
-睃=thoa|v
 睚眦=Nhai Tí/trừng mắt/trợn mắt/nhai tí/Trừng Mắt|v
-睜=tĩnh|v
-睡=thụy|v
 睡上=ngủ lấy|v
 睡下=nằm ngủ/ngủ|v
 睡不着=ngủ không được/không ngủ được|v
@@ -18871,7 +18481,6 @@
 督过=chỉ trích/quở trách|v
 督长=đốc trưởng|v
 督阵=đôn đốc/đốc thúc/đốc trận|v
-睬=thải|v
 瞄上=nhắm vào|v
 瞄了=ngắm/liếc|v
 瞄具=ống nhắm|v
@@ -18882,9 +18491,7 @@
 瞄见=xem đến|v
 瞄过=liếc qua|v
 瞄道=liếc|v
-瞅=thu|v
 瞅见=nhìn thấy/thấy/trông thấy/xem/xem xét|v
-瞌=khạp|v
 瞌睡=ngủ gật/buồn ngủ/ngủ gà gật|v
 瞎了=mù|v
 瞎侃=tán gẫu|v
@@ -18908,7 +18515,6 @@
 瞎闹=làm càn/làm mò/làm bậy/làm liều|v
 瞑想=trầm ngâm/suy gẫm|v
 瞑目=nhắm mắt|v
-瞒=man|v
 瞒下=giấu giếm|v
 瞒不过=không thể gạt được/không gạt được|v
 瞒住=che giấu|v
@@ -18916,7 +18522,6 @@
 瞒哄=lừa dối/giấu diếm/đánh lừa/lừa đảo|v
 瞒得过=giấu giếm được|v
 瞒过=giấu diếm được/giấu được/lừa gạt được|v
-瞟=phiêu|v
 瞟一眼=liếc mắt một cái|v
 瞟动=phiêu động|v
 瞟向=liếc về phía|v
@@ -18924,7 +18529,6 @@
 瞥到=liếc tới/liếc về|v
 瞥向=liếc nhìn|v
 瞥见=thoáng nhìn/thoáng thấy/liếc xem/nhìn xem/xem lướt qua/liếc thấy|v
-瞧=tiều|v
 瞧一瞧=nhìn một chút/coi trộm một chút|v
 瞧上=nhìn trúng/nhìn tới|v
 瞧不上=không nhìn trúng/không lọt mắt|v
@@ -18945,7 +18549,6 @@
 瞧见=nhìn thấy/trông thấy|v
 瞩望=mong chờ/đợi/ngóng trông/mong mỏi/trông chờ/chăm chú nhìn/nhìn kỹ|v
 瞩目=chú mục/nhìn chăm chú/nhìn kỹ/chú ý|v
-瞪=trừng|v
 瞪向=trừng mắt về phía|v
 瞪目=trợn mắt|v
 瞪目结舌=há mồm trợn mắt|v
@@ -18953,7 +18556,6 @@
 瞪着=trừng mắt/nhìn chằm chằm|v
 瞪视=nhìn chằm chằm/nhìn chăm chú/nhìn chòng chọc|v
 瞪起=trừng lên|v
-瞭=liệu|v
 瞭哨=canh gác/gác|v
 瞭望=nhìn xa/quan sát tình hình quân địch/theo dõi/watch/nhìn vào|v
 瞭解=tìm hiểu/hiểu|v
@@ -18963,9 +18565,7 @@
 瞻望=nhìn về tương lai/nhìn về phía trước/nhìn về phương xa|v
 瞻礼=ngày lễ/thứ/chiêm ngưỡng lễ bái|v
 瞻顾=nhìn trước ngó sau/suy đi nghĩ lại/săn sóc/chăm sóc/chiếu cố|v
-矇=mông|v
 矇眬=mơ mơ màng màng/mơ màng|v
-矗=súc|v
 矗入=cao vút/vút lên|v
 矗立=đứng sững/đứng sừng sững/súc lập|v
 矜夸=kiêu căng/kiêu ngạo/khoa trương/tự cao tự đại|v
@@ -19015,7 +18615,6 @@
 短跑=chạy nhanh/chạy cự ly ngắn/chạy nước rút|v
 码放=xếp chồng chất/thả chồng chất|v
 砌成=xây thành/xây nên/thế thành|v
-砍=khảm|v
 砍上=chặt lên|v
 砍下=chặt xuống/chặt bỏ|v
 砍下去=chém đi xuống|v
@@ -19052,10 +18651,7 @@
 砍首=chặt đầu|v
 研下=nghiên cứu|v
 研读=nghiên cứu/nghiền ngẫm đọc|v
-砘=đôn|v
-砣=đà|v
 砥砺=rèn luyện/đá mài/rèn giũa/trao dồi/khuyến khích/cổ vũ/khích lệ|v
-破=phá|v
 破不开=không phá nổi/không phá ra được|v
 破不掉=không phá hết|v
 破世=phá thế|v
@@ -19126,7 +18722,6 @@
 破防=phá phòng/phá phòng ngự/phá phòng thủ/phá vỡ|v
 破阵=phá trận|v
 破除=bài trừ/loại bỏ/đả phá/phá|v
-砸=tạp|v
 砸上=đánh lên/đập vào|v
 砸下=nện xuống|v
 砸光=đập nát|v
@@ -19161,8 +18756,6 @@
 砸锅=hỏng việc/thất bại/làm hỏng/đập nồi|v
 砸门=phá cửa/đập cửa|v
 砸饭碗=thất nghiệp/đập vỡ bát cơm|v
-砻=lung|v
-硌=các|v
 硝镪水=a-xít nitric|v
 硬卧=giường cứng/giường gỗ|v
 硬打=đón đánh|v
@@ -19204,7 +18797,6 @@
 碎断=vỡ vụn/gãy nát|v
 碎灭=toái diệt/tan nát|v
 碎裂=vỡ vụn|v
-碰=bính|v
 碰上=đụng tới/đụng với/đụng phải|v
 碰下=đụng tới|v
 碰了=huých/đụng phải/đụng/đụng vào|v
@@ -19231,7 +18823,6 @@
 碾过=ép qua/đè nát chướng ngại vật|v
 磁浮=hoạt động bằng từ tính|v
 磅礴=bàng bạc/hào hùng/tràn đầy/dồi dào|v
-磕=khái|v
 磕上=dập|v
 磕在=cúi tại|v
 磕头=dập đầu/phục lạy/lạy sát đất/khấu đầu lạy tạ/cúi lạy sát đất|v
@@ -19313,7 +18904,6 @@
 祷念=cầu xin/cầu khấn/cầu nguyện|v
 祷祝=cầu chúc/cầu nguyện|v
 祸及=gây họa tới|v
-禀=bẩm|v
 禀上=bẩm lên|v
 禀呈=trình/nộp/dâng|v
 禀告=bẩm báo/thưa bẩm/trình báo/trình|v
@@ -19351,7 +18941,6 @@
 禁飞=cấm bay|v
 禅修=thiền tu|v
 禅让=nhường ngôi|v
-离=ly|v
 离不开=không thể rời đi/không thể rời bỏ|v
 离世=qua đời|v
 离乡=ly hương|v
@@ -19448,7 +19037,6 @@
 积贮=dự trữ|v
 积起=tích lấy/dành dụm được|v
 积郁=tích tụ/tích úc/tích lũy uất ức|v
-称=xưng|v
 称上=xưng được|v
 称不上=không gọi được/không xưng được|v
 称为=xưng là/gọi là/là/tên là/tên gọi/tên chính xác là|v
@@ -19522,7 +19110,6 @@
 稍短=khá ngắn|v
 稍露=hơi lộ|v
 稍顿=ngừng lại/nghỉ ngừng|v
-稱=xưng|v
 稳住=ổn định|v
 稳入=vào chắc|v
 稳居=vững vàng|v
@@ -19623,7 +19210,6 @@
 窃权=trộm quyền/nắm giữ quyền lực không đúng cách|v
 窃窃=khe khẽ/thì thầm/thì thào|v
 窃笑=cười trộm/cười lén/cười thầm|v
-窒=trất|v
 窒住=nghẹn lại|v
 窒息=ngạt thở/hít thở không thông/nghẹt thở|v
 窒碍=trắc trở/trở ngại|v
@@ -19662,7 +19248,6 @@
 窥见=nhìn thấy/nhìn thoáng thấy/thoáng hiện/cảm nhận|v
 窥视=thăm dò/nhìn xem/nhìn trộm/dòm ngó/nhìn tò mò/tọc mạch/chõ mũi/dò hỏi xoi mói/nhòm ngó|v
 窥透=nhìn ra|v
-窨=ấm|v
 立像=lập tượng|v
 立决=lập tức hành quyết|v
 立变=lập tức biến|v
@@ -19689,7 +19274,6 @@
 竖立=dựng đứng/thẳng đứng|v
 竖立起来=dựng đứng/dựng lên|v
 竖起=dựng thẳng lên/thẳng đứng lên/giơ lên|v
-站=trạm|v
 站上去=đứng lên trên|v
 站不住=đứng không vững|v
 站了=đứng/đứng cả|v
@@ -19793,7 +19377,6 @@
 等过=chờ thêm|v
 等速=tốc độ đều|v
 等闲=bình thường/tùy tiện/dễ dãi/bỗng dưng/tuỳ tiện/bỗng dưng/vô cớ/không duyên không cớ/không lý do|v
-筑=trúc|v
 筑坝=đập/đập nước|v
 筑城=xây thành/xây công sự|v
 筑堤=đắp bờ/đắp đê/gia cố đê|v
@@ -19843,7 +19426,6 @@
 筹钱=xoay tiền/gây quỹ/quyên tiền|v
 筹集=gom góp/tập trung/trù tập|v
 筹齐=xoay sở đủ|v
-签=thiêm|v
 签上=kí lên/trên thẻ tre|v
 签下=ký/kí xuống|v
 签不签=có ký hay không|v
@@ -19883,11 +19465,9 @@
 简装=đóng gói đơn giản/gói sơ|v
 简述=bản tóm tắt|v
 箅子=vỉ|v
-箍=cô|v
 箍住=bóp chặt/siết lại|v
 箍束=bó chặt|v
 箍紧=quấn chặt|v
-算=toán|v
 算上=tính đến/tính/tính cả/coi là|v
 算不得=tính không được/không coi là|v
 算不算=có tính không/có tính hay không|v
@@ -19936,7 +19516,6 @@
 簇拥着=vây quanh/thốc ủng|v
 簇新=mới tinh/mới toanh/mới cáu|v
 籍没=kê biên và sung công|v
-籴=địch|v
 类乎=giống như/gần như/tựa như|v
 类似=cùng loại/tương tự/giống/na ná|v
 类推=suy ra/loại suy/suy rộng ra/loại thôi|v
@@ -19953,7 +19532,6 @@
 粘滞=dính nhớp|v
 粘着=kề cận|v
 粘连=dính liền/dính/liên hệ/liên quan/quan hệ|v
-粜=thiếu|v
 精于=tinh thông/tinh vu|v
 精修=tinh tu|v
 精到=cặn kẽ/kỹ càng/tỉ mỉ chu đáo|v
@@ -20047,7 +19625,6 @@
 繁育=gây giống/nhân giống|v
 繁荫=rợp bóng cây|v
 繁衍=sinh sôi/sinh sôi nảy nở/nhiều thêm/đông đúc/sinh sôi nẩy nở/đầy đàn|v
-繃=banh|v
 纠上=tập hợp|v
 纠偏=uốn nắn/nắn lệch/sửa sai|v
 纠合=tập hợp/tụ tập/tụ họp|v
@@ -20226,7 +19803,6 @@
 结过婚=đã kết hôn|v
 结连=kết liên/sự hút/xích lại|v
 结集=hợp thành/sưu tập/thu lượm/thu thập/góp nhặt/sưu tầm/tập trung/tập kết|v
-绕=nhiễu|v
 绕了=tha/lượn quanh/vòng/đi vòng|v
 绕到=vây quanh/đi vòng qua/vòng tới|v
 绕嘴=không xuôi/không trôi chảy/trúc trắc/lịu/nhịu|v
@@ -20245,7 +19821,6 @@
 绕遍=đi khắp|v
 绕道=đường vòng/đi đường vòng|v
 绕飞=bay vòng|v
-绗=hàng|v
 绘出=vẽ ra|v
 给与=cấp cho|v
 给了=cho|v
@@ -20350,8 +19925,6 @@
 续续=lục tục/tiếp diễn|v
 续能=tục năng|v
 续集=phần tiếp theo|v
-绱=thượng|v
-绲=cổn|v
 维丝=Viz|v
 维修=sửa chữa/duy tu/bảo hành|v
 维护=giữ gìn/ủng hộ/bảo trì/bảo vệ/duy trì|v
@@ -20373,12 +19946,9 @@
 绽放=nở rộ/tỏa ra/tách ra/nở rộ|v
 绽裂=rách nứt|v
 绽起=văng lên|v
-绾=oản|v
-缀=chuế|v
 缄口不言=ngậm miệng không nói/im lặng không nói/Không nói không rằng,chẳng nói chẳng rằng|v
 缄默=im miệng không nói/câm như hến/im thin thít/trầm mặc/im tiếng|v
 缅想=nhớ lại/tưởng nhớ|v
-缉=tập|v
 缉拿=truy nã/tập nã/truy bắt/khám xét bắt tội phạm|v
 缉捕=truy bắt/truy nã|v
 缉毒=tập độc|v
@@ -20386,7 +19956,6 @@
 缉私=buôn lậu/bắt buôn lậu/tập tư|v
 缉获=bắt tóm/tóm lấy|v
 缉访=tìm hiểu điều tra|v
-缒=trúy|v
 缓会=chậm lại|v
 缓冲=giảm xóc/hoà hoãn xung đột/hoà hoãn/bước đệm|v
 缓刑=hoãn thi hành hình phạt/hoãn án/án treo|v
@@ -20432,7 +20001,6 @@
 缝缝补补=may may vá vá|v
 缝补=may vá/khâu vá/khâu/vá/khâu vá sửa lại|v
 缝起来=vá lại/may lại|v
-缠=triền|v
 缠上=quấn lên/dây dưa tới/quấn lấy|v
 缠丝=triền ty|v
 缠住=cuốn lấy|v
@@ -20458,7 +20026,6 @@
 缠裹=dây dưa|v
 缠身=quấn thân/triền thân/quấn quanh người|v
 缠陷=quấy nhiễu hãm hại|v
-缩=súc|v
 缩为=co lại thành|v
 缩了=rụt|v
 缩于=co lại ở|v
@@ -20485,15 +20052,11 @@
 缩起=co lên|v
 缩近=rút gần|v
 缩进=rút vào/rúc vào/co vào|v
-缭=liễu|v
 缭乱=hỗn loạn/bối rối/lộn xộn|v
 缭牙=răng cong|v
 缭绕=quẩn quanh|v
-缮=thiện|v
 缮写=sao chép|v
 缮发=sao và phát công văn|v
-缲=sào|v
-缴=chước|v
 缴付=giao nạp/giao nộp|v
 缴枪=tước vũ khí/nộp vũ khí đầu hàng/giải giới|v
 缴械=tước vũ khí/tước khí giới/nộp vũ khí/nộp khí giới|v
@@ -20541,7 +20104,6 @@
 罢职=bãi chức/cách chức/sa thải/bãi miễn/bãi nhiệm|v
 罢课=bãi khóa/bãi khoá/bỏ học|v
 罢黜=trục xuất/gạt bỏ/bãi/chê bai bài xích/cách chức/sa thải|v
-罩=tráo|v
 置于=đặt/đưa vào|v
 置入=đặt vào|v
 置办=đặt mua/mua/mua sắm|v
@@ -20578,12 +20140,10 @@
 群起=cùng/đều/đều lên|v
 羨慕=hâm mộ|v
 羽发=lông vũ|v
-翕=hấp|v
 翕兹=Hấp Tư|v
 翕动=mấp máy/động đậy|v
 翕张=hé/he hé/khép và mở/hấp trương|v
 翕然=khớp nhau/ăn khớp/lời nói đi đôi với việc làm|v
-翘=kiều|v
 翘上=vểnh lên|v
 翘乳=kiều nhũ|v
 翘到=vểnh đến|v
@@ -20597,9 +20157,7 @@
 翘起=nhếch lên/nhổng lên|v
 翘首=trông mong/kiển chân/kiều thủ/ngẩng đầu/ngóng trông|v
 翩跹=nhẹ nhàng/tung tăng|v
-翱=cao|v
 翱翔=bay lượn/liệng/chao liệng/bay liệng/trôi lơ lửng/cao tường|v
-翻=phiên|v
 翻上=vượt lên/lật lên/bay lên|v
 翻下去=lật qua|v
 翻书=lật sách|v
@@ -20715,7 +20273,6 @@
 而入=mà vào|v
 而立=mà đứng|v
 而行=mà đi/mà hành|v
-耍=sái|v
 耍奸=dùng mánh khoé/dùng mánh lới|v
 耍宝=sái bảo|v
 耍弄=trêu đùa/trêu chọc|v
@@ -20748,8 +20305,6 @@
 耗费=hao phí/tiêu hao/hao mòn/tổn hao/hao tốn/tốn/hao|v
 耗资=hao tổn của cải/hao tổn tài sản/hao tài/tốn kém/tốn|v
 耗钱=háo tiền|v
-耠=hoát|v
-耪=bảnh|v
 耳鸣=ù tai/sự ù tai/tiếng kêu trong tai|v
 耷下=nhắm lại/cụp xuống|v
 耷拉=cúi/rũ/cúp/cụp/gục/gằm|v
@@ -20807,7 +20362,6 @@
 联起手=liên thủ lên|v
 联运=liên vận|v
 联防=phối hợp phòng ngự/cùng phòng ngự|v
-聘=sính|v
 聘为=mời làm|v
 聘书=thư mời/công văn mời/giấy mời|v
 聘任=sính nhiệm/mời đảm nhiệm chức vụ/mời nhận chức vụ|v
@@ -20839,7 +20393,6 @@
 肃杀=túc sát/khắc nghiệt/xơ xác tiêu điều|v
 肃清=quét sạch/thanh trừng|v
 肃立=đứng trang nghiêm/đứng nghiêm|v
-肄=dị|v
 肄业=học tập|v
 肆扰=lộng hành quấy rối/mặc sức quấy rối|v
 肆掠=càn quấy/tứ lược|v
@@ -20985,7 +20538,6 @@
 脚注=chú thích/chú thích cuối trang/lời chú cuối trang/chua bên dưới|v
 脚痒=nhột chân|v
 脚踏=chân đạp|v
-脫=thoát|v
 脫落=lần lượt bỏ đi|v
 脱下来=cởi ra/cưỡi ra|v
 脱了=thoát/cởi/thoát khỏi|v
@@ -21041,7 +20593,6 @@
 脱鞋=cởi giày|v
 脸现=mặt hiện lên|v
 脸露=mặt lộ|v
-腆=thiển|v
 腌制=ướp gia vị/ướp/ướp muối|v
 腌臜=bẩn thỉu/bẩn/dơ dáy/nhớp nhúa/nhớp nháp/cáu ghét/cáu bẩn/không sạch sẽ/khó chịu/chán nản/buồn bực/không vui/đồ đáng tởm/đồ tởm lợm/đồ khốn nạn/đồ vô lại|v
 腐化=hủ hóa/biến chất/hư hỏng/hủ bại/sa đọa/mục nát/thối rữa/sa đoạ/sa ngã/làm sa đoạ hủ bại/mục|v
@@ -21055,7 +20606,6 @@
 腹疼=đau bụng|v
 腹胀=chướng bụng/đầy hơi|v
 腹诽=oán thầm/trong lòng thấy sai/phúc phỉ|v
-腻=nị|v
 腻味=chán ngấy/chán/chán ngán|v
 腻在一起=dính cùng một chỗ|v
 腻滑=trơn bóng/nị hoạt|v
@@ -21077,7 +20627,6 @@
 腿抽筋=chuột rút|v
 膙子=chai tay/chai/cục chai|v
 膜拜=cúng bái/quỳ lễ/quỳ lạy|v
-膨=bành|v
 膨大=to ra/phình ra/trướng lên/trướng to|v
 膨胀=bành trướng/giãn nở/tăng thêm/phồng lên/lạm phát|v
 臆想=phán đoán/suy tưởng/suy nghĩ chủ quan|v
@@ -21215,7 +20764,6 @@
 至尊=chí tôn/tôn quý/cao quý/hoàng đế|v
 至爱=yêu nhất/rất/vô cùng/cực kỳ - yêu thương/ưa thích|v
 至理=chí lý|v
-致=trí|v
 致于=đến mức|v
 致仕=trí sĩ/về hưu|v
 致以=gửi tới|v
@@ -21238,8 +20786,6 @@
 致谢=gửi tới lời cảm ơn/trí tạ|v
 致败=dẫn đến thất bại|v
 致辞=đọc lời chào mừng/đọc diễn văn|v
-舀=yểu|v
-舂=thung|v
 舍下=bỏ đi/nhà mình/nhà tôi|v
 舍不得=không nỡ/luyến tiếc/không nỡ bỏ/tiếc rẻ/không bỏ được|v
 舍不掉=không bỏ được|v
@@ -21249,7 +20795,6 @@
 舍得=bỏ được/cam lòng/không tiếc/cam lòng cho/chịu cho/chịu/cam lòng (cho)/cam lòng|v
 舍身=xả thân/liều mình/bỏ mình/quên mình|v
 舒开=dãn ra|v
-舔=thiểm|v
 舔吃=liếm|v
 舔掉=liếm sạch|v
 舔着=liếm láp/liếm|v
@@ -21270,7 +20815,6 @@
 节要=trích nội dung chính/trích điểm chính|v
 节足=đốt chân|v
 节选=đoạn tích|v
-芟=sam|v
 芟除=bỏ đi/giẫy bỏ đi/cắt bỏ/cắt xén/loại bỏ/lược bỏ|v
 花了=tìm/tốn|v
 花出=bỏ ra|v
@@ -21308,14 +20852,12 @@
 苦茶=trà đắng|v
 苦行=khổ hạnh|v
 苦诉=kêu khổ|v
-苫=thiêm|v
 草荐=nệm rơm/đệm cỏ/nệm cỏ|v
 草薙京=Kyo Kusanagi|v
 荏苒=thấm thoắt/từ từ trôi qua|v
 荐举=tiến cử/giới thiệu/đề cử|v
 荐引=tiến cử/giới thiệu/đề cử|v
 荟萃=hội tụ/tập trung/tập hợp/sum họp/tụ hợp|v
-荡=đãng|v
 荡下=khua xuống|v
 荡出=đãng xuất|v
 荡平=dẹp yên/san bằng/san phẳng|v
@@ -21342,7 +20884,6 @@
 莫忘=đừng quên|v
 莫怨=chớ trách/không oán hận|v
 莫选=chớ chọn|v
-获=hoạch|v
 获准=được phép/cho phép/chấp thuận|v
 获利=thu lợi/hưởng lợi|v
 获取=thu hoạch/thu được/được/giành được/lấy được|v
@@ -21378,7 +20919,6 @@
 萌货=manh hoá|v
 萌起=nảy lên|v
 萌黄=Moegi|v
-萎=nuy|v
 萎缩=héo rút/khô héo/tàn lụi/suy thoái|v
 萎蔫=héo rũ/tàn|v
 萎谢=héo rũ/tàn rụng/héo rụng|v
@@ -21487,10 +21027,8 @@
 蓬筚生辉=bồng tất sinh huy/bồng tất sinh huy|v
 蔑笑=cười mỉa|v
 蔑视=miệt thị/coi thường/coi khinh/sỉ nhục|v
-蔓=mạn|v
 蔓延=lan tràn/lan ra|v
 蔓草=cỏ dại/cỏ bò lan dưới đất|v
-蔽=tế|v
 蔽体=che đậy thân thể|v
 蔽塞=tắt/hẻo lánh|v
 蔽天=che trời|v
@@ -21510,9 +21048,7 @@
 蕴道=uẩn đạo|v
 蕴酿=uẩn nhưỡng|v
 蕴集=uẩn tập/bao hàm|v
-薅=hao|v
 薪尽火传=củi cháy lửa truyền/củi này đốt hết, lửa kia vẫn truyền|v
-薰=huân|v
 薰天=huân thiên|v
 薰染=hun nhuộm|v
 薰香=huân hương|v
@@ -21527,7 +21063,6 @@
 藏踪=giấu tung tích/ẩn náu/ẩn mình|v
 藐小=nhỏ bé/nhỏ nhặt/không đáng kể|v
 藐视=xem thường/coi rẻ/coi thường/khinh thường/coi khinh|v
-蘸=trám|v
 虎踞=hùng cứ|v
 虏获=bắt tù binh/tước vũ khí|v
 虐主=ngược chủ|v
@@ -21569,7 +21104,6 @@
 蜂拥=chen chúc/lũ lượt/ùn ùn/ùa đến|v
 蜂聚=ùn ùn kéo đến/lũ lượt/xúm xít như đàn ong|v
 蜂起=nổi dậy như ong|v
-蜇=triết|v
 蜕下=lột ra|v
 蜕凡=lột xác|v
 蜕出=lột xác ra|v
@@ -21580,7 +21114,6 @@
 蜕掉=lột xuống|v
 蜕生=lột xác ra|v
 蜕皮=lột xác/lột da|v
-蜚=phỉ|v
 蜚声=truyền bá tiếng tăm/nêu cao tên tuổi|v
 蜚语=chuyện nhảm/chuyện vô căn cứ|v
 蜷伏=nằm co ro/nằm co/nằm khoèo|v
@@ -21607,7 +21140,6 @@
 融能=dung năng|v
 融解=hòa tan/tan/chảy ra/hoà tan|v
 融进=tan vào|v
-螫=thích|v
 蠕动=nhúc nhích/lúc nhúc/loi nhoi/nhu động/ngọa nguậy|v
 蠕行=nhuyễn hành|v
 蠡测=lấy gáo đong nước biển/kiến thức nông cạn|v
@@ -21652,7 +21184,6 @@
 衍射=diễn xạ/nhiễu xạ|v
 衍生=diễn sinh/hợp chất giản đơn biến thành hợp chất phức tạp/diễn sinh/Diễn Sinh|v
 衍算=diễn toán|v
-衔=hàm|v
 衔下=miệng ngậm|v
 衔住=ngậm chặt/ngậm lấy|v
 衔儿=hàm|v
@@ -21754,7 +21285,6 @@
 袒护=che chở/bênh vực/bao che/đản hộ|v
 袒胸=hở ngực/phanh ngực|v
 袒露=bộc lộ/cởi trần/loã lồ/lộ ra|v
-袢=phán|v
 被俘=bị bắt/bắt tù binh|v
 被冻=bị đông cứng|v
 被刺=bị đâm|v
@@ -21781,7 +21311,6 @@
 被贬=bị giáng chức|v
 被逼=bị buộc/bị bức ép|v
 被骗=bị lừa|v
-袭=tập|v
 袭上=đánh lên/đánh úp trên|v
 袭击=tập kích/đột kích/đánh úp/công kích bất ngờ|v
 袭占=tập kích chiếm lĩnh|v
@@ -21862,9 +21391,7 @@
 装配=phân phối trang bị/lắp ráp/lắp/bắt|v
 装醉=giả say|v
 装错=gắn lộn|v
-裝=trang|v
 裣衽=liêm nhẫm|v
-裱=phiếu|v
 裱子=con điếm|v
 裱画=bồi tranh|v
 裱糊=dán vách/dán trần/bồi tường/giấy dán tường/dán giấy/bồi tường|v
@@ -21883,7 +21410,6 @@
 裸足=chân trần|v
 裸身=thân trần/trần truồng|v
 裸露=trần trụi/lỏa lồ/khỏa thân/phơi bày ra/lộ ra/phơi bày|v
-裹=khỏa|v
 裹上=trùm lên|v
 裹乱=quấy rầy/quấy rối/quấy nhiễu/làm phiền|v
 裹伤=băng vết thương/vết thương|v
@@ -21907,7 +21433,6 @@
 褒奖=khen thưởng/ca ngợi/khen ngợi|v
 褒扬=biểu dương/tán dương/ca ngợi/tuyên dương|v
 褒贬=khen chê/chê khen/bình phẩm/bình luận/nói xấu|v
-褪=thốn|v
 褪下=trút bỏ/cởi ra|v
 褪光=cởi sạch|v
 褪到=tuột đến|v
@@ -21917,8 +21442,6 @@
 褪色=phai màu/bay màu/bạc màu|v
 褫夺=tước/tước đoạt/cách chức/lấy đi của ai|v
 襄助=giúp đỡ/tương trợ|v
-襻=phán|v
-要=yếu|v
 要上=muốn lên/muốn thượng|v
 要不了=muốn không được|v
 要不得=không được/không thể chấp nhận được|v
@@ -22043,8 +21566,6 @@
 覆盖=bao trùm/che/phủ/che phủ/bao phủ|v
 覆着=che|v
 覆罩=che kín/bao phủ/che đậy|v
-親=thân|v
-见=kiến|v
 见上=gặp được/nhìn tới|v
 见习=thực tập/kiến tập/tập sự|v
 见了=thấy/thấy vậy/gặp|v
@@ -22113,7 +21634,6 @@
 视察=thị sát/kiểm tra xem xét/xem xét|v
 视着=nhìn|v
 览胜=tham quan/ngắm cảnh|v
-觉=giác|v
 觉出=ngộ ra|v
 觉察=cảm thấy/phát giác/phát hiện/thấy ra được|v
 觉得=cảm thấy/nghĩ/hiểu được/thấy/cho rằng/thấy rằng|v
@@ -22123,13 +21643,9 @@
 觉着=cảm thấy|v
 觉睡=giấc ngủ|v
 觉醒=thức tỉnh/giác tỉnh|v
-觊=ký|v
 觊觎=ngấp nghé/mơ ước/hi vọng đạt được/hi vọng thu được/hi vọng có được/ham muốn|v
 觐见=yết kiến/bái yết/gặp mặt|v
-觑=thứ|v
 角逐=tranh đấu/chiến đấu/giác trục/đấu võ|v
-觞=Thương|v
-解=giải|v
 解不开=không giải được|v
 解严=bỏ lệnh giới nghiêm/huỷ lệnh giới nghiêm|v
 解乏=giải lao/nghỉ ngơi/đỡ mệt|v
@@ -22237,17 +21753,13 @@
 誊录=sao chép/sao lại/chép lại|v
 誊抄=sao chép|v
 誓死=thề sống chết/thề|v
-請=thỉnh|v
-謄=đằng|v
 警察=cảnh sát|v
 警惕=cảnh giác|v
 警示=cảnh cáo/cảnh kỳ|v
 警署=đồn cảnh sát/sở cảnh sát|v
 警醒=tỉnh táo/cảnh giác/tỉnh ngủ/tỉnh giấc/tỉnh ngộ/cảnh tỉnh|v
-譬=thí|v
 譬喻=tỉ như/ví như|v
 譬如=thí dụ như/ví như/tỉ như/ví dụ|v
-讀=độc|v
 计么=kế yêu/cái gì|v
 计入=đưa vào/liệt kê vào|v
 计刮=kế hoạch|v
@@ -22313,7 +21825,6 @@
 讥评=châm chọc bình phẩm/châm chọc mỉa mai|v
 讥诮=giọng mỉa mai/giọng châm biếm/giọng chế nhạo/cơ tiếu/châm biếm|v
 讥道=chế giễu|v
-讨=thảo|v
 讨乞=ăn xin/ăn mày|v
 讨亲=lấy vợ/kết hôn|v
 讨人=thảo nhân|v
@@ -22343,7 +21854,6 @@
 讨食=đòi đồ ăn|v
 讨饭=ăn xin/xin cơm/ăn mày/hành khất|v
 讨饶=xin khoan dung/xin dung thứ|v
-让=nhượng|v
 让于=nhường cho|v
 让位=thoái vị/nhường ngôi/nhường địa vị/nhường chỗ ngồi|v
 让出=nhường ra/nhượng xuất|v
@@ -22357,7 +21867,6 @@
 让贤=nhường hiền|v
 让路=nhường đường/nhường lối/tránh ra/tránh đường|v
 让道=nhường đường/để đạo|v
-讪=san|v
 讪然=ngượng ngập|v
 讪笑=cười ngượng ngùng/cười mỉa/chê cười|v
 讪脸=xấu hổ/ngượng ngùng|v
@@ -22419,9 +21928,7 @@
 讲道=giảng đạo/diễn giải/thuyết giáo/thuyết pháp|v
 讳忌=kị huý/cấm kị/kiêng kị|v
 讳言=không dám nói/úp mở/không dám nói ra/che giấu/giấu giếm|v
-讴=âu|v
 讴歌=ca ngợi/ca tụng/khen ngợi|v
-讶=nhạ|v
 讶异=kinh ngạc/kỳ quái/cảm thấy kỳ lạ|v
 讶意=kinh ngạc|v
 讶然=kinh ngạc|v
@@ -22456,7 +21963,6 @@
 设有=sắp đặt|v
 设立=thiết lập/thành lập/mở ra|v
 设防=bố trí phòng vệ/bố trí phòng ngự/đề phòng|v
-访=phóng|v
 访婚=cầu hôn|v
 访客=khách tới thăm/phóng khách|v
 访寻=tìm kiếm/hỏi han tìm kiếm/sưu tầm|v
@@ -22483,11 +21989,9 @@
 评选=bình chọn/bình bầu|v
 评鉴=bình giám/đánh giá|v
 评阅=chấm/duyệt|v
-诅=trớ|v
 诅丧=trớ tang|v
 诅咒=nguyền rủa/trớ chú/lời nguyền/chửi rủa/chửi mắng|v
 诅骂=nguyền rủa/chửi rủa/chửi mắng|v
-识=thức|v
 识别=phân biệt|v
 识到=biết đến|v
 识得=nhận biết|v
@@ -22519,7 +22023,6 @@
 诋毁=chửi bới/chửi rủa/bôi nhọ/gièm pha/để hủy|v
 译为=dịch là|v
 译注=biên dịch và chú giải|v
-诓=cuống|v
 诓骗=lừa gạt/lường gạt|v
 试一试=thử một lần|v
 试下=thử xuống/thử|v
@@ -22552,13 +22055,11 @@
 试问=thử hỏi/hỏi thử/dò hỏi|v
 试飞=bay thử|v
 试驾=lái thử|v
-诘=cật|v
 诘屈=quanh co/Quanh co khó hiểu.|v
 诘责=chất vấn khiển trách|v
 诘问=vặn hỏi/cật vấn/truy hỏi/chất vấn|v
 诘难=hỏi khó|v
 诚待=thành thật đối đãi/thành đãi|v
-诛=tru|v
 诛仙=tru tiên/Tru Tiên|v
 诛儿=Tru Nhi|v
 诛心=tru tâm|v
@@ -22576,14 +22077,12 @@
 诞生=sinh ra/sinh ra đời/ra đời|v
 诟詈=nhục mạ/chửi mắng|v
 诟骂=nhục mạ/mắng nhiếc/mắng chửi|v
-诠=thuyên|v
 诠注=chú giải/thuyết minh/chú thích|v
 诠释=thuyết minh/giải thích|v
 诡计=quỷ kế/mưu ma chước quỷ/nguỵ kế/mưu gian|v
 询价=hỏi giá/yêu cầu báo giá/Yêu cầu báo giá|v
 询声=theo tiếng|v
 询问=hỏi thăm/hỏi/trưng cầu ý kiến/hỏi dò|v
-诣=nghệ|v
 诤谏=khuyên bảo/khuyên răn/can gián|v
 该不该=có nên hay không|v
 该办=nên làm|v
@@ -22634,7 +22133,6 @@
 诱进=dụ vào|v
 诱降=dụ hàng/kêu gọi đầu hàng|v
 诱骗=dụ dỗ/lừa phỉnh/lừa gạt|v
-说=thuyết|v
 说上=nói lên|v
 说不出=nói không nên lời/không nói ra/không nói ra được|v
 说不完=nói không hết|v
@@ -22688,7 +22186,6 @@
 诵着=tụng|v
 诵经=tụng kinh|v
 诵读=đọc|v
-请=thỉnh|v
 请上=mời lên/mời tới|v
 请上去=mời đi lên|v
 请上来=mời lên|v
@@ -22764,7 +22261,6 @@
 读破=đọc khác/cách đọc khác|v
 读起=đọc lấy/đi học|v
 读过=đọc qua/từng đọc|v
-诽=phỉ|v
 诽谤=phỉ báng/nói xấu/gièm pha|v
 谁为=ai là/ai vì|v
 谁会=ai sẽ/ai biết|v
@@ -22820,11 +22316,9 @@
 调遣=điều khiển/điều phái/sai phái|v
 调阅=chọn đọc tài liệu/xem|v
 调高=nâng cao|v
-谄=siểm|v
 谄媚=nịnh nọt/nịnh hót/nịnh bợ|v
 谄笑=cười lấy lòng/cười nịnh|v
 谄谀=nịnh hót/nịnh bợ/ton hót|v
-谅=lượng|v
 谅察=lượng xét/xin tha thứ/xin lượng thứ/mong được hiểu cho/xem xét và tha thứ|v
 谅解=thông cảm/lượng giải/hiểu và bỏ qua/lượng thứ/tha thứ|v
 谈下=nói một chút|v
@@ -22901,7 +22395,6 @@
 豁免=miễn trừ/được miễn/miễn|v
 豁出=đánh bạc/chơi trò chơi may rủi|v
 豁嘴=sứt môi/người sứt môi|v
-豎=thụ|v
 象主=Zunisha|v
 象人=tượng nhân/giống người|v
 象兵=tượng binh|v
@@ -22922,9 +22415,6 @@
 貌相=tướng mạo|v
 貌美=mỹ mạo/mạo mỹ/tướng mạo đẹp|v
 貌赛=mạo tái|v
-賞=thưởng|v
-賭=đổ|v
-賺=trám|v
 负不起=không chịu nổi|v
 负于=dựa vào/bị thua đến|v
 负伤=bị thương|v
@@ -22987,7 +22477,6 @@
 贪贿=tham ăn hối lộ/tham ăn của đút lót|v
 贪赃=ăn hối lộ/ăn của đút lót|v
 贪钱=tham tiền|v
-贬=biếm|v
 贬为=biếm thành/giáng thành/cách chức làm|v
 贬义=nghĩa xấu|v
 贬于=giáng tới|v
@@ -23012,7 +22501,6 @@
 购来=sắm đến|v
 购置=mua/mua sắm/đặt mua|v
 购销=mua bán/mua vào bán ra|v
-贮=trữ|v
 贮备=để dành/dự trữ|v
 贮存=dự trữ/trữ/để dành/dành dụm/chứa|v
 贮水=chứa nước/trữ nước|v
@@ -23067,9 +22555,7 @@
 贿赂=hối lộ/đút lót/đút tiền/của đút lót/của hối lộ/tiền hối lộ|v
 贿赌=hối đổ|v
 贿选=mua chuộc để trúng cử/mua chuộc cử tri/dùng tiền mua chuộc để đắc cử|v
-赁=nhẫm|v
 赈救=chẩn cứu|v
-赊=xa|v
 赊帐=cho chịu/cho nợ/cho thiếu|v
 赊欠=thiếu nợ/chịu nợ/thiếu chịu|v
 赊账=ký sổ|v
@@ -23112,7 +22598,6 @@
 赏鉴=thưởng thức/ngắm nhìn/biết thưởng thức/biết đánh giá|v
 赏钱=tiền thưởng|v
 赏阅=ngâm nga thưởng thức|v
-赐=tứ|v
 赐下=ban thưởng/ban xuống|v
 赐与=ban thưởng/ban tặng/ban/dành/tặng - cho|v
 赐予=ban cho/ban tặng/ban thưởng/thưởng/tặng/chiếu cố/hạ cố|v
@@ -23129,7 +22614,6 @@
 赐给=ban cho|v
 赐药=ban thuốc|v
 赐赏=ban thưởng|v
-赔=bồi|v
 赔上=bồi lên/bồi thêm|v
 赔不赔=có thường hay không|v
 赔不起=không thường nổi/đền không nổi/không đền nổi|v
@@ -23154,7 +22638,6 @@
 赖账=quỵt nợ/ăn quỵt/chối/ăn giựt/giựt nợ|v
 赘述=lắm lời/nói năng rườm rà/lời thừa/chuế thuật|v
 赙仪=phúng viếng/phúng điếu|v
-赚=trám|v
 赚上=kiếm được tiền|v
 赚下=kiếm được|v
 赚下来=kiếm được|v
@@ -23191,7 +22674,6 @@
 赞道=khen|v
 赞颂=tán tụng/tôn sùng/ca tụng/ca ngợi/khen ngợi|v
 赞高=Jango|v
-赠=tặng|v
 赠与=tặng cho|v
 赠予=tặng cho|v
 赠于=tặng cho|v
@@ -23204,7 +22686,6 @@
 赠送=đưa tặng/biếu tặng/biếu/tặng|v
 赠阅=kính tặng|v
 赡养=phụng dưỡng|v
-赢=doanh|v
 赢下=thắng được/thắng được|v
 赢了=thắng/và giành chiến thắng|v
 赢余=dôi ra/tiền lãi|v
@@ -23272,7 +22753,6 @@
 走避=chạy trốn/trốn tránh/tránh đi|v
 走错=đi nhầm|v
 走露=để lộ/tiết lộ|v
-赴=phó|v
 赴京=vào kinh thành|v
 赴任=đi nhậm chức/nhậm chức|v
 赴宴=dự tiệc/đi dự tiệc|v
@@ -23321,7 +22801,6 @@
 赶返=vội về|v
 赶进来=chạy vào|v
 赶集=đi chợ/tập hợp/họp chợ|v
-起=khởi|v
 起不来=dậy không nổi/không lên nổi|v
 起不起=có dậy hay không|v
 起义=khởi nghĩa|v
@@ -23401,8 +22880,6 @@
 起飞=cất cánh|v
 起首=lúc đầu/ban đầu|v
 起驾=khởi giá|v
-趄=thư|v
-超=siêu|v
 超世=siêu thế|v
 超乎=vượt qua/vượt quá|v
 超于=vượt qua|v
@@ -23458,8 +22935,6 @@
 趋奉=xu nịnh/bợ đỡ/bợ đít/nịnh hót/a dua|v
 趋近=tới gần/gần tới|v
 趋附=xu phụ/làm cho người mến/bám vào/hùa theo|v
-趑=tư|v
-趔=liệt|v
 趔趄=lảo đảo/liệt thư|v
 足下=túc hạ/dưới chân/ngài/dưới bàn chân/anh|v
 足于=với|v
@@ -23492,7 +22967,6 @@
 趴跪=quỳ sấp|v
 趴门=hé cửa|v
 趺坐=ngồi xếp bằng|v
-趿=táp|v
 趿上=mang lên|v
 趿拉=lê/kéo lê/kéo lệt xệt|v
 跃上=nhảy lên|v
@@ -23536,7 +23010,6 @@
 跌跤=té nhào/lộn nhào/té ngã/ngã nhào/vấp váp/sai lầm/mắc sai lầm|v
 跌退=ngã xuống|v
 跏趺=ngồi xếp bằng|v
-跑=bào|v
 跑下=chạy xuống|v
 跑不掉=chạy không thoát|v
 跑出=chạy ra|v
@@ -23591,7 +23064,6 @@
 跨过=vượt qua|v
 跨进=bước vào/nhảy vào|v
 跨进去=nhảy vào|v
-跪=quỵ|v
 跪下=quỳ xuống/quỳ gối/quỳ|v
 跪于=quỳ ở|v
 跪伏=quỳ sát/nằm mọp/quỳ mọp|v
@@ -23615,7 +23087,6 @@
 路考=đường đi|v
 路财=lộ tài|v
 路过=đi ngang qua/đi qua/tạt qua|v
-跳=khiêu|v
 跳上=nhảy lên|v
 跳上去=nhảy tới|v
 跳上来=nhảy lên|v
@@ -23662,7 +23133,6 @@
 践行=thực tiễn/thực hiện/thực hành|v
 践诺=thực hiện lời hứa/làm theo lời hứa|v
 践踏=chà đạp/trúng tên/đạp/giẫm/giẫm lên/đạp lên/giày xéo|v
-跺=đọa|v
 跺下=đạp xuống|v
 跺在=dẫm lên|v
 跺死=đạp chết|v
@@ -23670,14 +23140,10 @@
 跺脚=dậm chân/giậm chân/giậm chân/dẫm chân|v
 跺足=giẫm chân/giậm chân|v
 跺跺脚=dậm chân một cái/giậm chân một cái|v
-跻=tễ|v
 跻身=đưa thân/tễ thân/bước lên|v
 跼促=chật hẹp/nhỏ hẹp/hẹp hòi/nhỏ nhen/ngắn ngủi/áy náy/bứt rứt/băn khoăn/không tự nhiên|v
-踅=tuyệt|v
-踌=trù|v
 踌蹰=chần chừ|v
 踌躇=do dự/chần chừ/lưỡng lự/ngập ngừng/dừng/ngừng/nghênh ngang đắc ý/trù trừ|v
-踏=đạp|v
 踏上=đạp lên/bước trên/bước lên|v
 踏上去=đạp lên|v
 踏下=đạp xuống|v
@@ -23703,10 +23169,8 @@
 踏过=bước qua|v
 踏进=bước vào/giẫm vào/đạp vào|v
 踏遍=đạp biến/dẫm nát/đạp khắp|v
-踟=trì|v
 踟蹰=trù trừ/chần chừ/ngập ngừng/do dự/lưỡng lự/dao động/núng thế|v
 踟躇=do dự|v
-踢=thích|v
 踢上=đá lên|v
 踢下=đá xuống|v
 踢倒=đá ngã|v
@@ -23763,35 +23227,26 @@
 踩进=giẫm vào|v
 踩道=thăm dò/điều nghiên địa hình/tìm hiểu địa hình|v
 踩高跷=đi cà kheo|v
-踮=điểm|v
 踮脚=điểm cước/đi cà nhắc/đi cà xích/đi khập khiễng|v
 踮起=kiễng/nhón/điểm lên|v
-踯=trịch|v
-踱=đạc|v
 踱步=dạo bước/đạc bộ/đi dạo|v
 踱着=đi thong thả/tản bộ|v
-踹=đoán|v
 蹀躞=đi bước nhỏ/đi từng bước ngắn/đi đi lại lại/đi qua đi lại|v
 蹁跹=xiêu vẹo/uyển chuyển/|v
-蹂=nhựu|v
 蹂虐=độc ác chà đạp|v
 蹂蹋=chà đạp|v
 蹂躏=chà đạp/giày vò/làm nhục/giày xéo|v
 蹈海=nhảy xuống biển/đâm đầu xuống biển|v
 蹈火赴汤=xông pha khói lửa/bất chấp gian nguy|v
-蹉=tha|v
 蹉跌=sẩy chân trượt ngã/sa chân lỡ bước|v
 蹉跎=phí thời gian/lần lữa/thời gian trôi qua một cách vô ích/phí hoài/tha đà|v
-蹋=đạp|v
 蹑踪=theo dõi/bám đuôi|v
 蹑迹=theo bước|v
-蹒=bàn|v
 蹒跚=tập tễnh/loạng choạng/lảo đảo|v
 蹙眉=nhíu mày/cau mày|v
 蹙缩=co lại|v
 蹙起=nhíu lên|v
 蹙额=cau mày/nhíu trán|v
-蹦=bính|v
 蹦出=tung ra/nhảy ra|v
 蹦出来=đụng tới/bỗng xuất hiện|v
 蹦断=làm gãy|v
@@ -23802,11 +23257,8 @@
 蹦达=nhảy nhót|v
 蹦迪=nhảy disco/bính địch|v
 蹦飞=bay loạn|v
-蹬=đặng|v
 蹬开=đạp ra|v
 蹬断=đạp gãy|v
-蹭=thặng|v
-蹲=tồn|v
 蹲下=ngồi xuống/ngồi xổm xuống|v
 蹲下去=ngồi xổm xuống/ngồi chồm hổm xuống|v
 蹲下来=ngồi xổm xuống/ngồi chồm hổm xuống/ngồi chồm hỗm xuống|v
@@ -23824,8 +23276,6 @@
 蹲踞=chồm hổm/ngồi chồm hổm|v
 蹲身=cúi thân/ngồi xổm xuống/tồn thân|v
 蹶子=đá hậu/đá sau|v
-蹺=khiêu|v
-蹿=thoan|v
 蹿升=nhảy toát lên/tăng/tăng lên nhanh chóng|v
 蹿蹦=nhảy lên|v
 蹿进=rút vào|v
@@ -23853,7 +23303,6 @@
 躬行=tự mình thực hành/tự thực hiện|v
 躬身=khom người|v
 躬送=cung tống|v
-躲=đóa|v
 躲上=trốn lên|v
 躲下去=trốn ở đó|v
 躲不开=trốn không thoát/tránh không thoát/không tránh thoát|v
@@ -23885,7 +23334,6 @@
 躲难=tránh tai nạn|v
 躲雨=tránh mưa|v
 躲风=tránh gió/chắn gió|v
-躺=thảng|v
 躺上去=nằm trên đó|v
 躺下去=nằm xuống|v
 躺下来=nằm xuống|v
@@ -23893,7 +23341,6 @@
 车往=xe đi|v
 轧扎=lạch cạch|v
 轧轧=ken két|v
-转=chuyển|v
 转上=chuyển lên|v
 转下=vòng xuống|v
 转世=chuyển thế/chuyển sang kiếp khác/đầu thai/đầu thai kiếp khác/người kế thừa|v
@@ -24124,12 +23571,10 @@
 输送=chuyển vận/chuyển lau/thâu tống/vận chuyển|v
 输错=nhập sai|v
 输阵=thua trận|v
-辗=triển|v
 辗转=trằn trọc/gián tiếp/trăn trở/qua tay nhiều người/triển chuyển|v
 辛评=Tân Bình|v
 辜息=cô tức|v
 辜负=cô phụ/phụ lòng/không xứng với|v
-辞=từ|v
 辞世=qua đời|v
 辞令=đối đáp/ứng đối|v
 辞别=từ biệt/tạm biệt/chia tay|v
@@ -24141,11 +23586,9 @@
 辞让=khước từ/khiêm tốn từ chối/từ chối khéo/từ tạ|v
 辞谢=từ tạ/khước từ|v
 辞退=sa thải/xa thải/tạ từ ra về/thải hồi/thải|v
-辟=tịch|v
 辟出=trừ ra|v
 辟头=mở đầu/khởi đầu|v
 辟开=mở ra|v
-辦=bạn|v
 辨不清=không phân rõ được|v
 辨出=phân biệt ra|v
 辨别=phân rõ/phân biệt rõ/phân biệt|v
@@ -24183,7 +23626,6 @@
 辱没=bôi nhọ/làm nhục/làm cho bẽ mặt|v
 辱骂=nhục mạ/xỉ vả/mắng nhiếc/chửi bới|v
 边走边看=vừa đi vừa nhìn|v
-达=đạt|v
 达于=đạt đến|v
 达令=darling|v
 达到=đạt tới/đạt được/đạt đến/đi đến|v
@@ -24197,7 +23639,6 @@
 达观=lạc quan/cởi mở/bao dung/bình thản|v
 达赖=Đạt Lai|v
 达露=Taru|v
-迁=thiên|v
 迁入=dời vào|v
 迁到=dời đến|v
 迁就=chiều theo/nhân nhượng/cả nể/chiều ý|v
@@ -24262,7 +23703,6 @@
 迈过=bước qua|v
 迈过去=vượt qua|v
 迈进=rảo bước tiến lên/tiến bước mạnh mẽ/bước vào|v
-迎=nghênh|v
 迎上去=nghênh đón|v
 迎上来=chào đón|v
 迎了=đón|v
@@ -24310,7 +23750,6 @@
 近虑=lo gần|v
 近视=cận thị/tầm mắt hạn hẹp/thiển cận|v
 近邻=láng giềng/cận lân/hàng xóm/láng giềng gần|v
-返=phản|v
 返京=trở về kinh|v
 返俗=hoàn tục/trở về cõi tục|v
 返修=sửa chữa lại/tu sửa/sửa đi sửa lại|v
@@ -24406,7 +23845,6 @@
 还长=còn dài/còn mọc|v
 还阳=hoàn dương/sống lại/chết đi sống lại|v
 还魂=hoàn hồn/sống lại/chết rồi sống lại/tái sinh/tái chế|v
-进=tiến|v
 进不了=vào không được/không vào được|v
 进不去=vào không được/không vào được/không vào được|v
 进不来=vào không được/không vào được|v
@@ -24610,7 +24048,6 @@
 迸落=rơi ra/rớt ra|v
 迸裂=vỡ toang/vọt/phọt/phụt/vỡ tung|v
 迸飞=bay tứ tung/bay mọi hướng|v
-追=truy|v
 追上=đuổi kịp/đuổi theo|v
 追上去=đuổi theo/đuổi theo mau/đuổi tới|v
 追上来=đuổi theo|v
@@ -24694,7 +24131,6 @@
 追阳=Truy Dương|v
 追随=đi theo/đuổi theo/theo đuôi/bám gót/tùy tùng|v
 追风=truy phong|v
-退=thối|v
 退上=thối lui|v
 退下=lui ra|v
 退下去=lui xuống đi|v
@@ -24760,7 +24196,6 @@
 退避=tránh lui/tránh/lui tránh|v
 退钱=trả lại tiền|v
 退隐=thoái ẩn/ở ẩn/từ chức về ở ẩn|v
-送=tống|v
 送上=đưa lên|v
 送上去=đưa lên|v
 送上来=đưa ra|v
@@ -24837,7 +24272,6 @@
 适逢=trùng hợp|v
 适配=thích phối/phù hợp/sự thích nghi|v
 适量=số lượng vừa phải/số lượng thích hợp|v
-逃=đào|v
 逃不了=trốn không thoát/không trốn thoát/không trốn được|v
 逃不出=trốn không thoát/không trốn thoát|v
 逃不开=trốn không thoát|v
@@ -24935,7 +24369,6 @@
 选集=tuyển tập|v
 选马=chọn ngựa|v
 逊于=kém/hơn|v
-透=thấu|v
 透信=lộ tin/tiết lộ thông tin|v
 透光=thông sáng|v
 透入=xuyên vào|v
@@ -24969,7 +24402,6 @@
 逐浪=trục lãng|v
 逐电=thần sấm|v
 逐走=đuổi đi|v
-递=đệ|v
 递上=đưa lên|v
 递上去=đưa lên|v
 递上来=đưa tới|v
@@ -24998,7 +24430,6 @@
 递进=tiến dần lên/lần lượt tiến lên|v
 递送=đưa/chuyển/đệ|v
 递降=xuống dần/hạ dần/giảm dần|v
-逗=đậu|v
 逗哏=pha trò/chọc cười/gây cười|v
 逗嘴=nói đùa/giễu cợt|v
 逗弄=trêu đùa/đùa/nghịch/dụ/dụ dỗ/trêu chọc|v
@@ -25030,7 +24461,6 @@
 通读=đọc hiểu/đọc một lượt/đọc toàn bộ|v
 通进=thông tới|v
 通道=thông đạo/đường giao thông/đường qua lại/lối đi/đường nối|v
-逛=cuống|v
 逛一逛=đi dạo một vòng|v
 逛了=đi dạo|v
 逛完=đi dạo xong|v
@@ -25057,7 +24487,6 @@
 速成=tốc thành/học cấp tốc|v
 速来=mau tới|v
 速递=chuyển hàng nhanh/Express|v
-造=tạo|v
 造价=phí tổn/giá trị chế tạo/giá thành/giá vốn/giá xây dựng/chi phí|v
 造假=làm giả|v
 造像=tạc tượng/tạo hình/tượng hình điêu khắc|v
@@ -25089,7 +24518,6 @@
 逸出=xuất ra/bật ra|v
 逸散=tiêu tán|v
 逸致=dật trí|v
-逼=bức|v
 逼上=ép lên|v
 逼乎=Zhihú|v
 逼人=bức người/thúc bách/cấp bách/cấp thiết/toả hơi nóng/phả hơi nóng|v
@@ -25150,7 +24578,6 @@
 遂意=toại nguyện/thoả lòng|v
 遂愿=toại nguyện/như ý|v
 遂道=toại đạo|v
-遇=ngộ|v
 遇上=gặp phải/gặp gỡ|v
 遇不上=gặp không được/không gặp được|v
 遇不到=không gặp được|v
@@ -25204,7 +24631,6 @@
 遗撼=nuối tiếc/tiếc nuối|v
 遗漏掉=sơ sót mất|v
 遗赠=di tặng|v
-遛=lưu|v
 遛弯=đi tản bộ/lưu loan|v
 遛弯儿=tản bộ/dạo chơi/bách bộ|v
 遛狗=dắt chó|v
@@ -25241,7 +24667,6 @@
 遭袭=bị tấn công/bị tập kích|v
 遭逢=gặp/gặp gỡ/gặp phải/gặp nhau/gặp được|v
 遭难=gặp/bị nạn/gặp nạn/gặp nạn|v
-遮=già|v
 遮上=che lên|v
 遮不住=che không được/không giấu được|v
 遮丑=che đậy/giấu giếm|v
@@ -25271,7 +24696,6 @@
 遮雨=che mưa|v
 遮面=che mặt|v
 遮风=che gió|v
-遴=lấn|v
 遴选=tuyển chọn/chọn/chọn lựa|v
 遵从=tuân theo/vâng theo|v
 遵令=tuân lệnh|v
@@ -25283,7 +24707,6 @@
 遵照=tuân theo/theo/vâng theo|v
 遵行=thi hành theo/tuân theo|v
 遵重=tuân trọng|v
-避=tị|v
 避一避=tránh một chút|v
 避不开=tránh không khỏi/không tránh khỏi|v
 避不掉=phòng không được|v
@@ -25326,14 +24749,12 @@
 避雨=tránh mưa/đụt mưa|v
 避雷=tránh sét|v
 避风=tránh gió/chắn gió/ẩn mình/ẩn nấp|v
-邀=yêu|v
 邀击=chặn đánh|v
 邀功=tranh công/giành công/yêu công|v
 邀战=khiêu chiến|v
 邀约=mời/yêu ước|v
 邀请=mời|v
 邀集=mời họp mặt|v
-邁=mại|v
 邂逅=gặp gỡ bất ngờ/gặp gở/không hẹn mà gặp/tình cờ gặp gỡ/giải cấu|v
 邮去=gửi qua|v
 邮寄=hệ thống tin nhắn/gửi qua bưu điện|v
@@ -25389,9 +24810,7 @@
 酒过三巡=qua ba lần rượu|v
 酒醉=say rượu|v
 酒醒=tỉnh rượu|v
-酗=hú|v
 酗酒=say rượu/nát rượu|v
-酝=uấn|v
 酝酿=ấp ủ/ủ rượu/công tác chuẩn bị/nổi lên|v
 酣战=kịch chiến/đánh nhau kịch liệt/chiến đấu hăng say/chiến đấu ác liệt|v
 酣梦=ngủ say mộng đẹp/mộng đẹp|v
@@ -25421,7 +24840,6 @@
 醉得=say đến|v
 醉意=men say/say ngà ngà/ngà ngà|v
 醉过=say quá|v
-醒=tỉnh|v
 醒了=tỉnh/tỉnh rồi/thức dậy|v
 醒得=tỉnh|v
 醒悟=tỉnh ngộ/giác ngộ/sáng mắt|v
@@ -25434,7 +24852,6 @@
 醒转=tỉnh dậy|v
 醒酒=tỉnh rượu/giải rượu|v
 醒醒=tỉnh tỉnh/tỉnh/tỉnh lại đi|v
-采=thải|v
 采下来=hái xuống|v
 采买=chọn mua/mua/tậu/mua sắm|v
 采了=hái|v
@@ -25572,9 +24989,6 @@
 鉴识=giám định|v
 鉴谅=xin tha thứ/xin thứ lỗi/xin lượng thứ|v
 鉴赏=giám thưởng/giám định và thưởng thức/thưởng thức/xem xét ngắm nghía|v
-銜=hàm|v
-錾=tạm|v
-鏖=ao|v
 鏖兵=ác chiến|v
 鏖战=ác chiến/huyết chiến/quyết chiến|v
 鏖斗=ác đấu|v
@@ -25621,12 +25035,9 @@
 铅版=bản chì|v
 铅直=đường thẳng đứng|v
 铆接=tán đinh|v
-铐=khảo|v
-铡=trát|v
 铨叙=xét tài định cấp|v
 铩羽=sát vũ/bị giết sạch|v
 铭有=có khắc|v
-铰=giảo|v
 铰接=mắc xích/móc/móc nối/nối bằng móc xích|v
 铲为=xúc thành|v
 铲掉=xúc đi|v
@@ -25653,7 +25064,6 @@
 铺衬=mụn vá/vải vá|v
 铺陈=bày ra/bố trí/trình bày/kể/chăn gối chiếu nệm/đồ dùng trên giường/phô trần|v
 销毁=tiêu hủy/hủy bỏ|v
-锁=tỏa|v
 锁上=khóa lại/khoá lên|v
 锁不住=không khóa lại được|v
 锁住=khóa lại|v
@@ -25687,7 +25097,6 @@
 错认=nhận sai|v
 错过=bỏ lỡ/bỏ qua/sai qua/đánh trượt/lỡ/mất/bắt hụt/để vuột/để chảy mất/để bay mất|v
 错非=trừ phi/ngoài/ngoài ra/nếu không phải|v
-锛=bôn|v
 锤击=nện gõ/nện búa|v
 锤在=nện vào|v
 锤坏=nện hỏng|v
@@ -25698,7 +25107,6 @@
 锤着=nện lấy/nện|v
 锤碎=đập nát/đập nhỏ|v
 锤造=rèn giũa|v
-锩=quyển|v
 锻冶=luyện rèn|v
 锻压=sự rèn dập/rèn dập|v
 锻就=rèn đúc|v
@@ -25727,7 +25135,6 @@
 镇锁=trấn tỏa|v
 镇长=trưởng trấn/Trấn trưởng|v
 镌刻=tuyên khắc/điêu khắc|v
-镶=tương|v
 镶在=khảm tại|v
 镶嵌=khảm nạm/tương khảm/vây quanh|v
 镶着=khảm|v
@@ -25745,7 +25152,6 @@
 长跪=quỳ thẳng/quỳ gối|v
 长进=tiến bộ/có tiến bộ|v
 长逝=mất/chết/qua đời|v
-闢=tịch|v
 门禁=gác cổng/canh gác cổng|v
 闪出=lóe ra/tránh ra/lòe ra|v
 闪击=Thiểm kích/đánh chớp nhoáng/tiến công nhanh/{Thiểm kích}|v
@@ -25782,7 +25188,6 @@
 闪遁=thiểm độn|v
 闪避=né tránh/lánh/tránh|v
 闪露=chợt hiện/flash/lấp lánh/để tiết lộ trong giây lát|v
-闭=bế|v
 闭上=nhắm lại|v
 闭了=đóng/nhắm|v
 闭会=bế mạc/kết thúc hội nghị|v
@@ -25849,7 +25254,6 @@
 间阻=cách/ngăn cách|v
 闷屁=muộn thí|v
 闷死=ngạt chết/buồn chết|v
-闹=nháo|v
 闹了=náo loạn|v
 闹事=nháo sự/gây rối/gây sự/gây chuyện|v
 闹僵=chơi cứng/làm căng|v
@@ -25987,7 +25391,6 @@
 降解=thoái biến|v
 降调=giáng âm/giáng/hạ giọng/xuống giọng|v
 降顺=quy hàng/quy phục|v
-限=hạn|v
 限于=giới hạn trong/bị hạn chế/hạn vu/giới hạn ở|v
 限制=hạn chế/giới hạn/phạm vi quy định|v
 限制住=hạn chế lại|v
@@ -26041,7 +25444,6 @@
 陪陪=bồi bồi|v
 陵迟=lăng trì/suy bại/suy yếu/tùng xẻo|v
 陶汰=đào thải|v
-陷=hãm|v
 陷下=lõm xuống|v
 陷于=rơi vào/sa vào/vùi lấp trong|v
 陷入=lâm vào/rơi vào/sa vào/lọt vào|v
@@ -26179,7 +25581,6 @@
 雇走=thuê rồi|v
 雕版=bản khắc/ván khắc|v
 雕琢=tạo hình/điêu khắc/chạm trổ/quá trau chuốt/quá gọt giũa/mài dũa|v
-雜=tạp|v
 雪瞳=Tuyết Đồng|v
 雷倒=té xỉu/lôi đảo|v
 雷出=lôi xuất|v
@@ -26194,7 +25595,6 @@
 需索=yêu cầu/đòi hỏi|v
 需要=cần/yêu cầu/cần/phải/sự đòi hỏi|v
 需请=cần mời|v
-震=chấn|v
 震世=chấn thế|v
 震中=tâm động đất/tâm địa chấn|v
 震伤=chấn thương|v
@@ -26285,7 +25685,6 @@
 静滞=tĩnh trệ|v
 静立=đứng yên|v
 静道=tĩnh đạo|v
-靠=kháo|v
 靠上=dựa vào/bụp lên|v
 靠不住=không đáng tin cậy/không tin cậy được/không nhờ vả được/không dựa dẫm được|v
 靠住=dựa vào|v
@@ -26325,13 +25724,11 @@
 革除=từ bỏ/bỏ/khai trừ/cách chức|v
 鞠身=khom người|v
 鞠躬=cúi đầu/cúc cung/khom lưng/cúi chào/khom/khòm/quỳ gối/cúi mình/cúi rạp người/sự cúi rạp mình/vẻ tôn trọng/vẻ kính phục/cúi người chào|v
-鞣=nhu|v
 鞭打=quất/đánh/quất bằng roi/đánh roi/phạt roi|v
 鞭挞=quất roi/quất/đánh/đả kích/đập mạnh|v
 鞭笞=quất roi/quất/quất mạnh/quật/đánh|v
 鞭责=đánh mắng/đánh phạt|v
 韬晦=giấu kín|v
-顫=chiến|v
 顫抖=run rẩy|v
 顶上去=chống đi tới/đẩy lên|v
 顶不住=chịu không được/không chịu nổi|v
@@ -26478,7 +25875,6 @@
 风扬=Phong Dương|v
 风翔=phong tường|v
 风苏=Phong Tô|v
-飘=phiêu|v
 飘上=nổi lên/phiêu thượng|v
 飘下=bay xuống|v
 飘了=nhẹ nhàng|v
@@ -26603,7 +25999,6 @@
 食以=ăn|v
 食过=đã ăn|v
 饔飧不继=được bữa sáng mất bữa tối/bữa có bữa không|v
-饧=đường|v
 饮尽=uống cạn|v
 饮恨=nuốt hận/ngậm hờn|v
 饮泣=nước mắt ròng ròng|v
@@ -26634,7 +26029,6 @@
 饶头=cái bù thêm/nhiêu đầu|v
 饶有=có nhiều|v
 饶赦=tha thứ/ân xá|v
-饿=ngạ|v
 饿上=bỏ đói|v
 饿不死=không đói chết/không chết đói|v
 饿了=đói/đói bụng|v
@@ -26656,7 +26050,6 @@
 首杀=thủ sát/giết|v
 首订=thủ đính|v
 首选=chọn lựa đầu tiên/chọn đầu/lựa chọn hàng đầu|v
-驮=đà|v
 驮伏=đà phục|v
 驮负=cõng lên/chở đồ|v
 驮起=nâng lên|v
@@ -26734,7 +26127,6 @@
 驾起=lái|v
 驾驭=điều khiển/khống chế/chỉ huy/cưỡi/điều động|v
 驾驶=điều khiển/lái xe/điều khiển/lái/bẻ lái|v
-骂=mạ|v
 骂出=trách mắng/mắng ra|v
 骂到=mắng|v
 骂名=bêu danh/cái tên bị nguyền rủa/tiếng xấu|v
@@ -26756,7 +26148,6 @@
 骑斗=kỵ đấu|v
 骑行=kỵ hành|v
 骑驴找驴=cưỡi lừa tìm lừa|v
-骖=tham|v
 骗上=lừa gạt|v
 骗住=lừa gạt được|v
 骗取=lừa gạt/lừa đảo/biển thủ|v
@@ -26774,7 +26165,6 @@
 骚痒=gãi ngứa|v
 骚话=tao thoại/nói chuyện bẩn thỉu/nói chuyện dâm dục|v
 骚货=lẳng lơ|v
-骟=phiến|v
 骤冷=đột nhiên lạnh|v
 骤减=chợt giảm|v
 骤变=đột biến/chợt biến|v
@@ -26855,13 +26245,10 @@
 默记=lưu vào trí nhớ/mặc ký/âm thầm ghi nhớ|v
 默诵=đọc thầm|v
 默读=đọc thầm|v
-黜=truất|v
 黜免=truất phế/bãi miễn/thải hồi/giải tán/bãi bỏ/huỷ bỏ|v
 黜退=truất phế/bãi miễn chức quan|v
-黩=độc|v
 黩武=hiếu chiến/lạm dụng vũ lực|v
 黩货=tham tiền|v
-黴=mi|v
 黾勉=nỗ lực/gắng sức|v
 鼎助=ra sức giúp đỡ|v
 鼎峙=thế chân vạc/đứng thế chân vạc|v

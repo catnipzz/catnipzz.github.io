@@ -434,7 +434,6 @@
 怫然作色=đỏ mặt tía tai|vn
 恢宏大度=hào phóng|vn
 恢廓大度=khoan dung độ lượng|vn
-恫=đỗng|vn
 恫吓=đe doạ/hăm doạ/doạ dẫm|vn
 恫喝=quát nạt/quát mắng/Ðỗng hát/dọa nạt|vn
 悸动=rung động/quý động|vn
@@ -804,7 +803,6 @@
 电抗=điện kháng|vn
 电邮=email|vn
 疾风迅雷=Tật Phong Tấn Lôi|vn
-痉=kinh|vn
 痉挛=co rút/kinh luyên/co quắp/co giật/chứng co giật/chuột rút|vn
 盐焗鸡=gà hấp muối|vn
 监利=Giám Lợi|vn

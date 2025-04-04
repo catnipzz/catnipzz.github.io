@@ -130,7 +130,6 @@
 乖不乖=có ngoan hay không|d
 乖乖=ngoan ngoãn/trái lại/ngoan/biết vâng lời/cục cưng/bé ngoan/ai ya/ô/wow|d
 乘便=nhân tiện/tiện thể/ngẫu nhiên/tình cờ|d
-也=dã|d
 也上=cũng tới|d
 也不=cũng không|d
 也且=cũng lại|d
@@ -151,7 +150,6 @@
 也道=cũng nói|d
 也都=cũng đều|d
 也门=Y-ê-men/Yemen/Yêmen|d
-乱=loạn|d
 事先=trước đó/trước khi xảy ra|d
 事少=chuyện ít|d
 事忙=bận chuyện|d
@@ -166,7 +164,6 @@
 些许=một chút/một ít/những/chút|d
 些须=một ít/một chút/một tí|d
 亟须=cấp bách chờ đợi/rất cần thiết|d
-亦=diệc|d
 亲也=hôn cũng|d
 亲手=tự tay/thân thủ/chính tay/tự tay|d
 亲眼=tận mắt/từng/đã từng/chính mắt|d
@@ -176,7 +173,6 @@
 亲近=thân cận/thân thiết/gần gũi/thân mật|d
 人少=người ít/ít người/nhân thiếu|d
 人敢=người dám|d
-仅=cận|d
 仅仅=vẻn vẹn/gần kề/chỉ/gần/mới/vừa vặn|d
 仅以=vẻn vẹn lấy/chỉ muốn|d
 仅只=vẻn vẹn/chỉ/đơn thuần|d
@@ -258,7 +254,6 @@
 依稀=lờ mờ/y hi/ngờ ngợ/ang áng/lơ đãng/mơ hồ/không rõ ràng/mang máng/loáng thoáng|d
 依约=đúng hẹn|d
 侧微=thấp hèn/Hèn mọn/ti tiện.|d
-便=tiện|d
 俄然=bỗng/bỗng nhiên/chợt|d
 俄顷=khoảng khắc/phút chốc/giây phút/giây lát/chốc lát|d
 倏地=phút chốc/bỗng chốc/chợt|d
@@ -312,7 +307,6 @@
 其速=tốc độ|d
 其道=đạo/một con đường riêng|d
 其重=nó nặng|d
-再=tái|d
 再三=liên tục/luôn mãi/nhiều lần/hết lần này đến lần khác/tái tam|d
 再不=lại không/không còn/nếu không/bằng không/không còn ... nữa/sẽ không/không nữa|d
 再不复=cũng không còn/không còn|d
@@ -427,7 +421,6 @@
 势微=thế nhỏ|d
 势必=thế tất/tất phải/ắt phải|d
 势来=tới|d
-勿=vật|d
 匀停=đầy đặn/dừng lại|d
 匀脸=xoa đều/thoa đều|d
 匀速=tốc độ đều đặn/tốc độ không thể/vận tốc đồng đều|d
@@ -453,7 +446,6 @@
 即定=tức định|d
 即将=sắp/gần/sẽ|d
 即期=lập tức/tức thì/ngay tức khắc|d
-却=khước|d
 却不=cũng không|d
 却不曾=lại chưa từng|d
 却为=lại vì/nhưng mà làm/là một|d
@@ -482,7 +474,6 @@
 原来=nguyên lai/lúc đầu/ban sơ/vốn/vốn dĩ/té ra/hoá ra/thì ra/thì ra là|d
 原样=nguyên dạng/nguyên trạng|d
 原经=nguyên kinh|d
-又=hựu|d
 及早=sớm cho kịp/nhanh chóng/sớm/cho sớm|d
 反倍=phản bội|d
 反对=phản đối/không tán thành/không đồng ý|d
@@ -525,9 +516,7 @@
 四快=tứ khoái|d
 四至=bốn bề giáp giới|d
 四顾=tứ phương/chung quanh|d
-囫=hốt|d
 囫囵=nguyên lành/hoàn chỉnh/trọn/cả/ngon/hoàn thành/hoàn tất/nguyên vẹn/hốt luân|d
-均=quân|d
 基多=Ki-tô/Quito/Kitô|d
 多于=nhiều hơn/nhiều/dư|d
 多亏=nhờ có/may mắn/may mà|d
@@ -627,7 +616,6 @@
 对刚=đối cứng|d
 对齐=xếp hợp lý/sắp xếp đồ/xếp ngay ngắn/xếp thẳng hàng|d
 将要=muốn/sắp sửa/sắp/sẽ|d
-將=tương|d
 小不点=tiểu bất điểm/điểm không nhỏ/nhóc tỳ|d
 小乎=tiểu tử|d
 小偷=tiểu thâu/kẻ trộm/ăn trộm/tên trộm/kẻ cắp|d
@@ -647,7 +635,6 @@
 尚早=còn sớm|d
 尚未=chưa|d
 尚远=rất xa|d
-尤=vưu|d
 尤为=càng/đặc biệt/sai|d
 尤以=đặc biệt|d
 尤其=nhất là/thực tế/vưu kì/đặc biệt là/càng/hơn nữa|d
@@ -658,7 +645,6 @@
 尤甚=càng hơn|d
 尤自=vưu tự|d
 尤过=càng hơn|d
-就=tựu|d
 就便=thuận tiện/nhân tiện/tiện thể|d
 就先=trước hết|d
 就再=sẽ thấy|d
@@ -705,7 +691,6 @@
 居然=thế mà/lại có thể/rõ ràng/cư nhiên/lại/sáng sủa|d
 届时=đến lúc đó/đến lúc/đến ngày/đúng giờ|d
 届期=đến kỳ/đến thời hạn|d
-屡=lũ|d
 屡加=lớp|d
 屡尝=lũ thường|d
 屡屡=nhiều lần/luôn|d
@@ -718,7 +703,6 @@
 差一点=kém một chút/thiếu một ít/thiếu chút nữa/thiếu một chút|d
 差别=khác biệt/sai lệch/chênh lệch/sai khác/sự khác biệt|d
 差得远=kém xa/kém xa lắm|d
-已=dĩ|d
 已不早=đã không còn sớm|d
 已久=đã lâu|d
 已于=đã ở|d
@@ -813,7 +797,6 @@
 微微=có chút/hơi/hơi hơi/có hơi/hiu hiu/mi-crô-mi-crô/na-nô/phần nghìn tỷ/Vivi|d
 微疑=thoáng nghi|d
 微睁=hơi mở|d
-必=tất|d
 必不得已=phải như vậy/nhất thiết phải như vậy|d
 必偿=phải đền|d
 必先=trước phải|d
@@ -831,7 +814,6 @@
 必至=sẽ đến|d
 必要=tất yếu/cần phải/cần thiết/thiết yếu/không thể thiếu/không thể khác/vật cần thiết/điều cần thiết|d
 必须=nhất định phải/phải/nhất thiết phải|d
-忒=thắc|d
 忙乎=bận bịu/bận rộn|d
 忙声=tiếng bận|d
 忙往=vội hướng về|d
@@ -896,7 +878,6 @@
 恨声=giọng căm hận|d
 恨意=hận ý/sự thù hận|d
 恨死=hận chết|d
-恰=kháp|d
 恰可=vừa có thể|d
 恰好=vừa lúc/vừa mới/đúng lúc/vừa đúng/vừa may/kháp hảo/vừa tốt/vừa vặn|d
 恰巧=trùng hợp/vừa khéo/đúng lúc/vừa vặn/vừa may|d
@@ -913,7 +894,6 @@
 悍将=hãn tướng|d
 悍然=ngang nhiên/hung hãn/ngang tàng/ngang ngược|d
 悍相=hãn tướng|d
-悻=hãnh|d
 悻幸=hậm hực|d
 悻悻=hậm hực/phẫn nộ/hậm hực/Hãnh hãnh/tả cái dáng giận tức lộ ra ngoài|d
 悻悻然=hậm hực/phẫn nộ|d
@@ -961,7 +941,6 @@
 或许=có lẽ/hay là/có thể/hoặc giả|d
 或轻=hoặc nhẹ/hoặc nhẹ|d
 截然=hoàn toàn/tuyệt nhiên/dứt khoát/rõ ràng/đầy đủ/trọn vẹn/toàn vẹn|d
-才=tài|d
 才刚=vừa mới/mới vừa/vừa|d
 扶须=đỡ râu|d
 批次=lượt|d
@@ -1078,7 +1057,6 @@
 暗自=âm thầm/thầm kín/trong thâm tâm/thầm/ngầm|d
 暗许=ám hứa|d
 暗门=cửa ngầm|d
-更=canh|d
 更不=lại càng không|d
 更不疑=càng không nghi ngờ|d
 更为=càng thêm/càng/thêm/hơn nữa/hơn|d
@@ -1115,7 +1093,6 @@
 更迭=thay đổi/đổi thay/luân phiên|d
 更难=càng khó|d
 更非=cũng không|d
-曾=tằng|d
 曾上=từng lên|d
 曾为=từng vì/từng là|d
 曾今=từng|d
@@ -1251,7 +1228,6 @@
 泛泛=hời hợt/sơ/qua loa/thông thường/bình thường/phiếm phiếm|d
 活佛=Phật sống|d
 深刻=khắc sâu/sâu sắc/cảm thụ sâu/hiểu sâu|d
-渐=tiệm|d
 渐久=tiệm cửu|d
 渐偏=dần lệch|d
 渐大=lớn dần|d
@@ -1349,7 +1325,6 @@
 甚速=rất nhanh|d
 甚难=thật khó|d
 生须=mọc râu|d
-甫=phủ|d
 由头=cớ/cái cớ/lý do/nguyên cớ|d
 由易=từ dễ|d
 由衷=từ đáy lòng/tự đáy lòng/từ trong thâm tâm|d
@@ -1373,7 +1348,6 @@
 的是=chính là|d
 的的确确=đích đích xác xác|d
 的确=đích xác/hoàn toàn chính xác/đích thực/quả thực/quả là/đúng là/xác thực|d
-皆=giai|d
 益于=nhờ vào/nhờ sự giúp đỡ|d
 直竖=dựng đứng/dựng thẳng/dựng lên|d
 相一相=xem một chút|d
@@ -1489,7 +1463,6 @@
 立身=lập thân/đứng thẳng/dựng thân|d
 立面=mặt chính/vẽ ngoài|d
 竞然=vậy mà/lại còn|d
-竟=cánh|d
 竟也=lại cũng|d
 竟以=lại lấy/càng lấy|d
 竟再=càng lại|d
@@ -1628,15 +1601,12 @@
 莫然=im lặng|d
 莫过于=không ai qua được/không gì bằng|d
 蓄须=để râu|d
-蓦=mạch|d
 蓦地=bỗng dưng/bỗng/bất ngờ|d
 蓦得=mạch đắc|d
 蓦然=bỗng nhiên/chợt|d
 被底=đáy chăn|d
 被迫=bị ép/bị bắt buộc/bị thúc ép/bị buộc|d
-詎=cự|d
 誓约=thệ ước/thề ước|d
-讵=cự|d
 诚然=quả thật/thực vậy/thực mà/thực tế/thực tại/tất nhiên/cố nhiên/đương nhiên/thành nhiên|d
 该当=phải làm/đáng/phải/nên/cần phải|d
 谆谆=ân cần/khẩn thiết/thành khẩn/dặn đi dặn lại|d
@@ -1794,8 +1764,6 @@
 通连=thông với/thông nhau/liền với|d
 通都=thông đô|d
 遽然=đột nhiên/bất thình lình/bất ngờ/đột ngột/cự nhiên|d
-還=hoàn|d
-都=đô|d
 酌定=xét đoán/phán đoán|d
 酌情=xét/xét tình hình cụ thể/chước tình|d
 酌量=cân nhắc/suy nghĩ/đánh giá/tuỳ tình hình|d
@@ -1913,7 +1881,6 @@
 顿觉=chợt cảm thấy|d
 顿足=dậm chân/giậm chân|d
 预后=dự đoán bệnh tình/đoán trước bệnh tình/tiên lượng bệnh/dự hậu|d
-颇=pha|d
 颇深=rất sâu/thâm hậu/khá sâu|d
 颇远=tương đối xa/khá xa|d
 频发=liên tiếp phát sinh/tần phát|d

@@ -79,7 +79,6 @@
 认真=nghiêm túc/chăm chú/tưởng thật/tin thật/chăm chỉ/hẳn hoi|ad
 详实=tỉ mỉ xác thực/tường thật|ad
 详细=kỹ càng/kể lại/kỹ càng tỉ mỉ/cặn kẽ/tỉ mỉ|ad
-踊=dũng|ad
 踊跃=nô nức tấp nập/dũng dược/hăng hái/nhiệt tình/nhảy nhót/nhảy lên/nô nức/tấp nập|ad
 迅猛=tấn mãnh/rất mạnh/nhanh chóng nhưng mãnh liệt/mạnh mẽ/mãnh liệt|ad
 迅速=cấp tốc/nhanh chóng|ad

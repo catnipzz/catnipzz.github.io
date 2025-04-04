@@ -201,7 +201,6 @@
 家财=gia tài/gia sản|j
 家长会=hội phụ huynh/họp phụ huynh|j
 家长制=chế độ gia trưởng|j
-寧=ninh|j
 少保=thiếu bảo/thái bảo|j
 居委会=cư ủy hội|j
 川帮=Xuyên Bang|j
@@ -256,7 +255,6 @@
 数伏=vào hè/vào hạ|j
 数到三=đếm tới ba|j
 数控=điều khiển kỹ thuật số|j
-斐=phỉ|j
 日产=mỗi ngày sản xuất|j
 日化=nhật hóa|j
 日大=ngày càng lớn|j
@@ -282,8 +280,6 @@
 民航=hàng không dân dụng|j
 江浙=Giang Chiết|j
 江淮=Giang Hoài|j
-沪=Thượng Hải|j
-沽=cô|j
 泛指=phiếm chỉ/nói về|j
 泛黄=ố vàng|j
 洋地黄=cây dương địa hoàng/địa hoàng tây|j
@@ -293,11 +289,8 @@
 深部=thâm bộ|j
 深院=thâm viện|j
 深黄=thâm trầm/vàng sẫm|j
-渝=du|j
 港澳=Hong Kong|j
 港警=nhân viên bến cảng/nhân viên chỉ huy ở bến tàu|j
-滇=điền|j
-滦=loan|j
 火控=điều khiển hoả lực/kiểm soát hỏa hoạn/kiểm soát hỏa lực|j
 环保=hoàn bảo/bảo vệ môi trường/vòng bảo vệ|j
 环保局=hoàn bảo cục|j
@@ -311,7 +304,6 @@
 珠宝行=cửa hàng châu báu|j
 生啤=sinh ti|j
 生长期=thời kì sinh trưởng|j
-畲=xa|j
 盐帮=Diêm bang|j
 省人大=tỉnh nhân đại|j
 省委=Tỉnh ủy|j
@@ -330,7 +322,6 @@
 立宪=lập hiến|j
 立法会=hội lập pháp|j
 管委会=quản ủy hội|j
-粤=việt|j
 粮行=lương hành|j
 红筹=hồng trù|j
 纪委=Ban Kỷ Luật Thanh tra/kỷ ủy/Ban Kỷ Luật Thanh Tra/Kỷ ủy|j
@@ -352,7 +343,6 @@
 苏比=Tô Bỉ|j
 英军=quân Anh|j
 药检=kiểm tra chất cấm/kiểm tra thuốc/kiểm tra ma túy|j
-蓉=dung|j
 西行=đi về phía tây|j
 证伪=chứng giả/chứng thực|j
 证监会=chứng giám hội|j
@@ -392,4 +382,3 @@
 革委会=Cách ủy hội/Ủy ban Cách mạng|j
 鲁比=Rewby|j
 黄赌毒=nội dung độc hại|j
-黔=kiềm|j
