@@ -164,7 +164,6 @@
 些许=một chút/một ít/những/chút|d
 些须=một ít/một chút/một tí|d
 亟须=cấp bách chờ đợi/rất cần thiết|d
-亲也=hôn cũng|d
 亲手=tự tay/thân thủ/chính tay/tự tay|d
 亲眼=tận mắt/từng/đã từng/chính mắt|d
 亲耳=chính tai|d

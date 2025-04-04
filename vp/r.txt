@@ -277,7 +277,6 @@
 我国=nước ta/quốc gia của ta/nước tôi|r
 我家=nhà ta/nhà của ta|r
 我方=bên ta/phe ta|r
-我的=ta/của ta|r
 我等=chúng ta/ta đợi|r
 我辈=chúng ta/đời ta|r
 旁人=người bên ngoài/người ngoài/người khác/người bên cạnh|r
