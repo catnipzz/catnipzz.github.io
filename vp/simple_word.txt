@@ -1553,7 +1553,6 @@
 圞=loan
 土=thổ/đất
 圢=đinh
-在=tại/đang/ở/再/lại
 圩=vu
 圪=khất
 圬=ô
