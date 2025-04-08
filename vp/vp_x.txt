@@ -497,6 +497,5 @@
 一次听到=lần đầu nghe tới
 一般.=một dạng.
 一般,=một dạng,
-
-
-
+里面请=mời vào trong|l
+年逾=tuổi ngoài|v
