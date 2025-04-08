@@ -28,7 +28,7 @@
 哎=ai|e
 嗨=này/hải/high|e
 嗬=ôi|e
-嗯=ân/ừ/ừm/ân/dạ|undefined
+嗯=ừm/ân/dạ|x
 嗳=ai|e
 噫=y|e
 噯=ai|e
