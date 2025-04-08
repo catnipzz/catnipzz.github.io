@@ -496,3 +496,4 @@
 坐忘道=Tọa Vong Đạo
 一次听到=lần đầu nghe tới
 里面请=mời vào trong|j
+年逾=tuổi ngoài|v
