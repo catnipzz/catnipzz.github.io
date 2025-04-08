@@ -103,7 +103,6 @@
 你家=nhà ngươi/nhà của ngươi|r
 你己=tự ngươi|r
 你父=cha ngươi|r
-你的=ngươi/của ngươi|r
 你老=ngươi lão|r
 你身=thân ngươi|r
 俺们=bọn ta|r
