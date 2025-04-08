@@ -4,3 +4,4 @@
 着=lấy/mắng|x
 行在=đi tại/hành tại|v
 一般=Bình thường|a
+她的=nàng/của nàng|r

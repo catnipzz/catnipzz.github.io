@@ -56132,7 +56132,6 @@ zhang 老=trưởng lão
 狂帮主=Cuồng bang chủ
 狂暴丹=Cuồng Bạo đan
 狂某=Cuồng mỗ
-狂烈=cuồng liệt
 狂狮佣兵=Cuồng Sư dong binh
 狂狮佣兵团=Cuồng Sư dong binh đoàn
 狂狮帝国=Cuồng Sư đế quốc
