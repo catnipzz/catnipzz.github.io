@@ -499,3 +499,4 @@
 一般,=một dạng,
 里面请=mời vào trong|l
 年逾=tuổi ngoài|v
+话音一落=lời nói vừa dứt|l
