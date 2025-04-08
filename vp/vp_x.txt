@@ -500,4 +500,4 @@
 里面请=mời vào trong|l
 年逾=tuổi ngoài|v
 话音一落=lời nói vừa dứt|l
-对,=đúng,|x
+对,=đúng,|x富有弹性=đầy đàn hồi|a
