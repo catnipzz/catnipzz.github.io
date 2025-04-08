@@ -21162,8 +21162,6 @@
 行劫=cướp giật/ăn cướp|v
 行去=bước đi|v
 行善=làm việc thiện/hành thiện|v
-行在=đi tại/hành tại|v
-行好=giúp đỡ/tha thứ hay bố thí|v
 行完=làm xong|v
 行来=đi tới|v
 行止=cử chỉ/hành tung/sự đi đứng/phẩm hạnh/hạnh kiểm/hành chỉ|v

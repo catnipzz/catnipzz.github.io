@@ -1494,7 +1494,7 @@
 腔=khoang/hốc
 呢=đâu/đây/đây này/ni/mà/mất/chứ|undefined
 喂=uy/cho ăn/này/đút|v
-穿=xuyên/mặc|undefined
+穿=xuyên/mặc|v
 乩=kê|x
 亍=xúc|x
 仃=đình|x
@@ -7717,7 +7717,6 @@
 眺=ngắm/nhìn|x
 眼=mắt/nhãn|x
 眽=mạch|x
-着=lấy/mắng|x
 睅=hạn|x
 睆=hoản|x
 睊=quyến|x

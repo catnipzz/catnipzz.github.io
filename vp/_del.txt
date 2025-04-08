@@ -1,2 +1,5 @@
 我的=ta/của ta|r
 亲也=hôn cũng|d
+行好=giúp đỡ/tha thứ hay bố thí|v
+着=lấy/mắng|x
+行在=đi tại/hành tại|v

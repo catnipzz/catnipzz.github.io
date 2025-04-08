@@ -9595,3 +9595,4 @@
 龙行虎步=long hành hổ bộ|i
 龙跃而起=rồng bay lên|i
 龙驭上宾=long ngự thượng tân|i
+自我安慰=tự mình an ủi

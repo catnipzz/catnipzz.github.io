@@ -662,7 +662,7 @@
 古旧=cũ kỹ/cổ xưa/cũ rích/cổ|a
 古朴=cổ phác/xưa cũ/phong cách cổ xưa/cổ điển|a
 古松=cổ tùng|a
-古稀=cổ hi/thất tuần/tuổi bảy mươi|a
+古稀=thất tuần/tuổi bảy mươi/cổ hi|a
 可乐=Cocacola/khả nhạc/có thể vui mừng|a
 可巧=khả xảo/vừa vặn/vừa tròn/vừa may/vừa khéo/vừa lúc|a
 可怖=đáng sợ/khủng bố|a

@@ -57331,6 +57331,7 @@
 鼻环=khoen mũi|n
 鼻甲=xương lá mía/xương xoang mũi|n
 鼻眼=mắt mũi|n
+乳铃=chuông ngực|n
 鼻祖=thuỷ tổ/người sáng lập/ông tổ|n
 鼻窍=lỗ mũi|n
 鼻窦=khoang mũi/hốc mũi|n

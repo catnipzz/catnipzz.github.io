@@ -495,3 +495,8 @@
 接下来一路=một đường tiếp theo
 坐忘道=Tọa Vong Đạo
 一次听到=lần đầu nghe tới
+一般.=một dạng.
+一般,=một dạng,
+
+
+
