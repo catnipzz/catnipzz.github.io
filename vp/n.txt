@@ -42702,7 +42702,7 @@
 肩包=bao đeo vai|n
 肩头=đầu vai/trên vai/vai/bả vai|n
 肩宽=rộng/độ rộng/vai rộng|n
-肩带=cầu vai/đai an toàn/dây an toàn|n
+肩带=dây vai/đai an toàn/dây an toàn|n
 肩甲=giáp vai|n
 肩痛=đau vai|n
 肩窝=hõm vai|n

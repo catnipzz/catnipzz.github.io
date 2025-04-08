@@ -16183,7 +16183,7 @@
 流离=lưu ly/trôi giạt/lênh đênh/sống lang thang/sống lưu lạc|v
 流窜=lưu thoán/chạy trốn/lẻn/lẻn lút/chạy trốn tán loạn/chảy vọt/lẩn trốn|v
 流脓=chảy mủ|v
-流苏=tua cờ/tua/lưu tô/tua rua|v
+流苏=tua rua/tua/lưu tô|v
 流荡=lưu động/di động/phiêu bạt/lưu lạc/lông bông|v
 流落=lưu lạc/lưu/thất lạc/phiêu bạt/trôi giạt|v
 流血=chảy máu/đổ máu|v
@@ -20578,7 +20578,7 @@
 脱胎=thoát thai/thoát khuôn|v
 脱臼=trật khớp/dời chỗ/sai khớp|v
 脱节=tách rời/không ăn khớp/thoát tiết|v
-脱落=tróc ra/bóc ra/rụng/rơi/tróc/sót/bỏ sót|v
+脱落=rơi ra/tróc ra/bóc ra/rụng/rơi/tróc/sót/bỏ sót|v
 脱衣=thoát y/cởi quần áo|v
 脱责=thoát trách nhiệm|v
 脱贫=thoát khỏi nghèo khó/hết nghèo khổ|v
