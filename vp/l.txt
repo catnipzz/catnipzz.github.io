@@ -2646,7 +2646,7 @@
 排名顺序=thứ tự xếp hạng|l
 排成一列=xếp thành một hàng|l
 排水系统=hệ thống thoát nước|l
-接下来=Sau đó|l
+接下来=sau đó|l
 接人待物=đối đãi người|l
 接力赛跑=chạy tiếp sức/thi chạy tiếp sức|l
 接受度=độ chấp nhận|l

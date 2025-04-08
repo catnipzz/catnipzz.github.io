@@ -1873,7 +1873,7 @@
 明心=Minh Tâm|a
 明快=thanh thoát/dễ hiểu lưu loát/cởi mở/thẳng thắn/sáng/minh khoái|a
 明昧=Minh Muội|a
-明显=Rõ ràng|a
+明显=rõ ràng|a
 明晦=sáng tối|a
 明晰=rõ ràng/sáng tỏ/rõ nét/minh tích|a
 明暗=sáng tối|a
