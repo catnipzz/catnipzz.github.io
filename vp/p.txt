@@ -46,7 +46,7 @@
 鉴于=xét thấy/thấy rằng/xét theo/giám vu|p
 针对=nhằm vào/chĩa vào/chĩa mũi nhọn vào/đứng trước/đối với|p
 除了=trừ/ngoại trừ/ngoài ra/trừ ra/ngoài...ra/ngoài...ra thì chỉ có../loại trừ|p
-随之=tùy theo|p
+随之=theo đó|p
 随从=tùy tùng/đi theo/nhân viên tuỳ tùng/người đi theo|p
 随同=hộ tống/đi cùng|p
 随着=theo|p
