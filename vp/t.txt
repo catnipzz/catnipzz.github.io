@@ -97,7 +97,7 @@
 下晚儿=chập tối|t
 下月初=đầu tháng sau|t
 下期=lần tới/kỳ tiếp theo/Lần sau/kì sau|t
-下来=xuống tới/xuống/lại/tiếp/hạ xuống|t
+下来=hạ xuống/xuống tới/xuống/lại/tiếp|t
 下次=lần sau|t
 下里=phía/hướng|t
 不久前=trước đây không lâu/không lâu/vừa mới|t

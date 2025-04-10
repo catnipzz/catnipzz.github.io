@@ -40537,7 +40537,7 @@
 纸上=giấy bên trên/trên giấy|n
 纸上谈兵=đàm binh trên giấy/lý luận suông/nói thiếu cơ sở thực tế|n
 纸人=người giấy|n
-纸伞=dù giấy/cây dù|n
+纸伞=dù giấy/ô giấy|n
 纸偶=rối giấy|n
 纸包=bọc giấy|n
 纸卷=cuộn giấy|n

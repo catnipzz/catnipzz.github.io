@@ -143,8 +143,6 @@
 三响=ba tiếng
 这个小区=cái tiểu khu này
 裹着=bọc lấy
-下来=hạ xuống/xuống tới/xuống/lại/tiếp/hạ xuống
-纸伞=ô giấy/dù giấy
 两列=hai hàng/hai nhóm
 过门之后=sau khi qua cửa
 他脚步=bước chân hắn
@@ -503,3 +501,4 @@
 对,=đúng,|x富有弹性=đầy đàn hồi|a
 忠心为主=trung tâm vì chủ|i
 小娘子=tiểu nương tử|n
+给我滚下来=cút xuống cho ta
