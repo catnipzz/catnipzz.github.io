@@ -76,7 +76,6 @@
 他父=cha hắn|r
 他物=vật khác/những thứ của mình/đồ đạc của hắn|r
 他界=giới khác|r
-他的=hắn/của hắn/khác|r
 任他=mặc hắn|r
 任何=bất luận cái gì/bất kỳ|r
 任何人=bất luận kẻ nào/bất luận người nào|r
