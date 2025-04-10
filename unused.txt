@@ -91,3 +91,4 @@
 掉了=rớt
 大了=lớn/lớn
 发花=hoa mắt
+游=du lịch
