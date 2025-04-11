@@ -1073,7 +1073,7 @@
 鳘=mẫn|g
 鳢=lễ|g
 鸫=đông|g
-鸱=si|g
+鸱=chim ưng/si|g
 鸲=cù|g
 鹎=chim tu ti|g
 鹛=mi|g
@@ -10300,7 +10300,7 @@
 驭=ngự|x
 驯=thuần|x
 驰=trì|x
-驱=khu|x
+驱=xua đuổi/khu|v
 驲=nhật|x
 驳=bác/bác (bỏ)|x
 驶=chạy/chạy nhanh|x
@@ -10642,4 +10642,5 @@
 龡=xúy|x
 龢=hòa|x
 ー=-|x
+着=lấy/mắng|v
 恵=Megumi/huệ|x

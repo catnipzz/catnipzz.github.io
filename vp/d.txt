@@ -793,7 +793,7 @@
 循声=theo tiếng|d
 微乎=cơ hồ|d
 微幅=biên độ cực nhỏ|d
-微微=có chút/hơi/hơi hơi/có hơi/hiu hiu/mi-crô-mi-crô/na-nô/phần nghìn tỷ/Vivi|d
+微微=hơi/hơi hơi/có hơi/hiu hiu/mi-crô-mi-crô/na-nô/phần nghìn tỷ/Vivi|d
 微疑=thoáng nghi|d
 微睁=hơi mở|d
 必不得已=phải như vậy/nhất thiết phải như vậy|d

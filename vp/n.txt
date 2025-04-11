@@ -27575,7 +27575,7 @@
 根须=sợi rễ/rễ cây/căn tu|n
 格力=Cách Lực|n
 格子=ô vuông/ngăn chứa/ca-rô/dấu đã kiểm/dấu ghi đã kiểm tra|n
-格局=cách cục/lề lối/kết cấu/bố cục|n
+格局=bố cục/lề lối/kết cấu/cách cục|n
 格式=cách thức/quy cách|n
 格律=cách luật/niêm luật|n
 格斗者=Cách Đấu Giả|n

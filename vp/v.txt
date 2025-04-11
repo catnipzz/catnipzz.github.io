@@ -22609,7 +22609,7 @@
 赐尿=tứ niệu|v
 赐教=chỉ giáo/dạy bảo/bảo ban|v
 赐死=ban chết/ban được chết/ban cho cái chết|v
-赐福=chúc phúc/ban phúc|v
+赐福=ban phúc|v
 赐给=ban cho|v
 赐药=ban thuốc|v
 赐赏=ban thưởng|v
@@ -24285,7 +24285,7 @@
 逃兵=đào binh/lính đào ngũ/kẻ đào ngũ|v
 逃出=chạy ra/chạy ra khỏi|v
 逃出去=chạy đi|v
-逃出来=trốn tới/trốn ra được|v
+逃出来=trốn ra/trốn ra được|v
 逃到=chạy trốn tới|v
 逃匿=chạy trốn/trốn tránh/đào nặc/trốn tránh không cho người biết|v
 逃去=bỏ chạy|v
