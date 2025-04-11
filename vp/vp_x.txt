@@ -551,3 +551,4 @@
 要死了=sắp chết rồi
 一跃=nhảy lên
 飞星=sao băng
+云空=Vân Không
