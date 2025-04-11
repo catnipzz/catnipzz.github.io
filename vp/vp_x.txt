@@ -508,3 +508,4 @@
 被称为=được gọi là
 少年=thiếu niên|n
 少年=thiếu niên|n
+约莫=ước chừng|p
