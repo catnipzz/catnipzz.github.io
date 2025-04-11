@@ -509,3 +509,4 @@
 少年=thiếu niên|n
 少年=thiếu niên|n
 约莫=ước chừng|p
+行了一礼=thi lễ một cái
