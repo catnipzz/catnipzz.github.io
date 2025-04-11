@@ -533,3 +533,4 @@
 剑刃=lưỡi kiếm
 一迈入=vừa bước vào
 木栓=then gỗ
+须臾间=trong khoảnh khắc
