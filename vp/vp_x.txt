@@ -520,3 +520,4 @@
 一击=một kích
 一击毙命=một kích chí mạng
 啸个=rít gào
+某一刻=một khắc nào đó
