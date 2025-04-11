@@ -92,3 +92,4 @@
 大了=lớn/lớn
 发花=hoa mắt
 游=du lịch
+对不=đối không
