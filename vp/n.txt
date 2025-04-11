@@ -403,7 +403,7 @@
 下吧=xuống đi|n
 下品=hạ phẩm/loại xấu/loại kém/thứ phẩm|n
 下唇=môi dưới|n
-下场=hạ tràng/xuống tràng/kết quả/kết cục/số phận cuối cùng|n
+下场=kết cục/hạ tràng|n
 下坡路=đường xuống dốc/đường đổ dốc/đường đi xuống/đường trượt dốc|n
 下堂=tan học|n
 下境=hạ cảnh|n
@@ -7529,7 +7529,7 @@
 剑胚=kiếm phôi|n
 剑臣=Kiếm Thần|n
 剑舞=múa kiếm/kiếm vũ|n
-剑芒=kiếm mang/kiếm quang/ánh kiếm|n
+剑芒=kiếm quang/ánh kiếm|n
 剑衣=kiếm y|n
 剑诀=kiếm quyết|n
 剑识=kiếm thức|n
