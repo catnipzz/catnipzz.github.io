@@ -558,3 +558,4 @@
 点了点头=gật đầu nhẹ
 娘胎=bụng mẹ|n
 曼妙=uyển chuyển
+没什么用=không có tác dụng
