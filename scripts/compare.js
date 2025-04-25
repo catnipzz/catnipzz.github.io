@@ -33,7 +33,7 @@ function mergeAndFilterDuplicates(dictA, dictB) {
     if (dictB[chinese]) {
       // Nếu tồn tại trong cả hai file, gộp lại
       const vietnamB = dictB[chinese];
-      if (vietnamA !== vietnamB) {
+      if (vietnamA.toLowerCase() !== vietnamB.toLowerCase()) {
         // Nếu nghĩa khác nhau, gộp lại và lưu vào different.txt
         differentDict[chinese] = `${vietnamA}/${vietnamB}`;
       } else {
@@ -58,8 +58,12 @@ function mergeAndFilterDuplicates(dictA, dictB) {
 
 // Bắt đầu
 function main() {
-  const fileAPath = path.join(__dirname, 'VietPhrase.txt');
-  const fileBPath = path.join(__dirname, 'N2_fix.txt');
+  // const fileAPath = path.join(__dirname, '/_origin/VietPhrase.txt');
+  // const fileBPath = path.join(__dirname, '/_origin/Names.txt');
+
+  const fileAPath = './_origin/Names.txt';
+  const fileBPath = './_origin/VietPhrase.txt';
+  const savFol = 'fix';
 
   // Đọc dữ liệu từ file a.txt và b.txt
   const dictA = readFileToDict(fileAPath);
@@ -72,11 +76,11 @@ function main() {
   );
 
   // Ghi vào file a_fix.txt và b_fix.txt (lọc bỏ các từ trùng lặp)
-  writeDictToFile(path.join(__dirname, 'VP_fix.txt'), aFixDict);
-  writeDictToFile(path.join(__dirname, 'N2.2_fix.txt'), bFixDict);
+  writeDictToFile(path.join(savFol, 'Names_fix.txt'), aFixDict);
+  writeDictToFile(path.join(savFol, 'VP_fix.txt'), bFixDict);
 
   // Ghi các từ có nghĩa khác nhau vào different.txt
-  writeDictToFile(path.join(__dirname, 'diff_VP.txt'), differentDict);
+  writeDictToFile(path.join(savFol, 'diff_Names_VP.txt'), differentDict);
 
   console.log('Completed.');
 }
