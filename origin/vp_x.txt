@@ -174,8 +174,6 @@
 抬了抬手=giơ tay lên
 拱了拱手=chắp tay
 还请=kính xin/còn mời
-不要=đừng/không muốn
-过去=đi qua/quá khứ
 自己爹=cha mình
 要小心=phải cẩn thận
 烟杆子=tẩu thuốc
@@ -504,7 +502,8 @@
 给我滚下来=cút xuống cho ta
 要塞进去=muốn nhét vào
 蛋蛋=hai quả trứng
-高潮=cao trào关我什么=liên quan gì đến ta
+高潮=cao trào
+关我什么=liên quan gì đến ta
 被称为=được gọi là
 约莫=ước chừng|p
 行了一礼=thi lễ một cái
