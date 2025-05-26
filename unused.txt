@@ -98,3 +98,4 @@
 就走=bước đi
 给家里=cho nhà
 那圆=viên kia|nr
+气道=cả giận/khí đạo|n
