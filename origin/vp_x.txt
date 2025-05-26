@@ -570,3 +570,4 @@
 掐准=bấm chuẩn
 捣入=đâm vào/đảo nhập|v
 插将=thúc đẩy/cắm đem|v
+虚张着=khẽ hé mở|l
