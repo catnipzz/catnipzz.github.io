@@ -37,7 +37,7 @@
 抽插=cắm rút
 噼啪=đôm đốp~/pách pách/pi pa
 唔=ưm
-啪啪啪=bạch bạch bạch~/ba ba ba/pa pa pa
+啪啪啪=pa pa pa~/bạch bạch bạch~
 扑扑=phạch phạch/phác phác/pu pu
 呀呀呀=ah ah ah
 滋=phốc
@@ -73,3 +73,4 @@
 罩杯里面=trong áo vú
 拧出水=vắt ra nước
 肛塞=buttplug/giang nhét
+啪=pā/pa/bạch

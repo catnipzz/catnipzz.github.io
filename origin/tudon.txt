@@ -1348,7 +1348,7 @@
 啥=cái gì/gì/cái đó
 啦=rồi/nữa/lạp/rồi
 啧=sách
-啪=ba/BA~/đùng
+啪=pa~/BA~/đùng
 啫=điệp
 啬=sắc
 啭=chuyển
