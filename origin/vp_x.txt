@@ -584,3 +584,4 @@
 疾舞=múa nhanh|x
 一股股=từng luồng|m
 触不及防=không kịp đề phòng|l
+轻启=khẽ hé
