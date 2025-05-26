@@ -1435,7 +1435,7 @@
 嗫=chiếp
 嗬=ôi
 嗮=sài
-嗯=ân/ừ/ừm/ân/dạ
+嗯=ừm/ân/ừ/dạ
 嗲=ỏn ẻn/điệu
 嗳=ai
 嗵=oành
@@ -3686,7 +3686,7 @@
 札=trát
 朮=truật
 术=thuật
-朱=Chu/chu/đỏ thắm
+朱=đỏ thắm
 朴=phác
 朵=đóa
 朶=đóa

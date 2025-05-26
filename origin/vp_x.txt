@@ -569,4 +569,4 @@
 女下男上=nữ dưới nam trên
 掐准=bấm chuẩn
 捣入=đâm vào/đảo nhập|v
-插将=thúc đẩy/cắm đem|v
+插将=ra sức cắm/cắm đem|v
