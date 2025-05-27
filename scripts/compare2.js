@@ -8,7 +8,11 @@ function readFileToDict(filePath) {
   data.forEach((line) => {
     if (line.trim()) {
       const [chinese, vietnam] = line.split('=');
-      dict[chinese.trim()] = vietnam.trim();
+      if (vietnam === undefined) {
+        console.log('Error: Missing vietnamese word for', chinese);
+      } else {
+        dict[chinese.trim()] = vietnam.trim();
+      }
     }
   });
   return dict;
@@ -61,8 +65,8 @@ function mergeAndFilterDuplicates(dictA, dictB) {
 
 // Bắt đầu
 function main() {
-  const fileAPath = './origin/tudon_pos.txt';
-  const fileBPath = './origin/tudon.txt';
+  const fileAPath = './origin/jieba_dict.txt';
+  const fileBPath = './origin/vp_x.txt';
   const savFol = 'origin';
 
   // Đọc dữ liệu từ file a.txt và b.txt
@@ -77,7 +81,7 @@ function main() {
 
   // Ghi vào file a_fix.txt và b_fix.txt (lọc bỏ các từ trùng lặp)
   // writeDictToFile(path.join(__dirname, 'VP_fix.txt'), aFixDict);
-  writeDictToFile(path.join(savFol, 'tudon3.txt'), bFixDict);
+  writeDictToFile(path.join(savFol, 'vp_x2.txt'), bFixDict);
 
   // Ghi các từ có nghĩa khác nhau vào different.txt
   // writeDictToFile(path.join(__dirname, 'diff_VP.txt'), differentDict);
