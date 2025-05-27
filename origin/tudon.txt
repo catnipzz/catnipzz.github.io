@@ -1251,7 +1251,6 @@
 够=đủ/với/cú
 夤=di
 夥=hỏa/khỏa
-大=lớn/đại
 天=trời/ngày/thiên/bầu trời
 太=quá/thái/rất
 夭=thiên/yểu/天/yêu

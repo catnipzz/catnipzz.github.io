@@ -3866,3 +3866,4 @@
 龚=cung|nr
 龛=bàn thờ|ng
 龠=dược|g
+大=lớn/đại|a
