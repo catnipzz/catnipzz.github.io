@@ -199,7 +199,6 @@
 丧=tang
 个=cái/người/quả/cá
 丫=nha
-中=bên trong/trúng/trung/giữa/trong
 丯=phong
 丰=phong
 丱=quán
@@ -525,7 +524,6 @@
 冁=xiên
 冂=quynh
 冄=nhiễm
-内=bên trong/nội
 円=viên/yên
 冇=mão
 冈=cương
@@ -5698,7 +5696,6 @@
 釂=tiếu
 釆=biện
 释=thả/thích
-里=bên trong/lý/dặm/trong/ở bên trong
 重=nặng/trọng/trùng
 野=dã
 釐=ly

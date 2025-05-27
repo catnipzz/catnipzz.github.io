@@ -3868,3 +3868,6 @@
 龠=dược|g
 大=lớn/đại|a
 的=đích|u
+中=bên trong/trúng/trung/giữa/trong|f
+里=bên trong/lý/dặm/trong/ở bên trong|f
+内=bên trong/nội|f
