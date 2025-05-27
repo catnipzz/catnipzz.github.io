@@ -2031,7 +2031,6 @@
 戍=đóng giữ
 戎=nhung
 成=thành
-我=ta/ngã
 戒=giới/cai
 戕=tường
 战=chiến

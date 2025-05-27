@@ -3871,3 +3871,4 @@
 中=bên trong/trúng/trung/giữa/trong|f
 里=bên trong/lý/dặm/trong/ở bên trong|f
 内=bên trong/nội|f
+我=ta/ngã|r
