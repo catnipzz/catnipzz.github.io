@@ -473,3 +473,4 @@
 没说一句话=không nói một câu|l
 别说了=được không|x
 操了多少心=hao tổn bao nhiêu tâm sức|l
+就差明着说=chỉ thiếu điều nói thẳng|l
