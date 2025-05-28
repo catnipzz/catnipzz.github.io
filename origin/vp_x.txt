@@ -450,3 +450,4 @@
 在后悔=đang hối hận|l
 嘤咛=khẽ rên/anh ninh~|v
 难受着=khó chịu|v
+正难受着=đang khó chịu|l
