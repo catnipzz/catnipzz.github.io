@@ -45,3 +45,6 @@
 阴缝下=dưới khe lồn
 罩杯里面=trong áo vú
 小穴中=trong tiểu huyệt
+你的=ngươi/của ngươi|r
+钻了=chui|v
+多了=nhiều hơn|v

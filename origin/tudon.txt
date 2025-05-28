@@ -1107,7 +1107,6 @@
 圩=vu
 圭=khuê
 圮=tổn thương
-地=địa
 圳=quyến
 场=trận/tràng/trường/cuộc/cơn/đợt/màn
 址=chỉ
@@ -3033,7 +3032,6 @@
 淤=ứ/ứ đọng
 淦=cam
 淩=lăng
-淬=tôi/ngâm
 淮=Hoài/hoài
 淯=dục
 深=sâu
@@ -3160,7 +3158,6 @@
 潨=tùng
 潩=dị
 潬=đống cát ngâm nước
-潮=triều
 潲=sảo
 潵=tán
 潼=đồng
@@ -3740,7 +3737,6 @@
 眺=ngắm/nhìn
 眼=mắt/nhãn
 眽=mạch
-着=lấy/mắng
 睅=hạn
 睆=hoản
 睊=quyến

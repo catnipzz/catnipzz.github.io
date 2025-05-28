@@ -3872,3 +3872,8 @@
 里=bên trong/lý/dặm/trong/ở bên trong|f
 内=bên trong/nội|f
 我=ta/ngã|r
+淬=ngâm/tôi|v
+地=địa|uv
+理=để ý/lý|v
+潮=triều|n
+着=lấy/mắng|uz
