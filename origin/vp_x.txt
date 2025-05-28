@@ -451,3 +451,4 @@
 嘤咛=khẽ rên/anh ninh~|v
 难受着=khó chịu|v
 正难受着=đang khó chịu|l
+为鱼肉=là thịt cá|l
