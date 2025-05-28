@@ -457,3 +457,4 @@
 理了理=sửa soạn/vuốt/chỉnh|v
 碎发=tóc rối/tóc loà xoà|n
 喘不过气=thở không ra hơi|l
+清晰可闻=có thể nghe rõ ràng|l
