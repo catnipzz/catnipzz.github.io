@@ -5534,7 +5534,7 @@
 还=còn/trả/hoàn/vẫn/còn chưa
 远=xa
 违=làm trái/không tuân/vi
-连=ngay cả/liền/liên/cả/liên tục/nối/đại đội
+连=liền/ngay cả/liên/cả/liên tục/nối/đại đội
 迟=trễ/trì
 迤=dĩ
 迥=khác hẳn

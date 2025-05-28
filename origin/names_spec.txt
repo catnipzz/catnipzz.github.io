@@ -110497,7 +110497,6 @@
 灶神=Táo quân/Ông táo/ông Công
 造地境=Tạo Địa cảnh
 造地期=Tạo Địa kỳ
-造化=Tạo Hóa/tạo hoá/tự nhiên/trẻ tạo/người tạo ra giới tự nhiên/sáng tạo/vận may/có phúc/may mắn/số đỏ
 造化影卫=Tạo Hóa ảnh vệ
 造物镜=Tạo Vật kính
 造物之气=Tạo Vật khí
