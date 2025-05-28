@@ -2026,7 +2026,7 @@
 戅=tráng
 戆=tráng
 戈=qua/thương/mâu
-戊=Mậu/mậu
+戊=mậu
 戌=tuất
 戍=đóng giữ
 戎=nhung
