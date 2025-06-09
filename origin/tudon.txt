@@ -618,7 +618,6 @@
 剉=tỏa
 削=gọt
 剌=ngượng nghịu
-前=trước/tiền
 剎=sát
 剏=sáng
 剔=loại bỏ/cạo
