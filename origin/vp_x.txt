@@ -494,3 +494,4 @@
 走过去=đi tới|v
 是吗=phải không|l
 什么意思=có ý gì|l
+是吗?=vậy sao?|l
