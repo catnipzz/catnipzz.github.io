@@ -503,3 +503,4 @@
 跑过去=chạy qua|v
 回复信息=trả lời tin tức|l
 不是吗?=không phải sao?|l
+舒不舒服=dễ chịu hay không|l
