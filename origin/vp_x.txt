@@ -496,3 +496,4 @@
 什么意思=có ý gì|l
 是吗?=vậy sao?|l
 不可置信=không thể tin|l
+明知道=biết rõ|v
