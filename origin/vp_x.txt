@@ -493,3 +493,4 @@
 不用你=không cần ngươi|l
 走过去=đi tới|v
 是吗=phải không|l
+什么意思=có ý gì|l
