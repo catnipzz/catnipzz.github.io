@@ -497,3 +497,4 @@
 是吗?=vậy sao?|l
 不可置信=không thể tin|l
 明知道=biết rõ|v
+声谢谢=lời cảm ơn|n
