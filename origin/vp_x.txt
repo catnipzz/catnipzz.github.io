@@ -500,3 +500,4 @@
 声谢谢=lời cảm ơn|n
 接过去=tiếp lấy|v
 谢谢你=cảm ơn ngươi|l
+跑过去=chạy qua|v
