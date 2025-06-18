@@ -487,4 +487,5 @@
 好痒=thật ngứa|x
 许久过去=qua hồi lâu|l
 婚房=phòng cưới|n
-哪有=nào có/đâu có|l
+哪有=nào có/đâu có|l倒在地=ngã xuống đất|l
+她的背=lưng nàng|n
