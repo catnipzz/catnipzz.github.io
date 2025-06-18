@@ -50,3 +50,9 @@
 多了=nhiều hơn|v
 爱我=yêu ta|nr
 亲也=hôn cũng|d
+迹地=đất rừng vừa khai thác|n
+送了=tặng/đưa/tiễn|v
+踩在=dẫm nát|v
+发上=phát lên/trên tóc|v
+发上去=phát lên|v
+发上来=phát lên|l
