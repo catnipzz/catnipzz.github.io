@@ -507,3 +507,4 @@
 自控力=khả năng tự chủ/năng lực kiềm chế bản thân|n
 生理需要=nhu cầu sinh lý|n
 长得=lớn lên/trưởng thành|v
+女解说=nữ phát thanh viên/nữ bình luận|n
