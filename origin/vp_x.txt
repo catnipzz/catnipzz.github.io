@@ -504,3 +504,4 @@
 回复信息=trả lời tin tức|l
 不是吗?=không phải sao?|l
 舒不舒服=dễ chịu hay không|l
+自控力=khả năng tự chủ/năng lực kiềm chế bản thân|n
