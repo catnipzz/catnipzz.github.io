@@ -511,3 +511,4 @@
 自认为=tự cho rằng|l
 自认为自己=tự cho mình|l
 个坏人=người xấu|x
+个好人=người tốt|x
