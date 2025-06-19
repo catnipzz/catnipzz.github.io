@@ -505,3 +505,4 @@
 不是吗?=không phải sao?|l
 舒不舒服=dễ chịu hay không|l
 自控力=khả năng tự chủ/năng lực kiềm chế bản thân|n
+生理需要=nhu cầu sinh lý|n
