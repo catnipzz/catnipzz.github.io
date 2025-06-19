@@ -514,3 +514,4 @@
 个好人=người tốt|x
 还你=trả lại ngươi|l
 你们俩=hai người các ngươi|l
+还的清=trả xong/trả hết|v
