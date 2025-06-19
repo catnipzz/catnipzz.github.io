@@ -513,3 +513,4 @@
 个坏人=người xấu|x
 个好人=người tốt|x
 还你=trả lại ngươi|l
+你们俩=hai người các ngươi|l
