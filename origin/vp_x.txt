@@ -524,3 +524,4 @@
 一笑=cười một cái|l
 一滞=chững lại/khựng lại|x
 将头偏向一侧=nghiêng đầu sang một bên|l
+尽是=tràn đầy/toàn là|l
