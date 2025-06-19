@@ -518,3 +518,4 @@
 卫衣=hoodie/áo nỉ|n
 连冒=có mũ|x
 嘴角处=nơi khoé miệng|n
+过得滋润=trải qua thoải mái|l
