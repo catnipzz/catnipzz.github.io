@@ -510,3 +510,4 @@
 女解说=nữ phát thanh viên/nữ bình luận|n
 自认为=tự cho rằng|l
 自认为自己=tự cho mình|l
+个坏人=người xấu|x
