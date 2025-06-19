@@ -56,3 +56,6 @@
 发上=phát lên/trên tóc|v
 发上去=phát lên|v
 发上来=phát lên|l
+发着=phát ra|v
+开了=mở/mở ra|v
+以解=để giải|v

@@ -3878,3 +3878,4 @@
 潮=triều|n
 着=lấy/mắng|uz
 前=trước/tiền|f
+用=dùng/dụng/cần|v
