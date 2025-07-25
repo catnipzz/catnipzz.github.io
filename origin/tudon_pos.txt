@@ -3879,3 +3879,5 @@
 着=lấy/mắng|uz
 前=trước/tiền|f
 用=dùng/dụng/cần|v
+美=đẹp/mỹ|a
+著=lấy/trứ|x
