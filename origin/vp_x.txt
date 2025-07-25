@@ -534,4 +534,8 @@
 有理我=để ý ta|l
 好软弱=thật mềm yếu|a
 虐文=ngược văn|n
+<<<<<<< HEAD
 耳鬓斯磨=gần gũi thân thiết/tai và tóc mai cọ xát vào nhau|i
+=======
+泄欲=tiết dục|n
+>>>>>>> 2a49f6a166df55c70279a58634fd3cb433993802
