@@ -64,3 +64,4 @@
 哭道=khóc ròng nói|v
 要给=muốn cho/cấp cho/phải cho|v
 死得=chết được/đã chết/bị chết|v
+门被=cửa bị|n
