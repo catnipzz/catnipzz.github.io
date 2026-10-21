@@ -84,3 +84,4 @@
 销售业绩=thành tích bán hàng
 不过=nhưng mà
 温香软玉=ôn hương nhuyễn ngọc
+贴吧=Tieba
